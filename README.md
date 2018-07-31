@@ -27,10 +27,10 @@ File `input.txt` is included in `src` directory.
 .  
 ├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)  
 └── VADanalysis  
-    ├── data  
-    ├── lib  
-    ├── out  
-    └── src  
+&nbsp;&nbsp;&nbsp;&nbsp;    ├── data  
+&nbsp;&nbsp;&nbsp;&nbsp;    ├── lib  
+&nbsp;&nbsp;&nbsp;&nbsp;    ├── out  
+&nbsp;&nbsp;&nbsp;&nbsp;    └── src  
 
 
 ## Theoritical details
