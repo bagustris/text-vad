@@ -17,7 +17,8 @@ You also need to download nltk stopword as follow
     $ python3 AnewSentimentAnalysis.py --dir inputdir --mode mean/median --out outdir
 
 ### Example
-Working directory is `./src`
+Working directory is `./src`.
+
     $ python3 AnewSentimentAnalysis.py --file input.txt --mode mean --out ../out
 
 File `input.txt` is included in `src` directory.
