@@ -25,12 +25,13 @@ File `input.txt` is included in `src` directory.
 
 ### Directory structure
 .  
-├── stanford-corenlp-full-xxxx-xx-xx (downloaded separately from Stanford Core NLP)  
-└── VADanalysis  
-    ├── data  
-    ├── lib  
-    ├── out  
-    └── src  
+├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)
+└── VADanalysis
+    ├── data
+    ├── lib
+    ├── out
+    └── src
+
 
 ## Theoritical details
 Sentiment analysis is an automated task to automatically evaluate the overall sentiment evoked by a text – positive or negative. The value determining this sentiment is called valence.
