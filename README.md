@@ -25,12 +25,12 @@ File `input.txt` is included in `src` directory.
 
 ### Directory structure
 .  
-├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)
-└── VADanalysis
-    ├── data
-    ├── lib
-    ├── out
-    └── src
+├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)  
+└── VADanalysis  
+    ├── data  
+    ├── lib  
+    ├── out  
+    └── src  
 
 
 ## Theoritical details
