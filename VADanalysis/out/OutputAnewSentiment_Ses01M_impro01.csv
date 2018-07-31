@@ -1,0 +1,93 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,# Words Found,Found Words,All Words
+1,Ses01M_impro01_F000 [006.7700-008.4600]: Next.,N/A,N/A,N/A,N/A,0,N/A,['next']
+2,"Ses01M_impro01_M000 [008.2208-011.2800]: Yes, me.",N/A,N/A,N/A,N/A,0,N/A,['yes']
+3,"Okay, okay here we go.",6.32,4.86,5.33,positive,1 out of 3,['go'],"['okay', 'okay', 'go']"
+4,Ses01M_impro01_F001 [008.5500-010.6000]: My window is open.,6.305,3.8499999999999996,5.779999999999999,positive,2 out of 2,"['window', 'open']","['window', 'open']"
+5,"Ses01M_impro01_M001 [011.3200-013.7700]: Okay, so filled out all these forms  --
+Ses01M_impro01_F002 [014.4600-018.2300]: This is...",5.6,3.6,6.625,neutral,2 out of 3,"['fill', 'form']","['okay', 'fill', 'form']"
+6,Your last- Your first name is Jones?,6.475,3.97,5.76,positive,2 out of 4,"['first', 'name']","['last', 'first', 'name', 'jones']"
+7,"Ses01M_impro01_M002 [013.7700-016.8800]: and I have This form of ID here so...
+Ses01M_impro01_M003 [017.6600-020.1400]: Yes, Jones.",5.57,3.395,5.915,neutral,2 out of 4,"['form', 'id']","['form', 'id', 'yes', 'jones']"
+8,Ses01M_impro01_F003 [019.4800-023.4300]: That's just strange I figured you filled in wrong sections.,5.05,3.67,5.39,neutral,5 out of 5,"['strange', 'figure', 'fill', 'wrong', 'section']","['strange', 'figure', 'fill', 'wrong', 'section']"
+9,"Ses01M_impro01_M004 [022.8900-024.2800]: Well...
+Ses01M_impro01_F004 [023.4300-026.4675]: What are you... what's...What are you applying for?",5.16,3.24,6.2,neutral,1 out of 2,['apply'],"['well', 'apply']"
+10,Ses01M_impro01_M005 [025.9400-029.0700]: I'm just applying for another ID.,5.33,3.09,5.78,neutral,2 out of 3,"['apply', 'id']","['apply', 'another', 'id']"
+11,Ses01M_impro01_F005 [028.4100-030.9600]: Another ID?,5.5,2.94,5.36,neutral,1 out of 2,['id'],"['another', 'id']"
+12,Ses01M_impro01_M006 [029.3900-038.1500]: Yes.,N/A,N/A,N/A,N/A,0,N/A,['yes']
+13,I'm supposed to have three forms of ID for this.,5.465,3.355,5.405,neutral,4 out of 4,"['suppose', 'three', 'form', 'id']","['suppose', 'three', 'form', 'id']"
+14,"It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...
+Ses01M_impro01_F006 [036.1500-038.6000]: Fine.",5.5,3.67,5.33,neutral,9 out of 12,"['story', 'suppose', 'three', 'form', 'id', 'job', 'neg-get', 'need', 'fine']","['long', 'story', 'suppose', 'three', 'form', 'id', 'job', 'really', 'get', 'need', 'another', 'fine']"
+15,So I need ID.,5.475,3.3049999999999997,5.21,neutral,2 out of 2,"['need', 'id']","['need', 'id']"
+16,"Ses01M_impro01_M007 [038.3300-040.2700]: I have it right here, yes.",7.32,5.0,7.16,positive,1 out of 2,['right'],"['right', 'yes']"
+17,"Ses01M_impro01_F007 [039.8900-043.3100]: No, I need your ID to give you a second ID.",5.5,3.48,5.36,neutral,5 out of 5,"['neg-need', 'id', 'give', 'second', 'id']","['need', 'id', 'give', 'second', 'id']"
+18,"Ses01M_impro01_F008 [043.3100-047.0461]: It's really simple if you have a problem with it... Maybe you should--
+Ses01M_impro01_M008 [046.0100-047.1100]: But that's...
+Ses01M_impro01_M009 [047.1100-052.4200]: That's why I'm here, that's why I was waiting in this line.",4.6850000000000005,3.43,5.125,neutral,4 out of 6,"['simple', 'problem', 'wait', 'line']","['really', 'simple', 'problem', 'maybe', 'wait', 'line']"
+19,I need to get another form of ID.,5.57,3.67,5.505000000000001,neutral,4 out of 5,"['need', 'get', 'form', 'id']","['need', 'get', 'another', 'form', 'id']"
+20,"Ses01M_impro01_F009 [052.3400-055.1200]: Well, do you have your passport?",6.0,4.35,5.32,neutral,1 out of 2,['passport'],"['well', 'passport']"
+21,"Ses01M_impro01_M010 [054.4900-056.7100]: No, I don't have a passport.",4.0,5.65,4.68,neutral,1 out of 1,['neg-passport'],['passport']
+22,Ses01M_impro01_F010 [056.1600-058.1800]: You have a birth certificate?,6.26,4.68,5.234999999999999,positive,2 out of 2,"['birth', 'certificate']","['birth', 'certificate']"
+23,"Ses01M_impro01_M011 [057.7900-062.2800]: I don't where it is though, I don't have with me.",N/A,N/A,N/A,N/A,0,N/A,['though']
+24,Can I get it from somewhere?,6.09,3.67,5.65,positive,1 out of 2,['get'],"['get', 'somewhere']"
+25,"I mean...
+Ses01M_impro01_F011 [061.0500-063.2100]: What do you expect me to do?",4.19,4.835,4.529999999999999,neutral,2 out of 2,"['mean', 'expect']","['mean', 'expect']"
+26,Ses01M_impro01_M012 [062.7800-066.0300]: I probably have to go wait another line to get my birth certificate don't I?,6.045,3.645,5.32,positive,6 out of 8,"['go', 'wait', 'line', 'get', 'birth', 'certificate']","['probably', 'go', 'wait', 'another', 'line', 'get', 'birth', 'certificate']"
+27,Ses01M_impro01_F012 [065.5450-067.4700]: Probably.,N/A,N/A,N/A,N/A,0,N/A,['probably']
+28,Ses01M_impro01_M013 [066.8475-070.0400]: You're very helpful.,7.43,3.88,6.79,positive,1 out of 1,['helpful'],['helpful']
+29,What's your name?,5.62,3.04,5.14,neutral,1 out of 1,['name'],['name']
+30,Ses01M_impro01_F013 [069.4500-070.8400]: Joy.,8.21,5.55,7.0,positive,1 out of 1,['joy'],['joy']
+31,"Ses01M_impro01_M014 [070.5150-071.6950]: Hi, Joy.",8.21,5.55,7.0,positive,1 out of 2,['joy'],"['hi', 'joy']"
+32,Ses01M_impro01_F014 [071.3650-074.4600]: Hi.,N/A,N/A,N/A,N/A,0,N/A,['hi']
+33,"You know...
+Ses01M_impro01_M015 [073.1425-075.0125]: So can you help me or not?",6.885,3.765,6.335,positive,2 out of 2,"['know', 'help']","['know', 'help']"
+34,Ses01M_impro01_F015 [074.6775-080.6875]: I am..I don't..I don't understand what you want.,4.66,5.885,4.34,neutral,2 out of 2,"['neg-understand', 'want']","['understand', 'want']"
+35,A driver's license or a California ID.,5.91,3.15,5.56,neutral,3 out of 4,"['driver', 'license', 'id']","['driver', 'license', 'california', 'id']"
+36,Ses01M_impro01_M016 [080.1900-082.3000]: Okay.,N/A,N/A,N/A,N/A,0,N/A,['okay']
+37,"[BREATHING]
+Ses01M_impro01_M017 [083.6300-086.3600]: I need California ID.",5.475,3.3049999999999997,5.21,neutral,2 out of 4,"['need', 'id']","['breathing', 'need', 'california', 'id']"
+38,Ses01M_impro01_F016 [086.3400-087.8700]: Okay.,N/A,N/A,N/A,N/A,0,N/A,['okay']
+39,Ses01M_impro01_M018 [086.3800-092.0500]: On top of these other two forms of ID which I already have.,5.82,3.59,5.805,neutral,4 out of 5,"['top', 'two', 'form', 'id']","['top', 'two', 'form', 'id', 'already']"
+40,"Ses01M_impro01_F017 [091.2800-094.5350]: What... well, do you have a driver's license?",6.15,3.925,6.175,positive,2 out of 3,"['driver', 'license']","['well', 'driver', 'license']"
+41,"Ses01M_impro01_M019 [093.8800-096.7900]: No, I don't have driver's license.",4.76,5.775,5.615,neutral,2 out of 2,"['neg-driver', 'license']","['driver', 'license']"
+42,Ses01M_impro01_F018 [095.2400-098.2100]: Then how am I supposed to give you a California ID?,5.5,3.33,5.36,neutral,3 out of 4,"['suppose', 'give', 'id']","['suppose', 'give', 'california', 'id']"
+43,Ses01M_impro01_M020 [096.9100-100.5300]: Did you even look at the form?,5.795,3.8049999999999997,6.175,neutral,2 out of 3,"['look', 'form']","['even', 'look', 'form']"
+44,"I filled it out all these questions--
+Ses01M_impro01_F019 [098.4600-102.0700]: Don't raise your voice with me.",4.529999999999999,4.285,5.22,neutral,4 out of 4,"['fill', 'question', 'neg-raise', 'neg-voice']","['fill', 'question', 'raise', 'voice']"
+45,Ses01M_impro01_M021 [102.1700-107.5000]: Did you even look at the form?,5.795,3.8049999999999997,6.175,neutral,2 out of 3,"['look', 'form']","['even', 'look', 'form']"
+46,I've already answered these question.,6.23,3.835,5.915,positive,2 out of 3,"['answer', 'question']","['already', 'answer', 'question']"
+47,Ses01M_impro01_F020 [105.7600-109.0900]: Don't talk to me like I'm a child.,7.2,5.33,5.2,positive,3 out of 3,"['neg-talk', 'like', 'child']","['talk', 'like', 'child']"
+48,Ses01M_impro01_M022 [109.1400-110.5100]: Okay.,N/A,N/A,N/A,N/A,0,N/A,['okay']
+49,Ses01M_impro01_F021 [109.1900-114.1025]: Do you know how long I've been working here?,5.9350000000000005,3.785,5.95,neutral,2 out of 3,"['know', 'work']","['know', 'long', 'work']"
+50,How long have you lived in California?,7.95,4.71,6.5,positive,1 out of 3,['live'],"['long', 'live', 'california']"
+51,Ses01M_impro01_M023 [110.6900-113.2200]: If it makes you stop acting like a child.,6.09,4.19,6.11,positive,5 out of 5,"['make', 'stop', 'act', 'like', 'child']","['make', 'stop', 'act', 'like', 'child']"
+52,"Ses01M_impro01_M024 [113.5575-116.1800]: I have been to California my whole--
+Ses01M_impro01_F022 [114.1300-124.8200]: Maybe you never been to the D.M.V.",5.86,3.48,6.24,neutral,1 out of 4,['whole'],"['california', 'whole', 'maybe', 'never']"
+53,"before, maybe you should get back in line.",4.82,3.24,5.22,neutral,3 out of 4,"['get', 'back', 'line']","['maybe', 'get', 'back', 'line']"
+54,You know what?,6.82,3.24,5.78,positive,1 out of 1,['know'],['know']
+55,sit in line again and if you get my number ask for different one.,5.91,3.48,6.06,neutral,7 out of 7,"['sit', 'line', 'get', 'number', 'ask', 'different', 'one']","['sit', 'line', 'get', 'number', 'ask', 'different', 'one']"
+56,Ses01M_impro01_M025 [118.8350-122.1800]: I am not...I'm not getting to back that line.,4.82,6.33,4.78,neutral,3 out of 3,"['neg-get', 'neg-back', 'line']","['get', 'back', 'line']"
+57,"Ses01M_impro01_M026 [123.9900-130.7200]: Okay, okay let's keep our voices down, okay?",6.32,3.25,6.06,positive,3 out of 6,"['let', 'keep', 'voice']","['okay', 'okay', 'let', 'keep', 'voice', 'okay']"
+58,I didn't come here to get in yelling match.,4.985,4.305,4.970000000000001,neutral,4 out of 4,"['neg-come', 'get', 'yell', 'match']","['come', 'get', 'yell', 'match']"
+59,Ses01M_impro01_F023 [129.1200-131.0325]: I'm perfectly calm.,6.89,1.67,7.44,positive,1 out of 2,['calm'],"['perfectly', 'calm']"
+60,"Ses01M_impro01_M027 [130.7200-134.1850]: I did not come in here to get in a yelling match with you, all right?",5.61,4.94,5.65,neutral,5 out of 5,"['neg-come', 'get', 'yell', 'match', 'right']","['come', 'get', 'yell', 'match', 'right']"
+61,Ses01M_impro01_F024 [132.8900-136.6025]: Uh huh.,N/A,N/A,N/A,N/A,0,N/A,"['uh', 'huh']"
+62,I didn't come here get in yelling match either.,4.135,5.635,4.32,neutral,4 out of 5,"['neg-come', 'neg-get', 'yell', 'match']","['come', 'get', 'yell', 'match', 'either']"
+63,Ses01M_impro01_M028 [136.1100-138.5100]: Just try and help me.,6.295,4.145,6.415,positive,2 out of 2,"['try', 'help']","['try', 'help']"
+64,Ses01M_impro01_F025 [137.0600-140.4900]: They don't pay me enough to deal people like you.,5.92,4.15,5.76,neutral,4 out of 5,"['neg-pay', 'deal', 'people', 'like']","['pay', 'enough', 'deal', 'people', 'like']"
+65,"Ses01M_impro01_M029 [139.9600-147.9500]: People like me, what is that supposed to mean?",5.484999999999999,4.085,5.255000000000001,neutral,4 out of 4,"['people', 'like', 'suppose', 'mean']","['people', 'like', 'suppose', 'mean']"
+66,"You know, this is ridiculous.",5.245,4.445,4.78,neutral,2 out of 2,"['know', 'ridiculous']","['know', 'ridiculous']"
+67,"Is there like a manager here, is there someone else that I can talk to?",6.64,4.15,6.44,positive,3 out of 5,"['like', 'manager', 'talk']","['like', 'manager', 'someone', 'else', 'talk']"
+68,Ses01M_impro01_F026 [146.6075-148.2600]: Why?,N/A,N/A,N/A,N/A,0,N/A,[]
+69,Ses01M_impro01_M030 [148.0000-149.1200]: Why?,N/A,N/A,N/A,N/A,0,N/A,[]
+70,Ses01M_impro01_F027 [148.5800-149.6700]: Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
+71,"Ses01M_impro01_F028 [156.1500-160.5100]: So you're not going to send me a thank you card, is that a problem?",3.8200000000000003,4.81,4.94,negative,5 out of 5,"['neg-go', 'neg-send', 'thank', 'card', 'problem']","['go', 'send', 'thank', 'card', 'problem']"
+72,"Is your are not going...
+Ses01M_impro01_M031 [149.1800-151.8500]: Why, because I'm sick of talking to you.",3.6799999999999997,4.67,4.67,negative,3 out of 3,"['neg-go', 'sick', 'talk']","['go', 'sick', 'talk']"
+73,"Ses01M_impro01_M032 [151.8500-157.3600]: 'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.",4.4,5.575,3.925,neutral,6 out of 9,"['neg-talk', 'yell', 'tell', 'neg-fill', 'neg-form', 'right']","['obviously', 'talk', 'yell', 'berate', 'tell', 'ca', 'fill', 'form', 'right']"
+74,"Ses01M_impro01_F029 [160.7000-164.8250]: Oh, dear.",N/A,N/A,N/A,N/A,0,N/A,"['oh', 'dear']"
+75,"Oh, boo-foo-woo, foo-foo.",N/A,N/A,N/A,N/A,0,N/A,['oh']
+76,"Ses01M_impro01_M033 [158.6300-163.6625]: Oh, no honey.",2.7300000000000004,5.62,3.6100000000000003,negative,1 out of 2,['neg-honey'],"['oh', 'honey']"
+77,And you're going to miss the Christmas card too.,5.91,4.38,5.225,neutral,4 out of 4,"['go', 'miss', 'christmas', 'card']","['go', 'miss', 'christmas', 'card']"
+78,It's a shame.,2.62,5.4,5.21,negative,1 out of 1,['shame'],['shame']
+79,"It's going to be a good, nice picture.",6.84,3.5949999999999998,6.265000000000001,positive,4 out of 4,"['go', 'good', 'nice', 'picture']","['go', 'good', 'nice', 'picture']"
+80,Ses01M_impro01_F030 [164.8725-167.2100]: Sit back down.,5.29,2.8899999999999997,5.64,neutral,2 out of 2,"['sit', 'back']","['sit', 'back']"

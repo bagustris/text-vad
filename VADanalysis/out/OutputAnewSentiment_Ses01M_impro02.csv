@@ -1,0 +1,54 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,# Words Found,Found Words,All Words
+1,"Ses01M_impro02_M000 [004.5582-007.8600]: Hey, Joy come in here.",6.925000000000001,4.56,6.470000000000001,positive,2 out of 3,"['joy', 'come']","['hey', 'joy', 'come']"
+2,Ses01M_impro02_F000 [008.0737-011.4700]: What's happening?,5.5,3.43,5.53,neutral,1 out of 1,['happen'],['happen']
+3,Ses01M_impro02_M001 [013.7600-017.5200]: I have to go back.,5.54,3.725,5.275,neutral,2 out of 2,"['go', 'back']","['go', 'back']"
+4,Ses01M_impro02_M002 [019.3300-023.6300]: I just got a letter I have to go back.,5.885,3.4299999999999997,5.49,neutral,4 out of 4,"['get', 'letter', 'go', 'back']","['get', 'letter', 'go', 'back']"
+5,Ses01M_impro02_F001 [024.1500-026.9800]: When?,N/A,N/A,N/A,N/A,0,N/A,[]
+6,Ses01M_impro02_M003 [027.1100-029.8250]: First thing tomorrow morning.,6.41,3.95,6.35,positive,3 out of 4,"['first', 'thing', 'morning']","['first', 'thing', 'tomorrow', 'morning']"
+7,Ses01M_impro02_F002 [029.3500-032.4600]: Are you kidding me?,7.23,4.71,4.83,positive,1 out of 1,['kid'],['kid']
+8,"Ses01M_impro02_F003 [035.4000-038.6000]: How...
+Ses01M_impro02_M004 [038.6100-041.3300]: I don't understand, I don't underst--
+Ses01M_impro02_F004 [040.1000-042.3725]: How can they do that?",3.3200000000000003,6.48,3.29,negative,1 out of 2,['neg-understand'],"['understand', 'underst']"
+9,Ses01M_impro02_M005 [042.4225-044.3500]: They can do it.,N/A,N/A,N/A,N/A,0,N/A,[]
+10,Ses01M_impro02_F005 [042.4950-045.8200]: They said you're home for at least four years.,5.83,3.585,6.289999999999999,neutral,4 out of 5,"['say', 'home', 'four', 'year']","['say', 'home', 'least', 'four', 'year']"
+11,"Ses01M_impro02_M006 [047.1900-049.6300]: I guess they can do it,
+Ses01M_impro02_M007 [049.6600-058.1800]: The National Guard is I guess really spread thin and then everyone has to go.",5.57,3.86,5.33,neutral,7 out of 9,"['guess', 'national', 'guard', 'guess', 'spread', 'thin', 'go']","['guess', 'national', 'guard', 'guess', 'really', 'spread', 'thin', 'everyone', 'go']"
+12,"We all have to go back, my whole companies going back.",5.75,3.385,5.275,neutral,6 out of 6,"['go', 'back', 'whole', 'company', 'go', 'back']","['go', 'back', 'whole', 'company', 'go', 'back']"
+13,"Ses01M_impro02_F006 [053.4950-054.9950]: [BREATHING]
+Ses01M_impro02_F007 [058.9800-062.1100]: That's not fair.",2.8600000000000003,6.71,3.88,negative,1 out of 2,['neg-fair'],"['breathing', 'fair']"
+14,Ses01M_impro02_M008 [066.1600-070.1800]: I can't believe it.,2.95,6.67,3.4400000000000004,negative,1 out of 2,['neg-believe'],"['ca', 'believe']"
+15,I just got back.,5.425,3.13,5.4350000000000005,neutral,2 out of 2,"['get', 'back']","['get', 'back']"
+16,"Ses01M_impro02_M009 [075.7300-078.6525]: So yeah, we leave tomorrow...
+Ses01M_impro02_F008 [078.4800-079.7450]: [BREATHING]
+Ses01M_impro02_M010 [079.1800-081.8600]: ...we're all shipping out.",5.41,4.21,5.654999999999999,neutral,2 out of 5,"['leave', 'ship']","['yeah', 'leave', 'tomorrow', 'breathing', 'ship']"
+17,Ses01M_impro02_M011 [082.0900-086.2800]: I just got I feel like I'm in shock actually.,6.18,4.225,5.720000000000001,positive,4 out of 5,"['get', 'feel', 'like', 'shock']","['get', 'feel', 'like', 'shock', 'actually']"
+18,Ses01M_impro02_F009 [085.8400-089.1400]: I don't even know what to tell you.,4.225,5.31,4.58,neutral,2 out of 3,"['neg-know', 'tell']","['even', 'know', 'tell']"
+19,Ses01M_impro02_M012 [088.8250-090.6550]: I don't know.,3.1799999999999997,6.76,4.22,negative,1 out of 1,['neg-know'],['know']
+20,Ses01M_impro02_F010 [090.3900-093.6500]: What about the birthday party?,6.775,5.34,5.995,positive,2 out of 2,"['birthday', 'party']","['birthday', 'party']"
+21,Ses01M_impro02_M013 [095.4500-099.8750]: I guess you're just going to have to have it without me.,5.75,4.36,5.109999999999999,neutral,2 out of 3,"['guess', 'go']","['guess', 'go', 'without']"
+22,"Ses01M_impro02_M014 [106.1000-114.4400]: Hey listen, it's going to be okay though, all right?",6.91,4.86,5.56,positive,3 out of 6,"['listen', 'go', 'right']","['hey', 'listen', 'go', 'okay', 'though', 'right']"
+23,Ses01M_impro02_M015 [115.0275-117.3100]: You're going to be fine.,6.41,4.36,5.555,positive,2 out of 2,"['go', 'fine']","['go', 'fine']"
+24,Ses01M_impro02_F011 [116.8900-122.5200]: Me?,N/A,N/A,N/A,N/A,0,N/A,[]
+25,I'm not worried about me.,7.9,3.67,6.83,positive,1 out of 1,['neg-worry'],['worry']
+26,"Ses01M_impro02_M016 [122.0300-126.4200]: I'm going to be fine too, okay?",6.41,4.36,5.555,positive,2 out of 3,"['go', 'fine']","['go', 'fine', 'okay']"
+27,Ses01M_impro02_F012 [128.8300-131.1175]: How do you know?,6.82,3.24,5.78,positive,1 out of 1,['know'],['know']
+28,Ses01M_impro02_M017 [131.0600-137.7400]: I know I have a good...,7.355,3.45,6.095000000000001,positive,2 out of 2,"['know', 'good']","['know', 'good']"
+29,I have a really good group of guys with me.,6.55,3.66,5.12,positive,3 out of 4,"['good', 'group', 'guy']","['really', 'good', 'group', 'guy']"
+30,Ses01M_impro02_M018 [137.7500-140.9400]: We're going to be okay.,6.32,4.86,5.33,positive,1 out of 2,['go'],"['go', 'okay']"
+31,Ses01M_impro02_F013 [144.5400-148.6000]: You're going with the same ones?,6.205,3.765,5.445,positive,2 out of 2,"['go', 'one']","['go', 'one']"
+32,Ses01M_impro02_M019 [149.0600-152.5800]: Do promise me you're going to take a lot of pictures.,6.48,4.21,5.725,positive,4 out of 5,"['promise', 'go', 'take', 'picture']","['promise', 'go', 'take', 'lot', 'picture']"
+33,"Ses01M_impro02_F014 [152.3100-154.9183]: Always, I always do.",N/A,N/A,N/A,N/A,0,N/A,"['always', 'always']"
+34,Ses01M_impro02_M020 [154.4300-156.5100]: I know.,6.82,3.24,5.78,positive,1 out of 1,['know'],['know']
+35,Ses01M_impro02_F015 [157.4200-160.1100]: It's not the same though.,N/A,N/A,N/A,N/A,0,N/A,['though']
+36,Ses01M_impro02_M021 [163.8000-167.5600]: I just wish there was something I could do.,7.14,3.38,6.5,positive,1 out of 3,['wish'],"['wish', 'something', 'could']"
+37,Ses01M_impro02_F016 [167.9100-170.7700]: We could hide away.,4.9,3.52,4.85,neutral,1 out of 3,['hide'],"['could', 'hide', 'away']"
+38,Ses01M_impro02_M022 [170.9400-173.0100]: Run away?,6.41,5.24,5.44,positive,1 out of 2,['run'],"['run', 'away']"
+39,Ses01M_impro02_F017 [172.4100-177.3500]: Mm hmm.,N/A,N/A,N/A,N/A,0,N/A,"['mm', 'hmm']"
+40,We'll build a bunker and never come out.,5.64,3.57,5.94,neutral,3 out of 4,"['build', 'bunker', 'come']","['build', 'bunker', 'never', 'come']"
+41,"Ses01M_impro02_M023 [183.7700-189.0800]: I really don't want to go, I don't want to go...
+Ses01M_impro02_F018 [185.5400-190.3600]: [LAUGHTER] Mmm.",4.0,5.14,4.67,neutral,5 out of 7,"['neg-want', 'neg-go', 'neg-want', 'neg-go', 'laughter']","['really', 'want', 'go', 'want', 'go', 'laughter', 'mmm']"
+42,Ses01M_impro02_M024 [198.5500-201.2800]: I'm scared.,2.8,6.1,4.2,negative,1 out of 1,['scared'],['scared']
+43,Ses01M_impro02_F019 [201.7575-204.0500]: Don't say that.,4.09,5.57,3.12,neutral,1 out of 1,['neg-say'],['say']
+44,Ses01M_impro02_F020 [209.9500-214.8100]: I'll send you a letter every single day.,5.93,3.5250000000000004,5.765000000000001,neutral,4 out of 5,"['send', 'letter', 'single', 'day']","['send', 'letter', 'every', 'single', 'day']"
+45,Ses01M_impro02_M025 [214.5900-217.0400]: I love you.,8.0,5.36,5.92,positive,1 out of 1,['love'],['love']
+46,Ses01M_impro02_F021 [216.9250-219.1300]: I love you too.,8.0,5.36,5.92,positive,1 out of 1,['love'],['love']

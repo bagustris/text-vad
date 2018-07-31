@@ -1,0 +1,62 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,# Words Found,Found Words,All Words
+1,I am very happy today.,8.47,6.05,7.21,positive,1 out of 2,['happy'],"['happy', 'today']"
+2,Are you angry to me...?,2.53,6.2,4.11,negative,1 out of 1,['angry'],['angry']
+3,"Oh my dear, you looks so beautiful.",6.78,4.734999999999999,6.025,positive,2 out of 4,"['look', 'beautiful']","['oh', 'dear', 'look', 'beautiful']"
+4,"Oh my god, how pity you are.",4.54,4.8149999999999995,4.76,neutral,2 out of 3,"['god', 'pity']","['oh', 'god', 'pity']"
+5,"Let's take a rest, I am so tired.",5.385,3.19,5.42,neutral,4 out of 4,"['let', 'take', 'rest', 'tired']","['let', 'take', 'rest', 'tired']"
+6,Excuse me.,4.52,3.61,4.72,neutral,1 out of 1,['excuse'],['excuse']
+7,Do you have your forms?,5.64,3.85,6.47,neutral,1 out of 1,['form'],['form']
+8,Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
+9,Let me see them.,6.109999999999999,3.3049999999999997,6.029999999999999,positive,2 out of 2,"['let', 'see']","['let', 'see']"
+10,Is there a problem?,3.52,4.81,4.94,negative,1 out of 1,['problem'],['problem']
+11,Who told you to get in this line?,5.27,3.67,4.94,neutral,3 out of 3,"['tell', 'get', 'line']","['tell', 'get', 'line']"
+12,You did.,N/A,N/A,N/A,N/A,0,N/A,[]
+13,You were standing at the beginning and you directed me.,5.75,3.1,5.89,neutral,3 out of 3,"['stand', 'beginning', 'direct']","['stand', 'beginning', 'direct']"
+14,Okay.,N/A,N/A,N/A,N/A,0,N/A,['okay']
+15,But I didn't tell you to get in this line if you are filling out this particular form.,5.305,3.76,6.0600000000000005,neutral,6 out of 6,"['neg-tell', 'get', 'line', 'fill', 'particular', 'form']","['tell', 'get', 'line', 'fill', 'particular', 'form']"
+16,Well what's the problem?,3.52,4.81,4.94,negative,1 out of 2,['problem'],"['well', 'problem']"
+17,Let me change it.,5.52,3.38,5.935,neutral,2 out of 2,"['let', 'change']","['let', 'change']"
+18,This form is a Z.X.four.,5.64,3.85,6.47,neutral,1 out of 1,['form'],['form']
+19,You can't--  This is not the line for Z.X.four.,5.18,6.76,5.11,neutral,1 out of 2,['neg-line'],"['ca', 'line']"
+20,"If you're going to fill out the Z.X.four, you need to have a different form of ID.",5.6,3.76,5.915,neutral,6 out of 6,"['go', 'fill', 'need', 'different', 'form', 'id']","['go', 'fill', 'need', 'different', 'form', 'id']"
+21,What?,N/A,N/A,N/A,N/A,0,N/A,[]
+22,I'm getting an ID.,5.795,3.3049999999999997,5.505000000000001,neutral,2 out of 2,"['get', 'id']","['get', 'id']"
+23,This is why I'm here.,N/A,N/A,N/A,N/A,0,N/A,[]
+24,My wallet was stolen.,4.085,4.775,4.54,neutral,2 out of 2,"['wallet', 'steal']","['wallet', 'steal']"
+25,No.,N/A,N/A,N/A,N/A,0,N/A,[]
+26,I need another set of ID to prove this is actually you.,5.475,3.175,5.57,neutral,4 out of 6,"['need', 'set', 'id', 'prove']","['need', 'another', 'set', 'id', 'prove', 'actually']"
+27,How am I supposed to get an ID without an ID?,5.5,3.135,5.36,neutral,4 out of 5,"['suppose', 'get', 'id', 'id']","['suppose', 'get', 'id', 'without', 'id']"
+28,How does a person get an ID in the first place?,6.09,3.67,6.0,positive,5 out of 5,"['person', 'get', 'id', 'first', 'place']","['person', 'get', 'id', 'first', 'place']"
+29,I don't know.,3.1799999999999997,6.76,4.22,negative,1 out of 1,['neg-know'],['know']
+30,But I need an ID to pass this form along.,5.57,3.76,5.21,neutral,4 out of 5,"['need', 'id', 'pass', 'form']","['need', 'id', 'pass', 'form', 'along']"
+31,I can't just send it along without an ID.,4.66,4.755,4.71,neutral,2 out of 5,"['neg-send', 'id']","['ca', 'send', 'along', 'without', 'id']"
+32,I'm here to get an ID.,5.795,3.3049999999999997,5.505000000000001,neutral,2 out of 2,"['get', 'id']","['get', 'id']"
+33,No.,N/A,N/A,N/A,N/A,0,N/A,[]
+34,"I need another ID, a separate one.",5.475,3.3049999999999997,5.21,neutral,4 out of 5,"['need', 'id', 'separate', 'one']","['need', 'another', 'id', 'separate', 'one']"
+35,Like what?,7.44,4.4,6.28,positive,1 out of 1,['like'],['like']
+36,Like a birth certificate?,6.52,4.4,5.47,positive,3 out of 3,"['like', 'birth', 'certificate']","['like', 'birth', 'certificate']"
+37,"A birth certificate, a passport...a student ID; didn't you go to school?",6.0,4.35,5.36,neutral,7 out of 7,"['birth', 'certificate', 'passport', 'student', 'id', 'neg-go', 'school']","['birth', 'certificate', 'passport', 'student', 'id', 'go', 'school']"
+38,Anything?,N/A,N/A,N/A,N/A,0,N/A,['anything']
+39,Who the hell has a birth certificate?,6.0,5.75,5.0,neutral,3 out of 3,"['hell', 'birth', 'certificate']","['hell', 'birth', 'certificate']"
+40,"Yes but my wallet was stolen, I don't have anything.",4.085,4.775,4.54,neutral,2 out of 4,"['wallet', 'steal']","['yes', 'wallet', 'steal', 'anything']"
+41,"I don't have any credit cards, I don't have my ID.",5.0,5.62,5.0,neutral,3 out of 3,"['neg-credit', 'card', 'neg-id']","['credit', 'card', 'id']"
+42,Don't you have things on file here?,4.945,4.985,4.6,neutral,2 out of 2,"['neg-thing', 'file']","['thing', 'file']"
+43,Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
+44,"We keep it on file, but we need an ID to access that file.",5.475,3.415,5.21,neutral,6 out of 6,"['keep', 'file', 'need', 'id', 'access', 'file']","['keep', 'file', 'need', 'id', 'access', 'file']"
+45,That's out of control.,4.43,4.76,5.47,neutral,1 out of 1,['control'],['control']
+46,I don't understand why this is so complicated for people when they get here.,4.76,4.76,5.525,neutral,4 out of 4,"['neg-understand', 'complicated', 'people', 'get']","['understand', 'complicated', 'people', 'get']"
+47,It's just a simple form.,6.404999999999999,3.2800000000000002,6.484999999999999,positive,2 out of 2,"['simple', 'form']","['simple', 'form']"
+48,I just need an ID.,5.475,3.3049999999999997,5.21,neutral,2 out of 2,"['need', 'id']","['need', 'id']"
+49,How long have you been working here?,5.05,4.33,6.12,neutral,1 out of 2,['work'],"['long', 'work']"
+50,Actually too long.,N/A,N/A,N/A,N/A,0,N/A,"['actually', 'long']"
+51,Clearly.,N/A,N/A,N/A,N/A,0,N/A,['clearly']
+52,"You know, do you have like a supervisor or something?",6.82,4.05,5.78,positive,3 out of 4,"['know', 'like', 'supervisor']","['know', 'like', 'supervisor', 'something']"
+53,Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
+54,Do you want to see my supervisor?,6.0,4.05,5.55,neutral,3 out of 3,"['want', 'see', 'supervisor']","['want', 'see', 'supervisor']"
+55,Huh?,N/A,N/A,N/A,N/A,0,N/A,['huh']
+56,Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
+57,Do you want to see my supervisor?,6.0,4.05,5.55,neutral,3 out of 3,"['want', 'see', 'supervisor']","['want', 'see', 'supervisor']"
+58,Fine.,6.5,3.86,5.78,positive,1 out of 1,['fine'],['fine']
+59,I'll be right back.,6.04,3.795,6.1899999999999995,positive,2 out of 2,"['right', 'back']","['right', 'back']"
+60,That would - I would appreciate that.,5.91,3.81,5.94,neutral,3 out of 3,"['would', 'would', 'appreciate']","['would', 'would', 'appreciate']"
+61,Yeah.,N/A,N/A,N/A,N/A,0,N/A,['yeah']
