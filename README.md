@@ -24,7 +24,7 @@ Working directory is `./src`.
 File `input.txt` is included in `src` directory.
 
 ### Directory structure
-.
+.  
 ├── stanford-corenlp-full-xxxx-xx-xx (downloaded separately from Stanford Core NLP)  
 └── VADanalysis  
 	├── data  
