@@ -3,7 +3,7 @@ Forked from: https://github.com/dwzhou/SentimentAnalysis
 
 ## Technical details
 ### Requirement
-This script required the following packages:  
+This script required the following packages:
 - nltk
 - stanfordcorelp
 
@@ -11,7 +11,7 @@ You also need to download nltk stopword as follow
 
     >>> import nltk
     >>> nltk.dowload('stopword')
-    
+
 ### Usage
     $ python3 AnewSentimentAnalysis.py --file inputfile --mode mean/median --out outdir
     $ python3 AnewSentimentAnalysis.py --dir inputdir --mode mean/median --out outdir
@@ -24,14 +24,17 @@ Working directory is `./src`.
 File `input.txt` is included in `src` directory.
 
 ### Directory structure
-.  
-├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)  
-└── VADanalysis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── data  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── lib  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── out  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── src  
+.
+├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)
+└── VADanalysis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── data
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── lib
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── out
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── src
 
+### VAD scale
+IEMOCAP use 1-5 scale (negative to positive) from two evaluators (?)
+ANEW use 1-9 scale (positive to negative)
 
 ## Theoritical details
 Sentiment analysis is an automated task to automatically evaluate the overall sentiment evoked by a text – positive or negative. The value determining this sentiment is called valence.
@@ -55,7 +58,7 @@ Weaknesses of this approach: As this is a word-for-word approach to analyzing th
 NLTK, an abbreviation for the Natural Language Toolkit, is a robust library of Python functions for various natural language processing tasks (Bird 2006). Among its many functions is an implementation of the VADER (Valence Aware Dictionary for sEntiment Reasoning) sentiment analysis tools.
 
 VADER is a simple rule-based model for sentiment analysis for general sentiment analysis. It is most accurate for social media data, but is generalizable to other domains as well. To create the model, Hutto & Gilbert first constructed a gold-standard list of features using features from several widely used sentiments lexicons and some of their own (such as emoticons), using a wisdom-of-the-crowd approach to acquire a valid point estimate for the valence of each feature, as well as intensity ratings from Amazon Mechanical Turk workers. They also created five general heuristics for sentiment analysis of texts: punctuation, capitalization, intensifiers, the use of the contrastive conjunction but, and negation.
-  
+
 We implemented VADER in Python using NLTK’s VADER library. Identically to our implementation of ANEW, we tokenized texts into sentences; for each sentence, we used NLTK’s SentimentIntensityAnalyzer to obtain polarity scores for that sentence. Scores are normalized on a scale from 1 to -1, where positive values have a positive valence, 0 is neutral, and negative values have a negative valence.
 
 ### References
@@ -75,5 +78,5 @@ Warriner, A. B., Kuperman, V., & Brysbaert, M. (2013). Norms of valence, arousal
 dominance for 13,915 English lemmas. Behavior research methods, 45(4), 1191-1207.
 
 ### Contributor
-@dwzhou  
-@bagustris  
+@dwzhou
+@bagustris
