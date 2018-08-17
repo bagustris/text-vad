@@ -7,10 +7,10 @@ This script required the following packages:
 - nltk
 - stanfordcorelp
 
-You also need to download nltk stopword as follow
+You also need to download nltk stopword, punkt and wordnet as follow
 
     >>> import nltk
-    >>> nltk.dowload('stopwords')
+    >>> nltk.dowload('stopwords', 'punkt', 'wordnet')
 
 ### Usage
     $ python3 AnewSentimentAnalysis.py --file inputfile --mode mean/median --out outdir
