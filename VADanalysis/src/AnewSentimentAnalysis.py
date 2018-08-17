@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Author: Doris Zhou
 Modified by B.T. Atmaja (btatmaja@gmail.com)
@@ -21,6 +23,7 @@ import os
 import statistics
 import time
 import argparse
+import numpy as np
 from stanfordcorenlp import StanfordCoreNLP
 nlp = StanfordCoreNLP('../../stanford-corenlp-full-2018-02-27')
 
@@ -61,7 +64,7 @@ def analyzefile(input_file, output_dir, mode):
     # check each word in sentence for sentiment and write to output_file
     with open(output_file, 'w', newline='') as csvfile:
         fieldnames = ['Sentence ID', 'Sentence', 'Valence', 'Arousal', 'Dominance', 'Sentiment Label',
-                      '# Words Found', 'Found Words', 'All Words']
+                      'Average VAD', '# Words Found', 'Found Words', 'All Words']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -131,6 +134,7 @@ def analyzefile(input_file, output_dir, mode):
                                  'Sentiment Label': 'N/A',
                                  'Arousal': 'N/A',
                                  'Dominance': 'N/A',
+                                 'Average VAD': 'N/A',
                                  '# Words Found': 0,
                                  'Found Words': 'N/A',
                                  'All Words': all_words
@@ -160,6 +164,7 @@ def analyzefile(input_file, output_dir, mode):
                                  'Valence': sentiment,
                                  'Arousal': arousal,
                                  'Dominance': dominance,
+                                 'Average VAD': np.mean([sentiment, arousal, dominance]),
                                  'Sentiment Label': label,
                                  '# Words Found': ("%d out of %d" % (len(found_words), len(all_words))),
                                  'Found Words': found_words,
