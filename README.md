@@ -24,14 +24,15 @@ Working directory is `./src`.
 File `input.txt` is included in `src` directory.
 
 ### Directory structure
+```
 .
 ├── stanford-corenlp-full-XXXX-XX-XX (downloaded separately)
 └── VADanalysis
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── data
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── lib
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── out
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── src
-
+    ├── data
+    ├── lib
+    ├── out
+   └── src
+```
 ### VAD scale
 IEMOCAP use 1-5 scale (negative to positive) from two evaluators (?)
 ANEW use 1-9 scale (positive to negative)
