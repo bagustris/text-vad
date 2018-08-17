@@ -1,4 +1,4 @@
-# Sentiment Analysis basen on V(AD) score
+# Sentiment Analysis basen on VAD score
 Forked from: https://github.com/dwzhou/SentimentAnalysis
 
 ## Technical details
@@ -10,7 +10,7 @@ This script required the following packages:
 You also need to download nltk stopword as follow
 
     >>> import nltk
-    >>> nltk.dowload('stopword')
+    >>> nltk.dowload('stopwords')
 
 ### Usage
     $ python3 AnewSentimentAnalysis.py --file inputfile --mode mean/median --out outdir
