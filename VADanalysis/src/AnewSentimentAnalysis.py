@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-
 """
 Author: Doris Zhou
-Modified by B.T. Atmaja (btatmaja@gmail.com)
 Date: September 29, 2017
 Performs sentiment analysis on a text file using ANEW.
 Parameters:
@@ -23,7 +20,6 @@ import os
 import statistics
 import time
 import argparse
-import numpy as np
 from stanfordcorenlp import StanfordCoreNLP
 nlp = StanfordCoreNLP('../../stanford-corenlp-full-2018-02-27')
 
@@ -31,7 +27,6 @@ from nltk import tokenize
 from nltk.corpus import stopwords
 
 stops = set(stopwords.words("english"))
-#anew = "../lib/vad-nrc.csv"
 anew = "../lib/EnglishShortened.csv"
 
 
@@ -45,7 +40,7 @@ def analyzefile(input_file, output_dir, mode):
     :param mode: determines how sentiment values for a sentence are computed (median or mean)
     :return:
     """
-    output_file = os.path.join(output_dir, "OutputAnewSentiment_" + os.path.basename(input_file).rstrip('.txt') + ".csv")
+    output_file = os.path.join(output_dir, "Output Anew Sentiment " + os.path.basename(input_file).rstrip('.txt') + ".csv")
 
     # read file into string
     with open(input_file, 'r') as myfile:
@@ -59,12 +54,14 @@ def analyzefile(input_file, output_dir, mode):
     lmtzr = WordNetLemmatizer()
 
     # otherwise, split into sentences
+#    from line in myfile.readlines()
     sentences = tokenize.sent_tokenize(fulltext)
+    print(sentences)
     i = 1 # to store sentence index
     # check each word in sentence for sentiment and write to output_file
     with open(output_file, 'w', newline='') as csvfile:
-        fieldnames = ['Sentence ID', 'Sentence', 'Valence', 'Arousal', 'Dominance', 'Sentiment Label',
-                      'Average VAD', '# Words Found', 'Found Words', 'All Words']
+        fieldnames = ['Sentence ID', 'Sentence', 'Sentiment', 'Sentiment Label', 'Arousal', 'Dominance',
+                      '# Words Found', 'Found Words', 'All Words']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -80,6 +77,8 @@ def analyzefile(input_file, output_dir, mode):
 
             # search for each valid word's sentiment in ANEW
             words = nlp.pos_tag(s.lower())
+#            words = word_tokenize(line)
+#            print(words)
             for index, p in enumerate(words):
                 # don't process stops or words w/ punctuation
                 w = p[0]
@@ -130,11 +129,10 @@ def analyzefile(input_file, output_dir, mode):
             if len(found_words) == 0:  # no words found in ANEW for this sentence
                 writer.writerow({'Sentence ID': i,
                                  'Sentence': s,
-                                 'Valence': 'N/A',
+                                 'Sentiment': 'N/A',
                                  'Sentiment Label': 'N/A',
                                  'Arousal': 'N/A',
                                  'Dominance': 'N/A',
-                                 'Average VAD': 'N/A',
                                  '# Words Found': 0,
                                  'Found Words': 'N/A',
                                  'All Words': all_words
@@ -161,11 +159,10 @@ def analyzefile(input_file, output_dir, mode):
 
                 writer.writerow({'Sentence ID': i,
                                  'Sentence': s,
-                                 'Valence': sentiment,
+                                 'Sentiment': sentiment,
+                                 'Sentiment Label': label,
                                  'Arousal': arousal,
                                  'Dominance': dominance,
-                                 'Average VAD': np.mean([sentiment, arousal, dominance]),
-                                 'Sentiment Label': label,
                                  '# Words Found': ("%d out of %d" % (len(found_words), len(all_words))),
                                  'Found Words': found_words,
                                  'All Words': all_words
