@@ -1,0 +1,96 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses03M_impro08b_F000 [012.9400-015.5800]: Hello.,nan,nan,nan,nan,nan,0,nan,['hello']
+2,Ses03M_impro08b_M000 [015.1200-017.5200]: Hello?,nan,nan,nan,nan,nan,0,nan,['hello']
+3,Ses03M_impro08b_F001 [017.5400-025.3200]: Oh God I finally got...you know how long I've been waiting on line?,5.636,3.866,5.326,neutral,4.942666666666667,5 out of 8,"['god', 'get', 'know', 'wait', 'line']","['oh', 'god', 'finally', 'get', 'know', 'long', 'wait', 'line']"
+4,You put on hold for like five hours.,5.806,4.01,5.958,neutral,5.258,5 out of 5,"['put', 'hold', 'like', 'five', 'hour']","['put', 'hold', 'like', 'five', 'hour']"
+5,Geez.,nan,nan,nan,nan,nan,0,nan,['geez']
+6,Ses03M_impro08b_M001 [024.1300-031.9200]: I'm sorry ma'am.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+7,What's the nature of your problem?,5.2,4.404999999999999,4.970000000000001,neutral,4.858333333333333,2 out of 2,"['nature', 'problem']","['nature', 'problem']"
+8,But first can I get you to tell me your first and last name?,6.328,4.074,5.698,positive,5.366666666666667,5 out of 6,"['first', 'get', 'tell', 'first', 'name']","['first', 'get', 'tell', 'first', 'last', 'name']"
+9,Ses03M_impro08b_F002 [030.8800-036.9400]: I've already been through this five times with these people.,5.566666666666666,3.5766666666666667,5.136666666666667,neutral,4.76,3 out of 4,"['five', 'time', 'people']","['already', 'five', 'time', 'people']"
+10,I've been calling every single day.,5.976666666666667,3.586666666666667,5.343333333333334,neutral,4.9688888888888885,3 out of 4,"['call', 'single', 'day']","['call', 'every', 'single', 'day']"
+11,Ses03M_impro08b_M002 [034.9200-039.0800]: I know I just need to verify every time.,5.825,3.6325000000000003,5.4425,neutral,4.966666666666666,4 out of 5,"['know', 'need', 'verify', 'time']","['know', 'need', 'verify', 'every', 'time']"
+12,I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+13,Ses03M_impro08b_F003 [037.9400-042.0300]: Olivia Brown.,5.52,3.32,4.65,neutral,4.496666666666667,1 out of 2,['brown'],"['olivia', 'brown']"
+14,Ses03M_impro08b_M003 [042.0800-045.5900]: Alright Ms. Brown what's the nature of your problem?,5.306666666666667,4.043333333333333,4.863333333333333,neutral,4.737777777777778,3 out of 4,"['brown', 'nature', 'problem']","['alright', 'brown', 'nature', 'problem']"
+15,Ses03M_impro08b_F004 [044.6900-049.2100]: Well my phone isn't working and it hasn't been working for the last five days.,5.55,4.388,4.688,neutral,4.875333333333333,5 out of 7,"['phone', 'neg-work', 'neg-work', 'five', 'day']","['well', 'phone', 'work', 'work', 'last', 'five', 'day']"
+16,Ses03M_impro08b_M004 [048.4800-052.7900]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+17,I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+18,Um- Did you drop it in water?,5.615,4.1899999999999995,5.470000000000001,neutral,5.091666666666667,2 out of 3,"['drop', 'water']","['um', 'drop', 'water']"
+19,"Ses03M_impro08b_F005 [049.6500-052.0100]: Yeah, yeah, yeah you better be sorry.",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 5,['sorry'],"['yeah', 'yeah', 'yeah', 'better', 'sorry']"
+20,Ses03M_impro08b_F006 [052.2600-058.7975]: No I did not drop my phone in water.,5.56,5.203333333333333,5.62,neutral,5.461111111111111,3 out of 3,"['neg-drop', 'neg-phone', 'water']","['drop', 'phone', 'water']"
+21,I'm not five years old and just dropped my phone anywhere I see it.,5.375,5.1066666666666665,4.93,neutral,5.1372222222222215,6 out of 7,"['neg-five', 'neg-year', 'neg-old', 'drop', 'phone', 'see']","['five', 'year', 'old', 'drop', 'phone', 'anywhere', 'see']"
+22,Okay this is my business.,5.48,3.71,5.35,neutral,4.846666666666667,1 out of 2,['business'],"['okay', 'business']"
+23,Ses03M_impro08b_F007 [058.8600-065.3000]: Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+24,And it [GARBAGE].,2.88,3.84,5.15,negative,3.956666666666667,1 out of 1,['garbage'],['garbage']
+25,My business is failing because my phone isn't working and I don't have a land line and I really can't handle this right now.,4.25125,5.0025,4.275,neutral,4.5095833333333335,8 out of 10,"['business', 'fail', 'phone', 'neg-work', 'neg-land', 'line', 'neg-handle', 'neg-right']","['business', 'fail', 'phone', 'work', 'land', 'line', 'really', 'ca', 'handle', 'right']"
+26,Ses03M_impro08b_MXX0 [059.9762-060.6603]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+27,Ses03M_impro08b_M005 [064.7700-075.6700]: Um- well it's probably easy.,7.47,3.82,6.79,positive,6.026666666666666,1 out of 4,['easy'],"['um', 'well', 'probably', 'easy']"
+28,"Can you any more symptoms either you're not receiving calls----ok, you're not receiving calls, not getting calls.",3.488571428571429,6.0042857142857144,4.134285714285714,negative,4.542380952380952,7 out of 9,"['symptom', 'neg-receive', 'neg-call', 'neg-receive', 'neg-call', 'neg-get', 'neg-call']","['symptom', 'either', 'receive', 'call', 'ok', 'receive', 'call', 'get', 'call']"
+29,Ses03M_impro08b_F008 [069.8200-077.4600]: the symptoms- This [GARBAGE] a doctor's office.,4.17,3.7775,5.0,neutral,4.315833333333333,4 out of 4,"['symptom', 'garbage', 'doctor', 'office']","['symptom', 'garbage', 'doctor', 'office']"
+30,"I'm not receiving calls...I can't receive- no, it's, it cuts me off--",3.3600000000000003,5.795,3.84,negative,4.331666666666667,4 out of 5,"['neg-receive', 'neg-call', 'neg-receive', 'cut']","['receive', 'call', 'ca', 'receive', 'cut']"
+31,Ses03M_impro08b_M006 [075.9800-078.5000]: Is the phone turned on?,5.77,3.455,5.16,neutral,4.795,2 out of 2,"['phone', 'turn']","['phone', 'turn']"
+32,Ses03M_impro08b_F009 [078.1800-083.7000]: Yes the phone turns on.,5.77,3.455,5.16,neutral,4.795,2 out of 3,"['phone', 'turn']","['yes', 'phone', 'turn']"
+33,No I mean I'm using it not turning on the phone.,5.8475,4.8325000000000005,4.8475,neutral,5.175833333333333,4 out of 4,"['neg-mean', 'use', 'neg-turn', 'phone']","['mean', 'use', 'turn', 'phone']"
+34,Of course it turns on.,5.45,3.48,5.88,neutral,4.9366666666666665,1 out of 2,['turn'],"['course', 'turn']"
+35,"Ses03M_impro08b_M007 [083.1500-088.9800]: Well, um- okay.",nan,nan,nan,nan,nan,0,nan,"['well', 'um', 'okay']"
+36,Your sim card is in- didn't fall out-,5.805,4.215,5.615,neutral,5.211666666666667,2 out of 3,"['card', 'neg-fall']","['sim', 'card', 'fall']"
+37,Ses03M_impro08b_F010 [086.8700-093.3800]: No- I don't have a sim card because it's Verizon and you guys don't use sim cards.,5.3425,5.13,5.03,neutral,5.1675,4 out of 7,"['card', 'guy', 'neg-use', 'neg-card']","['sim', 'card', 'verizon', 'guy', 'use', 'sim', 'card']"
+38,Ses03M_impro08b_M008 [092.7300-098.3900]: Alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+39,Um- Well that could be the problem.,3.52,4.81,4.94,negative,4.423333333333333,1 out of 4,['problem'],"['um', 'well', 'could', 'problem']"
+40,cause--,5.14,3.48,5.17,neutral,4.596666666666667,1 out of 1,['cause'],['cause']
+41,Ses03M_impro08b_M009 [098.5000-106.5000]: you might have an older phone where we would use sim cards but probably not.,5.67,3.5250000000000004,5.11,neutral,4.7683333333333335,4 out of 8,"['phone', 'would', 'use', 'card']","['might', 'older', 'phone', 'would', 'use', 'sim', 'card', 'probably']"
+42,Ses03M_impro08b_F011 [104.3900-114.7900]: Okay no.,nan,nan,nan,nan,nan,0,nan,['okay']
+43,"Sir, this is the deal.",5.795,4.115,5.615,neutral,5.175,2 out of 2,"['sir', 'deal']","['sir', 'deal']"
+44,My phone isn't working and I don't care what the problem is but it needs to work.,4.57,4.873333333333333,4.6466666666666665,neutral,4.696666666666666,6 out of 6,"['phone', 'neg-work', 'neg-care', 'problem', 'need', 'work']","['phone', 'work', 'care', 'problem', 'need', 'work']"
+45,That's why I'm paying you guys to fix it.,6.296666666666667,4.183333333333334,6.056666666666667,positive,5.512222222222223,3 out of 3,"['pay', 'guy', 'fix']","['pay', 'guy', 'fix']"
+46,Ses03M_impro08b_M010 [113.6800-122.8400]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+47,How about this we'll send you a brand new camera phone with palm pilot-- and-,6.237142857142857,3.734285714285714,5.507142857142857,positive,5.159523809523809,7 out of 7,"['send', 'brand', 'new', 'camera', 'phone', 'palm', 'pilot']","['send', 'brand', 'new', 'camera', 'phone', 'palm', 'pilot']"
+48,Ses03M_impro08b_F012 [120.2600-126.6900]: I don't know even how to use that stuff it's too complicated.,4.38,4.855,4.6425,neutral,4.6258333333333335,4 out of 5,"['neg-know', 'use', 'stuff', 'complicate']","['know', 'even', 'use', 'stuff', 'complicate']"
+49,I just want my flip phone to work----that's all I need,5.638,4.268,5.266,neutral,5.057333333333333,5 out of 5,"['want', 'flip', 'phone', 'work', 'need']","['want', 'flip', 'phone', 'work', 'need']"
+50,"Ses03M_impro08b_M011 [123.0000-130.1900]: So we'll send it- And we'll give you, how about a free year's service?",6.948,3.932,5.86,positive,5.580000000000001,5 out of 5,"['send', 'give', 'free', 'year', 'service']","['send', 'give', 'free', 'year', 'service']"
+51,"Ses03M_impro08b_F013 [127.6300-135.8600]: Look, I am on the road all the time.",5.713333333333333,3.66,5.413333333333333,neutral,4.928888888888888,3 out of 3,"['look', 'road', 'time']","['look', 'road', 'time']"
+52,Do you understand how important?,6.75,4.115,6.55,positive,5.805,2 out of 2,"['understand', 'important']","['understand', 'important']"
+53,"I'm a woman, a single mother by herself working...what?",6.265,4.1775,5.7475000000000005,positive,5.396666666666666,4 out of 4,"['woman', 'single', 'mother', 'work']","['woman', 'single', 'mother', 'work']"
+54,Ses03M_impro08b_M012 [132.6800-138.8500]: Tell them my name.,5.445,3.45,5.04,neutral,4.645,2 out of 2,"['tell', 'name']","['tell', 'name']"
+55,My name is Brent Backersen.,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 3,['name'],"['name', 'brent', 'backersen']"
+56,"Ses03M_impro08b_F014 [138.3400-142.6100]: Brent Backersen, I am writing this down, Brent Backersen.",6.45,3.81,5.28,positive,5.18,1 out of 5,['write'],"['brent', 'backersen', 'write', 'brent', 'backersen']"
+57,Alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+58,Ses03M_impro08b_M013 [142.1300-146.5100]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+59,Tell them my - my ID number is two one three five.,5.654285714285714,3.3185714285714285,5.448571428571428,neutral,4.807142857142857,7 out of 7,"['tell', 'id', 'number', 'two', 'one', 'three', 'five']","['tell', 'id', 'number', 'two', 'one', 'three', 'five']"
+60,Ses03M_impro08b_M014 [146.5500-153.8300]: Tell them that.,5.27,3.86,4.94,neutral,4.69,1 out of 1,['tell'],['tell']
+61,"You can go in, get a brand new phone, they'll hook you up with service even give you a free three months--",6.295454545454546,3.9854545454545454,5.358181818181818,positive,5.213030303030304,11 out of 12,"['go', 'get', 'brand', 'new', 'phone', 'hook', 'service', 'give', 'free', 'three', 'month']","['go', 'get', 'brand', 'new', 'phone', 'hook', 'service', 'even', 'give', 'free', 'three', 'month']"
+62,"Ses03M_impro08b_F015 [151.3900-155.5200]: I, I, I don't want a contract.",4.45,5.38,3.8850000000000002,neutral,4.571666666666666,2 out of 2,"['neg-want', 'neg-contract']","['want', 'contract']"
+63,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+64,I don't want any contracts.,4.45,5.38,3.8850000000000002,neutral,4.571666666666666,2 out of 2,"['neg-want', 'neg-contract']","['want', 'contract']"
+65,Ses03M_impro08b_M015 [154.7100-157.3900]: It will be free.,8.25,5.38,6.5,positive,6.71,1 out of 1,['free'],['free']
+66,No contract okay?,4.9,6.05,3.16,neutral,4.703333333333333,1 out of 2,['neg-contract'],"['contract', 'okay']"
+67,Ses03M_impro08b_F016 [156.7200-158.3800]: Really?,nan,nan,nan,nan,nan,0,nan,['really']
+68,No contract?,4.9,6.05,3.16,neutral,4.703333333333333,1 out of 1,['neg-contract'],['contract']
+69,"Ses03M_impro08b_M016 [157.4800-160.8700]: Go in there, yeah, go in there.",6.32,4.86,5.33,positive,5.503333333333333,2 out of 3,"['go', 'go']","['go', 'yeah', 'go']"
+70,Tell them Brent Backersen sent you.,5.725,3.645,5.44,neutral,4.9366666666666665,2 out of 4,"['tell', 'send']","['tell', 'brent', 'backersen', 'send']"
+71,Ses03M_impro08b_F017 [160.4500-165.9600]: I want the best freaking camera phone there is though.,5.6075,4.5175,5.3325,neutral,5.1525,4 out of 6,"['want', 'freak', 'camera', 'phone']","['want', 'best', 'freak', 'camera', 'phone', 'though']"
+72,I want the really good kind--,7.223333333333334,4.046666666666667,6.473333333333334,positive,5.914444444444444,3 out of 4,"['want', 'good', 'kind']","['want', 'really', 'good', 'kind']"
+73,M:Miss,4.1,3.9,5.12,neutral,4.373333333333334,1 out of 1,['miss'],['miss']
+74,"Ses03M_impro08b_M017 [164.9700-170.8400]: the top of the line camera phone, game boy, anything you want.",6.021428571428571,4.071428571428571,5.5285714285714285,positive,5.207142857142856,7 out of 8,"['top', 'line', 'camera', 'phone', 'game', 'boy', 'want']","['top', 'line', 'camera', 'phone', 'game', 'boy', 'anything', 'want']"
+75,For free.,8.25,5.38,6.5,positive,6.71,1 out of 1,['free'],['free']
+76,And palm pilot.,6.025,4.135,5.995,positive,5.385000000000001,2 out of 2,"['palm', 'pilot']","['palm', 'pilot']"
+77,Ses03M_impro08b_F018 [168.0300-169.7500]: And palm pilot.,6.025,4.135,5.995,positive,5.385000000000001,2 out of 2,"['palm', 'pilot']","['palm', 'pilot']"
+78,Ses03M_impro08b_F019 [170.2600-174.5700]: And charger and accessories and I want a cover that's pink.,5.78,4.242,5.756,neutral,5.259333333333333,5 out of 5,"['charger', 'accessory', 'want', 'cover', 'pink']","['charger', 'accessory', 'want', 'cover', 'pink']"
+79,Ses03M_impro08b_M018 [174.5900-177.5000]: They might only have orange.,6.81,4.04,5.58,positive,5.476666666666667,1 out of 2,['orange'],"['might', 'orange']"
+80,Ses03M_impro08b_F020 [176.8925-178.0375]: no,nan,nan,nan,nan,nan,0,nan,[]
+81,Ses03M_impro08b_M019 [178.1425-188.8300]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+82,They can figure out pink for you.,5.885,4.01,6.0649999999999995,neutral,5.319999999999999,2 out of 2,"['figure', 'pink']","['figure', 'pink']"
+83,"So go in there and just tell them that and they'll hook you up with other goodies, stuff like that free service, no contract, no nothing.",6.177777777777778,4.261111111111111,5.378888888888889,positive,5.272592592592592,9 out of 10,"['go', 'tell', 'hook', 'goody', 'stuff', 'like', 'free', 'service', 'neg-contract']","['go', 'tell', 'hook', 'goody', 'stuff', 'like', 'free', 'service', 'contract', 'nothing']"
+84,Just for being a good customer,6.875,3.5300000000000002,6.285,positive,5.5633333333333335,2 out of 2,"['good', 'customer']","['good', 'customer']"
+85,Ses03M_impro08b_M020 [188.8500-191.0600]: and battling through with us.,3.52,6.25,5.63,negative,5.133333333333333,1 out of 2,['battle'],"['battle', 'us']"
+86,Ses03M_impro08b_F021 [192.1200-196.9100]: Alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+87,"Well-  I guess - I guess that's okay but,",5.18,3.86,4.89,neutral,4.6433333333333335,2 out of 4,"['guess', 'guess']","['well', 'guess', 'guess', 'okay']"
+88,Ses03M_impro08b_F022 [197.0600-199.1900]: you better promise me.,6.64,3.9,6.47,positive,5.669999999999999,1 out of 2,['promise'],"['better', 'promise']"
+89,Ses03M_impro08b_M021 [198.8200-201.9100]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+90,You just tell them Brent Backersen sent you.,5.725,3.645,5.44,neutral,4.9366666666666665,2 out of 4,"['tell', 'send']","['tell', 'brent', 'backersen', 'send']"
+91,Ses03M_impro08b_F023 [203.4325-204.7875]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+92,Ses03M_impro08b_M022 [204.3900-208.8800]: Alright?,nan,nan,nan,nan,nan,0,nan,['alright']
+93,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+94,Have a nice evening.,7.02,3.315,5.845,positive,5.3933333333333335,2 out of 2,"['nice', 'evening']","['nice', 'evening']"
+95,Ses03M_impro08b_F024 [207.0000-209.6600]: Alright Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 2,['thanks'],"['alright', 'thanks']"

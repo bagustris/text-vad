@@ -1,0 +1,98 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01M_impro05_F000 [002.2687-004.3200]: Can I help you?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+2,"Ses01M_impro05_M000 [003.7100-007.8200]: Yes, please help me.",6.95,4.29,6.89,positive,6.043333333333333,1 out of 3,['help'],"['yes', 'please', 'help']"
+3,Where is my bag?,5.05,3.43,5.62,neutral,4.7,1 out of 1,['bag'],['bag']
+4,Ses01M_impro05_F001 [007.2300-009.8800]: I need a little more information.,5.8966666666666665,3.39,5.21,neutral,4.832222222222222,3 out of 3,"['need', 'little', 'information']","['need', 'little', 'information']"
+5,Ses01M_impro05_M001 [008.0600-012.3400]: Where is my bag?,5.05,3.43,5.62,neutral,4.7,1 out of 1,['bag'],['bag']
+6,"Come on, I've been here for four hours.",5.316666666666666,3.4466666666666668,5.946666666666667,neutral,4.903333333333333,3 out of 3,"['come', 'four', 'hour']","['come', 'four', 'hour']"
+7,Ses01M_impro05_F002 [010.1725-013.7000]: What- What flight did you come in on?,5.875,3.885,5.635,neutral,5.131666666666667,2 out of 2,"['flight', 'come']","['flight', 'come']"
+8,"Ses01M_impro05_M002 [012.5300-015.6575]: Okay, I'm coming in from Atlanta.",5.64,3.57,5.94,neutral,5.05,1 out of 3,['come'],"['okay', 'come', 'atlanta']"
+9,Ses01M_impro05_F003 [015.1250-016.4150]: Georgia?,nan,nan,nan,nan,nan,0,nan,['georgia']
+10,"Ses01M_impro05_M003 [015.8600-021.1500]: Yes, Georgia.",nan,nan,nan,nan,nan,0,nan,"['yes', 'georgia']"
+11,Good for you I need my bag.,6.13,3.586666666666667,5.696666666666666,positive,5.137777777777778,3 out of 3,"['good', 'need', 'bag']","['good', 'need', 'bag']"
+12,Can you...,nan,nan,nan,nan,nan,0,nan,[]
+13,"Ses01M_impro05_F004 [017.9700-022.0300]: There's no need for you to raise your voice, sir.",5.93,4.7524999999999995,5.4275,neutral,5.37,4 out of 4,"['neg-need', 'raise', 'voice', 'sir']","['need', 'raise', 'voice', 'sir']"
+14,Ses01M_impro05_F005 [022.2000-025.0600]: I've been college educated.,6.960000000000001,4.18,6.34,positive,5.826666666666667,2 out of 2,"['college', 'educate']","['college', 'educate']"
+15,Ses01M_impro05_F006 [025.1125-027.8600]: I speak your language.,6.145,3.9450000000000003,6.63,positive,5.573333333333333,2 out of 2,"['speak', 'language']","['speak', 'language']"
+16,Ses01M_impro05_M004 [026.1923-031.0800]: Are you insinuating that I don't have a college education and that- for some reason that makes you a better person than I am?,5.448333333333333,4.428333333333333,5.85,neutral,5.242222222222222,6 out of 7,"['insinuate', 'neg-college', 'education', 'reason', 'make', 'person']","['insinuate', 'college', 'education', 'reason', 'make', 'better', 'person']"
+17,"Ses01M_impro05_M005 [031.7800-034.8300]: Listen, shut your smug mouth, okay?",5.17,3.8625,5.48,neutral,4.8374999999999995,4 out of 5,"['listen', 'shut', 'smug', 'mouth']","['listen', 'shut', 'smug', 'mouth', 'okay']"
+18,I don't need that.,4.55,6.33,4.94,neutral,5.273333333333333,1 out of 1,['neg-need'],['need']
+19,Ses01M_impro05_F007 [030.5125-033.3100]: I'm just saying you don't need to talk to me like I-,5.315,5.445,5.415,neutral,5.391666666666667,4 out of 4,"['say', 'neg-need', 'neg-talk', 'like']","['say', 'need', 'talk', 'like']"
+20,Ses01M_impro05_M006 [034.8500-037.6700]: I've been sitting here for four hours.,5.376666666666667,3.32,5.986666666666666,neutral,4.894444444444445,3 out of 3,"['sit', 'four', 'hour']","['sit', 'four', 'hour']"
+21,Ses01M_impro05_F008 [034.4200-036.4100]: I'm not a child.,2.8,4.67,4.8,negative,4.09,1 out of 1,['neg-child'],['child']
+22,Ses01M_impro05_F009 [037.4000-039.9900]: I've been here for sixteen.,6.3,4.2,4.36,positive,4.953333333333333,1 out of 1,['sixteen'],['sixteen']
+23,Ses01M_impro05_M007 [037.7150-041.4700]: You people have just been tossing me around like a used hanky.,5.7,4.022,5.624,neutral,5.115333333333333,5 out of 6,"['people', 'toss', 'like', 'use', 'hanky']","['people', 'toss', 'around', 'like', 'use', 'hanky']"
+24,Ses01M_impro05_F010 [040.8450-043.1575]: I come here every single day.,5.796666666666667,3.68,5.453333333333333,neutral,4.976666666666667,3 out of 4,"['come', 'single', 'day']","['come', 'every', 'single', 'day']"
+25,Ses01M_impro05_M008 [042.8350-046.0200]: You work here.,5.05,4.33,6.12,neutral,5.166666666666667,1 out of 1,['work'],['work']
+26,"Ses01M_impro05_F011 [045.6700-049.9200]: Details, Details.",5.67,3.81,7.14,neutral,5.54,2 out of 2,"['detail', 'detail']","['detail', 'detail']"
+27,"Well, anyhow can I--",nan,nan,nan,nan,nan,0,nan,"['well', 'anyhow']"
+28,Ses01M_impro05_F012 [049.9200-052.3100]: so you flew in from Atlanta...,6.06,4.9,5.28,positive,5.413333333333334,1 out of 2,['fly'],"['fly', 'atlanta']"
+29,Ses01M_impro05_M009 [051.7500-054.5300]: My bag from Atlanta.,5.05,3.43,5.62,neutral,4.7,1 out of 2,['bag'],"['bag', 'atlanta']"
+30,Ses01M_impro05_F013 [053.7075-056.2400]: Four...Four hours ago.,5.1899999999999995,3.3866666666666667,5.8500000000000005,neutral,4.808888888888888,3 out of 4,"['four', 'four', 'hour']","['four', 'four', 'hour', 'ago']"
+31,Ses01M_impro05_M010 [054.5600-058.7900]: It's a little black bag with wheels.,5.565,3.8025,5.61,neutral,4.9925,4 out of 4,"['little', 'black', 'bag', 'wheel']","['little', 'black', 'bag', 'wheel']"
+32,Ses01M_impro05_F014 [058.5000-060.2300]: Do you have any i-?,nan,nan,nan,nan,nan,0,nan,[]
+33,Ses01M_impro05_M011 [058.8200-063.4075]: That you wouldn't let me put in the overhead compartment.,5.0575,5.202500000000001,4.7075,neutral,4.989166666666667,4 out of 5,"['would', 'neg-let', 'neg-put', 'compartment']","['would', 'let', 'put', 'overhead', 'compartment']"
+34,You said I had to check it.,6.23,3.905,5.775,positive,5.303333333333334,2 out of 2,"['say', 'check']","['say', 'check']"
+35,Ses01M_impro05_F015 [061.4800-067.4800]: I wouldn't let you?,4.98,5.55,4.94,neutral,5.156666666666667,2 out of 2,"['would', 'neg-let']","['would', 'let']"
+36,I was not in Atlanta.,nan,nan,nan,nan,nan,0,nan,['atlanta']
+37,I was not in Atlanta.,nan,nan,nan,nan,nan,0,nan,['atlanta']
+38,Ses01M_impro05_M012 [063.8375-066.2200]: It's a tiny little bag.,5.3533333333333335,4.076666666666666,5.653333333333333,neutral,5.027777777777778,3 out of 3,"['tiny', 'little', 'bag']","['tiny', 'little', 'bag']"
+39,Ses01M_impro05_F016 [067.5100-073.2500]: I had nothing to do with the boarding attendance.,5.640000000000001,3.88,5.48,neutral,5.0,2 out of 3,"['board', 'attendance']","['nothing', 'board', 'attendance']"
+40,I'm sorry that your seat was wherever it was.,5.015,3.81,5.85,neutral,4.891666666666667,2 out of 3,"['sorry', 'seat']","['sorry', 'seat', 'wherever']"
+41,Ses01M_impro05_M013 [072.7600-084.0500]: It was right in the middle of five different people.,5.91,3.824,5.958,neutral,5.230666666666667,5 out of 5,"['right', 'middle', 'five', 'different', 'people']","['right', 'middle', 'five', 'different', 'people']"
+42,"I had a huge fat lady next me, a crying kid on left I went like can I please get a Bloody Mary, please?",5.392222222222222,4.558888888888889,4.795555555555556,neutral,4.915555555555556,9 out of 14,"['huge', 'fat', 'lady', 'cry', 'kid', 'go', 'like', 'get', 'bloody']","['huge', 'fat', 'lady', 'next', 'cry', 'kid', 'left', 'go', 'like', 'please', 'get', 'bloody', 'mary', 'please']"
+43,Will you bring a Bloody Mary?,4.27,5.025,4.734999999999999,neutral,4.676666666666667,2 out of 3,"['bring', 'bloody']","['bring', 'bloody', 'mary']"
+44,"Ses01M_impro05_F017 [091.4100-100.2400]: I have some unfortunate news, uh, that your bag isn't going to be--",4.255,4.175,4.745,neutral,4.391666666666667,4 out of 5,"['unfortunate', 'news', 'bag', 'neg-go']","['unfortunate', 'news', 'uh', 'bag', 'go']"
+45,Ses01M_impro05_F018 [100.2400-102.8600]: --arriving any time soon.,6.005,4.205,5.6,positive,5.2700000000000005,2 out of 3,"['arrive', 'time']","['arrive', 'time', 'soon']"
+46,"Ses01M_impro05_M014 [084.2900-091.7500]: Just had a really, really stressful day, okay?",4.49,4.635,4.78,neutral,4.635000000000001,2 out of 5,"['stressful', 'day']","['really', 'really', 'stressful', 'day', 'okay']"
+47,And I need my bag; can you please help me get my bag?,5.718,3.698,5.768,neutral,5.061333333333334,5 out of 6,"['need', 'bag', 'help', 'get', 'bag']","['need', 'bag', 'please', 'help', 'get', 'bag']"
+48,Ses01M_impro05_F019 [102.9200-106.1700]: I'm really sorry to tell you this but...,5.039999999999999,4.24,5.295,neutral,4.858333333333333,2 out of 3,"['sorry', 'tell']","['really', 'sorry', 'tell']"
+49,Ses01M_impro05_M015 [105.3900-107.4600]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+50,Ses01M_impro05_F020 [107.9300-114.1900]: It's not.,nan,nan,nan,nan,nan,0,nan,[]
+51,I can offer you fifty dollars and a reimbursement gift cards for our airline...,5.988333333333333,3.9916666666666667,5.451666666666667,neutral,5.143888888888889,6 out of 7,"['offer', 'fifty', 'dollar', 'gift', 'card', 'airline']","['offer', 'fifty', 'dollar', 'reimbursement', 'gift', 'card', 'airline']"
+52,Ses01M_impro05_F021 [114.1900-115.4700]: ...and your future...,6.68,5.33,5.53,positive,5.846666666666667,1 out of 1,['future'],['future']
+53,"Ses01M_impro05_M016 [113.6800-117.4900]: I'm sorry, wait a minute.",4.953333333333333,4.0,5.043333333333333,neutral,4.665555555555556,3 out of 3,"['sorry', 'wait', 'minute']","['sorry', 'wait', 'minute']"
+54,Are you saying I'm not going to get my bag at all?,4.6375,4.8325,5.38,neutral,4.949999999999999,4 out of 4,"['say', 'neg-go', 'neg-get', 'bag']","['say', 'go', 'get', 'bag']"
+55,Ses01M_impro05_F022 [117.2200-118.7000]: No.,nan,nan,nan,nan,nan,0,nan,[]
+56,Ses01M_impro05_M017 [118.2400-120.0700]: It's gone.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+57,Ses01M_impro05_F023 [119.6225-121.2300]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+58,Ses01M_impro05_M018 [121.4300-125.6100]: Where is it?,nan,nan,nan,nan,nan,0,nan,[]
+59,Where did it go?,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+60,Ses01M_impro05_F024 [125.2000-127.1300]: We've actually...,nan,nan,nan,nan,nan,0,nan,['actually']
+61,Ses01M_impro05_M019 [125.7100-129.6000]: You mean did someone steal it?,2.3,5.055,3.585,negative,3.6466666666666665,2 out of 3,"['mean', 'steal']","['mean', 'someone', 'steal']"
+62,Do people steal bags?,4.306666666666667,4.166666666666667,4.673333333333334,neutral,4.3822222222222225,3 out of 3,"['people', 'steal', 'bag']","['people', 'steal', 'bag']"
+63,Ses01M_impro05_F025 [129.2400-133.8300]: They do as matter of fact.,6.025,3.67,6.0600000000000005,positive,5.251666666666667,2 out of 2,"['matter', 'fact']","['matter', 'fact']"
+64,We don't like to publicize it because,2.5599999999999996,5.6,3.7199999999999998,negative,3.9599999999999995,1 out of 2,['neg-like'],"['like', 'publicize']"
+65,Ses01M_impro05_F026 [133.8300-136.8700]: people wouldn't Fly our airline.,5.0475,4.64,5.285,neutral,4.990833333333334,4 out of 4,"['people', 'would', 'neg-fly', 'neg-airline']","['people', 'would', 'fly', 'airline']"
+66,Ses01M_impro05_M020 [134.9988-137.5000]: Probably people that work for your company huh?,5.463333333333333,3.796666666666667,5.506666666666667,neutral,4.922222222222222,3 out of 5,"['people', 'work', 'company']","['probably', 'people', 'work', 'company', 'huh']"
+67,Ses01M_impro05_M021 [137.5000-143.3500]: Do you know what was in that little bag that I could have just easily put in overhead compartment but no I had to check?,5.796666666666667,3.6133333333333333,5.346666666666667,neutral,4.9188888888888895,6 out of 9,"['know', 'little', 'bag', 'put', 'compartment', 'check']","['know', 'little', 'bag', 'could', 'easily', 'put', 'overhead', 'compartment', 'check']"
+68,Ses01M_impro05_F027 [142.6500-144.1200]: What was that?,nan,nan,nan,nan,nan,0,nan,[]
+69,Ses01M_impro05_M022 [143.5200-149.3500]: My computer which has all of my data which I'm collecting right now.,6.6866666666666665,4.3533333333333335,6.406666666666667,positive,5.815555555555555,3 out of 4,"['computer', 'collect', 'right']","['computer', 'data', 'collect', 'right']"
+70,Ses01M_impro05_F028 [148.7200-150.7600]: That's unfortunate.,3.33,3.52,4.21,negative,3.686666666666666,1 out of 1,['unfortunate'],['unfortunate']
+71,Ses01M_impro05_M023 [149.8800-156.3900]: Yeah it's really unfortunate you know why because I'm going to get fired if I don't get that.,5.131666666666667,4.611666666666666,4.9816666666666665,neutral,4.908333333333332,6 out of 8,"['unfortunate', 'know', 'go', 'get', 'fire', 'neg-get']","['yeah', 'really', 'unfortunate', 'know', 'go', 'get', 'fire', 'get']"
+72,So I need to have that back.,5.105,3.13,5.14,neutral,4.458333333333333,2 out of 2,"['need', 'back']","['need', 'back']"
+73,Ses01M_impro05_F029 [155.5700-157.2900]: That's too bad.,3.24,4.86,3.56,negative,3.886666666666667,1 out of 1,['bad'],['bad']
+74,"Ses01M_impro05_M024 [156.4600-159.9600]: Fifty dollars is not going to cover me for my job, okay?",5.172,4.88,4.86,neutral,4.970666666666666,5 out of 6,"['fifty', 'dollar', 'neg-go', 'neg-cover', 'job']","['fifty', 'dollar', 'go', 'cover', 'job', 'okay']"
+75,Ses01M_impro05_F030 [158.8700-160.9300]: I wish I could give it to you.,7.4350000000000005,3.975,6.109999999999999,positive,5.84,2 out of 3,"['wish', 'give']","['wish', 'could', 'give']"
+76,Ses01M_impro05_M025 [160.0200-167.0100]: Well you need to find it.,5.95,3.5949999999999998,5.65,neutral,5.065,2 out of 3,"['need', 'find']","['well', 'need', 'find']"
+77,Can I just go back there and look through the bags?,5.52,3.66,5.5125,neutral,4.8975,4 out of 4,"['go', 'back', 'look', 'bag']","['go', 'back', 'look', 'bag']"
+78,Can I just go back there and just go through maybe I'll find it.,5.9625,3.9575,5.53,neutral,5.1499999999999995,4 out of 5,"['go', 'back', 'go', 'find']","['go', 'back', 'go', 'maybe', 'find']"
+79,Ses01M_impro05_F031 [161.3400-162.5900]: I wish I-,7.14,3.38,6.5,positive,5.673333333333333,1 out of 1,['wish'],['wish']
+80,Ses01M_impro05_F032 [163.6900-166.1000]: That's not - no.,nan,nan,nan,nan,nan,0,nan,[]
+81,Ses01M_impro05_F033 [166.3700-167.6000]: No.,nan,nan,nan,nan,nan,0,nan,[]
+82,Ses01M_impro05_M026 [167.0100-173.7300]: It'll be a lot more than what you're doing sitting here and just give me lip service.,6.69,3.8275,5.765,positive,5.427499999999999,4 out of 5,"['sit', 'give', 'lip', 'service']","['lot', 'sit', 'give', 'lip', 'service']"
+83,I'd like to go back at least do some aggressive searching for my stuff.,5.503333333333334,4.181666666666667,5.358333333333333,neutral,5.014444444444444,6 out of 7,"['like', 'go', 'back', 'aggressive', 'search', 'stuff']","['like', 'go', 'back', 'least', 'aggressive', 'search', 'stuff']"
+84,Ses01M_impro05_F034 [173.0900-178.4600]: We have plenty of aggressive searching going on it's not there.,4.986666666666666,4.86,5.273333333333333,neutral,5.04,3 out of 4,"['aggressive', 'search', 'go']","['plenty', 'aggressive', 'search', 'go']"
+85,Someone's taken it.,4.82,4.52,4.83,neutral,4.723333333333334,1 out of 2,['take'],"['someone', 'take']"
+86,"Ses01M_impro05_M027 [175.2775-181.4600]: Sure, yeah right you have plenty of aggressive searching going on, aggressive searching, drinking coffee and smoking cigarettes.",5.423,4.707,5.7330000000000005,neutral,5.2876666666666665,10 out of 13,"['sure', 'right', 'aggressive', 'search', 'go', 'aggressive', 'search', 'drink', 'coffee', 'cigarette']","['sure', 'yeah', 'right', 'plenty', 'aggressive', 'search', 'go', 'aggressive', 'search', 'drink', 'coffee', 'smoking', 'cigarette']"
+87,Ses01M_impro05_M028 [181.4950-186.8200]: I know what you guys do when you're not working you're union people; you just sit around on your ass.,5.948333333333333,4.105,5.32,neutral,5.124444444444445,6 out of 8,"['know', 'guy', 'neg-work', 'union', 'people', 'sit']","['know', 'guy', 'work', 'union', 'people', 'sit', 'around', 'as']"
+88,Ses01M_impro05_F035 [186.3300-190.0200]: You know I don't need to take this sort of abuse.,4.52,5.315,4.6975,neutral,4.844166666666667,4 out of 5,"['know', 'neg-need', 'neg-take', 'abuse']","['know', 'need', 'take', 'sort', 'abuse']"
+89,"Ses01M_impro05_M029 [189.4200-198.3400]: Well, I don't need to take this kind of abuse either.",4.76,5.3025,5.1575,neutral,5.073333333333333,4 out of 6,"['neg-need', 'neg-take', 'kind', 'abuse']","['well', 'need', 'take', 'kind', 'abuse', 'either']"
+90,I just was trying get back to Atlanta.,5.496666666666666,3.42,5.6033333333333335,neutral,4.84,3 out of 4,"['try', 'get', 'back']","['try', 'get', 'back', 'atlanta']"
+91,"I just got home, I just want to get my bag and get my stuff.",6.094285714285714,3.861428571428571,5.651428571428571,positive,5.2023809523809526,7 out of 7,"['get', 'home', 'want', 'get', 'bag', 'get', 'stuff']","['get', 'home', 'want', 'get', 'bag', 'get', 'stuff']"
+92,And keep my job.,5.98,3.715,5.075,neutral,4.923333333333333,2 out of 2,"['keep', 'job']","['keep', 'job']"
+93,Ses01M_impro05_F036 [192.9100-194.7500]: That's fantastic.,8.36,6.4,7.21,positive,7.323333333333333,1 out of 1,['fantastic'],['fantastic']
+94,Ses01M_impro05_F037 [194.9425-201.7500]: Then why don't you take your fifty dollars.,5.77,4.833333333333334,5.38,neutral,5.327777777777778,3 out of 3,"['neg-take', 'fifty', 'dollar']","['take', 'fifty', 'dollar']"
+95,Get yourself a taxi and go shopping tomorrow.,5.733333333333333,4.1066666666666665,5.17,neutral,5.003333333333333,3 out of 5,"['get', 'taxi', 'go']","['get', 'taxi', 'go', 'shopping', 'tomorrow']"
+96,Ses01M_impro05_M030 [199.2700-200.3975]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+97,Ses01M_impro05_M031 [201.2825-203.7100]: Thank you very much.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 2,['thank'],"['thank', 'much']"

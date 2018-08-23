@@ -1,0 +1,138 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses03M_impro08a_M000 [006.5663-011.4367]: Hello.,nan,nan,nan,nan,nan,0,nan,['hello']
+2,This is Viacom Services.,6.83,2.95,5.33,positive,5.036666666666667,1 out of 2,['service'],"['viacom', 'service']"
+3,How can I help you?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+4,Ses03M_impro08a_F000 [010.7663-018.3382]: Hello?,nan,nan,nan,nan,nan,0,nan,['hello']
+5,"God finally somebody, look, this is ridiculous.",5.173333333333334,4.99,4.886666666666667,neutral,5.016666666666667,3 out of 5,"['god', 'look', 'ridiculous']","['god', 'finally', 'somebody', 'look', 'ridiculous']"
+6,I've been waiting online for like a half an hour now.,5.68,3.8000000000000003,5.946666666666666,neutral,5.142222222222222,3 out of 5,"['wait', 'like', 'hour']","['wait', 'online', 'like', 'half', 'hour']"
+7,"Ses03M_impro08a_M001 [017.6481-020.8228]: I'm sorry ma'am, what can I help you with?",5.88,4.455,6.27,neutral,5.535,2 out of 2,"['sorry', 'help']","['sorry', 'help']"
+8,"Ses03M_impro08a_F001 [019.8763-026.9925]: Look my, my phone isn't working.",5.663333333333333,4.286666666666667,4.733333333333333,neutral,4.894444444444445,3 out of 3,"['look', 'phone', 'neg-work']","['look', 'phone', 'work']"
+9,I don't understand what's going on.,4.82,5.67,4.3100000000000005,neutral,4.933333333333334,2 out of 2,"['neg-understand', 'go']","['understand', 'go']"
+10,I am trying to call out.,5.91,3.645,5.775,neutral,5.11,2 out of 2,"['try', 'call']","['try', 'call']"
+11,I'm not receiving any calls,3.3400000000000003,6.205,3.8,negative,4.448333333333333,2 out of 2,"['neg-receive', 'neg-call']","['receive', 'call']"
+12,"Ses03M_impro08a_F002 [027.0735-031.6225]: and I need assistance with my...not only is my work phone, it's my home phone and look,",5.99,3.7457142857142856,5.594285714285714,neutral,5.11,7 out of 7,"['need', 'assistance', 'work', 'phone', 'home', 'phone', 'look']","['need', 'assistance', 'work', 'phone', 'home', 'phone', 'look']"
+13,Ses03M_impro08a_F003 [031.7275-036.8342]: this is my business.,5.48,3.71,5.35,neutral,4.846666666666667,1 out of 1,['business'],['business']
+14,This is how I make money is through my phone.,6.426666666666667,4.653333333333333,5.66,positive,5.580000000000001,3 out of 3,"['make', 'money', 'phone']","['make', 'money', 'phone']"
+15,It needs to be working.,5.25,4.0,5.59,neutral,4.946666666666666,2 out of 2,"['need', 'work']","['need', 'work']"
+16,Can you please help me?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 2,['help'],"['please', 'help']"
+17,Ses03M_impro08a_M002 [034.1722-042.0202]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+18,Can you give me the last four digits of your social security number so I can verify who I'm speaking with?,5.90625,4.0325,5.685,neutral,5.207916666666666,8 out of 9,"['give', 'four', 'digit', 'social', 'security', 'number', 'verify', 'speak']","['give', 'last', 'four', 'digit', 'social', 'security', 'number', 'verify', 'speak']"
+19,Ses03M_impro08a_F004 [041.3695-044.4061]: two two six six.,5.574999999999999,3.255,5.3149999999999995,neutral,4.714999999999999,4 out of 4,"['two', 'two', 'six', 'six']","['two', 'two', 'six', 'six']"
+20,Ses03M_impro08a_M003 [043.4794-046.8315]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+21,And your name is?,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 1,['name'],['name']
+22,Ses03M_impro08a_F005 [045.9836-048.5076]: Olivia.,nan,nan,nan,nan,nan,0,nan,['olivia']
+23,Ses03M_impro08a_M004 [047.7977-053.2597]: Olivia.,nan,nan,nan,nan,nan,0,nan,['olivia']
+24,Um.,nan,nan,nan,nan,nan,0,nan,['um']
+25,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+26,So how long has this problem been?,3.52,4.81,4.94,negative,4.423333333333333,1 out of 2,['problem'],"['long', 'problem']"
+27,Ses03M_impro08a_F006 [052.5302-061.8176]: This has been going on for the past two weeks.,5.745,4.0575,5.21,neutral,5.004166666666666,4 out of 4,"['go', 'past', 'two', 'week']","['go', 'past', 'two', 'week']"
+28,I called every single day.,5.976666666666667,3.586666666666667,5.343333333333334,neutral,4.9688888888888885,3 out of 4,"['call', 'single', 'day']","['call', 'every', 'single', 'day']"
+29,Nobody is helping me.,6.95,4.29,6.89,positive,6.043333333333333,1 out of 2,['help'],"['nobody', 'help']"
+30,"You guys tell me the same thing over and over, call again, call again, call again--",5.984999999999999,3.645,5.383333333333334,neutral,5.004444444444444,6 out of 6,"['guy', 'tell', 'thing', 'call', 'call', 'call']","['guy', 'tell', 'thing', 'call', 'call', 'call']"
+31,Ses03M_impro08a_M005 [060.1218-062.9021]: So what exactly is the problem?,3.52,4.81,4.94,negative,4.423333333333333,1 out of 2,['problem'],"['exactly', 'problem']"
+32,"Ses03M_impro08a_F007 [061.8767-069.4487]: I don't, I don't know what the problem is.",3.3499999999999996,5.785,4.58,negative,4.571666666666666,2 out of 2,"['neg-know', 'problem']","['know', 'problem']"
+33,That's what I want you guys to...why is my service not turned on?,5.9825,4.8675,4.99,neutral,5.28,4 out of 4,"['want', 'guy', 'service', 'neg-turn']","['want', 'guy', 'service', 'turn']"
+34,And I paid my bills on time.,4.98,3.8833333333333333,4.8966666666666665,neutral,4.586666666666667,3 out of 3,"['pay', 'bill', 'time']","['pay', 'bill', 'time']"
+35,I don't understand.,3.3200000000000003,6.48,3.29,negative,4.363333333333333,1 out of 1,['neg-understand'],['understand']
+36,Ses03M_impro08a_M006 [068.6402-077.5530]: Um- I think part of it has to do with the network being down.,5.5,3.8466666666666667,5.7,neutral,5.015555555555555,3 out of 4,"['think', 'part', 'network']","['um', 'think', 'part', 'network']"
+37,It's been having some trouble the last few weeks--,4.07,4.46,4.8149999999999995,neutral,4.448333333333333,2 out of 3,"['trouble', 'week']","['trouble', 'last', 'week']"
+38,Ses03M_impro08a_F008 [074.8318-081.1900]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+39,"Well that is, that is fine and all.",6.5,3.86,5.78,positive,5.38,1 out of 2,['fine'],"['well', 'fine']"
+40,I don't care.,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+41,I really don't care because I want my phone to work that's all.,4.875,5.095,4.8475,neutral,4.939166666666666,4 out of 5,"['neg-care', 'want', 'phone', 'work']","['really', 'care', 'want', 'phone', 'work']"
+42,Ses03M_impro08a_F009 [081.2225-092.2433]: That is I am paying you guys for service and I'm not getting any service.,5.338,5.056,5.16,neutral,5.184666666666667,5 out of 5,"['pay', 'guy', 'service', 'neg-get', 'neg-service']","['pay', 'guy', 'service', 'get', 'service']"
+43,"I get, I get just dropped calls all the time and now it's completely not working at all.",5.523333333333333,4.0633333333333335,4.995,neutral,4.860555555555556,6 out of 7,"['get', 'get', 'drop', 'call', 'time', 'neg-work']","['get', 'get', 'drop', 'call', 'time', 'completely', 'work']"
+44,"I can't even call out, nine one one probably wouldn't even work.",5.326666666666666,4.226666666666667,5.09,neutral,4.881111111111111,6 out of 10,"['neg-call', 'nine', 'one', 'one', 'would', 'neg-work']","['ca', 'even', 'call', 'nine', 'one', 'one', 'probably', 'would', 'even', 'work']"
+45,Ses03M_impro08a_M007 [087.7474-090.4292]: I understand--we're not-,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+46,Ses03M_impro08a_M008 [091.0602-095.6349]: No.,nan,nan,nan,nan,nan,0,nan,[]
+47,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+48,We're not charging you for any of these months.,5.585,4.695,4.9399999999999995,neutral,5.073333333333333,2 out of 2,"['neg-charge', 'month']","['charge', 'month']"
+49,We're going to give you three months free.,6.702,4.366,5.61,positive,5.559333333333334,5 out of 5,"['go', 'give', 'three', 'month', 'free']","['go', 'give', 'three', 'month', 'free']"
+50,Ses03M_impro08a_F010 [094.6884-099.7560]: Well you better.,nan,nan,nan,nan,nan,0,nan,"['well', 'better']"
+51,You better give me a whole freaking new phone that's what you better do.,6.218,4.584,5.346,positive,5.382666666666666,5 out of 7,"['give', 'whole', 'freak', 'new', 'phone']","['better', 'give', 'whole', 'freak', 'new', 'phone', 'better']"
+52,Ses03M_impro08a_M009 [098.8687-101.6293]: We can give you a new phone--,7.166666666666667,4.38,5.126666666666667,positive,5.557777777777777,3 out of 3,"['give', 'new', 'phone']","['give', 'new', 'phone']"
+53,Ses03M_impro08a_F011 [099.9335-102.3589]: I want a camera phone actually.,6.233333333333333,3.9233333333333333,5.406666666666666,positive,5.187777777777778,3 out of 4,"['want', 'camera', 'phone']","['want', 'camera', 'phone', 'actually']"
+54,Ses03M_impro08a_M010 [101.7279-107.3871]: We can do that.,nan,nan,nan,nan,nan,0,nan,[]
+55,We can do that.,nan,nan,nan,nan,nan,0,nan,[]
+56,You just have to sign a one-year contract though with the--,5.185,3.5700000000000003,6.109999999999999,neutral,4.954999999999999,2 out of 3,"['sign', 'contract']","['sign', 'contract', 'though']"
+57,"Ses03M_impro08a_F012 [105.5533-110.1575]: No, no, no...",nan,nan,nan,nan,nan,0,nan,[]
+58,I'm done with these contract business because this is what can happen.,5.3725000000000005,3.69,6.0175,neutral,5.026666666666666,4 out of 4,"['do', 'contract', 'business', 'happen']","['do', 'contract', 'business', 'happen']"
+59,"Ses03M_impro08a_F013 [110.2000-117.8182]: You sign the contract and then down the line the phone doesn't work and you're stuck, you can't go to a new...no.",5.3575,4.19625,5.1425,neutral,4.898750000000001,8 out of 9,"['sign', 'contract', 'line', 'phone', 'neg-work', 'stick', 'neg-go', 'new']","['sign', 'contract', 'line', 'phone', 'work', 'stick', 'ca', 'go', 'new']"
+60,No contracts for me.,4.9,6.05,3.16,neutral,4.703333333333333,1 out of 1,['neg-contract'],['contract']
+61,You give me a new phone.,7.166666666666667,4.38,5.126666666666667,positive,5.557777777777777,3 out of 3,"['give', 'new', 'phone']","['give', 'new', 'phone']"
+62,"Ses03M_impro08a_M011 [116.2210-122.3732]: Besides, it's sort of out of hands at the moment----The whole electrical power outage.",5.543333333333333,4.473333333333334,5.376666666666667,neutral,5.131111111111111,6 out of 8,"['hand', 'moment', 'whole', 'electrical', 'power', 'outage']","['besides', 'sort', 'hand', 'moment', 'whole', 'electrical', 'power', 'outage']"
+63,Ses03M_impro08a_F014 [118.4295-121.2295]: I want to talk to a supervisor,5.64,4.24,5.793333333333333,neutral,5.224444444444444,3 out of 3,"['want', 'talk', 'supervisor']","['want', 'talk', 'supervisor']"
+64,Ses03M_impro08a_F015 [121.3084-126.2775]: I would like to talk to your supervisor.,6.0675,3.91,6.0525,positive,5.343333333333334,4 out of 4,"['would', 'like', 'talk', 'supervisor']","['would', 'like', 'talk', 'supervisor']"
+65,Obviously you're incompetent and don't understand what I'm asking.,4.013333333333334,4.82,4.13,neutral,4.321111111111112,3 out of 4,"['incompetent', 'neg-understand', 'ask']","['obviously', 'incompetent', 'understand', 'ask']"
+66,Ses03M_impro08a_M012 [125.5676-133.9480]: Um- Let me connect you to my supervisor.,5.613333333333333,3.41,5.8566666666666665,neutral,4.96,3 out of 4,"['let', 'connect', 'supervisor']","['um', 'let', 'connect', 'supervisor']"
+67,"Actually, he's out right now so I'm supervisor until he comes back.",5.5,3.8024999999999998,5.9675,neutral,5.09,4 out of 5,"['right', 'supervisor', 'come', 'back']","['actually', 'right', 'supervisor', 'come', 'back']"
+68,Um-,nan,nan,nan,nan,nan,0,nan,['um']
+69,Ses03M_impro08a_F016 [132.0353-134.4212]: What?,nan,nan,nan,nan,nan,0,nan,[]
+70,"Ses03M_impro08a_M013 [134.2043-140.4156]: So you could----speak with me some more, you could call back later on maybe.",5.616666666666666,3.356666666666667,5.573333333333333,neutral,4.848888888888889,3 out of 7,"['speak', 'call', 'back']","['could', 'speak', 'could', 'call', 'back', 'later', 'maybe']"
+71,Ses03M_impro08a_F017 [134.4804-137.0635]: That's ridiculous.,3.67,5.65,3.78,negative,4.366666666666666,1 out of 1,['ridiculous'],['ridiculous']
+72,You know?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+73,"Ses03M_impro08a_F018 [138.8579-146.9819]: No I don't want to call back, you put me on hold for like hours and hours----and it's money, money, money, money and out of my pocket, out of my pocket--",5.785714285714286,5.023571428571429,5.902142857142858,neutral,5.57047619047619,14 out of 14,"['neg-want', 'neg-call', 'back', 'put', 'hold', 'like', 'hour', 'hour', 'money', 'money', 'money', 'money', 'pocket', 'pocket']","['want', 'call', 'back', 'put', 'hold', 'like', 'hour', 'hour', 'money', 'money', 'money', 'money', 'pocket', 'pocket']"
+74,Ses03M_impro08a_M014 [141.8945-144.4579]: I didn't put you on hold.,5.48,5.5,4.865,neutral,5.281666666666667,2 out of 2,"['neg-put', 'hold']","['put', 'hold']"
+75,Ses03M_impro08a_M015 [144.5565-150.0974]: There are a lot of people calling us having problems.,5.133333333333333,3.9566666666666666,5.316666666666667,neutral,4.802222222222222,3 out of 5,"['people', 'call', 'problem']","['lot', 'people', 'call', 'us', 'problem']"
+76,Every phone company is having the same problems ma'am,5.083333333333333,3.8433333333333333,4.793333333333334,neutral,4.573333333333333,3 out of 4,"['phone', 'company', 'problem']","['every', 'phone', 'company', 'problem']"
+77,Ses03M_impro08a_F019 [149.4664-152.4439]: Every phone...every single phone company?,5.8025,3.5,4.6775,neutral,4.66,4 out of 6,"['phone', 'single', 'phone', 'company']","['every', 'phone', 'every', 'single', 'phone', 'company']"
+78,Ses03M_impro08a_M016 [151.3989-157.4327]: Mmm hmmm.,nan,nan,nan,nan,nan,0,nan,"['mmm', 'hmmm']"
+79,Mmm hmmm.,nan,nan,nan,nan,nan,0,nan,"['mmm', 'hmmm']"
+80,"The power outages, everything, hurricane Katrina.",4.33,5.026666666666666,4.05,neutral,4.4688888888888885,3 out of 5,"['power', 'outage', 'hurricane']","['power', 'outage', 'everything', 'hurricane', 'katrina']"
+81,Everything's really messed up.,3.5,4.7,2.89,negative,3.6966666666666668,1 out of 3,['mess'],"['everything', 'really', 'mess']"
+82,Ses03M_impro08a_F020 [154.2778-158.6553]: This is ridiculous.Well what are we supposed to do?,5.27,3.33,5.11,neutral,4.57,1 out of 1,['suppose'],['suppose']
+83,We starve then because I can't use my phone cause,4.1,4.965,4.7125,neutral,4.5925,4 out of 5,"['starve', 'neg-use', 'neg-phone', 'cause']","['starve', 'ca', 'use', 'phone', 'cause']"
+84,Ses03M_impro08a_F021 [158.6750-166.4244]: I am a realtor and this is my business.,4.95,3.925,5.73,neutral,4.868333333333333,2 out of 2,"['realtor', 'business']","['realtor', 'business']"
+85,"People are calling me all the time but you know, and I don't have a land line.",5.418333333333333,3.9833333333333334,5.016666666666667,neutral,4.806111111111111,6 out of 6,"['people', 'call', 'time', 'know', 'neg-land', 'line']","['people', 'call', 'time', 'know', 'land', 'line']"
+86,I can't afford to have a land line,4.956666666666667,3.986666666666667,4.796666666666667,neutral,4.58,3 out of 4,"['neg-afford', 'land', 'line']","['ca', 'afford', 'land', 'line']"
+87,Ses03M_impro08a_M017 [162.1454-164.3145]: don't you-,nan,nan,nan,nan,nan,0,nan,[]
+88,Ses03M_impro08a_M018 [165.8131-170.0329]: I'm really sorry ma'am.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['really', 'sorry']"
+89,There's not----a lot we can do for it.,nan,nan,nan,nan,nan,0,nan,['lot']
+90,Ses03M_impro08a_F022 [167.5680-169.7174]: That you better be sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['better', 'sorry']"
+91,Ses03M_impro08a_F023 [169.7568-173.6019]: Well you're not helping me at all.,3.05,5.71,3.1100000000000003,negative,3.956666666666667,1 out of 2,['neg-help'],"['well', 'help']"
+92,God this is so frustrating.,4.235,5.52,4.36,neutral,4.704999999999999,2 out of 2,"['god', 'frustrating']","['god', 'frustrating']"
+93,"Ses03M_impro08a_M019 [171.3737-181.1935]: What I can do for you, if you want to make a call right now I could contact you through our computer.",6.433333333333334,4.25,6.123333333333333,positive,5.602222222222221,6 out of 7,"['want', 'make', 'call', 'right', 'contact', 'computer']","['want', 'make', 'call', 'right', 'could', 'contact', 'computer']"
+94,I can call through my phone and you can speak through me.,6.06,3.6366666666666667,5.3133333333333335,positive,5.003333333333333,3 out of 3,"['call', 'phone', 'speak']","['call', 'phone', 'speak']"
+95,Ses03M_impro08a_F024 [180.0104-183.8753]: What?,nan,nan,nan,nan,nan,0,nan,[]
+96,No.,nan,nan,nan,nan,nan,0,nan,[]
+97,That's way too complicated.,4.865,4.325,5.3100000000000005,neutral,4.833333333333334,2 out of 2,"['way', 'complicated']","['way', 'complicated']"
+98,Look--,5.95,3.76,5.88,neutral,5.196666666666666,1 out of 1,['look'],['look']
+99,Ses03M_impro08a_F025 [183.8875-188.0359]: you need to fix my phone.,5.883333333333334,3.566666666666667,5.406666666666666,neutral,4.952222222222223,3 out of 3,"['need', 'fix', 'phone']","['need', 'fix', 'phone']"
+100,I don't care what you have to do--,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+101,Ses03M_impro08a_M020 [185.9851-190.8753]: I'm sorry it has to do with an electrical power outage and stuff--,5.214,4.694,4.924,neutral,4.944,5 out of 5,"['sorry', 'electrical', 'power', 'outage', 'stuff']","['sorry', 'electrical', 'power', 'outage', 'stuff']"
+102,"Ses03M_impro08a_F026 [188.5288-196.8895]: Well then go up the freaking pole and fix it like, you need to help me.",5.942857142857143,4.3100000000000005,5.711428571428572,neutral,5.321428571428572,7 out of 8,"['go', 'freak', 'pole', 'fix', 'like', 'need', 'help']","['well', 'go', 'freak', 'pole', 'fix', 'like', 'need', 'help']"
+103,"You don't understand I'm in dire, dire need of a phone right now.",4.696666666666667,4.763333333333334,4.715,neutral,4.7250000000000005,6 out of 6,"['neg-understand', 'dire', 'dire', 'need', 'phone', 'right']","['understand', 'dire', 'dire', 'need', 'phone', 'right']"
+104,"Ses03M_impro08a_M021 [196.2388-203.5544]: Well, okay I'm going to give you a free phone card that you can use at any payphone and that's on us.",6.311428571428571,3.9571428571428573,5.435714285714286,positive,5.234761904761904,7 out of 10,"['go', 'give', 'free', 'phone', 'card', 'use', 'payphone']","['well', 'okay', 'go', 'give', 'free', 'phone', 'card', 'use', 'payphone', 'us']"
+105,Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+106,"Ses03M_impro08a_F027 [201.0304-207.7347]: Yeah yeah, woman going out in South Central on the payphone at night.",6.1066666666666665,3.635,5.5216666666666665,positive,5.087777777777778,6 out of 8,"['woman', 'go', 'south', 'central', 'payphone', 'night']","['yeah', 'yeah', 'woman', 'go', 'south', 'central', 'payphone', 'night']"
+107,Oh that's real safe.,7.395,3.5949999999999998,6.55,positive,5.846666666666667,2 out of 3,"['real', 'safe']","['oh', 'real', 'safe']"
+108,"Ses03M_impro08a_M022 [206.9065-211.1854]: I'm, I'm sorry you chose to live there um--",6.253333333333333,4.3100000000000005,6.326666666666667,positive,5.63,3 out of 4,"['sorry', 'choose', 'live']","['sorry', 'choose', 'live', 'um']"
+109,"Ses03M_impro08a_F028 [209.8840-215.3575]: No, no, no.",nan,nan,nan,nan,nan,0,nan,[]
+110,I didn't choose to live here.,3.025,5.845000000000001,3.335,negative,4.068333333333334,2 out of 2,"['neg-choose', 'neg-live']","['choose', 'live']"
+111,I work there.,5.05,4.33,6.12,neutral,5.166666666666667,1 out of 1,['work'],['work']
+112,Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+113,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+114,work work work,5.05,4.33,6.12,neutral,5.166666666666667,3 out of 3,"['work', 'work', 'work']","['work', 'work', 'work']"
+115,Ses03M_impro08a_MXX0 [213.9491-214.7541]: okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+116,Ses03M_impro08a_M023 [214.8728-218.8559]: Well I'm sure maybe there's a phone at work you could use.,5.74,3.8575,5.595000000000001,neutral,5.064166666666667,4 out of 7,"['sure', 'phone', 'work', 'use']","['well', 'sure', 'maybe', 'phone', 'work', 'could', 'use']"
+117,Ses03M_impro08a_F029 [218.1658-225.7180]: We can't call out.,3.8200000000000003,6.71,4.39,negative,4.973333333333334,1 out of 2,['neg-call'],"['ca', 'call']"
+118,We can't make out-- line.,4.365,4.785,4.335,neutral,4.495,2 out of 3,"['neg-make', 'line']","['ca', 'make', 'line']"
+119,"I don't work, I work at another office.",4.846666666666667,4.35,5.053333333333334,neutral,4.75,3 out of 4,"['neg-work', 'work', 'office']","['work', 'work', 'another', 'office']"
+120,Ses03M_impro08a_F030 [225.7771-229.8392]: A law firm.,4.955,3.925,5.705,neutral,4.861666666666666,2 out of 2,"['law', 'firm']","['law', 'firm']"
+121,Thank you very much.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 2,['thank'],"['thank', 'much']"
+122,Ses03M_impro08a_M024 [227.9067-231.1406]: All right um--,7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['right', 'um']"
+123,"Ses03M_impro08a_F031 [230.4899-239.5801]: I work out of my home as a realtor and because I don't have a land line, I need a phone and because of now I don't have one I don't know what to do.",4.865555555555556,4.847777777777778,5.123333333333333,neutral,4.945555555555556,9 out of 9,"['work', 'home', 'realtor', 'neg-land', 'line', 'need', 'phone', 'neg-one', 'neg-know']","['work', 'home', 'realtor', 'land', 'line', 'need', 'phone', 'one', 'know']"
+124,And you're not helping me at all.,3.05,5.71,3.1100000000000003,negative,3.956666666666667,1 out of 1,['neg-help'],['help']
+125,"Ses03M_impro08a_F032 [239.6393-242.9323]: In fact, give me your name sir, what's your name again?",6.13,3.654,5.422,positive,5.068666666666666,5 out of 5,"['fact', 'give', 'name', 'sir', 'name']","['fact', 'give', 'name', 'sir', 'name']"
+126,Ses03M_impro08a_M025 [242.3999-246.0675]: My name is Sara.,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 2,['name'],"['name', 'sara']"
+127,Ses03M_impro08a_F033 [245.3971-248.9070]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+128,Sara what?,nan,nan,nan,nan,nan,0,nan,['sara']
+129,Ses03M_impro08a_M026 [247.9999-250.6619]: Sara Brown.,5.52,3.32,4.65,neutral,4.496666666666667,1 out of 2,['brown'],"['sara', 'brown']"
+130,Ses03M_impro08a_F034 [249.7746-262.7494]: Sara Brown.,5.52,3.32,4.65,neutral,4.496666666666667,1 out of 2,['brown'],"['sara', 'brown']"
+131,"Sara Brown, um- yeah, I'm going to get off the phone with you.",6.005,3.8200000000000003,5.0175,positive,4.9475,4 out of 7,"['brown', 'go', 'get', 'phone']","['sara', 'brown', 'um', 'yeah', 'go', 'get', 'phone']"
+132,And then I'm going to call back and I'm going to give your supervisor your name because you're obviously incompetent to work here.,5.447777777777778,4.01,5.203333333333333,neutral,4.887037037037037,9 out of 10,"['go', 'call', 'back', 'go', 'give', 'supervisor', 'name', 'incompetent', 'work']","['go', 'call', 'back', 'go', 'give', 'supervisor', 'name', 'obviously', 'incompetent', 'work']"
+133,Ses03M_impro08a_MXX1 [255.3251-256.3542]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+134,"Ses03M_impro08a_M027 [261.2113-268.4283]: You know maam, we record this conversation so anything you say can be proven in a law of court so keep that in mind.",5.825555555555556,3.703333333333333,5.6433333333333335,neutral,5.057407407407408,9 out of 11,"['know', 'record', 'conversation', 'say', 'prove', 'law', 'court', 'keep', 'mind']","['know', 'maam', 'record', 'conversation', 'anything', 'say', 'prove', 'law', 'court', 'keep', 'mind']"
+135,"Ses03M_impro08a_F035 [266.4367-274.7974]: What are you, what are you a police officer now?",4.75,5.165,3.925,neutral,4.613333333333333,2 out of 2,"['police', 'officer']","['police', 'officer']"
+136,"You know, like I'm done, I'm over it.",6.556666666666667,3.77,6.136666666666667,positive,5.487777777777777,3 out of 3,"['know', 'like', 'do']","['know', 'like', 'do']"
+137,Goodbye and I hope that you lose your job.,5.57,4.906666666666666,5.203333333333333,neutral,5.226666666666667,3 out of 4,"['hope', 'lose', 'job']","['goodbye', 'hope', 'lose', 'job']"

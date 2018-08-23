@@ -1,0 +1,131 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses05M_impro03_M000 [005.1000-007.0500]: Guess what?,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+2,Ses05M_impro03_F000 [006.6500-008.0900]: what?,nan,nan,nan,nan,nan,0,nan,[]
+3,"Ses05M_impro03_M001 [007.7900-011.1200]: I did it, I asked her to marry me.",6.52,4.5,5.98,positive,5.666666666666667,2 out of 2,"['ask', 'marry']","['ask', 'marry']"
+4,Ses05M_impro03_F001 [010.6700-012.8900]: What?,nan,nan,nan,nan,nan,0,nan,[]
+5,you did?,nan,nan,nan,nan,nan,0,nan,[]
+6,"Ses05M_impro03_M002 [011.4000-013.5200]: Yes, I did it.",nan,nan,nan,nan,nan,0,nan,['yes']
+7,Ses05M_impro03_F002 [012.9400-013.9600]: When?,nan,nan,nan,nan,nan,0,nan,[]
+8,"Ses05M_impro03_M003 [013.5400-016.1200]: Oh my god, it was just last weekend.",6.535,5.685,6.055,positive,6.091666666666666,2 out of 4,"['god', 'weekend']","['oh', 'god', 'last', 'weekend']"
+9,"Ses05M_impro03_F003 [015.9000-019.3500]: Oh, what, how- where how did you do it?",nan,nan,nan,nan,nan,0,nan,['oh']
+10,"Ses05M_impro03_M004 [018.0300-025.1000]: She--,well, she said yes, first of all, let me say that right off the bat.",6.205,4.34,6.275,positive,5.6066666666666665,6 out of 8,"['say', 'first', 'let', 'say', 'right', 'bat']","['well', 'say', 'yes', 'first', 'let', 'say', 'right', 'bat']"
+11,"Well, I would like to assume, too.",5.92,4.136666666666667,6.1433333333333335,neutral,5.3999999999999995,3 out of 4,"['would', 'like', 'assume']","['well', 'would', 'like', 'assume']"
+12,"But you never know these things, right?",6.5633333333333335,3.89,6.116666666666667,positive,5.523333333333333,3 out of 4,"['know', 'thing', 'right']","['never', 'know', 'thing', 'right']"
+13,Ses05M_impro03_F004 [019.6200-022.3700]: Okay good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['okay', 'good']"
+14,I I assumed.,4.41,4.2,6.21,neutral,4.94,1 out of 1,['assume'],['assume']
+15,"Ses05M_impro03_M005 [025.1100-031.5700]: Um-, but no- It was It was great.",7.5,4.14,6.65,positive,6.096666666666667,1 out of 2,['great'],"['um', 'great']"
+16,It was really great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 2,['great'],"['really', 'great']"
+17,I think she was really surprised and she was really happy.,7.24,5.25,6.1433333333333335,positive,6.211111111111111,3 out of 5,"['think', 'surprised', 'happy']","['think', 'really', 'surprised', 'really', 'happy']"
+18,um-,nan,nan,nan,nan,nan,0,nan,['um']
+19,Ses05M_impro03_F005 [029.8700-031.8200]: oh-,nan,nan,nan,nan,nan,0,nan,['oh']
+20,Ses05M_impro03_M006 [031.5800-044.0500]: I did it up at Yosemite.,nan,nan,nan,nan,nan,0,nan,['yosemite']
+21,We went camping right like we usually do.,7.0200000000000005,4.6,6.165,positive,5.928333333333334,4 out of 5,"['go', 'camp', 'right', 'like']","['go', 'camp', 'right', 'like', 'usually']"
+22,You know we go camping up there all the time.,6.4350000000000005,3.9125,5.34,positive,5.229166666666667,4 out of 4,"['know', 'go', 'camp', 'time']","['know', 'go', 'camp', 'time']"
+23,"But, um- the waterfalls had died down a little bit, you know.",5.448,4.51,5.022,neutral,4.993333333333333,5 out of 6,"['waterfall', 'die', 'little', 'bit', 'know']","['um', 'waterfall', 'die', 'little', 'bit', 'know']"
+24,And so uh- we-I had her climb up.,5.62,3.95,5.61,neutral,5.06,1 out of 2,['climb'],"['uh', 'climb']"
+25,Ses05M_impro03_M007 [044.0600-054.6600]: You know- we did some- you know some rock climbing up the waterfalls and went up to this little pool that was up there.,6.4725,3.8287500000000003,5.58375,positive,5.295,8 out of 8,"['know', 'know', 'rock', 'climb', 'waterfall', 'go', 'little', 'pool']","['know', 'know', 'rock', 'climb', 'waterfall', 'go', 'little', 'pool']"
+26,"And then, I- it's great.",7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+27,Um- You have to climb this little rock-,5.75,3.7633333333333336,5.35,neutral,4.954444444444444,3 out of 4,"['climb', 'little', 'rock']","['um', 'climb', 'little', 'rock']"
+28,Ses05M_impro03_F006 [054.1100-055.4900]: uh-huh,nan,nan,nan,nan,nan,0,nan,[]
+29,Ses05M_impro03_M008 [054.7000-065.1400]: and you can climb it and it's covered in algae you know.,6.01,3.65,5.723333333333334,positive,5.127777777777777,3 out of 4,"['climb', 'cover', 'know']","['climb', 'cover', 'algae', 'know']"
+30,"So, I wanted her to climb it to go take a picture, like, back in this little waterfall area, and she got back there and she took her picture.",5.953571428571428,3.8364285714285713,5.441428571428571,neutral,5.0771428571428565,14 out of 14,"['want', 'climb', 'go', 'take', 'picture', 'like', 'back', 'little', 'waterfall', 'area', 'get', 'back', 'take', 'picture']","['want', 'climb', 'go', 'take', 'picture', 'like', 'back', 'little', 'waterfall', 'area', 'get', 'back', 'take', 'picture']"
+31,"And then, I had her come back.",5.199999999999999,3.08,5.58,neutral,4.62,2 out of 2,"['come', 'back']","['come', 'back']"
+32,And I was going to do the same thing.,5.9350000000000005,4.1450000000000005,5.37,neutral,5.150000000000001,2 out of 2,"['go', 'thing']","['go', 'thing']"
+33,"Ses05M_impro03_M009 [065.1600-078.3600]: Well, instead I climb up on the rock and like I- I didn't do it -- well, I did it on purpose.",6.3625,4.135,6.1425,positive,5.546666666666667,4 out of 7,"['climb', 'rock', 'like', 'purpose']","['well', 'instead', 'climb', 'rock', 'like', 'well', 'purpose']"
+34,I made it look like I accidentally did it.,6.493333333333333,3.9433333333333334,6.126666666666667,positive,5.521111111111111,3 out of 4,"['make', 'look', 'like']","['make', 'look', 'like', 'accidentally']"
+35,"I slipped down into this pool of water, right?",6.3575,4.265,5.87,positive,5.4975,4 out of 4,"['slip', 'pool', 'water', 'right']","['slip', 'pool', 'water', 'right']"
+36,And she freaks out because I slide all the way down this rock.,5.2675,3.91,5.175,neutral,4.784166666666667,4 out of 4,"['freak', 'slide', 'way', 'rock']","['freak', 'slide', 'way', 'rock']"
+37,And um-,nan,nan,nan,nan,nan,0,nan,['um']
+38,Ses05M_impro03_FXX0 [074.1533-074.9410]: uh-huh,nan,nan,nan,nan,nan,0,nan,[]
+39,"Ses05M_impro03_M010 [078.3900-089.5469]: And I pop up out of the water -- and I had planned it already, you know?",6.5024999999999995,3.815,5.965,positive,5.427499999999999,4 out of 5,"['pop', 'water', 'plan', 'know']","['pop', 'water', 'plan', 'already', 'know']"
+40,"I pop up out of the water and I [BREATHING] and I like, grab her hand, you know.",6.441666666666666,4.046666666666667,5.836666666666667,positive,5.441666666666666,6 out of 7,"['pop', 'water', 'like', 'grab', 'hand', 'know']","['pop', 'water', 'breathing', 'like', 'grab', 'hand', 'know']"
+41,"and that In my hand, I've got the ring.",6.36,4.026666666666666,5.656666666666667,positive,5.347777777777778,3 out of 3,"['hand', 'get', 'ring']","['hand', 'get', 'ring']"
+42,Ses05M_impro03_M011 [089.5569-103.3100]: And she's like- she feels it you know and she doesn't know what it is.,5.9275,4.6125,5.445,neutral,5.328333333333333,4 out of 4,"['like', 'feel', 'know', 'neg-know']","['like', 'feel', 'know', 'know']"
+43,And she you know helps me get out and I won't let go of her hand.,5.581666666666667,4.601666666666667,5.468333333333334,neutral,5.217222222222222,6 out of 7,"['know', 'help', 'get', 'neg-let', 'neg-go', 'hand']","['know', 'help', 'get', 'wo', 'let', 'go', 'hand']"
+44,"And she's like, what are you doing?",7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+45,"I and said, You saved my life, now will you marry me?",6.734999999999999,5.04,6.195,positive,5.989999999999999,4 out of 4,"['say', 'save', 'life', 'marry']","['say', 'save', 'life', 'marry']"
+46,"Ses05M_impro03_F007 [101.8300-106.0700]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+47,That's so dramatic.,5.17,6.59,4.77,neutral,5.510000000000001,1 out of 1,['dramatic'],['dramatic']
+48,Ses05M_impro03_M012 [104.4300-111.7000]: Wasn't that great?,2.5,5.86,3.3499999999999996,negative,3.903333333333333,1 out of 1,['neg-great'],['great']
+49,I didn't want it to be too hokey.but- but- She liked it.She liked it.,6.293333333333334,4.503333333333334,5.723333333333334,positive,5.506666666666667,3 out of 3,"['neg-want', 'like', 'like']","['want', 'like', 'like']"
+50,Ses05M_impro03_F008 [106.1400-108.3300]: so cute.,7.56,5.05,6.02,positive,6.21,1 out of 1,['cute'],['cute']
+51,"Ses05M_impro03_F009 [108.5100-111.0100]: No, it's totally original, though.",7.5,4.4,7.16,positive,6.353333333333334,1 out of 3,['original'],"['totally', 'original', 'though']"
+52,Ses05M_impro03_F010 [111.0200-112.3300]: oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+53,Ses05M_impro03_M013 [111.7100-115.2200]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+54,And she said yes.,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 2,['say'],"['say', 'yes']"
+55,"And she cried, of course.",3.22,5.45,2.56,negative,3.7433333333333336,1 out of 2,['cry'],"['cry', 'course']"
+56,"Ses05M_impro03_F011 [114.1200-117.9500]: Oh, Then you had a whole weekend of camping?",6.373333333333333,4.93,6.556666666666667,positive,5.953333333333333,3 out of 4,"['whole', 'weekend', 'camping']","['oh', 'whole', 'weekend', 'camping']"
+57,Ses05M_impro03_M014 [116.4700-123.1000]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+58,"We did that in the beginning, exactly.",6.39,3.0,5.72,positive,5.036666666666666,1 out of 2,['beginning'],"['beginning', 'exactly']"
+59,"So we had, so we just had, you know, good times the rest of the weekend, yeah.",7.068,3.682,5.888,positive,5.545999999999999,5 out of 6,"['know', 'good', 'time', 'rest', 'weekend']","['know', 'good', 'time', 'rest', 'weekend', 'yeah']"
+60,"Ses05M_impro03_F012 [121.7200-125.3600]: Oh, right.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['oh', 'right']"
+61,sure [LAUGHTER],7.345000000000001,4.435,6.92,positive,6.233333333333334,2 out of 2,"['sure', 'laughter']","['sure', 'laughter']"
+62,Ses05M_impro03_M015 [123.1100-127.7000]: It was a lot of fun- It was a lot of fun.,8.37,6.32,7.04,positive,7.243333333333333,2 out of 4,"['fun', 'fun']","['lot', 'fun', 'lot', 'fun']"
+63,She's great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+64,And I'm so happy.,8.47,6.05,7.21,positive,7.243333333333333,1 out of 1,['happy'],['happy']
+65,Ses05M_impro03_F013 [127.3600-129.5400]: So where are you going to have your wedding?,6.835,5.09,5.205,positive,5.710000000000001,2 out of 2,"['go', 'wedding']","['go', 'wedding']"
+66,Ses05M_impro03_M016 [128.5600-141.3600]: We're going to do it back in the Midwest where her family all is.,6.11,3.933333333333333,5.51,positive,5.184444444444444,3 out of 4,"['go', 'back', 'family']","['go', 'back', 'midwest', 'family']"
+67,They're all out there.,nan,nan,nan,nan,nan,0,nan,[]
+68,"you know so, Um  And so, just gonna have a small, small wedding.",6.422499999999999,3.8550000000000004,4.98,positive,5.085833333333333,4 out of 7,"['know', 'small', 'small', 'wedding']","['know', 'um', 'gon', 'na', 'small', 'small', 'wedding']"
+69,"But, um- you know, of course, you're going to come, right?",6.525,4.1675,6.0525,positive,5.581666666666667,4 out of 6,"['know', 'go', 'come', 'right']","['um', 'know', 'course', 'go', 'come', 'right']"
+70,Ses05M_impro03_F014 [141.0000-143.5800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+71,of course.,nan,nan,nan,nan,nan,0,nan,['course']
+72,Ses05M_impro03_M017 [141.4200-146.0000]: Okay good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['okay', 'good']"
+73,And uh- I want you to be in it actually.,6.0,5.29,5.39,neutral,5.56,1 out of 3,['want'],"['uh', 'want', 'actually']"
+74,Ses05M_impro03_F015 [144.4300-146.2400]: Okay Okay.,nan,nan,nan,nan,nan,0,nan,"['okay', 'okay']"
+75,"Ses05M_impro03_M018 [146.0100-152.7500]: Um- And she wants you to be in it, too.",6.0,5.29,5.39,neutral,5.56,1 out of 2,['want'],"['um', 'want']"
+76,She loves you so much.,8.0,5.36,5.92,positive,6.426666666666667,1 out of 2,['love'],"['love', 'much']"
+77,She thinks you're the sweetest.,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 2,['think'],"['think', 'sweetest']"
+78,"Of course, you are.",nan,nan,nan,nan,nan,0,nan,['course']
+79,You're You're my best friend so-,6.79,4.29,6.31,positive,5.796666666666667,1 out of 2,['friend'],"['best', 'friend']"
+80,Ses05M_impro03_FXX0 [148.2012-149.6381]: Awe.,6.85,3.83,5.85,positive,5.510000000000001,1 out of 1,['awe'],['awe']
+81,Ses05M_impro03_F016 [151.5200-153.3600]: Where is she right now?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+82,"Ses05M_impro03_M019 [153.0900-155.7900]: oh, She's back at work.",4.904999999999999,3.46,5.67,neutral,4.678333333333333,2 out of 3,"['back', 'work']","['oh', 'back', 'work']"
+83,yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+84,"Ses05M_impro03_F017 [154.3300-157.3900]: Yeah,I'll hang out with the both of you.",3.1,4.86,4.61,negative,4.19,1 out of 2,['hang'],"['yeah', 'hang']"
+85,Ses05M_impro03_M020 [156.5400-159.0400]: Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+86,We'll go out to dinner later this week.,5.996666666666667,4.013333333333334,5.553333333333334,neutral,5.187777777777779,3 out of 4,"['go', 'dinner', 'week']","['go', 'dinner', 'later', 'week']"
+87,Ses05M_impro03_F018 [158.1800-159.3300]: yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+88,Ses05M_impro03_M021 [159.0700-160.1900]: It will be perfect.,7.19,4.71,6.53,positive,6.1433333333333335,1 out of 1,['perfect'],['perfect']
+89,Ses05M_impro03_F019 [159.7300-162.7000]: Oh I'm so excited for you.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 2,['excited'],"['oh', 'excited']"
+90,"Ses05M_impro03_M022 [161.4600-165.8500]: Yes, me too.",nan,nan,nan,nan,nan,0,nan,['yes']
+91,Oh I am so in love.,8.0,5.36,5.92,positive,6.426666666666667,1 out of 2,['love'],"['oh', 'love']"
+92,Ses05M_impro03_F020 [165.7500-166.9100]: oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+93,Ses05M_impro03_M023 [165.8600-167.4600]: She's the one.,6.09,2.67,5.56,positive,4.773333333333333,1 out of 1,['one'],['one']
+94,"Ses05M_impro03_F021 [168.0537-172.2800]: Oh, my gosh.",nan,nan,nan,nan,nan,0,nan,"['oh', 'gosh']"
+95,You told your parents already?,6.0,4.0,4.970000000000001,neutral,4.99,2 out of 3,"['tell', 'parent']","['tell', 'parent', 'already']"
+96,and everything,nan,nan,nan,nan,nan,0,nan,['everything']
+97,Ses05M_impro03_M024 [170.9500-174.5900]: Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+98,I told them right away.,6.295,4.43,6.050000000000001,positive,5.591666666666666,2 out of 3,"['tell', 'right']","['tell', 'right', 'away']"
+99,We called them all right them.,6.75,4.145,6.385,positive,5.760000000000001,2 out of 2,"['call', 'right']","['call', 'right']"
+100,Ses05M_impro03_F022 [172.3900-174.6200]: Are they so excited?,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+101,"Ses05M_impro03_M025 [174.6000-182.7900]: Oh, yeah.",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah']"
+102,My mom's freaking out.,5.685,5.46,5.7,neutral,5.614999999999999,2 out of 2,"['mom', 'freak']","['mom', 'freak']"
+103,"Oh yeah, She's so happy.",8.47,6.05,7.21,positive,7.243333333333333,1 out of 3,['happy'],"['oh', 'yeah', 'happy']"
+104,this is you know  It's her dream come true.,6.85,4.04,6.03,positive,5.640000000000001,4 out of 4,"['know', 'dream', 'come', 'true']","['know', 'dream', 'come', 'true']"
+105,"She always wanted her little boy -- she wants kids, you know.",6.3,4.473333333333334,5.345,positive,5.372777777777777,6 out of 7,"['want', 'little', 'boy', 'want', 'kid', 'know']","['always', 'want', 'little', 'boy', 'want', 'kid', 'know']"
+106,Ses05M_impro03_M026 [182.8000-185.9400]: She wants grandkids.,6.0,5.29,5.39,neutral,5.56,1 out of 2,['want'],"['want', 'grandkids']"
+107,So we'll be working on that right away.,6.1850000000000005,4.665,6.640000000000001,positive,5.830000000000001,2 out of 3,"['work', 'right']","['work', 'right', 'away']"
+108,Ses05M_impro03_FXX1 [182.9225-184.4112]: right right.,7.32,5.0,7.16,positive,6.493333333333333,2 out of 2,"['right', 'right']","['right', 'right']"
+109,Ses05M_impro03_F023 [184.7600-186.7200]: Are you guys gonna have kids?,6.890000000000001,4.71,4.975,positive,5.525000000000001,2 out of 4,"['guy', 'kid']","['guy', 'gon', 'na', 'kid']"
+110,"Ses05M_impro03_M027 [185.9700-188.8500]: Of course, we're gonna have kids, like three at least.",6.7,4.163333333333333,5.5200000000000005,positive,5.461111111111111,3 out of 7,"['kid', 'like', 'three']","['course', 'gon', 'na', 'kid', 'like', 'three', 'least']"
+111,Ses05M_impro03_F024 [186.9500-188.2700]: Yeah?,nan,nan,nan,nan,nan,0,nan,['yeah']
+112,"Ses05M_impro03_F025 [188.2800-190.6300]: Whoa, right away?.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 3,['right'],"['whoa', 'right', 'away']"
+113,"Ses05M_impro03_M028 [188.8800-195.1300]: She wants like eight- She wants like eight kids and I'm like, no, no, no, no, no.",6.53625,4.43125,5.62125,positive,5.529583333333334,8 out of 8,"['want', 'like', 'eight', 'want', 'like', 'eight', 'kid', 'like']","['want', 'like', 'eight', 'want', 'like', 'eight', 'kid', 'like']"
+114,I am like what Let's do maybe three and we'll go with that.,6.285,3.8375000000000004,5.78,positive,5.300833333333333,4 out of 5,"['like', 'let', 'three', 'go']","['like', 'let', 'maybe', 'three', 'go']"
+115,Ses05M_impro03_F026 [194.2100-196.2700]: Are you going to start right away?,6.683333333333334,4.89,5.996666666666667,positive,5.8566666666666665,3 out of 4,"['go', 'start', 'right']","['go', 'start', 'right', 'away']"
+116,"Ses05M_impro03_M029 [195.6700-202.6600]: Well, we're going to take a little bit of time, you know, we need to get acclimated and you know start our lives, make money, you know be comfortable.",6.243333333333333,4.081333333333333,5.6066666666666665,positive,5.310444444444443,15 out of 17,"['go', 'take', 'little', 'bit', 'time', 'know', 'need', 'get', 'know', 'start', 'life', 'make', 'money', 'know', 'comfortable']","['well', 'go', 'take', 'little', 'bit', 'time', 'know', 'need', 'get', 'acclimate', 'know', 'start', 'life', 'make', 'money', 'know', 'comfortable']"
+117,"Ses05M_impro03_F027 [200.5700-204.3000]: Yeah, have you ever like lived with someone else before?",7.695,4.555,6.390000000000001,positive,6.213333333333334,2 out of 6,"['like', 'live']","['yeah', 'ever', 'like', 'live', 'someone', 'else']"
+118,"Ses05M_impro03_M030 [203.1900-210.5700]: Oh, yeah, yeah, yeah, yeah I mean, actually we lived together awhile back when we -- Yeah, back in college for a little while.",5.375,3.8166666666666664,5.363333333333333,neutral,4.851666666666667,6 out of 15,"['mean', 'live', 'back', 'back', 'college', 'little']","['oh', 'yeah', 'yeah', 'yeah', 'yeah', 'mean', 'actually', 'live', 'together', 'awhile', 'back', 'yeah', 'back', 'college', 'little']"
+119,yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+120,"Ses05M_impro03_F028 [207.0900-209.5200]: Oh, did you?",nan,nan,nan,nan,nan,0,nan,['oh']
+121,I didn't know that.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+122,Ses05M_impro03_F029 [210.2900-212.3100]: oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+123,Ses05M_impro03_M031 [210.5800-215.2900]: But that- so we are really used to each other.,5.18,4.19,5.0,neutral,4.79,1 out of 2,['use'],"['really', 'use']"
+124,We took the time apart and now we're going to get back together.,5.518,3.81,5.078,neutral,4.802,5 out of 7,"['take', 'time', 'go', 'get', 'back']","['take', 'time', 'apart', 'go', 'get', 'back', 'together']"
+125,We're going to move in soon.,5.635,4.550000000000001,5.225,neutral,5.136666666666667,2 out of 3,"['go', 'move']","['go', 'move', 'soon']"
+126,Ses05M_impro03_F030 [215.0300-216.6500]: Oooh,nan,nan,nan,nan,nan,0,nan,['oooh']
+127,Ses05M_impro03_M032 [215.3000-219.1600]: it's great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+128,I'm a lucky man.,6.37,4.83,5.4,positive,5.533333333333334,2 out of 2,"['lucky', 'man']","['lucky', 'man']"
+129,"Ses05M_impro03_F031 [217.5400-220.6500]: That's incredible yeah ,Congratulations.",7.445,6.199999999999999,7.21,positive,6.951666666666667,2 out of 3,"['incredible', 'congratulation']","['incredible', 'yeah', 'congratulation']"
+130,Ses05M_impro03_M033 [219.7500-221.9000]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']

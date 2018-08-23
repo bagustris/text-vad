@@ -1,0 +1,108 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses03F_impro02_F000 [007.6300-009.5400]: How's it going, babe?",6.59,4.555,6.0600000000000005,positive,5.734999999999999,2 out of 2,"['go', 'babe']","['go', 'babe']"
+2,Ses03F_impro02_F001 [012.1900-013.2100]: Yeah?,nan,nan,nan,nan,nan,0,nan,['yeah']
+3,Ses03F_impro02_M000 [010.0719-011.8800]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+4,Ses03F_impro02_F002 [013.8600-015.4425]: Good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+5,"Ses03F_impro02_F003 [016.2350-025.7100]: Hey listen,eh- I've been wanting to talk to you.",6.516666666666667,4.1433333333333335,5.796666666666667,positive,5.485555555555556,3 out of 5,"['listen', 'want', 'talk']","['hey', 'listen', 'eh', 'want', 'talk']"
+6,I have something to tell you.,5.27,3.86,4.94,neutral,4.69,1 out of 2,['tell'],"['something', 'tell']"
+7,How's Amy doing?,nan,nan,nan,nan,nan,0,nan,['amy']
+8,Ses03F_impro02_M001 [025.8175-033.2575]: She's doing fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+9,She just took her first steps today actually.,5.943333333333333,4.3,5.736666666666666,neutral,5.326666666666666,3 out of 5,"['take', 'first', 'step']","['take', 'first', 'step', 'today', 'actually']"
+10,I videotaped it for you so you can watch it.,5.5649999999999995,4.02,6.07,neutral,5.218333333333333,2 out of 2,"['videotape', 'watch']","['videotape', 'watch']"
+11,Ses03F_impro02_F004 [028.8225-030.3400]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+12,Ses03F_impro02_F005 [031.4600-032.5950]: oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+13,Ses03F_impro02_F006 [032.7525-044.4150]: I really want to say that.,5.955,4.859999999999999,6.135,neutral,5.6499999999999995,2 out of 3,"['want', 'say']","['really', 'want', 'say']"
+14,"Well I, so, you know, at the center department they called me in and I talked to-",6.106,3.0060000000000002,5.676,positive,4.929333333333333,5 out of 6,"['know', 'center', 'department', 'call', 'talk']","['well', 'know', 'center', 'department', 'call', 'talk']"
+15,"Ses03F_impro02_M002 [043.9400-045.9400]: Oh, yeah?",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah']"
+16,What did they say?,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 1,['say'],['say']
+17,Ses03F_impro02_F007 [045.3025-050.7600]: Well umm- actually they--I was promoted.,6.55,4.7,6.08,positive,5.776666666666666,1 out of 4,['promote'],"['well', 'umm', 'actually', 'promote']"
+18,"Ses03F_impro02_M003 [050.3100-053.0775]: Oh, wow.",nan,nan,nan,nan,nan,0,nan,"['oh', 'wow']"
+19,That's great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+20,Ses03F_impro02_F008 [051.3100-064.6400]: And Uh- Yeah.,nan,nan,nan,nan,nan,0,nan,"['uh', 'yeah']"
+21,Uh- They're going to need um- more nurses on call for uh- to go overseas to help out with the war.,5.551428571428572,4.554285714285714,5.295714285714285,neutral,5.133809523809524,7 out of 11,"['go', 'need', 'nurse', 'call', 'go', 'help', 'war']","['uh', 'go', 'need', 'um', 'nurse', 'call', 'uh', 'go', 'overseas', 'help', 'war']"
+22,"Ses03F_impro02_F009 [064.7600-074.8875]: And uh - seeing as I was uh- promoted and head of the department now, and so- well, they asked me to go.",6.046666666666667,3.981666666666667,5.681666666666667,positive,5.236666666666667,6 out of 9,"['see', 'promote', 'head', 'department', 'ask', 'go']","['uh', 'see', 'uh', 'promote', 'head', 'department', 'well', 'ask', 'go']"
+23,Ses03F_impro02_F010 [075.0900-076.9100]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+24,Ses03F_impro02_M004 [076.0425-077.4100]: when?,nan,nan,nan,nan,nan,0,nan,[]
+25,Ses03F_impro02_F011 [077.0475-081.4500]: It's going- It's going to be probably in about three weeks.,5.835,4.1075,5.3475,neutral,5.096666666666667,4 out of 5,"['go', 'go', 'three', 'week']","['go', 'go', 'probably', 'three', 'week']"
+26,Ses03F_impro02_M005 [081.9000-086.2325]: What?,nan,nan,nan,nan,nan,0,nan,[]
+27,You can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+28,Three weeks?,5.35,3.355,5.365,neutral,4.69,2 out of 2,"['three', 'week']","['three', 'week']"
+29,Ses03F_impro02_F012 [082.8900-083.8900]: yeah,nan,nan,nan,nan,nan,0,nan,['yeah']
+30,"Ses03F_impro02_F013 [086.3275-091.1400]: Well, I'm leaving in three weeks, but-- Yeah.",5.126666666666666,3.73,5.4,neutral,4.752222222222222,3 out of 5,"['leave', 'three', 'week']","['well', 'leave', 'three', 'week', 'yeah']"
+31,"Ses03F_impro02_M006 [089.9300-093.4225]: God, we're supposed to take a look at a house next week.",5.733333333333333,4.075,5.418333333333333,neutral,5.075555555555556,6 out of 7,"['god', 'suppose', 'take', 'look', 'house', 'week']","['god', 'suppose', 'take', 'look', 'house', 'next', 'week']"
+32,Ses03F_impro02_F014 [093.2800-095.9750]: Maybe we can still do that,nan,nan,nan,nan,nan,0,nan,"['maybe', 'still']"
+33,"Ses03F_impro02_M007 [094.9800-098.1925]: I can't- No, I can't do this alone.",6.15,6.0,5.5,positive,5.883333333333333,1 out of 3,['neg-alone'],"['ca', 'ca', 'alone']"
+34,"Ses03F_impro02_F015 [099.0150-100.8800]: Yeah, and uh--",nan,nan,nan,nan,nan,0,nan,"['yeah', 'uh']"
+35,Ses03F_impro02_M008 [099.5000-102.7700]: Amy's starting school in a month.,5.866666666666667,4.34,5.476666666666667,neutral,5.227777777777778,3 out of 4,"['start', 'school', 'month']","['amy', 'start', 'school', 'month']"
+36,"Ses03F_impro02_F016 [102.3075-109.1800]: I know, but look, I have to take this.",5.863333333333333,3.84,5.496666666666667,neutral,5.066666666666666,3 out of 3,"['know', 'look', 'take']","['know', 'look', 'take']"
+37,"I mean, if I don't, I mean, I could get fired.",5.1025,4.93,5.055,neutral,5.029166666666666,4 out of 5,"['mean', 'neg-mean', 'get', 'fire']","['mean', 'mean', 'could', 'get', 'fire']"
+38,Ses03F_impro02_F017 [109.2300-113.5000]: And we know you need-we need the money.,6.456666666666667,4.59,5.72,positive,5.588888888888889,3 out of 3,"['know', 'need', 'money']","['know', 'need', 'money']"
+39,We couldn't even- purchase a house if I didn't take this.,5.3,4.776666666666667,4.98,neutral,5.018888888888889,3 out of 5,"['neg-purchase', 'house', 'neg-take']","['could', 'even', 'purchase', 'house', 'take']"
+40,Ses03F_impro02_M009 [111.5275-112.8100]: God.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 1,['god'],['god']
+41,Ses03F_impro02_M010 [114.4600-119.0325]: You know what happened to my cousin.,6.1433333333333335,3.0900000000000003,5.53,positive,4.921111111111112,3 out of 3,"['know', 'happen', 'cousin']","['know', 'happen', 'cousin']"
+42,She went and she never came back.,5.573333333333333,3.6733333333333333,5.496666666666667,neutral,4.914444444444444,3 out of 4,"['go', 'come', 'back']","['go', 'never', 'come', 'back']"
+43,"Ses03F_impro02_F018 [118.4000-122.1275]: Honey, I'm going to come back.",5.9975,3.85,5.72,neutral,5.189166666666666,4 out of 4,"['honey', 'go', 'come', 'back']","['honey', 'go', 'come', 'back']"
+44,It's not like that.,2.5599999999999996,5.6,3.7199999999999998,negative,3.9599999999999995,1 out of 1,['neg-like'],['like']
+45,Ses03F_impro02_F019 [124.1475-128.2825]: But it- it is for a year.,5.75,3.33,5.81,neutral,4.963333333333334,1 out of 1,['year'],['year']
+46,Ses03F_impro02_M011 [127.8000-129.2625]: Oh,nan,nan,nan,nan,nan,0,nan,['oh']
+47,"Ses03F_impro02_F020 [131.1600-134.9500]: Babe, I'm sorry.",5.835,4.4350000000000005,6.220000000000001,neutral,5.496666666666667,2 out of 2,"['babe', 'sorry']","['babe', 'sorry']"
+48,But I don't want to do.,4.0,4.71,4.61,neutral,4.44,1 out of 1,['neg-want'],['want']
+49,Ses03F_impro02_M012 [135.0950-136.4900]: I can't-,nan,nan,nan,nan,nan,0,nan,['ca']
+50,"Ses03F_impro02_F021 [134.9900-141.6100]: You know as much as -as much as me that I-I want to stay here with you and Amy so bad, but I can't.",5.55,4.1325,5.11,neutral,4.930833333333333,4 out of 8,"['know', 'want', 'stay', 'bad']","['know', 'much', 'much', 'want', 'stay', 'amy', 'bad', 'ca']"
+51,Ses03F_impro02_M013 [141.8225-147.9025]: You remember the last time you went?,6.14,3.8033333333333337,5.333333333333333,positive,5.092222222222222,3 out of 4,"['remember', 'time', 'go']","['remember', 'last', 'time', 'go']"
+52,You know how hard it was for me?,5.585,3.87,5.37,neutral,4.941666666666666,2 out of 2,"['know', 'hard']","['know', 'hard']"
+53,Now we have a kid.,7.23,4.71,4.83,positive,5.590000000000001,1 out of 1,['kid'],['kid']
+54,Ses03F_impro02_F022 [147.8200-154.1975]: But you're so good with her.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+55,"You know, she knows you better than she knows me 'cause I'm at work every day.",6.3740000000000006,3.5340000000000003,5.8100000000000005,positive,5.239333333333334,5 out of 7,"['know', 'know', 'know', 'work', 'day']","['know', 'know', 'better', 'know', 'work', 'every', 'day']"
+56,Ses03F_impro02_M014 [150.7550-152.9000]: I have to work.,5.05,4.33,6.12,neutral,5.166666666666667,1 out of 1,['work'],['work']
+57,Ses03F_impro02_M015 [153.7500-155.8350]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+58,"Ses03F_impro02_F023 [156.3250-158.6525]: Babe, I love you.",7.43,4.805,6.355,positive,6.196666666666666,2 out of 2,"['babe', 'love']","['babe', 'love']"
+59,Ses03F_impro02_M016 [158.1350-161.2675]: You can't leave your daughter alone like this.,4.97,4.73,5.0625,neutral,4.920833333333333,4 out of 5,"['neg-leave', 'neg-daughter', 'alone', 'like']","['ca', 'leave', 'daughter', 'alone', 'like']"
+60,Ses03F_impro02_F024 [161.2850-165.7450]: But she has you.,nan,nan,nan,nan,nan,0,nan,[]
+61,"I mean, that's what you're there for.",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+62,You're my right-hand man.,5.42,4.36,5.44,neutral,5.073333333333334,1 out of 1,['man'],['man']
+63,Ses03F_impro02_F025 [169.3125-171.2800]: It's going to be okay.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['go', 'okay']"
+64,Ses03F_impro02_M017 [170.2300-171.8775]: You can't postpone it?,5.68,7.0600000000000005,5.24,neutral,5.993333333333333,1 out of 2,['neg-postpone'],"['ca', 'postpone']"
+65,"Ses03F_impro02_F026 [171.9575-174.2475]: No, I have to go.",6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+66,"Ses03F_impro02_F027 [176.0350-181.5675]: Wait, you can write me and as you know, send me pictures.",6.146,3.478,5.686,positive,5.1033333333333335,5 out of 5,"['wait', 'write', 'know', 'send', 'picture']","['wait', 'write', 'know', 'send', 'picture']"
+67,Ses03F_impro02_M018 [182.2500-186.3400]: I don't know if I can handle you going another year.,5.245,4.6075,5.34,neutral,5.064166666666666,4 out of 5,"['neg-know', 'handle', 'go', 'year']","['know', 'handle', 'go', 'another', 'year']"
+68,Ses03F_impro02_F028 [186.6700-189.0050]: What do you mean?,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+69,Ses03F_impro02_M019 [189.9200-195.4200]: I don't know if I- if I could take it.,4.0,5.64,4.525,neutral,4.721666666666667,2 out of 3,"['neg-know', 'take']","['know', 'could', 'take']"
+70,"Ses03F_impro02_F029 [196.3200-204.9350]: Look, I need you to be strong for me.",6.07,4.1899999999999995,5.826666666666666,positive,5.362222222222222,3 out of 3,"['look', 'need', 'strong']","['look', 'need', 'strong']"
+71,"'Cause I can't be the only one that's strong right now, really, I--",6.74,4.27,6.42,positive,5.81,3 out of 5,"['one', 'strong', 'right']","['ca', 'one', 'strong', 'right', 'really']"
+72,Ses03F_impro02_M020 [204.3800-208.4900]: I can't be that strong.,3.1900000000000004,4.86,3.46,negative,3.8366666666666673,1 out of 2,['neg-strong'],"['ca', 'strong']"
+73,A whole year.,5.805,3.4050000000000002,6.025,neutral,5.078333333333334,2 out of 2,"['whole', 'year']","['whole', 'year']"
+74,"Ses03F_impro02_M021 [209.0850-211.1600]: me, oh my god.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+75,"Ses03F_impro02_F030 [209.8721-214.6600]: But we can work, you know, we--you can write me and we could see pictures",6.264,3.714,5.86,positive,5.279333333333334,5 out of 6,"['work', 'know', 'write', 'see', 'picture']","['work', 'know', 'write', 'could', 'see', 'picture']"
+76,Ses03F_impro02_M022 [217.9700-220.0175]: What if you don't come back?,4.800000000000001,6.92,4.42,neutral,5.38,2 out of 2,"['neg-come', 'neg-back']","['come', 'back']"
+77,"Ses03F_impro02_F031 [214.7200-219.0550]: and if we survive, if we survive that then babe, you know you know we could survive any--",6.866666666666667,4.053333333333334,6.163333333333333,positive,5.6944444444444455,6 out of 7,"['survive', 'survive', 'babe', 'know', 'know', 'survive']","['survive', 'survive', 'babe', 'know', 'know', 'could', 'survive']"
+78,Ses03F_impro02_F032 [219.5625-221.0025]: I will come back.,5.199999999999999,3.08,5.58,neutral,4.62,2 out of 2,"['come', 'back']","['come', 'back']"
+79,"Ses03F_impro02_M023 [220.6050-226.6600]: What am I supposed--oh, one out of five people aren't coming back.",5.343333333333334,4.526666666666666,5.093333333333334,neutral,4.9877777777777785,6 out of 7,"['suppose', 'one', 'five', 'people', 'neg-come', 'neg-back']","['suppose', 'oh', 'one', 'five', 'people', 'come', 'back']"
+80,Ses03F_impro02_M024 [226.6950-229.1200]: It doesn't look very good.,3.08,6.29,3.855,negative,4.408333333333334,2 out of 2,"['neg-look', 'neg-good']","['look', 'good']"
+81,Ses03F_impro02_F033 [231.8125-236.4800]: I can do it.,nan,nan,nan,nan,nan,0,nan,[]
+82,I'm going to do it.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+83,And I'll be back safe and sound and-,6.303333333333334,3.29,5.976666666666667,positive,5.19,3 out of 3,"['back', 'safe', 'sound']","['back', 'safe', 'sound']"
+84,Ses03F_impro02_F034 [236.6900-239.7400]: we'll have all the money that we ever needed.,6.275,5.265000000000001,5.6899999999999995,positive,5.743333333333333,2 out of 3,"['money', 'need']","['money', 'ever', 'need']"
+85,Ses03F_impro02_F035 [239.8000-243.3049]: And- And then I'll stop working and- I'll stay home with the baby.,6.014,4.072,5.72,positive,5.268666666666667,5 out of 5,"['stop', 'work', 'stay', 'home', 'baby']","['stop', 'work', 'stay', 'home', 'baby']"
+86,Ses03F_impro02_M025 [242.0100-244.3100]: I don't want the money.,3.45,3.925,4.145,negative,3.84,2 out of 2,"['neg-want', 'neg-money']","['want', 'money']"
+87,I want-you here,nan,nan,nan,nan,nan,0,nan,[]
+88,"Ses03F_impro02_M026 [244.4100-249.0050]: we'll get money, all right?",6.836666666666667,5.176666666666667,6.376666666666667,positive,6.13,3 out of 3,"['get', 'money', 'right']","['get', 'money', 'right']"
+89,"You don't need the job, all right?",5.41,5.776666666666666,5.886666666666667,neutral,5.691111111111112,3 out of 3,"['neg-need', 'neg-job', 'right']","['need', 'job', 'right']"
+90,Ses03F_impro02_M027 [249.0675-255.5950]: If your life is going to be in danger and this family is going to be in danger we don't need the job.,5.1,5.45875,5.03875,neutral,5.199166666666667,8 out of 8,"['life', 'go', 'danger', 'family', 'go', 'danger', 'neg-need', 'neg-job']","['life', 'go', 'danger', 'family', 'go', 'danger', 'need', 'job']"
+91,We'll find the money.,6.775,5.19,6.28,positive,6.081666666666667,2 out of 2,"['find', 'money']","['find', 'money']"
+92,Ses03F_impro02_F036 [255.8325-262.1050]: It's all I ever knew how to do.,6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['ever', 'know']"
+93,I can't quit now.,6.279999999999999,5.95,5.61,positive,5.946666666666666,1 out of 2,['neg-quit'],"['ca', 'quit']"
+94,Ses03F_impro02_M028 [264.3225-269.6400]: How are we supposed to tell Amy?,5.27,3.5949999999999998,5.025,neutral,4.63,2 out of 3,"['suppose', 'tell']","['suppose', 'tell', 'amy']"
+95,How's she supposed to understand that?,5.975,3.425,5.91,neutral,5.103333333333333,2 out of 2,"['suppose', 'understand']","['suppose', 'understand']"
+96,"Ses03F_impro02_F037 [269.1575-276.7300]: Well, we- we tell her mommy's going on va- on a trip for for- a while.",6.495,4.4375,5.3175,positive,5.416666666666667,4 out of 6,"['tell', 'mommy', 'go', 'trip']","['well', 'tell', 'mommy', 'go', 'va', 'trip']"
+97,"Ses03F_impro02_M029 [277.8600-282.6200]: How is she going to feel the first year in school, no mom.",5.573333333333333,4.515000000000001,5.435,neutral,5.174444444444444,6 out of 6,"['go', 'feel', 'first', 'year', 'school', 'neg-mom']","['go', 'feel', 'first', 'year', 'school', 'mom']"
+98,Ses03F_impro02_F038 [282.3400-285.0700]: Don't do that to me.,nan,nan,nan,nan,nan,0,nan,[]
+99,"Ses03F_impro02_F039 [285.8625-289.3775]: It's hard enough already, Brian, I can't.",4.35,4.5,4.96,neutral,4.603333333333333,1 out of 5,['hard'],"['hard', 'enough', 'already', 'brian', 'ca']"
+100,Ses03F_impro02_M030 [289.6400-294.1200]: I'm not thinking about just me; I'm thinking about our child.,5.733333333333333,5.11,5.066666666666666,neutral,5.303333333333334,3 out of 3,"['neg-think', 'think', 'child']","['think', 'think', 'child']"
+101,Ses03F_impro02_F040 [293.5900-295.1750]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+102,Ses03F_impro02_F041 [296.9750-303.9250]: I didn't expect this to happen.,4.775,4.285,5.32,neutral,4.793333333333334,2 out of 2,"['neg-expect', 'happen']","['expect', 'happen']"
+103,I never planned for this.,6.14,3.86,6.28,positive,5.426666666666667,1 out of 2,['plan'],"['never', 'plan']"
+104,"Some things you just don't plan for, you know.",5.41,4.2700000000000005,4.97,neutral,4.883333333333333,3 out of 3,"['thing', 'neg-plan', 'know']","['thing', 'plan', 'know']"
+105,"Ses03F_impro02_F042 [305.5025-307.1600]: I'm sorry, babe.",5.835,4.4350000000000005,6.220000000000001,neutral,5.496666666666667,2 out of 2,"['sorry', 'babe']","['sorry', 'babe']"
+106,Ses03F_impro02_F043 [308.9325-311.2200]: I'm so sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+107,"Ses03F_impro02_M031 [311.3500-313.6200]: All right, then.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']

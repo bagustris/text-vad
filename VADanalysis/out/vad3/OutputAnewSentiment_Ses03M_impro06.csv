@@ -1,0 +1,64 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses03M_impro06_F000 [009.6133-014.6512]: How's it going?,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+2,How are you feeling?,6.27,4.05,5.5,positive,5.273333333333333,1 out of 1,['feel'],['feel']
+3,Ses03M_impro06_M000 [013.5804-016.6469]: I ah--,nan,nan,nan,nan,nan,0,nan,['ah']
+4,Ses03M_impro06_M001 [017.2553-020.0055]: alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+5,Ses03M_impro06_F001 [019.2023-022.2932]: Hanging in there?,3.1,4.86,4.61,negative,4.19,1 out of 1,['hang'],['hang']
+6,Ses03M_impro06_M002 [021.3927-024.4349]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+7,Ses03M_impro06_F002 [027.9882-031.5658]: So sad.,2.1,3.49,3.84,negative,3.143333333333333,1 out of 1,['sad'],['sad']
+8,Ses03M_impro06_M003 [030.8844-035.1434]: It just feels like I was talking to him yesterday.,6.783333333333333,3.9433333333333334,6.073333333333333,positive,5.6000000000000005,3 out of 4,"['feel', 'like', 'talk']","['feel', 'like', 'talk', 'yesterday']"
+9,Ses03M_impro06_F003 [034.1943-036.7984]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+10,Ses03M_impro06_F004 [036.8471-040.2300]: You guys were real close huh?,6.29,4.1899999999999995,5.65,positive,5.376666666666668,3 out of 4,"['guy', 'real', 'close']","['guy', 'real', 'close', 'huh']"
+11,Ses03M_impro06_M004 [040.1813-044.4160]: He was my only friend growing up.,6.535,3.4450000000000003,5.904999999999999,positive,5.295,2 out of 2,"['friend', 'grow']","['friend', 'grow']"
+12,Ses03M_impro06_M005 [044.4890-048.8941]: no one else would talk to me but he would.,5.1375,5.1775,5.220000000000001,neutral,5.178333333333334,4 out of 5,"['neg-one', 'neg-would', 'talk', 'would']","['one', 'else', 'would', 'talk', 'would']"
+13,Ses03M_impro06_M006 [048.9915-053.5183]: He was supposed to be the best man at my wedding.,6.013333333333333,4.336666666666667,5.21,positive,5.1866666666666665,3 out of 4,"['suppose', 'man', 'wedding']","['suppose', 'best', 'man', 'wedding']"
+14,Ses03M_impro06_F005 [053.4939-057.3393]: I'm so sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+15,Ses03M_impro06_M007 [057.8747-060.7465]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+16,Ses03M_impro06_M008 [060.8439-068.7049]: You know I was always the one to tell him to be more wild you know?,6.188,3.782,5.556,positive,5.175333333333334,5 out of 6,"['know', 'one', 'tell', 'wild', 'know']","['know', 'always', 'one', 'tell', 'wild', 'know']"
+17,Ses03M_impro06_F006 [067.4394-069.5811]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+18,Ses03M_impro06_M009 [068.9240-074.4242]: And he just took it overboard.,4.82,4.52,4.83,neutral,4.723333333333334,1 out of 2,['take'],"['take', 'overboard']"
+19,Ses03M_impro06_F007 [076.5173-082.7477]: What happened?,5.5,3.43,5.53,neutral,4.82,1 out of 1,['happen'],['happen']
+20,What went wrong?,4.78,5.075,4.36,neutral,4.738333333333333,2 out of 2,"['go', 'wrong']","['go', 'wrong']"
+21,Ses03M_impro06_M010 [082.6990-088.6860]: You know a stupid case of drunk driving it's just...,5.08,4.192,4.906000000000001,neutral,4.726,5 out of 5,"['know', 'stupid', 'case', 'drunk', 'drive']","['know', 'stupid', 'case', 'drunk', 'drive']"
+22,"Ses03M_impro06_M011 [088.9294-094.2593]: and the worst part of it is that he was in the car with his girlfriend,",6.319999999999999,4.15,5.54,positive,5.336666666666666,3 out of 4,"['part', 'car', 'girlfriend']","['worst', 'part', 'car', 'girlfriend']"
+23,Ses03M_impro06_M012 [094.3324-097.4719]: his girlfriend got killed too.,5.153333333333333,5.176666666666667,4.753333333333334,neutral,5.027777777777778,3 out of 3,"['girlfriend', 'get', 'kill']","['girlfriend', 'get', 'kill']"
+24,Ses03M_impro06_F008 [096.6931-098.8348]: Oh man.,5.42,4.36,5.44,neutral,5.073333333333334,1 out of 2,['man'],"['oh', 'man']"
+25,Ses03M_impro06_M013 [097.5449-100.9765]: And the car that he hit was his family.,5.943333333333333,4.623333333333333,5.846666666666667,neutral,5.471111111111111,3 out of 3,"['car', 'hit', 'family']","['car', 'hit', 'family']"
+26,Ses03M_impro06_F009 [100.1004-103.1912]: How are they?,nan,nan,nan,nan,nan,0,nan,[]
+27,Ses03M_impro06_M014 [103.0452-106.1847]: The mother and father died--,5.36,5.1033333333333335,4.86,neutral,5.107777777777778,3 out of 3,"['mother', 'father', 'die']","['mother', 'father', 'die']"
+28,Ses03M_impro06_M015 [106.3064-111.1739]: and the kids are paralyzed in a coma right now.,4.74,4.3075,4.4375,neutral,4.495,4 out of 4,"['kid', 'paralyze', 'coma', 'right']","['kid', 'paralyze', 'coma', 'right']"
+29,Ses03M_impro06_M016 [112.0501-116.6986]: and just going to the funeral it's-,4.195,4.48,4.195,neutral,4.29,2 out of 2,"['go', 'funeral']","['go', 'funeral']"
+30,"Ses03M_impro06_M017 [117.0150-121.9555]: -do I miss him or do I hate him, you know?",4.293333333333333,4.466666666666667,5.123333333333333,neutral,4.627777777777777,3 out of 3,"['miss', 'hate', 'know']","['miss', 'hate', 'know']"
+31,Ses03M_impro06_F010 [123.8051-132.2016]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+32,Like I mean if you need anyone to talk to or anything I'm here for you okay?,5.49,4.0649999999999995,5.4875,neutral,5.014166666666667,4 out of 7,"['like', 'mean', 'need', 'talk']","['like', 'mean', 'need', 'anyone', 'talk', 'anything', 'okay']"
+33,Ses03M_impro06_MXX0 [132.3569-133.0184]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+34,Ses03M_impro06_F011 [132.9074-136.8014]: We're all here for you.,nan,nan,nan,nan,nan,0,nan,[]
+35,Ses03M_impro06_M018 [137.9453-142.8858]: I was supposed to see him last summer,6.346666666666667,4.236666666666666,5.906666666666667,positive,5.496666666666666,3 out of 4,"['suppose', 'see', 'summer']","['suppose', 'see', 'last', 'summer']"
+36,Ses03M_impro06_M019 [143.6889-152.0367]: then I got busy with work and stuff and three years go by,5.701428571428571,3.9442857142857144,5.3757142857142854,neutral,5.007142857142857,7 out of 7,"['get', 'busy', 'work', 'stuff', 'three', 'year', 'go']","['get', 'busy', 'work', 'stuff', 'three', 'year', 'go']"
+37,Ses03M_impro06_M020 [152.3044-156.2958]: and then something like this happens you know?,6.586666666666667,3.6900000000000004,5.863333333333333,positive,5.38,3 out of 4,"['like', 'happen', 'know']","['something', 'like', 'happen', 'know']"
+38,Ses03M_impro06_M021 [156.4905-161.4797]: I mean I haven't even talked to him on the phone for the past three months.,4.696666666666666,4.431666666666667,4.641666666666667,neutral,4.59,6 out of 7,"['mean', 'neg-talk', 'phone', 'past', 'three', 'month']","['mean', 'even', 'talk', 'phone', 'past', 'three', 'month']"
+39,Ses03M_impro06_M022 [161.7717-164.8139]: He's supposed to be my best friend.,6.029999999999999,3.81,5.71,positive,5.183333333333334,2 out of 3,"['suppose', 'friend']","['suppose', 'best', 'friend']"
+40,Ses03M_impro06_F012 [164.0351-166.3472]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+41,Ses03M_impro06_F013 [167.9048-175.1087]: just things happen in life and you just...there's just no explanation you know?,4.906,5.032,4.982,neutral,4.973333333333333,5 out of 5,"['thing', 'happen', 'life', 'neg-explanation', 'neg-know']","['thing', 'happen', 'life', 'explanation', 'know']"
+42,We just don't...,nan,nan,nan,nan,nan,0,nan,[]
+43,Ses03M_impro06_M023 [175.1087-178.2726]: It's so fucked up.,5.23,7.14,5.47,neutral,5.946666666666666,1 out of 1,['fuck'],['fuck']
+44,Ses03M_impro06_F014 [177.1044-179.2704]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+45,Ses03M_impro06_F015 [180.8037-182.9697]: I'm so sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+46,Ses03M_impro06_M024 [182.0206-184.6003]: Why is that?,nan,nan,nan,nan,nan,0,nan,[]
+47,Ses03M_impro06_M025 [185.4522-189.8573]: He was studying to be a doctor.,5.855,3.3,5.01,neutral,4.721666666666667,2 out of 2,"['study', 'doctor']","['study', 'doctor']"
+48,"Ses03M_impro06_M026 [190.0520-199.5193]: I mean he was...he wanted to help people in poor countries, that is his goal.",5.382857142857143,4.458571428571428,5.538571428571428,neutral,5.126666666666666,7 out of 7,"['mean', 'want', 'help', 'people', 'poor', 'country', 'goal']","['mean', 'want', 'help', 'people', 'poor', 'country', 'goal']"
+49,He didn't care about the money.,4.73,7.095000000000001,4.880000000000001,neutral,5.568333333333334,2 out of 2,"['neg-care', 'money']","['care', 'money']"
+50,He just wanted to go and help people.,6.2425,4.5525,5.7524999999999995,positive,5.515833333333333,4 out of 4,"['want', 'go', 'help', 'people']","['want', 'go', 'help', 'people']"
+51,Ses03M_impro06_M027 [199.6100-204.8248]: What the...what am I doing?,nan,nan,nan,nan,nan,0,nan,[]
+52,Ses03M_impro06_M028 [204.8979-208.8892]: Working for corporate America?,4.975,4.535,5.585,neutral,5.031666666666666,2 out of 3,"['work', 'corporate']","['work', 'corporate', 'america']"
+53,Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+54,Ses03M_impro06_M029 [209.0109-212.8562]: He actually wanted to do something.,6.0,5.29,5.39,neutral,5.56,1 out of 3,['want'],"['actually', 'want', 'something']"
+55,"Ses03M_impro06_F016 [212.9536-219.8655]: Well now you can follow his footsteps, you know?",5.82,3.5,5.295,neutral,4.871666666666667,2 out of 4,"['follow', 'know']","['well', 'follow', 'footstep', 'know']"
+56,Carry out what he wanted to do.,5.835,4.38,5.165,neutral,5.126666666666666,2 out of 2,"['carry', 'want']","['carry', 'want']"
+57,Ses03M_impro06_M030 [219.2327-221.3744]: I can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+58,Ses03M_impro06_F017 [220.2792-223.6378]: Well sure you could.,6.64,3.48,6.82,positive,5.646666666666666,1 out of 3,['sure'],"['well', 'sure', 'could']"
+59,Ses03M_impro06_M031 [224.3922-226.9233]: You should've met him.,6.09,3.71,5.89,positive,5.23,1 out of 1,['meet'],['meet']
+60,Ses03M_impro06_M032 [227.0694-229.3084]: He is the greatest...everyone liked him.,7.44,4.4,6.28,positive,6.04,1 out of 3,['like'],"['greatest', 'everyone', 'like']"
+61,Ses03M_impro06_F018 [228.6513-230.6713]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+62,Ses03M_impro06_F019 [231.9856-234.9547]: I would've loved to.,6.955,4.585,5.93,positive,5.823333333333333,2 out of 2,"['would', 'love']","['would', 'love']"
+63,Ses03M_impro06_F020 [240.3577-244.3490]: Now I can't.,nan,nan,nan,nan,nan,0,nan,['ca']

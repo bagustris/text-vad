@@ -1,0 +1,174 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses03F_script01_1_F000 [003.2570-010.0721]: What's he going to say?,6.115,4.645,6.105,positive,5.621666666666667,2 out of 2,"['go', 'say']","['go', 'say']"
+2,Maybe we ought to talk to him before he sees it.,5.97,3.4266666666666667,5.61,neutral,5.002222222222223,3 out of 4,"['ought', 'talk', 'see']","['maybe', 'ought', 'talk', 'see']"
+3,Ses03F_script01_1_M000 [008.9773-012.3712]: He saw it.,4.16,4.18,4.67,neutral,4.336666666666667,1 out of 1,['saw'],['saw']
+4,Ses03F_script01_1_F001 [011.6048-016.5588]: What-how did he see it?,6.27,3.9,6.0,positive,5.390000000000001,1 out of 1,['see'],['see']
+5,"I mean, I was the first one up.",5.283333333333333,4.126666666666667,5.37,neutral,4.926666666666667,3 out of 3,"['mean', 'first', 'one']","['mean', 'first', 'one']"
+6,He was still in bed.,7.16,3.0,6.73,positive,5.63,1 out of 2,['bed'],"['still', 'bed']"
+7,Ses03F_script01_1_M001 [015.9019-018.0915]: He was out there when it happened.,5.5,3.43,5.53,neutral,4.82,1 out of 1,['happen'],['happen']
+8,Ses03F_script01_1_F002 [017.5989-019.5969]: When?,nan,nan,nan,nan,nan,0,nan,[]
+9,"Ses03F_script01_1_M002 [019.0221-028.3005]: Um, about four this morning.",5.835,3.67,6.0,neutral,5.168333333333333,2 out of 3,"['four', 'morning']","['um', 'four', 'morning']"
+10,Uh- I heard a crack and I looked out and I saw him standing there.,4.948,3.9819999999999998,5.7139999999999995,neutral,4.881333333333333,5 out of 6,"['hear', 'crack', 'look', 'saw', 'stand']","['uh', 'hear', 'crack', 'look', 'saw', 'stand']"
+11,Ses03F_script01_1_F003 [027.5250-029.8059]: What was he doing out at four in the morning?,5.835,3.67,6.0,neutral,5.168333333333333,2 out of 2,"['four', 'morning']","['four', 'morning']"
+12,Ses03F_script01_1_M003 [029.3175-035.0335]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+13,But after it cracked he went back in the house and he cried in the kitchen.,5.056666666666667,4.2700000000000005,5.138333333333334,neutral,4.821666666666667,6 out of 6,"['crack', 'go', 'back', 'house', 'cry', 'kitchen']","['crack', 'go', 'back', 'house', 'cry', 'kitchen']"
+14,Ses03F_script01_1_F004 [034.2398-036.7304]: Did you talk to him?,6.64,3.38,6.44,positive,5.486666666666667,1 out of 1,['talk'],['talk']
+15,"Ses03F_script01_1_M004 [036.0188-041.8486]: No, I uh-, I figured the best thing to do was to leave him alone.",4.7924999999999995,3.895,5.1925,neutral,4.626666666666666,4 out of 6,"['figure', 'thing', 'leave', 'alone']","['uh', 'figure', 'best', 'thing', 'leave', 'alone']"
+16,"Ses03F_script01_1_F005 [042.1223-045.5709]: He cried hard, huh?",3.785,4.975,3.76,negative,4.173333333333333,2 out of 3,"['cry', 'hard']","['cry', 'hard', 'huh']"
+17,Ses03F_script01_1_M005 [045.0509-048.2806]: I could hear it right through the floor.,6.38,3.9833333333333334,6.753333333333333,positive,5.705555555555556,3 out of 4,"['hear', 'right', 'floor']","['could', 'hear', 'right', 'floor']"
+18,Ses03F_script01_1_F006 [047.3773-056.3547]: What was he doing out there at that time?,5.6,3.41,4.36,neutral,4.456666666666667,1 out of 1,['time'],['time']
+19,He was dreaming about him again.,7.43,4.37,5.4,positive,5.733333333333334,1 out of 1,['dream'],['dream']
+20,He's walking around at night again.,6.725,3.4050000000000002,5.525,positive,5.218333333333333,2 out of 3,"['walk', 'night']","['walk', 'around', 'night']"
+21,Ses03F_script01_1_M006 [055.2873-058.6264]: I guess he is.,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+22,"Ses03F_script01_1_F007 [058.8453-062.8961]: Could he-he's acting just like he did after he died, you know?",5.3925,4.6825,5.3625,neutral,5.145833333333333,4 out of 5,"['act', 'like', 'die', 'know']","['could', 'act', 'like', 'die', 'know']"
+23,Ses03F_script01_1_F008 [062.9508-066.1805]: What's the meaning in that?,6.45,4.05,6.53,positive,5.676666666666667,1 out of 1,['meaning'],['meaning']
+24,Ses03F_script01_1_M007 [065.1404-067.7406]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+25,"Ses03F_script01_1_M008 [067.8774-073.4061]: But I know one thing, mom.",6.525,3.49,5.76,positive,5.258333333333334,4 out of 4,"['know', 'one', 'thing', 'mom']","['know', 'one', 'thing', 'mom']"
+26,We've made a terrible mistake with dad.,4.555,4.26,5.1075,neutral,4.640833333333333,4 out of 4,"['make', 'terrible', 'mistake', 'dad']","['make', 'terrible', 'mistake', 'dad']"
+27,"Ses03F_script01_1_F009 [072.6672-075.9242]: Well, what do you mean?",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['well', 'mean']"
+28,What?,nan,nan,nan,nan,nan,0,nan,[]
+29,Ses03F_script01_1_M009 [075.1852-080.8234]: Being dishonest with him.,3.0,4.95,5.0,negative,4.316666666666666,1 out of 1,['dishonest'],['dishonest']
+30,That kind of thing always pays off and now it's paying off.,6.4475,3.7750000000000004,6.4225,positive,5.548333333333333,4 out of 5,"['kind', 'thing', 'pay', 'pay']","['kind', 'thing', 'always', 'pay', 'pay']"
+31,"Ses03F_script01_1_F010 [080.0844-083.0500]: What do you mean, dishonest?",2.715,4.88,4.585,negative,4.06,2 out of 2,"['mean', 'dishonest']","['mean', 'dishonest']"
+32,Ses03F_script01_1_M010 [082.4656-089.2533]: You know Larry's not coming back and I know that too.,5.8100000000000005,5.08,5.1,neutral,5.33,4 out of 5,"['know', 'neg-come', 'neg-back', 'know']","['know', 'larry', 'come', 'back', 'know']"
+33,Why do we go on letting him think that we believe with him?,6.5,3.6625,6.1125,positive,5.425,4 out of 4,"['go', 'let', 'think', 'believe']","['go', 'let', 'think', 'believe']"
+34,"Ses03F_script01_1_F011 [088.2406-091.1145]: What, you're going to argue with him?",4.735,5.765000000000001,5.05,neutral,5.183333333333334,2 out of 2,"['go', 'argue']","['go', 'argue']"
+35,"Ses03F_script01_1_M011 [089.7734-097.5550]: No, I don't want to argue with him, but it's time that he realized that no one believes that Larry's coming back anymore.",5.01875,4.35625,5.0225,neutral,4.799166666666667,8 out of 10,"['neg-want', 'neg-argue', 'time', 'realize', 'neg-one', 'neg-believe', 'come', 'back']","['want', 'argue', 'time', 'realize', 'one', 'believe', 'larry', 'come', 'back', 'anymore']"
+36,Ses03F_script01_1_F012 [096.8622-099.6265]: You can't tell him that.,4.73,6.140000000000001,5.06,neutral,5.31,1 out of 2,['neg-tell'],"['ca', 'tell']"
+37,Ses03F_script01_1_M012 [098.5044-101.4877]: We got to tell him that.,5.68,3.7649999999999997,5.295,neutral,4.913333333333333,2 out of 2,"['get', 'tell']","['get', 'tell']"
+38,Ses03F_script01_1_F013 [100.6119-107.0438]: We can't.,nan,nan,nan,nan,nan,0,nan,['ca']
+39,It just won't work.,4.95,5.67,3.88,neutral,4.833333333333333,1 out of 2,['neg-work'],"['wo', 'work']"
+40,"Ses03F_script01_1_M013 [114.5431-122.2615]: You know, for God's sakes it's been three years.",5.836,3.742,5.442,neutral,5.006666666666667,5 out of 5,"['know', 'god', 'sake', 'three', 'year']","['know', 'god', 'sake', 'three', 'year']"
+41,No one comes back after three years.,4.938,5.576,4.908,neutral,5.140666666666667,5 out of 5,"['neg-one', 'neg-come', 'neg-back', 'three', 'year']","['one', 'come', 'back', 'three', 'year']"
+42,It's insane.,2.55,5.14,3.74,negative,3.81,1 out of 1,['insane'],['insane']
+43,Ses03F_script01_1_F014 [121.1393-124.3416]: They do come back.,5.199999999999999,3.08,5.58,neutral,4.62,2 out of 2,"['come', 'back']","['come', 'back']"
+44,"Ses03F_script01_1_F015 [124.4237-127.7628]: I know, but he doesn't know that.",5.0,5.0,5.0,neutral,5.0,2 out of 2,"['know', 'neg-know']","['know', 'know']"
+45,Ses03F_script01_1_F016 [128.1460-132.0325]: Three years has been a long time.,5.593333333333333,3.3733333333333335,5.206666666666667,neutral,4.724444444444445,3 out of 4,"['three', 'year', 'time']","['three', 'year', 'long', 'time']"
+46,Ses03F_script01_1_M014 [131.1841-136.4665]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+47,"Just- Sit down, mom.",6.73,3.9050000000000002,6.175,positive,5.603333333333334,2 out of 2,"['sit', 'mom']","['sit', 'mom']"
+48,I want to talk to you.,6.32,4.335,5.915,positive,5.523333333333333,2 out of 2,"['want', 'talk']","['want', 'talk']"
+49,"Ses03F_script01_1_F017 [136.6033-145.9638]: It's those Goddamn newspapers, you know?",5.246666666666667,3.9066666666666667,5.14,neutral,4.764444444444444,3 out of 3,"['goddamn', 'newspaper', 'know']","['goddamn', 'newspaper', 'know']"
+50,"I mean, it's like every day they come out with this new person that comes along.",5.898571428571429,4.117142857142857,5.591428571428572,neutral,5.2023809523809526,7 out of 9,"['mean', 'like', 'day', 'come', 'new', 'person', 'come']","['mean', 'like', 'every', 'day', 'come', 'new', 'person', 'come', 'along']"
+51,And the next one's going to be Larry.,6.205,3.765,5.445,positive,5.138333333333334,2 out of 4,"['one', 'go']","['next', 'one', 'go', 'larry']"
+52,Ses03F_script01_1_M015 [144.4585-148.5913]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+53,All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+54,"Just come on, sit down.",5.73,3.38,6.0,neutral,5.036666666666666,2 out of 2,"['come', 'sit']","['come', 'sit']"
+55,Ses03F_script01_1_F018 [149.0566-152.1494]: What?,nan,nan,nan,nan,nan,0,nan,[]
+56,"Ses03F_script01_1_M016 [151.1367-155.3100]: You know-you know why I asked Annie here, right?",6.696666666666667,3.9066666666666667,6.41,positive,5.671111111111112,3 out of 4,"['know', 'ask', 'right']","['know', 'ask', 'annie', 'right']"
+57,Ses03F_script01_1_F019 [153.9832-156.7749]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+58,Ses03F_script01_1_M017 [155.8717-158.3350]: You know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+59,"Ses03F_script01_1_F020 [157.4044-162.3858]: Well, I have an idea, but go on, tell me, what's the story?",6.4775,4.225,5.4275,positive,5.376666666666668,4 out of 5,"['idea', 'go', 'tell', 'story']","['well', 'idea', 'go', 'tell', 'story']"
+60,Ses03F_script01_1_M018 [161.7563-166.1355]: I want to ask her to marry me.,6.346666666666667,4.763333333333334,5.783333333333333,positive,5.63111111111111,3 out of 3,"['want', 'ask', 'marry']","['want', 'ask', 'marry']"
+61,"Ses03F_script01_1_F021 [165.9165-170.9252]: Well, that's only your business, Chris.",5.48,3.71,5.35,neutral,4.846666666666667,1 out of 3,['business'],"['well', 'business', 'chris']"
+62,"Ses03F_script01_1_M019 [169.4198-172.5948]: Come on, you know that's not only my business.",5.66,4.366666666666667,5.456666666666667,neutral,5.161111111111111,3 out of 3,"['come', 'know', 'neg-business']","['come', 'know', 'business']"
+63,"Ses03F_script01_1_F022 [171.9653-177.5761]: Well, it is.",nan,nan,nan,nan,nan,0,nan,['well']
+64,"I mean, what do you want me to do?",4.215,5.05,4.779999999999999,neutral,4.681666666666667,2 out of 2,"['mean', 'want']","['mean', 'want']"
+65,You're grown up; you know what's going on in your mind.,6.53,3.9375,5.675,positive,5.380833333333334,4 out of 4,"['grow', 'know', 'go', 'mind']","['grow', 'know', 'go', 'mind']"
+66,Ses03F_script01_1_M020 [176.7276-181.3805]: So it's all right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+67,I'll just go ahead with it.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['go', 'ahead']"
+68,"Ses03F_script01_1_F023 [180.5868-187.1282]: Well, you better make sure your father's not- No- I'm just saying.",6.38,3.815,6.2775,positive,5.490833333333334,4 out of 6,"['make', 'sure', 'father', 'say']","['well', 'better', 'make', 'sure', 'father', 'say']"
+69,"Ses03F_script01_1_M021 [182.5574-186.7450]: See, then it's not just my business.",5.395,5.095,5.325,neutral,5.271666666666666,2 out of 2,"['see', 'neg-business']","['see', 'business']"
+70,"God, you have",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 1,['god'],['god']
+71,"Ses03F_script01_1_M022 [186.7724-193.1475]: -Oh, you infuriate me sometimes.",nan,nan,nan,nan,nan,0,nan,"['oh', 'infuriate', 'sometimes']"
+72,"You know, it's not just my business too if dad throws a fit.",6.062,4.49,5.756,positive,5.436,5 out of 5,"['know', 'neg-business', 'dad', 'throw', 'fit']","['know', 'business', 'dad', 'throw', 'fit']"
+73,Ses03F_script01_1_M023 [193.2043-197.4467]: God.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 1,['god'],['god']
+74,You have such a talent for ignoring things.,5.06,4.276666666666666,5.45,neutral,4.928888888888888,3 out of 3,"['talent', 'ignore', 'thing']","['talent', 'ignore', 'thing']"
+75,"Ses03F_script01_1_F024 [196.6803-200.1015]: Yeah, well I ignore what I got to ignore.",4.25,3.7566666666666664,5.1033333333333335,neutral,4.37,3 out of 5,"['ignore', 'get', 'ignore']","['yeah', 'well', 'ignore', 'get', 'ignore']"
+76,Ses03F_script01_1_F025 [200.1836-205.8492]: And she-she's Larry's girl.,7.15,5.23,5.27,positive,5.883333333333333,1 out of 2,['girl'],"['larry', 'girl']"
+77,"Ses03F_script01_1_M024 [204.2344-207.9020]: No, she is not Larry's girl.",2.8499999999999996,4.77,4.73,negative,4.116666666666666,1 out of 2,['neg-girl'],"['larry', 'girl']"
+78,"Ses03F_script01_1_F026 [207.0261-214.8813]: Well, from your father's point of view she is.",6.333333333333333,3.6133333333333333,6.1,positive,5.348888888888889,3 out of 4,"['father', 'point', 'view']","['well', 'father', 'point', 'view']"
+79,"I mean, he's still alive.",4.5,5.369999999999999,5.47,neutral,5.113333333333333,2 out of 3,"['mean', 'alive']","['mean', 'still', 'alive']"
+80,You've got no right to take her.,4.6499999999999995,4.716666666666667,4.553333333333334,neutral,4.640000000000001,3 out of 3,"['get', 'neg-right', 'neg-take']","['get', 'right', 'take']"
+81,"Ses03F_script01_1_F027 [214.9360-220.5742]: If you go on from that point, I don't know where you go.",5.3175,5.085,5.2875,neutral,5.2299999999999995,4 out of 4,"['go', 'point', 'neg-know', 'go']","['go', 'point', 'know', 'go']"
+82,"Ses03F_script01_1_F028 [220.6525-225.0082]: 'Cause listen, I'm telling you, I don't know where to go from there.",5.42,4.81,5.0125,neutral,5.0808333333333335,4 out of 4,"['listen', 'tell', 'neg-know', 'go']","['listen', 'tell', 'know', 'go']"
+83,Do you?,nan,nan,nan,nan,nan,0,nan,[]
+84,"Ses03F_script01_1_M025 [223.8860-227.0883]: Oh, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['oh', 'know']"
+85,Ses03F_script01_1_F029 [225.0355-227.5262]: What do you want from me?,6.0,5.29,5.39,neutral,5.56,1 out of 1,['want'],['want']
+86,Ses03F_script01_1_M026 [227.2850-239.2132]: Every time I reach out for something I have to pull back because other people will suffer.,4.913333333333333,3.62,5.003333333333333,neutral,4.5122222222222215,6 out of 8,"['time', 'reach', 'pull', 'back', 'people', 'suffer']","['every', 'time', 'reach', 'something', 'pull', 'back', 'people', 'suffer']"
+87,"My whole entire life, time and time after time.",5.835,3.691666666666667,5.045,neutral,4.857222222222222,6 out of 6,"['whole', 'entire', 'life', 'time', 'time', 'time']","['whole', 'entire', 'life', 'time', 'time', 'time']"
+88,Ses03F_script01_1_F030 [238.5837-242.8534]: You're a considerate fella and there's nothing wrong in that.,5.220000000000001,4.48,4.8950000000000005,neutral,4.865000000000001,2 out of 4,"['considerate', 'wrong']","['considerate', 'fella', 'nothing', 'wrong']"
+89,Ses03F_script01_1_M027 [241.4301-244.2766]: To hell with that.,2.55,6.26,3.47,negative,4.093333333333333,1 out of 1,['hell'],['hell']
+90,Ses03F_script01_1_F031 [244.2492-247.3694]: There's nothing wrong with it.,3.24,5.29,3.39,negative,3.973333333333334,1 out of 2,['wrong'],"['nothing', 'wrong']"
+91,Ses03F_script01_1_M028 [251.2833-255.3614]: I didn't ask Annie yet.,4.05,6.52,3.71,neutral,4.760000000000001,1 out of 3,['neg-ask'],"['ask', 'annie', 'yet']"
+92,Ses03F_script01_1_F032 [254.1571-258.2079]: You didn't ask her yet?,4.05,6.52,3.71,neutral,4.760000000000001,1 out of 2,['neg-ask'],"['ask', 'yet']"
+93,Ses03F_script01_1_M029 [257.4963-260.8175]: I wanted to get this settled first.,6.26,4.315,5.895,positive,5.489999999999999,4 out of 4,"['want', 'get', 'settle', 'first']","['want', 'get', 'settle', 'first']"
+94,"Ses03F_script01_1_F033 [260.3400-264.6275]: Well, how do you know she's going to marry you?",6.743333333333333,4.54,5.593333333333334,positive,5.625555555555555,3 out of 4,"['know', 'go', 'marry']","['well', 'know', 'go', 'marry']"
+95,"I mean, what if she feels the same way as your father?",5.3725,3.86,4.9225,neutral,4.718333333333334,4 out of 4,"['mean', 'feel', 'way', 'father']","['mean', 'feel', 'way', 'father']"
+96,Ses03F_script01_1_M030 [264.1400-270.7175]: Well then I guess it's over then.,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 2,['guess'],"['well', 'guess']"
+97,But from her letters I think she's forgotten him.,5.363333333333333,3.79,5.323333333333333,neutral,4.825555555555556,3 out of 3,"['letter', 'think', 'forget']","['letter', 'think', 'forget']"
+98,Ses03F_script01_1_M031 [270.7975-276.2850]: I'll find out.,6.45,3.52,6.24,positive,5.403333333333333,1 out of 1,['find'],['find']
+99,"But then after it's all over we'll thrash it out with dad, right?",5.98,4.45,6.11,neutral,5.513333333333333,3 out of 3,"['thrash', 'dad', 'right']","['thrash', 'dad', 'right']"
+100,"Ses03F_script01_1_M032 [276.3542-279.3101]: Mom, don't avoid me.",6.77,5.35,5.74,positive,5.953333333333333,2 out of 2,"['mom', 'neg-avoid']","['mom', 'avoid']"
+101,"Ses03F_script01_1_F034 [278.4343-283.9904]: You know, the trouble is you've never had enough women.",5.593333333333334,4.21,5.3533333333333335,neutral,5.052222222222222,3 out of 5,"['know', 'trouble', 'woman']","['know', 'trouble', 'never', 'enough', 'woman']"
+102,"No, you never did.",nan,nan,nan,nan,nan,0,nan,['never']
+103,Ses03F_script01_1_M033 [283.1693-286.4537]: So what?,nan,nan,nan,nan,nan,0,nan,[]
+104,I'm not fast with women.,2.91,6.2,4.07,negative,4.3933333333333335,1 out of 2,['neg-woman'],"['fast', 'woman']"
+105,Ses03F_script01_1_F035 [285.3589-290.2581]: I don't understand why it has to be her.,3.3200000000000003,6.48,3.29,negative,4.363333333333333,1 out of 1,['neg-understand'],['understand']
+106,Ses03F_script01_1_M034 [288.7527-292.4203]: Because it is.,nan,nan,nan,nan,nan,0,nan,[]
+107,"Ses03F_script01_1_F036 [292.2561-298.1406]: That's a good answer, but it doesn't answer anything.",5.963333333333333,4.553333333333334,5.47,neutral,5.328888888888888,3 out of 4,"['good', 'answer', 'neg-answer']","['good', 'answer', 'answer', 'anything']"
+108,Ses03F_script01_1_M035 [298.1680-301.0418]: I just-,nan,nan,nan,nan,nan,0,nan,[]
+109,"Ses03F_script01_1_F037 [298.9343-304.2988]: I mean, you haven't seen her since the war.",2.796666666666667,5.726666666666667,3.8133333333333335,negative,4.112222222222222,3 out of 4,"['mean', 'neg-see', 'war']","['mean', 'see', 'since', 'war']"
+110,"I mean, it's been five years.",4.526666666666667,3.8966666666666665,5.21,neutral,4.544444444444444,3 out of 3,"['mean', 'five', 'year']","['mean', 'five', 'year']"
+111,Ses03F_script01_1_M036 [303.7514-307.6380]: It just is.,nan,nan,nan,nan,nan,0,nan,[]
+112,I-,nan,nan,nan,nan,nan,0,nan,[]
+113,Ses03F_script01_1_M037 [307.8569-318.8596]: I grew up with her.,6.28,2.6,5.5,positive,4.793333333333334,1 out of 1,['grow'],['grow']
+114,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+115,"All these years, when I think of someone I want to be my wife I think of Annie.",6.362,4.066,5.9399999999999995,positive,5.456,5 out of 7,"['year', 'think', 'want', 'wife', 'think']","['year', 'think', 'someone', 'want', 'wife', 'think', 'annie']"
+116,"What do you want, a diagram?",5.734999999999999,4.5,5.76,neutral,5.331666666666666,2 out of 2,"['want', 'diagram']","['want', 'diagram']"
+117,"Ses03F_script01_1_F038 [316.9711-320.2008]: No, I don't want a diagram.",4.265000000000001,5.5,4.24,neutral,4.668333333333334,2 out of 2,"['neg-want', 'neg-diagram']","['want', 'diagram']"
+118,Ses03F_script01_1_F039 [320.2550-331.3951]: He thinks he's coming back.,5.693333333333333,3.3033333333333332,5.886666666666667,neutral,4.961111111111111,3 out of 3,"['think', 'come', 'back']","['think', 'come', 'back']"
+119,"You go-go on and marry her, I mean, you're pronouncing her dead.",4.2875,4.2475,4.585,neutral,4.373333333333334,4 out of 4,"['marry', 'mean', 'pronounce', 'dead']","['marry', 'mean', 'pronounce', 'dead']"
+120,"And what's going to happen to your father, huh?",6.233333333333333,3.99,5.3500000000000005,positive,5.191111111111112,3 out of 4,"['go', 'happen', 'father']","['go', 'happen', 'father', 'huh']"
+121,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+122,Do you?,nan,nan,nan,nan,nan,0,nan,[]
+123,Ses03F_script01_1_M038 [330.0813-333.4478]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+124,"All right, then.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+125,"Ses03F_script01_1_F040 [333.7215-339.8798]: Just, listen.",6.91,3.76,5.56,positive,5.41,1 out of 1,['listen'],['listen']
+126,"Give it more thought, is all.",7.205,4.16,6.109999999999999,positive,5.825,2 out of 2,"['give', 'think']","['give', 'think']"
+127,"Ses03F_script01_1_M039 [339.1134-342.7526]: No, I've given it three years of thought.",6.4175,3.8600000000000003,5.7825,positive,5.353333333333333,4 out of 4,"['give', 'three', 'year', 'thought']","['give', 'three', 'year', 'thought']"
+128,Ses03F_script01_1_M040 [342.7800-351.2383]: And I thought that if I waited then dad would forget about Larry and then we could have a regular wedding and everything happy.,6.24,4.335,5.8,positive,5.458333333333333,8 out of 11,"['think', 'wait', 'dad', 'would', 'forget', 'regular', 'wedding', 'happy']","['think', 'wait', 'dad', 'would', 'forget', 'larry', 'could', 'regular', 'wedding', 'everything', 'happy']"
+129,Ses03F_script01_1_M041 [351.3204-355.1795]: But if I can't have that here then I'll get out.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 2,['get'],"['ca', 'get']"
+130,Ses03F_script01_1_F041 [354.6595-357.4786]: What the hell is this?,2.55,6.26,3.47,negative,4.093333333333333,1 out of 1,['hell'],['hell']
+131,Ses03F_script01_1_M042 [356.9038-362.9800]: I'll get out.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+132,I'll marry her somewhere else.,7.09,5.52,5.67,positive,6.093333333333334,1 out of 3,['marry'],"['marry', 'somewhere', 'else']"
+133,Maybe New York.,7.68,5.14,5.22,positive,6.013333333333333,1 out of 3,['new'],"['maybe', 'new', 'york']"
+134,Ses03F_script01_1_F042 [361.3378-364.7316]: You're crazy.,5.14,5.9,4.19,neutral,5.076666666666667,1 out of 1,['crazy'],['crazy']
+135,Ses03F_script01_1_M043 [364.5674-369.0014]: I've been a sucker too long.,4.0,4.74,4.17,neutral,4.303333333333334,1 out of 2,['sucker'],"['sucker', 'long']"
+136,I'm through with it.,nan,nan,nan,nan,nan,0,nan,[]
+137,Ses03F_script01_1_F043 [368.2897-374.2837]: You're what-you're going to leave the business?,5.493333333333333,4.3500000000000005,5.383333333333333,neutral,5.075555555555556,3 out of 3,"['go', 'leave', 'business']","['go', 'leave', 'business']"
+138,But you can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+139,What the hell is this?,2.55,6.26,3.47,negative,4.093333333333333,1 out of 1,['hell'],['hell']
+140,Ses03F_script01_1_M044 [372.8605-376.8292]: The business.,5.48,3.71,5.35,neutral,4.846666666666667,1 out of 1,['business'],['business']
+141,The business doesn't inspire me.,4.03,3.905,4.119999999999999,neutral,4.0183333333333335,2 out of 2,"['business', 'neg-inspire']","['business', 'inspire']"
+142,"Ses03F_script01_1_F044 [375.8438-378.4987]: Oh, you have to be inspired.",7.42,5.9,7.11,positive,6.81,1 out of 2,['inspire'],"['oh', 'inspire']"
+143,Ses03F_script01_1_M045 [377.8966-393.3475]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+144,I like it an hour out of the day.,6.283333333333333,3.8000000000000003,6.04,positive,5.374444444444445,3 out of 3,"['like', 'hour', 'day']","['like', 'hour', 'day']"
+145,If I have to grub for money all day long at least that evening I want it beautiful.,6.386666666666667,4.838333333333334,5.593333333333334,positive,5.606111111111112,6 out of 8,"['grub', 'money', 'day', 'evening', 'want', 'beautiful']","['grub', 'money', 'day', 'long', 'least', 'evening', 'want', 'beautiful']"
+146,I want a wife.,6.35,4.75,5.445,positive,5.515000000000001,2 out of 2,"['want', 'wife']","['want', 'wife']"
+147,I want a family.,6.625,4.82,5.6850000000000005,positive,5.710000000000001,2 out of 2,"['want', 'family']","['want', 'family']"
+148,I want some kids.,6.615,5.0,5.109999999999999,positive,5.575,2 out of 2,"['want', 'kid']","['want', 'kid']"
+149,I want to build something I can give myself to.,6.6866666666666665,4.413333333333333,5.87,positive,5.656666666666666,3 out of 4,"['want', 'build', 'give']","['want', 'build', 'something', 'give']"
+150,"Ses03F_script01_1_M046 [393.4153-396.3876]: Now, Annie's in the middle of all that.",5.22,2.85,5.11,neutral,4.3933333333333335,1 out of 2,['middle'],"['annie', 'middle']"
+151,"Ses03F_script01_1_M047 [396.4150-399.4641]: Now, where do I find it?",6.45,3.52,6.24,positive,5.403333333333333,1 out of 1,['find'],['find']
+152,Ses03F_script01_1_F045 [399.1904-401.7358]: Tell me something.,5.27,3.86,4.94,neutral,4.69,1 out of 2,['tell'],"['tell', 'something']"
+153,Ses03F_script01_1_F046 [401.8550-404.0125]: You'd leave that business.,5.08,4.095000000000001,5.41,neutral,4.861666666666667,2 out of 2,"['leave', 'business']","['leave', 'business']"
+154,Ses03F_script01_1_M048 [403.4327-407.4835]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+155,On this I would.,5.91,3.81,5.94,neutral,5.22,1 out of 1,['would'],['would']
+156,Ses03F_script01_1_F047 [406.5803-410.6858]: You can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+157,Ses03F_script01_1_M049 [410.2205-413.9975]: Then help me stay here.,6.545,3.715,6.3,positive,5.52,2 out of 2,"['help', 'stay']","['help', 'stay']"
+158,"Ses03F_script01_1_F048 [412.9848-418.8146]: All right, but you can't do that.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['right', 'ca']"
+159,You can't talk like that.,2.96,6.109999999999999,3.6399999999999997,negative,4.236666666666667,2 out of 3,"['neg-talk', 'neg-like']","['ca', 'talk', 'like']"
+160,Ses03F_script01_1_M050 [418.8694-422.0990]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+161,Just-,nan,nan,nan,nan,nan,0,nan,[]
+162,Ses03F_script01_1_F049 [420.4294-426.7245]: We've worked all our lives for you.,5.865,4.96,6.005,neutral,5.609999999999999,2 out of 2,"['work', 'life']","['work', 'life']"
+163,"Only for you, Chris.",nan,nan,nan,nan,nan,0,nan,['chris']
+164,The whole shootin' match is for you.,5.735,3.2649999999999997,6.15,neutral,5.05,2 out of 3,"['whole', 'match']","['whole', 'shootin', 'match']"
+165,"Ses03F_script01_1_M051 [425.2466-429.5163]: Yeah, I know, I know, just help me stay here, all right?",6.8100000000000005,3.782,6.264,positive,5.618666666666667,5 out of 6,"['know', 'know', 'help', 'stay', 'right']","['yeah', 'know', 'know', 'help', 'stay', 'right']"
+166,Ses03F_script01_1_F050 [429.2152-431.8974]: I'm going to.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+167,Ses03F_script01_1_F051 [432.1164-435.8935]: You just can't talk like that.,2.96,6.109999999999999,3.6399999999999997,negative,4.236666666666667,2 out of 3,"['neg-talk', 'neg-like']","['ca', 'talk', 'like']"
+168,Ses03F_script01_1_M052 [434.9629-438.9589]: I am thinking like that.,7.0600000000000005,4.075,6.390000000000001,positive,5.841666666666668,2 out of 2,"['think', 'like']","['think', 'like']"
+169,"Ses03F_script01_1_F052 [439.9716-444.4055]: I don't know you, do I?",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+170,"Ses03F_script01_1_M053 [443.4749-449.0858]: No, you don't.",nan,nan,nan,nan,nan,0,nan,[]
+171,I'm a pretty tough guy.,6.233333333333333,4.816666666666666,5.94,positive,5.663333333333334,3 out of 3,"['pretty', 'tough', 'guy']","['pretty', 'tough', 'guy']"
+172,Ses03F_script01_1_F053 [448.5110-453.2734]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+173,I can see that.,6.27,3.9,6.0,positive,5.390000000000001,1 out of 1,['see'],['see']

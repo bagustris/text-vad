@@ -1,0 +1,59 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses05M_impro06_F000 [003.6700-006.5700]: Ryan, what's wrong?",3.24,5.29,3.39,negative,3.973333333333334,1 out of 2,['wrong'],"['ryan', 'wrong']"
+2,Ses05M_impro06_M000 [010.9000-014.8600]: I just got some bad news.,4.763333333333334,4.38,4.5633333333333335,neutral,4.568888888888889,3 out of 3,"['get', 'bad', 'news']","['get', 'bad', 'news']"
+3,Ses05M_impro06_F001 [015.2600-017.1900]: What?,nan,nan,nan,nan,nan,0,nan,[]
+4,"Ses05M_impro06_M001 [019.9600-025.5800]: My friend, Shotty, passed away.",6.26,4.335,5.545,positive,5.38,2 out of 4,"['friend', 'pass']","['friend', 'shotty', 'pass', 'away']"
+5,"Ses05M_impro06_F002 [025.3800-028.0200]: Oh, I'm so sorry",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['oh', 'sorry']"
+6,"Ses05M_impro06_M002 [027.4600-033.6700]: The end, he's been sick for awhile.",3.5100000000000002,4.3100000000000005,3.625,negative,3.815,2 out of 3,"['end', 'sick']","['end', 'sick', 'awhile']"
+7,He had cancer.,1.9,5.14,2.9,negative,3.313333333333333,1 out of 1,['cancer'],['cancer']
+8,"Ses05M_impro06_F003 [033.1700-034.8800]: Oh, my gosh.",nan,nan,nan,nan,nan,0,nan,"['oh', 'gosh']"
+9,Ses05M_impro06_M003 [034.3600-045.1000]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+10,"It's just, I never thought it would actually happen, you know?",6.2275,3.5575,5.9375,positive,5.240833333333334,4 out of 6,"['think', 'would', 'happen', 'know']","['never', 'think', 'would', 'actually', 'happen', 'know']"
+11,I mean- He's such a fighter and he's always so positive about everything.,5.033333333333333,5.203333333333333,5.95,neutral,5.395555555555556,3 out of 5,"['mean', 'fighter', 'positive']","['mean', 'fighter', 'always', 'positive', 'everything']"
+12,Ses05M_impro06_FXX0 [041.1671-041.6749]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+13,"Ses05M_impro06_M004 [045.1100-058.4800]: You know, he was gonna, and we -- all the way up to the end we were just talking about how- you know all the stuff we were gonna do and, you know.",6.228571428571429,3.3528571428571428,5.4071428571428575,positive,4.996190476190477,7 out of 11,"['know', 'way', 'end', 'talk', 'know', 'stuff', 'know']","['know', 'gon', 'na', 'way', 'end', 'talk', 'know', 'stuff', 'gon', 'na', 'know']"
+14,"When he finally kicked this stupid cancer, you know, and we were gonna --",4.0275,4.455,4.4525,neutral,4.3116666666666665,4 out of 7,"['kick', 'stupid', 'cancer', 'know']","['finally', 'kick', 'stupid', 'cancer', 'know', 'gon', 'na']"
+15,"Ses05M_impro06_M005 [058.6900-065.6800]: he wanted to travel, you know.",6.903333333333333,4.693333333333333,5.996666666666667,positive,5.864444444444445,3 out of 3,"['want', 'travel', 'know']","['want', 'travel', 'know']"
+16,And he's so talented.,7.95,4.55,6.14,positive,6.213333333333334,1 out of 1,['talented'],['talented']
+17,Probably the most talented person I have ever met in my entire life.,6.498,4.082,5.795999999999999,positive,5.458666666666666,5 out of 7,"['talented', 'person', 'meet', 'entire', 'life']","['probably', 'talented', 'person', 'ever', 'meet', 'entire', 'life']"
+18,Ses05M_impro06_FXX1 [061.2621-061.9862]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+19,Ses05M_impro06_F004 [064.2500-065.9400]: What did he do?,nan,nan,nan,nan,nan,0,nan,[]
+20,"Ses05M_impro06_M006 [065.7000-075.5700]: He was a designer, you know.",6.195,4.12,5.61,positive,5.308333333333334,2 out of 2,"['designer', 'know']","['designer', 'know']"
+21,But he did everything.,nan,nan,nan,nan,nan,0,nan,['everything']
+22,"You know, He painted and he- and he did costume design, he did set design, he did lighting, he was --",6.28,4.062857142857143,6.041428571428571,positive,5.461428571428571,7 out of 7,"['know', 'paint', 'costume', 'design', 'set', 'design', 'lighting']","['know', 'paint', 'costume', 'design', 'set', 'design', 'lighting']"
+23,Ses05M_impro06_M007 [075.5800-081.5100]: he just did everything.,nan,nan,nan,nan,nan,0,nan,['everything']
+24,"He was literally, literally the most talented guy I have ever met in my entire life.",6.588,4.282,5.62,positive,5.496666666666667,5 out of 8,"['talented', 'guy', 'meet', 'entire', 'life']","['literally', 'literally', 'talented', 'guy', 'ever', 'meet', 'entire', 'life']"
+25,Ses05M_impro06_M008 [081.5200-089.9600]: And he's gone now and I  -- I just can't believe it.,4.635,5.765000000000001,4.385,neutral,4.928333333333334,2 out of 3,"['go', 'neg-believe']","['go', 'ca', 'believe']"
+26,Ses05M_impro06_F005 [089.5600-091.5800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+27,I'm so sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+28,"Ses05M_impro06_M009 [091.9800-099.6100]: I mean, one second you think, you know, you're just having a conversation and then --",5.661666666666667,3.433333333333333,5.6066666666666665,neutral,4.900555555555556,6 out of 6,"['mean', 'one', 'second', 'think', 'know', 'conversation']","['mean', 'one', 'second', 'think', 'know', 'conversation']"
+29,"Ses05M_impro06_M010 [101.0100-114.7500]: you know, sometimes you think you want to make that phone call, or you think you want to tell somebody something, or something like that.",6.325,3.997,5.705,positive,5.342333333333333,10 out of 14,"['know', 'think', 'want', 'make', 'phone', 'call', 'think', 'want', 'tell', 'like']","['know', 'sometimes', 'think', 'want', 'make', 'phone', 'call', 'think', 'want', 'tell', 'somebody', 'something', 'something', 'like']"
+30,Do you know what I mean?,4.625,4.025,4.975,neutral,4.541666666666667,2 out of 2,"['know', 'mean']","['know', 'mean']"
+31,Like that's -- he was the person that I did that with.,6.77,4.055,6.140000000000001,positive,5.655,2 out of 2,"['like', 'person']","['like', 'person']"
+32,"You know, like, that's the person who I needed to call to tell things to all the time.",6.05125,3.62625,5.43,positive,5.035833333333334,8 out of 8,"['know', 'like', 'person', 'need', 'call', 'tell', 'thing', 'time']","['know', 'like', 'person', 'need', 'call', 'tell', 'thing', 'time']"
+33,Ses05M_impro06_F006 [116.6200-118.7400]: You guys have been-,6.55,4.71,5.12,positive,5.46,1 out of 1,['guy'],['guy']
+34,"Ses05M_impro06_M011 [116.5400-128.9700]: And now I don't have that person anymore, you know.",5.36,4.765000000000001,4.890000000000001,neutral,5.005,2 out of 3,"['neg-person', 'know']","['person', 'anymore', 'know']"
+35,"And it's -- -- it's just, you.",nan,nan,nan,nan,nan,0,nan,[]
+36,Ses05M_impro06_FXX2 [120.9121-120.4741]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+37,"Ses05M_impro06_M012 [129.1900-136.1500]: You think that things get easier, you know, as you as you get older and you -",6.2459999999999996,3.552,5.798,positive,5.198666666666667,5 out of 7,"['think', 'thing', 'get', 'know', 'get']","['think', 'thing', 'get', 'easier', 'know', 'get', 'older']"
+38,Ses05M_impro06_M013 [137.1500-147.2300]: and it just gets worse.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 2,['get'],"['get', 'worse']"
+39,"It just gets worse, everything is bad all the time; people die, your friends die, family dies, your best friends die.",4.376363636363636,5.112727272727273,4.608181818181818,neutral,4.699090909090909,11 out of 14,"['get', 'bad', 'time', 'people', 'die', 'friend', 'die', 'family', 'die', 'friend', 'die']","['get', 'worse', 'everything', 'bad', 'time', 'people', 'die', 'friend', 'die', 'family', 'die', 'best', 'friend', 'die']"
+40,it's-,nan,nan,nan,nan,nan,0,nan,[]
+41,Ses05M_impro06_F007 [147.8100-149.7900]: I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+42,I-,nan,nan,nan,nan,nan,0,nan,[]
+43,"Ses05M_impro06_M014 [148.2300-155.7751]: You always think, you know when you were- you know when you were a little kid and you think something is gonna happen, like, it will all be better when I am older, you know?",6.655555555555556,3.7733333333333334,5.795555555555556,positive,5.408148148148148,9 out of 15,"['think', 'know', 'know', 'little', 'kid', 'think', 'happen', 'like', 'know']","['always', 'think', 'know', 'know', 'little', 'kid', 'think', 'something', 'gon', 'na', 'happen', 'like', 'better', 'older', 'know']"
+44,Ses05M_impro06_M015 [155.7851-165.2100]: And I don't know why people don't just tell you off the bat that it's just gonna suck anyway.,4.146,5.86,4.728,neutral,4.911333333333333,5 out of 8,"['neg-know', 'neg-people', 'neg-tell', 'bat', 'suck']","['know', 'people', 'tell', 'bat', 'gon', 'na', 'suck', 'anyway']"
+45,"You know, like, what's the point?",6.57,3.8333333333333335,6.11,positive,5.504444444444445,3 out of 3,"['know', 'like', 'point']","['know', 'like', 'point']"
+46,"Ses05M_impro06_M016 [165.2200-170.8900]: All the best people die, all the bad people live and they make life shitty for you anyway.",4.91625,4.84,5.04375,neutral,4.933333333333334,8 out of 10,"['people', 'die', 'bad', 'people', 'live', 'make', 'life', 'shitty']","['best', 'people', 'die', 'bad', 'people', 'live', 'make', 'life', 'shitty', 'anyway']"
+47,"Ses05M_impro06_F008 [169.9892-177.1000]: Wow, Ryan I know that you are hurting right now but I don't think you always feel like that.",5.6033333333333335,4.61,5.325,neutral,5.179444444444445,6 out of 9,"['know', 'hurt', 'right', 'neg-think', 'feel', 'like']","['wow', 'ryan', 'know', 'hurt', 'right', 'think', 'always', 'feel', 'like']"
+48,"Ses05M_impro06_M017 [176.5500-179.9800]: No, you're right.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+49,I don't.,nan,nan,nan,nan,nan,0,nan,[]
+50,You're right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+51,"Ses05M_impro06_M018 [180.7300-191.4300]: Even, yeah -- he doesn't he would never feel that way, he would never want me to feel that way.",5.765714285714286,4.17,5.15,neutral,5.028571428571429,7 out of 11,"['neg-would', 'feel', 'way', 'would', 'want', 'feel', 'way']","['even', 'yeah', 'would', 'never', 'feel', 'way', 'would', 'never', 'want', 'feel', 'way']"
+52,"Of course not, but that's just where I am right now and -- -- I don't know what else to do with it.",5.25,5.88,5.6899999999999995,neutral,5.6066666666666665,2 out of 4,"['right', 'neg-know']","['course', 'right', 'know', 'else']"
+53,Ses05M_impro06_F009 [188.8700-193.3500]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+54,I understand.,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+55,I think it's really healthy to grieve.,5.746666666666666,4.166666666666667,5.626666666666667,neutral,5.180000000000001,3 out of 4,"['think', 'healthy', 'grieve']","['think', 'really', 'healthy', 'grieve']"
+56,Ses05M_impro06_M019 [194.8000-197.3500]: I just miss him.,4.1,3.9,5.12,neutral,4.373333333333334,1 out of 1,['miss'],['miss']
+57,Ses05M_impro06_F010 [197.8800-201.0100]: If there's anything I can do to be there for you.,nan,nan,nan,nan,nan,0,nan,['anything']
+58,Ses05M_impro06_M020 [200.9700-203.1100]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']

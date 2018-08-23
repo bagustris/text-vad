@@ -1,0 +1,126 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01M_script02_1_M000 [003.3988-008.5500]: What time is it?,5.6,3.41,4.36,neutral,4.456666666666667,1 out of 1,['time'],['time']
+2,"God, this is great, isn't it?",6.7,4.85,5.825,positive,5.791666666666667,2 out of 2,"['god', 'great']","['god', 'great']"
+3,I can't believe it.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 2,['neg-believe'],"['ca', 'believe']"
+4,Ses01M_script02_1_M001 [009.0475-021.0500]: Of course I did want to a little further up the coast you know get away from all the lights and people and everything.,6.138571428571429,3.98,5.581428571428572,positive,5.233333333333333,7 out of 10,"['want', 'little', 'coast', 'know', 'get', 'light', 'people']","['course', 'want', 'little', 'coast', 'know', 'get', 'away', 'light', 'people', 'everything']"
+5,"Is it midnight, do they always start at midnight?",6.256666666666667,4.303333333333333,6.006666666666667,positive,5.522222222222222,3 out of 4,"['midnight', 'start', 'midnight']","['midnight', 'always', 'start', 'midnight']"
+6,Is that what it is midnight?,6.18,4.05,6.26,positive,5.496666666666667,1 out of 1,['midnight'],['midnight']
+7,"How you doing, huh?",nan,nan,nan,nan,nan,0,nan,['huh']
+8,You okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+9,That's good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+10,Ses01M_script02_1_F000 [018.9629-020.8200]: I'm fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+11,"Ses01M_script02_1_M002 [021.1025-026.0300]: Look, there what's that, what's that?",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 1,['look'],['look']
+12,Is it--,nan,nan,nan,nan,nan,0,nan,[]
+13,"Ses01M_script02_1_M003 [026.9072-030.6700]: No, I think that's just foam.",4.285,4.575,4.3,neutral,4.386666666666667,2 out of 2,"['neg-think', 'foam']","['think', 'foam']"
+14,Ses01M_script02_1_F001 [030.3200-032.0500]: Ugh...,nan,nan,nan,nan,nan,0,nan,['ugh']
+15,"Ses01M_script02_1_M004 [031.7900-041.7119]: Oh, no I can't tell though.",4.73,6.140000000000001,5.06,neutral,5.31,1 out of 4,['neg-tell'],"['oh', 'ca', 'tell', 'though']"
+16,"Although probably if you can't tell it probably isn't them right, yeah.",3.705,5.57,3.9499999999999997,negative,4.408333333333333,2 out of 7,"['neg-tell', 'neg-right']","['although', 'probably', 'ca', 'tell', 'probably', 'right', 'yeah']"
+17,"Probably going to be like unmistakable, right?",6.795,4.6475,6.157500000000001,positive,5.866666666666667,4 out of 5,"['go', 'like', 'unmistakable', 'right']","['probably', 'go', 'like', 'unmistakable', 'right']"
+18,"Ses01M_script02_1_M005 [041.8225-052.5650]: Gosh, this is great, isn't it?",7.5,4.14,6.65,positive,6.096666666666667,1 out of 2,['great'],"['gosh', 'great']"
+19,This is awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+20,"Oh, no you know what I forgot?",3.455,5.595,3.86,negative,4.303333333333334,2 out of 3,"['neg-know', 'forget']","['oh', 'know', 'forget']"
+21,Ses01M_script02_1_M006 [052.6225-058.5575]: My flashlight.,6.0,4.04,6.06,neutral,5.366666666666666,1 out of 1,['flashlight'],['flashlight']
+22,How could I forget my flashlight?,4.865,4.234999999999999,4.779999999999999,neutral,4.626666666666666,2 out of 3,"['forget', 'flashlight']","['could', 'forget', 'flashlight']"
+23,God--,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 1,['god'],['god']
+24,Ses01M_script02_1_F002 [058.0400-060.0100]: What flashlight?,6.0,4.04,6.06,neutral,5.366666666666666,1 out of 1,['flashlight'],['flashlight']
+25,Ses01M_script02_1_M007 [059.4500-063.6475]: Flashlight the silver one.,6.523333333333333,3.57,6.223333333333333,positive,5.438888888888889,3 out of 3,"['flashlight', 'silver', 'one']","['flashlight', 'silver', 'one']"
+26,There's only one isn't there?,6.09,2.67,5.56,positive,4.773333333333333,1 out of 1,['one'],['one']
+27,Ses01M_script02_1_F003 [063.1300-065.7800]: That's not your flashlight.,4.0,5.96,3.9400000000000004,neutral,4.633333333333334,1 out of 1,['neg-flashlight'],['flashlight']
+28,Ses01M_script02_1_M008 [065.7200-067.5700]: Whose is it?,nan,nan,nan,nan,nan,0,nan,['whose']
+29,"Ses01M_script02_1_F004 [067.0200-069.8200]: It's ours; it's my flashlight, too.",6.0,4.04,6.06,neutral,5.366666666666666,1 out of 1,['flashlight'],['flashlight']
+30,"Ses01M_script02_1_M009 [069.4100-071.2800]: Oh, well, yeah of course.",nan,nan,nan,nan,nan,0,nan,"['oh', 'well', 'yeah', 'course']"
+31,"Ses01M_script02_1_F005 [070.6900-075.3800]: You keep saying ""my flashlight"" like somehow it's just yours.",6.4175,4.075,6.2325,positive,5.575,4 out of 5,"['keep', 'say', 'flashlight', 'like']","['keep', 'say', 'flashlight', 'like', 'somehow']"
+32,How's that supposed to make me feel?,5.876666666666666,3.683333333333333,5.61,neutral,5.056666666666666,3 out of 3,"['suppose', 'make', 'feel']","['suppose', 'make', 'feel']"
+33,M: No.,nan,nan,nan,nan,nan,0,nan,[]
+34,"Ses01M_script02_1_M010 [074.8900-081.7300]: Of course, our flashlight.",6.0,4.04,6.06,neutral,5.366666666666666,1 out of 2,['flashlight'],"['course', 'flashlight']"
+35,"What's your is mine, mi flashlight es su flashlight.",6.0,4.04,6.06,neutral,5.366666666666666,2 out of 6,"['flashlight', 'flashlight']","['mine', 'mi', 'flashlight', 'es', 'su', 'flashlight']"
+36,"Ses01M_script02_1_M011 [082.2739-087.4750]: Gosh, I should have brought it.",5.68,4.29,5.72,neutral,5.2299999999999995,1 out of 2,['bring'],"['gosh', 'bring']"
+37,I can't believe I forgot that.,4.609999999999999,6.12,4.970000000000001,neutral,5.233333333333333,2 out of 3,"['neg-believe', 'neg-forget']","['ca', 'believe', 'forget']"
+38,"Ses01M_script02_1_M012 [088.3200-096.8200]: It's a nice moon though, should stay full.",6.5225,3.395,6.0875,positive,5.335000000000001,4 out of 5,"['nice', 'moon', 'stay', 'full']","['nice', 'moon', 'though', 'stay', 'full']"
+39,Do they always run during a full moon?,6.47,4.05,5.87,positive,5.463333333333334,3 out of 4,"['run', 'full', 'moon']","['always', 'run', 'full', 'moon']"
+40,I can't remember was it full last year?,5.083333333333333,4.556666666666667,5.1866666666666665,neutral,4.942222222222223,3 out of 5,"['neg-remember', 'full', 'year']","['ca', 'remember', 'full', 'last', 'year']"
+41,Ses01M_script02_1_F006 [096.2700-098.1135]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+42,Ses01M_script02_1_M013 [097.9122-105.1300]: Are you all right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+43,Are you okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+44,You cold?,4.32,3.55,5.17,neutral,4.346666666666667,1 out of 1,['cold'],['cold']
+45,Do you want to my jacket?,5.93,4.32,6.14,neutral,5.463333333333334,2 out of 2,"['want', 'jacket']","['want', 'jacket']"
+46,My jacket?,5.86,3.35,6.89,neutral,5.366666666666667,1 out of 1,['jacket'],['jacket']
+47,No?,nan,nan,nan,nan,nan,0,nan,[]
+48,Ses01M_script02_1_F007 [101.3300-102.6100]: No.,nan,nan,nan,nan,nan,0,nan,[]
+49,Ses01M_script02_1_M014 [107.2700-124.6900]: You know what we should've brought a blanket too.,6.516666666666667,3.2533333333333334,6.083333333333333,positive,5.284444444444444,3 out of 3,"['know', 'bring', 'blanket']","['know', 'bring', 'blanket']"
+50,"Man, our blanket, our blanket.",6.506666666666667,2.94,6.3133333333333335,positive,5.253333333333334,3 out of 3,"['man', 'blanket', 'blanket']","['man', 'blanket', 'blanket']"
+51,"Wish I had six-pack too, a six-pack would be just the ticket right about now, huh, six-pack.",6.4125,4.035,6.15,positive,5.5325,4 out of 5,"['wish', 'would', 'ticket', 'right']","['wish', 'would', 'ticket', 'right', 'huh']"
+52,Ses01M_script02_1_M015 [125.1356-128.4600]: What's wrong?,3.24,5.29,3.39,negative,3.973333333333334,1 out of 1,['wrong'],['wrong']
+53,Are you okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+54,Huh?,nan,nan,nan,nan,nan,0,nan,['huh']
+55,You cold?,4.32,3.55,5.17,neutral,4.346666666666667,1 out of 1,['cold'],['cold']
+56,Ses01M_script02_1_F008 [128.5550-130.3000]: I'm fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+57,"Ses01M_script02_1_M016 [134.9100-138.4300]: Oh yeah, I'm so excited right now I'm like a kid.",7.525,5.135,6.4,positive,6.353333333333334,4 out of 6,"['excited', 'right', 'like', 'kid']","['oh', 'yeah', 'excited', 'right', 'like', 'kid']"
+58,Ses01M_script02_1_M017 [138.4900-142.9100]: I can't believe I got out of the house without my fly zipped up even.,5.034,5.218,4.83,neutral,5.027333333333333,5 out of 8,"['neg-believe', 'neg-get', 'house', 'fly', 'zip']","['ca', 'believe', 'get', 'house', 'without', 'fly', 'zip', 'even']"
+59,M: Eek.,nan,nan,nan,nan,nan,0,nan,['eek']
+60,Hehe.,nan,nan,nan,nan,nan,0,nan,['hehe']
+61,Oops.,nan,nan,nan,nan,nan,0,nan,['oops']
+62,Ses01M_script02_1_F009 [153.5100-155.7900]: I wonder if they can hear me talk,6.666666666666666,3.7933333333333334,6.53,positive,5.663333333333333,3 out of 3,"['wonder', 'hear', 'talk']","['wonder', 'hear', 'talk']"
+63,F:[Chuckles],7.1,5.3,5.71,positive,6.036666666666666,1 out of 2,['chuckle'],"['f', 'chuckle']"
+64,"Ses01M_script02_1_M018 [155.5400-158.3500]: I wonder if they can hear me talking, you know.",6.705,3.6550000000000002,6.3425,positive,5.5675,4 out of 4,"['wonder', 'hear', 'talk', 'know']","['wonder', 'hear', 'talk', 'know']"
+65,Ses01M_script02_1_M019 [158.3800-161.6750]: Like feel the vibrations in the sand when we move around.,6.07,4.296,5.43,positive,5.265333333333333,5 out of 6,"['like', 'feel', 'vibration', 'sand', 'move']","['like', 'feel', 'vibration', 'sand', 'move', 'around']"
+66,Ses01M_script02_1_F010 [161.6249-163.5475]: I'm cold.,4.32,3.55,5.17,neutral,4.346666666666667,1 out of 1,['cold'],['cold']
+67,Ses01M_script02_1_M020 [163.6278-166.5100]: Do you want my jacket?,5.93,4.32,6.14,neutral,5.463333333333334,2 out of 2,"['want', 'jacket']","['want', 'jacket']"
+68,"Ses01M_script02_1_F011 [165.8000-168.6350]: It's after eleven, let's go home.",6.1875,3.6,5.84,positive,5.2091666666666665,4 out of 4,"['eleven', 'let', 'go', 'home']","['eleven', 'let', 'go', 'home']"
+69,Ses01M_script02_1_M021 [168.0200-175.2200]: What are you kidding?,7.23,4.71,4.83,positive,5.590000000000001,1 out of 1,['kid'],['kid']
+70,We just got here.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+71,We don't want to turn around and go home now.,5.5875,4.9675,5.2075,neutral,5.254166666666666,4 out of 5,"['neg-want', 'neg-turn', 'go', 'home']","['want', 'turn', 'around', 'go', 'home']"
+72,What's the point coming all the way down here?,5.666666666666667,3.4433333333333334,5.68,neutral,4.93,3 out of 3,"['point', 'come', 'way']","['point', 'come', 'way']"
+73,Ses01M_script02_1_F012 [174.7000-176.8514]: There is no point.,4.55,6.140000000000001,3.7300000000000004,neutral,4.8066666666666675,1 out of 1,['neg-point'],['point']
+74,Ses01M_script02_1_M022 [176.4900-178.1775]: Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+75,Ses01M_script02_1_F013 [177.9600-180.1500]: That's my point.,5.45,3.86,6.27,neutral,5.193333333333333,1 out of 1,['point'],['point']
+76,Ses01M_script02_1_M023 [179.8000-182.6525]: That's my point too.,5.45,3.86,6.27,neutral,5.193333333333333,1 out of 1,['point'],['point']
+77,Ses01M_script02_1_F014 [182.1100-184.4100]: Then let's go.,6.135,3.785,5.695,positive,5.205,2 out of 2,"['let', 'go']","['let', 'go']"
+78,"Ses01M_script02_1_M024 [183.8200-191.9600]: No, wait no, no that's not my point.",5.0,6.26,4.210000000000001,neutral,5.156666666666667,2 out of 2,"['neg-wait', 'neg-point']","['wait', 'point']"
+79,My point is there is no point and coming all the way down here if we just turn around and go home.,5.645714285714286,4.492857142857143,5.267142857142857,neutral,5.135238095238095,7 out of 8,"['point', 'neg-point', 'neg-come', 'way', 'turn', 'go', 'home']","['point', 'point', 'come', 'way', 'turn', 'around', 'go', 'home']"
+80,Ses01M_script02_1_M025 [192.1200-194.0925]: Don't you want to see it?,5.135,4.305,5.305,neutral,4.915,2 out of 2,"['neg-want', 'see']","['want', 'see']"
+81,Ses01M_script02_1_F015 [193.6200-195.9500]: Not particularly.,nan,nan,nan,nan,nan,0,nan,['particularly']
+82,Ses01M_script02_1_M026 [195.3000-197.1400]: Why not?,nan,nan,nan,nan,nan,0,nan,[]
+83,"Ses01M_script02_1_F016 [196.4800-199.8900]: I just don't, it's stupid.",2.84,4.34,4.03,negative,3.736666666666667,1 out of 1,['stupid'],['stupid']
+84,Ses01M_script02_1_M027 [200.4000-205.8000]: It's not stupid.,7.16,5.66,5.97,positive,6.263333333333333,1 out of 1,['neg-stupid'],['stupid']
+85,It's a natural phenomenon.,6.605,4.335,5.105,positive,5.348333333333334,2 out of 2,"['natural', 'phenomenon']","['natural', 'phenomenon']"
+86,Ses01M_script02_1_M028 [205.8575-215.6599]: People in Kansas would have to get plane tickets and make hotel reservations to see this.,5.851111111111111,4.052222222222222,5.541111111111111,neutral,5.148148148148148,9 out of 10,"['people', 'would', 'get', 'plane', 'ticket', 'make', 'hotel', 'reservation', 'see']","['people', 'kansa', 'would', 'get', 'plane', 'ticket', 'make', 'hotel', 'reservation', 'see']"
+87,It's only forty minutes away; it's just too good to pass up.,6.03,3.78,5.3125,positive,5.0408333333333335,4 out of 5,"['forty', 'minute', 'good', 'pass']","['forty', 'minute', 'away', 'good', 'pass']"
+88,Ses01M_script02_1_F017 [215.1712-224.1800]: Pass what up?,5.73,4.38,4.78,neutral,4.963333333333334,1 out of 1,['pass'],['pass']
+89,"These little fish swim out of the ocean, they flop around on the sand then they swim back and then they die.",5.52,4.384444444444444,5.354444444444445,neutral,5.086296296296296,9 out of 10,"['little', 'fish', 'swim', 'ocean', 'flop', 'sand', 'swim', 'back', 'die']","['little', 'fish', 'swim', 'ocean', 'flop', 'around', 'sand', 'swim', 'back', 'die']"
+90,Ses01M_script02_1_M029 [223.5940-238.3125]: Yeah but that like flopping around is what to do it's like spawning or mating or something.,5.736,3.814,5.652,neutral,5.067333333333334,5 out of 8,"['like', 'flop', 'like', 'spawn', 'mat']","['yeah', 'like', 'flop', 'around', 'like', 'spawn', 'mat', 'something']"
+91,This is like the highlight of their little fish lives.,6.606,4.264,5.936,positive,5.602,5 out of 5,"['like', 'highlight', 'little', 'fish', 'life']","['like', 'highlight', 'little', 'fish', 'life']"
+92,It's like life's last orgy.,6.496666666666667,5.763333333333334,5.81,positive,6.023333333333333,3 out of 4,"['like', 'life', 'orgy']","['like', 'life', 'last', 'orgy']"
+93,Ses01M_script02_1_F018 [237.7400-248.4000]: I don't know what you're so excited about.,5.645,6.595,5.775,neutral,6.005,2 out of 2,"['neg-know', 'excited']","['know', 'excited']"
+94,"This isn't a moon landing we're talking about, it's fish, it's a fish nobody even eats.",5.748333333333333,4.5616666666666665,5.6883333333333335,neutral,5.332777777777777,6 out of 8,"['neg-moon', 'neg-landing', 'talk', 'fish', 'fish', 'eat']","['moon', 'landing', 'talk', 'fish', 'fish', 'nobody', 'even', 'eat']"
+95,"Ses01M_script02_1_M030 [247.9200-249.5200]: Yeah, they do.",nan,nan,nan,nan,nan,0,nan,['yeah']
+96,"Ses01M_script02_1_F019 [248.9900-251.1912]: Oh, Augie.",nan,nan,nan,nan,nan,0,nan,"['oh', 'augie']"
+97,"Ses01M_script02_1_M031 [250.5900-266.3200]: Well, okay whatever, okay but it's a fish who do something that like no other fish do, you know, it's like those swallows that return to Capistrano or those like those lemmings that jumped off the cliffs, you know.",6.244545454545455,4.279090909090909,5.6036363636363635,positive,5.375757575757575,11 out of 18,"['fish', 'like', 'neg-fish', 'know', 'like', 'swallow', 'return', 'like', 'jump', 'cliff', 'know']","['well', 'okay', 'whatever', 'okay', 'fish', 'something', 'like', 'fish', 'know', 'like', 'swallow', 'return', 'capistrano', 'like', 'lemming', 'jump', 'cliff', 'know']"
+98,"Ses01M_script02_1_M032 [266.4000-274.4825]: It's like a little bit of the unexplainable, a little magic, a little mystery.",5.96,4.48625,5.0962499999999995,neutral,5.180833333333333,8 out of 8,"['like', 'little', 'bit', 'unexplainable', 'little', 'magic', 'little', 'mystery']","['like', 'little', 'bit', 'unexplainable', 'little', 'magic', 'little', 'mystery']"
+99,I just don't see how you can not be interested in this.,3.45,5.824999999999999,3.585,negative,4.286666666666666,2 out of 2,"['neg-see', 'neg-interested']","['see', 'interested']"
+100,Ses01M_script02_1_F020 [273.9800-276.1435]: I'm not.,nan,nan,nan,nan,nan,0,nan,[]
+101,Ses01M_script02_1_M033 [275.5000-277.3075]: For real?,7.09,4.05,5.89,positive,5.676666666666667,1 out of 1,['real'],['real']
+102,Ses01M_script02_1_F021 [276.9400-278.4400]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+103,Ses01M_script02_1_M034 [279.6900-282.8100]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+104,"Ses01M_script02_1_M035 [289.5300-296.9725]: I don't get it though, I mean the first time we came here you said it was like the best night of your life...",5.735555555555555,4.556666666666667,5.496666666666667,neutral,5.262962962962963,9 out of 11,"['neg-get', 'mean', 'first', 'time', 'come', 'say', 'like', 'night', 'life']","['get', 'though', 'mean', 'first', 'time', 'come', 'say', 'like', 'best', 'night', 'life']"
+105,Ses01M_script02_1_M036 [297.0800-305.0900]: And last year I remember like distinctively you were so excited to get here that you didn't realize you stubbed your toe until we were in a car.,6.158888888888889,4.556666666666667,5.766666666666667,positive,5.494074074074074,9 out of 11,"['year', 'remember', 'like', 'excited', 'get', 'neg-realize', 'neg-stub', 'toe', 'car']","['last', 'year', 'remember', 'like', 'distinctively', 'excited', 'get', 'realize', 'stub', 'toe', 'car']"
+106,"Ses01M_script02_1_F022 [304.4200-318.4303]: Last year, you'll also remember we got--our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight and we did not see the grunions.",5.418125,4.104375,5.38375,neutral,4.96875,16 out of 19,"['year', 'remember', 'get', 'shoe', 'get', 'wet', 'get', 'sand', 'panty', 'get', 'sore', 'throat', 'get', 'big', 'fight', 'neg-see']","['last', 'year', 'also', 'remember', 'get', 'shoe', 'get', 'wet', 'get', 'sand', 'panty', 'get', 'sore', 'throat', 'get', 'big', 'fight', 'see', 'grunions']"
+107,Ses01M_script02_1_M037 [317.7800-320.0133]: We just weren't in a good spot though.,3.615,4.645,4.21,negative,4.156666666666666,2 out of 3,"['neg-good', 'spot']","['good', 'spot', 'though']"
+108,Ses01M_script02_1_F023 [319.6100-321.8200]: We didn't see them the year before either.,4.74,4.715,4.904999999999999,neutral,4.786666666666666,2 out of 3,"['neg-see', 'year']","['see', 'year', 'either']"
+109,Ses01M_script02_1_M038 [321.2400-325.9100]: We just weren't in a good spot I'm telling you this is a much better spot.,4.405,4.025,4.5475,neutral,4.325833333333333,4 out of 6,"['neg-good', 'spot', 'tell', 'spot']","['good', 'spot', 'tell', 'much', 'better', 'spot']"
+110,"Ses01M_script02_1_M039 [326.8820-338.7500]: Come on, trust me I got instincts for these things, okay?",6.038,3.882,6.042,positive,5.320666666666667,5 out of 6,"['come', 'trust', 'get', 'instinct', 'thing']","['come', 'trust', 'get', 'instinct', 'thing', 'okay']"
+111,So just--just think about it all right?,7.0,4.375,6.83,positive,6.0683333333333325,2 out of 2,"['think', 'right']","['think', 'right']"
+112,"Okay, I know you're not interested, think about it...",4.4366666666666665,5.013333333333334,4.15,neutral,4.533333333333333,3 out of 4,"['know', 'neg-interested', 'neg-think']","['okay', 'know', 'interested', 'think']"
+113,"Ses01M_script02_1_M040 [338.9269-347.0862]: Out there, there's like this big mass of silver fish they're heading this way...",6.271428571428571,3.8528571428571428,5.84,positive,5.321428571428571,7 out of 7,"['like', 'big', 'mass', 'silver', 'fish', 'head', 'way']","['like', 'big', 'mass', 'silver', 'fish', 'head', 'way']"
+114,"Ses01M_script02_1_M041 [347.1150-355.9600]: They don't know why, we don't know why.",3.1799999999999997,6.76,4.22,negative,4.72,2 out of 2,"['neg-know', 'neg-know']","['know', 'know']"
+115,No one like sent them an invitation or gave them a map or direction...,5.19,5.184285714285714,5.191428571428571,neutral,5.188571428571429,7 out of 7,"['neg-one', 'neg-like', 'neg-send', 'invitation', 'give', 'map', 'direction']","['one', 'like', 'send', 'invitation', 'give', 'map', 'direction']"
+116,Ses01M_script02_1_M042 [356.0100-367.2140]: They just all turned at once and they just form this line as long as the California coast.,5.452500000000001,3.685,5.755,neutral,4.964166666666667,4 out of 6,"['turn', 'form', 'line', 'coast']","['turn', 'form', 'line', 'long', 'california', 'coast']"
+117,And they just started swimming...,6.5600000000000005,5.43,5.984999999999999,positive,5.991666666666667,2 out of 2,"['start', 'swim']","['start', 'swim']"
+118,Ses01M_script02_1_M043 [367.3200-375.7175]: Like some little time release fire cracker went off inside their little tiny bodies.,5.83,4.453,5.445,neutral,5.2426666666666675,10 out of 11,"['like', 'little', 'time', 'release', 'fire', 'cracker', 'go', 'little', 'tiny', 'body']","['like', 'little', 'time', 'release', 'fire', 'cracker', 'go', 'inside', 'little', 'tiny', 'body']"
+119,And they all turned as one...,5.77,3.075,5.72,neutral,4.8549999999999995,2 out of 2,"['turn', 'one']","['turn', 'one']"
+120,"Ses01M_script02_1_M044 [375.8875-383.5400]: And form the line and started swimming, swimming that would bring them to this point here...",5.91625,4.495,5.96625,neutral,5.459166666666666,8 out of 8,"['form', 'line', 'start', 'swim', 'swim', 'would', 'bring', 'point']","['form', 'line', 'start', 'swim', 'swim', 'would', 'bring', 'point']"
+121,Ses01M_script02_1_M045 [383.7800-391.4700]: It's like urgency that's pure urge you know.,6.244,4.646,5.6000000000000005,positive,5.496666666666667,5 out of 5,"['like', 'urgency', 'pure', 'urge', 'know']","['like', 'urgency', 'pure', 'urge', 'know']"
+122,It's single-mindedness with no mind.,3.3,4.95,3.91,negative,4.053333333333334,1 out of 1,['neg-mind'],['mind']
+123,Ses01M_script02_1_M046 [393.6300-401.8275]: It's crazy.,5.14,5.9,4.19,neutral,5.076666666666667,1 out of 1,['crazy'],['crazy']
+124,"Look at this, I'm giving myself goose bumps, the hairs are standing up on my arm.",5.9,3.802857142857143,5.755714285714285,neutral,5.152857142857143,7 out of 7,"['look', 'give', 'goose', 'bump', 'hair', 'stand', 'arm']","['look', 'give', 'goose', 'bump', 'hair', 'stand', 'arm']"
+125,Ses01M_script02_1_F024 [402.0100-405.0400]: That's the wind.,5.67,3.7,4.5,neutral,4.623333333333334,1 out of 1,['wind'],['wind']

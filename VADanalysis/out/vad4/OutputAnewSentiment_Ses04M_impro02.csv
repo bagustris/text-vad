@@ -1,0 +1,148 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses04M_impro02_M000 [005.3600-008.9800]: It's only going to be a year.,6.035,4.095000000000001,5.57,positive,5.233333333333333,2 out of 2,"['go', 'year']","['go', 'year']"
+2,Ses04M_impro02_F000 [009.5900-014.1300]: It's the first year of your child's life.,6.74,4.7875,5.82,positive,5.7825,4 out of 4,"['first', 'year', 'child', 'life']","['first', 'year', 'child', 'life']"
+3,Ses04M_impro02_M001 [016.5800-020.2600]: There's really -- there's nothing I can do.,nan,nan,nan,nan,nan,0,nan,"['really', 'nothing']"
+4,Ses04M_impro02_F001 [019.9154-023.4813]: You're just fine with this?,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+5,Ses04M_impro02_M002 [023.2122-025.1200]: There's nothing I --,nan,nan,nan,nan,nan,0,nan,['nothing']
+6,Ses04M_impro02_F002 [023.6100-029.8731]: You're just going to pick up and leave me and our baby and miss a year of our lives?,5.7299999999999995,4.392857142857143,5.5,neutral,5.207619047619048,7 out of 7,"['go', 'pick', 'leave', 'baby', 'miss', 'year', 'life']","['go', 'pick', 'leave', 'baby', 'miss', 'year', 'life']"
+7,"Ses04M_impro02_M003 [029.2675-034.1500]: It's -- look, it's only a year.",5.85,3.545,5.845,neutral,5.079999999999999,2 out of 2,"['look', 'year']","['look', 'year']"
+8,It'll go by quickly.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['go', 'quickly']"
+9,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+10,"Ses04M_impro02_F003 [034.1900-039.2000]: When you get back, think of all of the things that you're going to have missed.",5.583333333333333,3.7,5.538333333333333,neutral,4.940555555555555,6 out of 6,"['get', 'back', 'think', 'thing', 'go', 'miss']","['get', 'back', 'think', 'thing', 'go', 'miss']"
+11,"Ses04M_impro02_M004 [038.8800-045.5497]: I know, but I'll be back then.",5.79,2.915,5.5,neutral,4.735,2 out of 2,"['know', 'back']","['know', 'back']"
+12,And - and- and we'll have -- we have the rest of our lives.,7.27,3.94,5.835,positive,5.681666666666666,2 out of 2,"['rest', 'life']","['rest', 'life']"
+13,Ses04M_impro02_F004 [045.1800-048.0000]: Don't go.,3.6799999999999997,5.14,4.67,negative,4.496666666666667,1 out of 1,['neg-go'],['go']
+14,Ses04M_impro02_M005 [048.5500-052.9500]: I can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+15,I have to go.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+16,Ses04M_impro02_F005 [051.0400-057.1900]: Do you want to -- do you want to leave us behind?,5.56,5.0200000000000005,5.416666666666666,neutral,5.332222222222222,3 out of 5,"['want', 'want', 'leave']","['want', 'want', 'leave', 'us', 'behind']"
+17,"I mean, I don't understand why you have to do this.",2.875,5.645,3.73,negative,4.083333333333333,2 out of 2,"['mean', 'neg-understand']","['mean', 'understand']"
+18,Ses04M_impro02_M006 [056.5800-061.5500]: I've made a pledge.,5.59,3.81,6.109999999999999,neutral,5.17,2 out of 2,"['make', 'pledge']","['make', 'pledge']"
+19,I can't not do this at this point.,5.45,3.86,6.27,neutral,5.193333333333333,1 out of 2,['point'],"['ca', 'point']"
+20,"Ses04M_impro02_F006 [060.0800-069.8900]: You've made a pledge to us, too.",5.59,3.81,6.109999999999999,neutral,5.17,2 out of 3,"['make', 'pledge']","['make', 'pledge', 'us']"
+21,"Remember that day, we stood in front of each other and said 'til death do us part.",5.116666666666666,3.8633333333333333,5.55,neutral,4.843333333333334,6 out of 8,"['remember', 'day', 'stand', 'say', 'death', 'part']","['remember', 'day', 'stand', 'front', 'say', 'death', 'us', 'part']"
+22,Put on some rings and it's supposed to mean something.,4.97,4.1075,5.165,neutral,4.7475,4 out of 5,"['put', 'ring', 'suppose', 'mean']","['put', 'ring', 'suppose', 'mean', 'something']"
+23,Ses04M_impro02_M007 [064.3500-068.3200]: I know that.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+24,I know that.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+25,I know that.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+26,Ses04M_impro02_M008 [069.4900-073.3700]: There's nothing I can do.,nan,nan,nan,nan,nan,0,nan,['nothing']
+27,"I mean, I have to go.",4.375,4.835,4.75,neutral,4.653333333333333,2 out of 2,"['mean', 'go']","['mean', 'go']"
+28,Ses04M_impro02_M009 [074.5600-084.4500]: And this is what I do.,nan,nan,nan,nan,nan,0,nan,[]
+29,"This is -- I mean, this is my life.",4.555,5.199999999999999,5.029999999999999,neutral,4.928333333333333,2 out of 2,"['mean', 'life']","['mean', 'life']"
+30,"And I know that you're part of my life, too, and I mean, it's only -- it's just going to be a year.",5.461666666666667,4.198333333333333,5.365,neutral,5.008333333333334,6 out of 6,"['know', 'part', 'life', 'mean', 'go', 'year']","['know', 'part', 'life', 'mean', 'go', 'year']"
+31,I'll be back.,4.76,2.59,5.22,neutral,4.19,1 out of 1,['back'],['back']
+32,Ses04M_impro02_F007 [083.1900-090.8200]: Can't you ask them?,4.05,6.52,3.71,neutral,4.760000000000001,1 out of 2,['neg-ask'],"['ca', 'ask']"
+33,Can't you go back and ask them if you could -- I don't know if you could change  assignments or something and you could stay here?,4.952857142857143,4.918571428571428,5.354285714285714,neutral,5.075238095238094,7 out of 12,"['neg-go', 'neg-back', 'ask', 'neg-know', 'change', 'assignment', 'stay']","['ca', 'go', 'back', 'ask', 'could', 'know', 'could', 'change', 'assignment', 'something', 'could', 'stay']"
+34,Ses04M_impro02_M010 [086.5400-092.2100]: It's not- it's not- It's not like that.,2.5599999999999996,5.6,3.7199999999999998,negative,3.9599999999999995,1 out of 1,['neg-like'],['like']
+35,It's not like that.,2.5599999999999996,5.6,3.7199999999999998,negative,3.9599999999999995,1 out of 1,['neg-like'],['like']
+36,I can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+37,Ses04M_impro02_F008 [091.7100-095.6400]: Why not?,nan,nan,nan,nan,nan,0,nan,[]
+38,"You could, at least, try.",5.64,4.0,5.94,neutral,5.193333333333334,1 out of 3,['try'],"['could', 'least', 'try']"
+39,They have to understand,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+40,Ses04M_impro02_M011 [093.3000-097.1200]: Because it's impossible.,3.5,4.52,3.5,negative,3.84,1 out of 1,['impossible'],['impossible']
+41,There's -- I just can't.,nan,nan,nan,nan,nan,0,nan,['ca']
+42,I can't.,nan,nan,nan,nan,nan,0,nan,['ca']
+43,Ses04M_impro02_F009 [097.0000-103.5900]: You won't even know your child when you come back.,5.195,4.5625,5.145,neutral,4.9675,4 out of 6,"['neg-know', 'child', 'come', 'back']","['wo', 'even', 'know', 'child', 'come', 'back']"
+44,This -- isn't there someone you could talk to?,6.64,3.38,6.44,positive,5.486666666666667,1 out of 3,['talk'],"['someone', 'could', 'talk']"
+45,Ses04M_impro02_F010 [103.6062-107.7600]: Explain the situation to them and then you can stay here.,5.626666666666667,3.73,5.42,neutral,4.9255555555555555,3 out of 3,"['explain', 'situation', 'stay']","['explain', 'situation', 'stay']"
+46,"Ses04M_impro02_M012 [103.3900-106.4700]: Look, honey, it's- it's- it's only going to be a year.",6.3225,4.0825,5.8525,positive,5.4191666666666665,4 out of 4,"['look', 'honey', 'go', 'year']","['look', 'honey', 'go', 'year']"
+47,Ses04M_impro02_M013 [106.4700-110.5600]: It's only going to be a year.,6.035,4.095000000000001,5.57,positive,5.233333333333333,2 out of 2,"['go', 'year']","['go', 'year']"
+48,I'm not going to miss my son's entire life.,5.768,4.822,5.1,neutral,5.2299999999999995,5 out of 5,"['neg-go', 'neg-miss', 'son', 'entire', 'life']","['go', 'miss', 'son', 'entire', 'life']"
+49,"Ses04M_impro02_F011 [110.3200-120.6400]: And what happens if, at the end of that year, they ask you to stay longer?",5.614,3.466,5.55,neutral,4.876666666666666,5 out of 6,"['happen', 'end', 'year', 'ask', 'stay']","['happen', 'end', 'year', 'ask', 'stay', 'longer']"
+50,Are you just going to agree?,6.745,4.24,6.135,positive,5.706666666666666,2 out of 2,"['go', 'agree']","['go', 'agree']"
+51,Are you just going to absentmindedly brainwashedly do whatever it is they tell you to do?,5.795,4.36,5.135,neutral,5.096666666666667,2 out of 5,"['go', 'tell']","['go', 'absentmindedly', 'brainwashedly', 'whatever', 'tell']"
+52,Ses04M_impro02_M014 [121.4000-127.6200]: I'm not going to stay more than a year.,4.43,5.109999999999999,4.923333333333333,neutral,4.821111111111111,3 out of 3,"['neg-go', 'neg-stay', 'year']","['go', 'stay', 'year']"
+53,I've  agreed to a year,6.46,3.475,6.375,positive,5.436666666666667,2 out of 2,"['agree', 'year']","['agree', 'year']"
+54,Ses04M_impro02_F012 [125.5300-128.7771]: Then why do you have to go a year at all?,6.035,4.095000000000001,5.57,positive,5.233333333333333,2 out of 2,"['go', 'year']","['go', 'year']"
+55,Ses04M_impro02_M015 [128.2900-131.3338]: Because I've already agreed to that.,7.17,3.62,6.94,positive,5.91,1 out of 2,['agree'],"['already', 'agree']"
+56,Ses04M_impro02_F013 [130.8700-138.8400]: Well unagree.,nan,nan,nan,nan,nan,0,nan,"['well', 'unagree']"
+57,Tell them that you can't leave right now.,4.423333333333333,4.793333333333333,4.1033333333333335,neutral,4.4399999999999995,3 out of 4,"['tell', 'neg-leave', 'neg-right']","['tell', 'ca', 'leave', 'right']"
+58,I can't do this by myself.,nan,nan,nan,nan,nan,0,nan,['ca']
+59,I can't do this without you.,nan,nan,nan,nan,nan,0,nan,"['ca', 'without']"
+60,"Ses04M_impro02_M016 [137.0700-142.3300]: Yes, you can.",nan,nan,nan,nan,nan,0,nan,['yes']
+61,"Yes, you can.",nan,nan,nan,nan,nan,0,nan,['yes']
+62,You know you can.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+63,You're a strong person.,6.455,4.425,6.27,positive,5.716666666666666,2 out of 2,"['strong', 'person']","['strong', 'person']"
+64,Ses04M_impro02_F014 [142.9100-149.8000]: This is supposed to be a partnership.,5.885,3.5300000000000002,5.720000000000001,neutral,5.045,2 out of 2,"['suppose', 'partnership']","['suppose', 'partnership']"
+65,We're supposed to do this together.,5.27,3.33,5.11,neutral,4.57,1 out of 2,['suppose'],"['suppose', 'together']"
+66,I'm not supposed to be left here to do this by myself while you leave.,4.696666666666666,5.21,5.276666666666666,neutral,5.061111111111111,3 out of 3,"['neg-suppose', 'leave', 'leave']","['suppose', 'leave', 'leave']"
+67,Ses04M_impro02_M017 [145.1600-151.5200]: It is.,nan,nan,nan,nan,nan,0,nan,[]
+68,It is.,nan,nan,nan,nan,nan,0,nan,[]
+69,It is.,nan,nan,nan,nan,nan,0,nan,[]
+70,It is.,nan,nan,nan,nan,nan,0,nan,[]
+71,I'm going to write you every day.,6.376666666666667,4.096666666666667,5.4,positive,5.291111111111111,3 out of 4,"['go', 'write', 'day']","['go', 'write', 'every', 'day']"
+72,"Ses04M_impro02_F015 [152.2900-156.6400]: What am I supposed to do, read your letters?",5.8933333333333335,3.4066666666666667,5.73,neutral,5.010000000000001,3 out of 3,"['suppose', 'read', 'letter']","['suppose', 'read', 'letter']"
+73,Ses04M_impro02_M018 [156.7100-167.2900]: What else can we do?,nan,nan,nan,nan,nan,0,nan,['else']
+74,I -- we don't have a choice in this.,3.6399999999999997,6.48,3.4400000000000004,negative,4.5200000000000005,1 out of 1,['neg-choice'],['choice']
+75,Do you understand?,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+76,You can't come with me and I can't stay here.,4.11,6.645,4.175,neutral,4.976666666666667,2 out of 4,"['neg-come', 'neg-stay']","['ca', 'come', 'ca', 'stay']"
+77,That's all there is to it.,nan,nan,nan,nan,nan,0,nan,[]
+78,Ses04M_impro02_F016 [167.6100-178.2000]: There has to be something.,nan,nan,nan,nan,nan,0,nan,['something']
+79,"I mean, we can't just live with this.",2.24,5.05,3.835,negative,3.7083333333333335,2 out of 3,"['mean', 'neg-live']","['mean', 'ca', 'live']"
+80,It's not -- it just won't work this way.,4.52,6.385,4.525,neutral,5.1433333333333335,2 out of 3,"['neg-work', 'neg-way']","['wo', 'work', 'way']"
+81,Ses04M_impro02_M019 [177.8200-181.9100]: We don't have a choice.,3.6399999999999997,6.48,3.4400000000000004,negative,4.5200000000000005,1 out of 1,['neg-choice'],['choice']
+82,I have to do this.,nan,nan,nan,nan,nan,0,nan,[]
+83,Ses04M_impro02_F017 [181.5200-184.9100]: Just tell them no.,5.27,3.86,4.94,neutral,4.69,1 out of 1,['tell'],['tell']
+84,Ses04M_impro02_M020 [185.5700-194.4400]: I can't do it.,nan,nan,nan,nan,nan,0,nan,['ca']
+85,I'd love to.,8.0,5.36,5.92,positive,6.426666666666667,1 out of 1,['love'],['love']
+86,"I mean, I don't - if you understand, I don't want to stay.",4.2425,4.975,4.945,neutral,4.720833333333333,4 out of 4,"['mean', 'understand', 'neg-want', 'neg-stay']","['mean', 'understand', 'want', 'stay']"
+87,"Ses04M_impro02_M021 [194.5600-198.9500]: I mean, I don't want to -- I don't want to leave.",3.9375,4.9375,4.48,negative,4.451666666666667,4 out of 4,"['mean', 'neg-want', 'neg-want', 'neg-leave']","['mean', 'want', 'want', 'leave']"
+88,I want to stay here with you.,6.07,4.215,5.55,positive,5.278333333333333,2 out of 2,"['want', 'stay']","['want', 'stay']"
+89,"Ses04M_impro02_F018 [198.8700-208.3800]: Then, can't you please try something?",4.36,6.0,4.06,neutral,4.806666666666666,1 out of 4,['neg-try'],"['ca', 'please', 'try', 'something']"
+90,"If you go and ask them and they say no, then I would understand, but you're not even willing to ask.",5.698571428571428,4.402857142857143,5.848571428571429,neutral,5.316666666666666,7 out of 8,"['go', 'ask', 'say', 'would', 'understand', 'neg-willing', 'ask']","['go', 'ask', 'say', 'would', 'understand', 'even', 'willing', 'ask']"
+91,Ses04M_impro02_F019 [209.7400-213.6600]: Can't you just make an effort?,5.1899999999999995,5.225,5.21,neutral,5.208333333333333,2 out of 3,"['neg-make', 'effort']","['ca', 'make', 'effort']"
+92,Can't you just try?,4.36,6.0,4.06,neutral,4.806666666666666,1 out of 2,['neg-try'],"['ca', 'try']"
+93,Ses04M_impro02_M022 [211.8300-215.2900]: I've asked already.,5.95,3.48,6.29,neutral,5.239999999999999,1 out of 2,['ask'],"['ask', 'already']"
+94,I can't go back.,4.46,6.275,4.725,neutral,5.153333333333333,2 out of 3,"['neg-go', 'neg-back']","['ca', 'go', 'back']"
+95,Ses04M_impro02_M023 [217.9900-226.6100]: It can't happen.,4.5,6.57,4.47,neutral,5.18,1 out of 2,['neg-happen'],"['ca', 'happen']"
+96,I have to go.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+97,"I want to stay really bad, but I can't.",5.126666666666667,4.43,4.886666666666667,neutral,4.814444444444445,3 out of 5,"['want', 'stay', 'bad']","['want', 'stay', 'really', 'bad', 'ca']"
+98,There's just no -- I don't have an option.,3.63,6.8100000000000005,3.6399999999999997,negative,4.693333333333334,1 out of 1,['neg-option'],['option']
+99,Ses04M_impro02_F020 [226.1500-228.5558]: When do you leave?,4.68,4.48,5.47,neutral,4.876666666666666,1 out of 1,['leave'],['leave']
+100,Ses04M_impro02_M024 [228.0849-230.7089]: Next week.,5.27,3.33,5.28,neutral,4.626666666666666,1 out of 2,['week'],"['next', 'week']"
+101,Ses04M_impro02_F021 [231.1700-236.1200]: A week.,5.27,3.33,5.28,neutral,4.626666666666666,1 out of 1,['week'],['week']
+102,You're giving me a week to be okay with this.,6.5,3.95,5.5,positive,5.316666666666666,2 out of 3,"['give', 'week']","['give', 'week', 'okay']"
+103,Ses04M_impro02_M025 [237.6900-246.5000]: You can't make it out like I'm happy about this.,6.606666666666667,5.593333333333334,5.756666666666667,positive,5.985555555555556,3 out of 4,"['neg-make', 'like', 'happy']","['ca', 'make', 'like', 'happy']"
+104,"I mean, I didn't -- I didn't want to put you in this situation.",4.1675,4.9275,4.2925,neutral,4.4625,4 out of 4,"['mean', 'neg-want', 'neg-put', 'situation']","['mean', 'want', 'put', 'situation']"
+105,Ses04M_impro02_F022 [245.8500-249.4100]: Well it doesn't seem like you're that bothered by it.,3.85,5.52,4.47,negative,4.613333333333333,3 out of 4,"['neg-seem', 'neg-like', 'bother']","['well', 'seem', 'like', 'bother']"
+106,Ses04M_impro02_M026 [250.7300-262.2300]: I am.,nan,nan,nan,nan,nan,0,nan,[]
+107,"I mean, I don't know.",2.8049999999999997,5.785,4.195,negative,4.261666666666667,2 out of 2,"['mean', 'neg-know']","['mean', 'know']"
+108,"I don't know what else to tell -- you know, I mean, I can tell you.",4.593999999999999,4.506,4.8100000000000005,neutral,4.636666666666667,5 out of 6,"['neg-know', 'tell', 'know', 'mean', 'tell']","['know', 'else', 'tell', 'know', 'mean', 'tell']"
+109,I don't know what else to do.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['know', 'else']"
+110,"I mean, I've been forced into this situation.",3.9766666666666666,4.736666666666666,4.24,negative,4.317777777777778,3 out of 3,"['mean', 'force', 'situation']","['mean', 'force', 'situation']"
+111,"Ses04M_impro02_F023 [258.9700-262.7600]: If you really cared so much, you'd find a way out.",6.666666666666667,3.03,5.876666666666667,positive,5.191111111111112,3 out of 5,"['care', 'find', 'way']","['really', 'care', 'much', 'find', 'way']"
+112,Ses04M_impro02_M027 [263.0041-267.3700]: There's nothing I can do.,nan,nan,nan,nan,nan,0,nan,['nothing']
+113,I-- I,nan,nan,nan,nan,nan,0,nan,[]
+114,"Ses04M_impro02_F024 [266.9800-277.6600]: Fine, fine.",6.5,3.86,5.78,positive,5.38,2 out of 2,"['fine', 'fine']","['fine', 'fine']"
+115,We have to be together.,nan,nan,nan,nan,nan,0,nan,['together']
+116,"If you can't stay here, then I'll go with you.",5.09,5.859999999999999,4.8100000000000005,neutral,5.253333333333333,2 out of 3,"['neg-stay', 'go']","['ca', 'stay', 'go']"
+117,I don't care where you go.,4.34,6.095000000000001,4.385,neutral,4.94,2 out of 2,"['neg-care', 'go']","['care', 'go']"
+118,"We'll go, too.",6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+119,I'm not staying behind.,3.8600000000000003,6.859999999999999,4.29,negative,5.003333333333333,1 out of 2,['neg-stay'],"['stay', 'behind']"
+120,Ses04M_impro02_M028 [277.8900-281.3720]: They won't let you come along.,4.205,6.859999999999999,4.0,neutral,5.0216666666666665,2 out of 4,"['neg-let', 'neg-come']","['wo', 'let', 'come', 'along']"
+121,It's not going to happen.,4.09,5.855,4.57,neutral,4.838333333333334,2 out of 2,"['neg-go', 'neg-happen']","['go', 'happen']"
+122,Ses04M_impro02_F025 [281.1800-287.0100]: It's a free world.,7.355,4.965,5.8100000000000005,positive,6.043333333333334,2 out of 2,"['free', 'world']","['free', 'world']"
+123,I can go where I want.,6.16,5.075,5.359999999999999,positive,5.531666666666666,2 out of 2,"['go', 'want']","['go', 'want']"
+124,"Wherever you are, that's where we're going to go.",6.32,4.86,5.33,positive,5.503333333333333,2 out of 3,"['go', 'go']","['wherever', 'go', 'go']"
+125,Ses04M_impro02_M029 [286.4900-290.0400]: Are you kidding?,7.23,4.71,4.83,positive,5.590000000000001,1 out of 1,['kid'],['kid']
+126,Please don't be difficult about this.,6.220000000000001,5.55,6.220000000000001,positive,5.996666666666667,1 out of 2,['neg-difficult'],"['please', 'difficult']"
+127,Ses04M_impro02_F026 [289.2500-296.3600]: Difficult.,3.78,4.45,3.78,negative,4.003333333333333,1 out of 1,['difficult'],['difficult']
+128,You're leaving for a year.,5.215,3.9050000000000002,5.64,neutral,4.920000000000001,2 out of 2,"['leave', 'year']","['leave', 'year']"
+129,We have a newborn child and you're leaving.,6.453333333333333,4.923333333333334,5.1866666666666665,positive,5.521111111111111,3 out of 3,"['newborn', 'child', 'leave']","['newborn', 'child', 'leave']"
+130,I don't think I'm being difficult.,3.55,5.35,3.6399999999999997,negative,4.18,2 out of 2,"['neg-think', 'difficult']","['think', 'difficult']"
+131,Ses04M_impro02_M030 [295.9500-297.1400]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+132,Ses04M_impro02_F027 [296.4100-301.8400]: I'm finding a way to make it work.,5.875,3.605,5.8525,neutral,5.110833333333333,4 out of 4,"['find', 'way', 'make', 'work']","['find', 'way', 'make', 'work']"
+133,And I will go wherever you go.,6.32,4.86,5.33,positive,5.503333333333333,2 out of 3,"['go', 'go']","['go', 'wherever', 'go']"
+134,"Whatever I have to do, I will make this work.",5.57,4.0,6.17,neutral,5.246666666666667,2 out of 3,"['make', 'work']","['whatever', 'make', 'work']"
+135,"Ses04M_impro02_M031 [301.2600-302.4600]: Look, I--",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 1,['look'],['look']
+136,Ses04M_impro02_F028 [301.8900-304.7800]: You're not really giving me a lot of options.,4.32,4.31,5.32,neutral,4.6499999999999995,2 out of 4,"['neg-give', 'option']","['really', 'give', 'lot', 'option']"
+137,Ses04M_impro02_M032 [304.3100-309.3611]: Where I'm going is not the safest place on the earth.,5.763333333333334,5.46,4.83,neutral,5.351111111111112,3 out of 4,"['go', 'neg-place', 'earth']","['go', 'safest', 'place', 'earth']"
+138,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+139,Ses04M_impro02_F029 [308.6900-312.3100]: But I'm supposed to be okay with you going there.,5.795,4.095000000000001,5.220000000000001,neutral,5.036666666666667,2 out of 3,"['suppose', 'go']","['suppose', 'okay', 'go']"
+140,Ses04M_impro02_M033 [312.8200-317.2800]: But I've been trained.,6.36,4.05,5.72,positive,5.376666666666666,1 out of 1,['train'],['train']
+141,You have no training.,4.81,5.9,3.74,neutral,4.816666666666667,1 out of 1,['neg-training'],['training']
+142,Ses04M_impro02_F030 [318.9300-322.9520]: I'm not going to stay here and wait.,4.03,5.206666666666666,4.756666666666667,neutral,4.664444444444444,3 out of 3,"['neg-go', 'neg-stay', 'wait']","['go', 'stay', 'wait']"
+143,Ses04M_impro02_M034 [322.6100-328.0100]: You have to.,nan,nan,nan,nan,nan,0,nan,[]
+144,Do you understand me?,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+145,You have to.,nan,nan,nan,nan,nan,0,nan,[]
+146,Ses04M_impro02_F031 [329.1500-331.9400]: I can't do it.,nan,nan,nan,nan,nan,0,nan,['ca']
+147,"Ses04M_impro02_M035 [332.6300-338.1900]: Well I guess we're at a stalemate then, aren't we?",4.49,3.32,4.09,neutral,3.966666666666667,2 out of 3,"['guess', 'stalemate']","['well', 'guess', 'stalemate']"

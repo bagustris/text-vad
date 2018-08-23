@@ -1,0 +1,114 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses01F_impro04_M000 [002.7418-006.6575]: Have you tried, uh, Craig's List?",5.765,3.275,5.775,neutral,4.9383333333333335,2 out of 4,"['try', 'list']","['try', 'uh', 'craig', 'list']"
+2,"Ses01F_impro04_F000 [007.2455-011.6400]: Uh, what?",nan,nan,nan,nan,nan,0,nan,['uh']
+3,Craig's List?,5.89,2.55,5.61,neutral,4.683333333333334,1 out of 2,['list'],"['craig', 'list']"
+4,Oh the internet thing?,6.115,4.4350000000000005,5.825,positive,5.458333333333333,2 out of 3,"['internet', 'thing']","['oh', 'internet', 'thing']"
+5,Ses01F_impro04_M001 [010.4600-012.1300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+6,Ses01F_impro04_F001 [011.7448-016.1500]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+7,Isn't that-- that's all like escort services and things like that.,6.522,4.1000000000000005,5.7860000000000005,positive,5.469333333333334,5 out of 5,"['like', 'escort', 'service', 'thing', 'like']","['like', 'escort', 'service', 'thing', 'like']"
+8,Ses01F_impro04_M002 [015.6400-018.9000]: No.,nan,nan,nan,nan,nan,0,nan,[]
+9,There's regular jobs on there.,5.865,3.825,5.59,neutral,5.093333333333334,2 out of 2,"['regular', 'job']","['regular', 'job']"
+10,Ses01F_impro04_F002 [018.6000-030.8976]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+11,"I mean I've been looking for so long that I just figured that--  I mean, I think things like Monster are a lot more reliable than just some random free board.",5.364166666666667,4.2491666666666665,5.508333333333333,neutral,5.040555555555556,12 out of 14,"['mean', 'look', 'figure', 'mean', 'think', 'thing', 'like', 'monster', 'reliable', 'random', 'free', 'board']","['mean', 'look', 'long', 'figure', 'mean', 'think', 'thing', 'like', 'monster', 'lot', 'reliable', 'random', 'free', 'board']"
+12,Ses01F_impro04_M003 [026.9100-028.7100]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+13,Ses01F_impro04_M004 [030.8800-035.5225]: I'm just saying I have a friend that got a good job on it so I was just recommending it.,6.473333333333333,3.96,5.998333333333333,positive,5.477222222222221,6 out of 6,"['say', 'friend', 'get', 'good', 'job', 'recommend']","['say', 'friend', 'get', 'good', 'job', 'recommend']"
+14,Ses01F_impro04_F003 [035.0090-037.8000]: What kind of a job?,6.71,3.5949999999999998,6.03,positive,5.445,2 out of 2,"['kind', 'job']","['kind', 'job']"
+15,Ses01F_impro04_M005 [037.1900-040.5300]: He's like a manager for a theatre.,6.130000000000001,4.275,6.720000000000001,positive,5.708333333333333,2 out of 3,"['like', 'manager']","['like', 'manager', 'theatre']"
+16,Ses01F_impro04_F004 [040.2300-041.9500]: Really?,nan,nan,nan,nan,nan,0,nan,['really']
+17,Ses01F_impro04_M006 [040.5400-043.5760]: He's like a house manager.,6.483333333333333,4.166666666666667,6.616666666666667,positive,5.7555555555555555,3 out of 3,"['like', 'house', 'manager']","['like', 'house', 'manager']"
+18,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+19,It's a good job.,6.765,3.83,5.425000000000001,positive,5.34,2 out of 2,"['good', 'job']","['good', 'job']"
+20,Ses01F_impro04_F005 [043.3500-045.7596]: He just...,nan,nan,nan,nan,nan,0,nan,[]
+21,Ses01F_impro04_F006 [046.2735-049.8300]: you know what?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+22,I heard about that job.,6.16,3.81,5.575,positive,5.1816666666666675,2 out of 2,"['hear', 'job']","['hear', 'job']"
+23,I applied for that.,5.16,3.24,6.2,neutral,4.866666666666667,1 out of 1,['apply'],['apply']
+24,Ses01F_impro04_M007 [049.3900-050.5800]: You did?,nan,nan,nan,nan,nan,0,nan,[]
+25,Ses01F_impro04_F007 [050.1100-054.3100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+26,I saw a posting at the theatre.,4.605,3.88,5.495,neutral,4.66,2 out of 3,"['saw', 'post']","['saw', 'post', 'theatre']"
+27,Ses01F_impro04_M008 [055.2100-056.3300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+28,M: Hmm.,nan,nan,nan,nan,nan,0,nan,['hmm']
+29,Ses01F_impro04_F008 [054.3700-055.6700]: He got it?,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+30,Ses01F_impro04_M009 [056.3500-059.0245]: You've been looking for a job for a long time; that was a long time ago.,5.6975,3.645,4.76,neutral,4.700833333333333,4 out of 7,"['look', 'job', 'time', 'time']","['look', 'job', 'long', 'time', 'long', 'time', 'ago']"
+31,Right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+32,Ses01F_impro04_F009 [058.7100-060.0937]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+33,Ses01F_impro04_M010 [059.8000-061.5500]: Hmm.,nan,nan,nan,nan,nan,0,nan,['hmm']
+34,Ses01F_impro04_F010 [060.6771-066.5275]: What did he do?,nan,nan,nan,nan,nan,0,nan,[]
+35,What was so great?,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+36,I don't understand why they would pick him over me.,5.046666666666667,4.636666666666667,5.056666666666667,neutral,4.913333333333333,3 out of 3,"['neg-understand', 'would', 'pick']","['understand', 'would', 'pick']"
+37,Ses01F_impro04_M011 [065.9700-069.7700]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+38,He had a really good resume I guess and--,5.986666666666666,3.73,5.446666666666666,neutral,5.054444444444445,3 out of 4,"['good', 'resume', 'guess']","['really', 'good', 'resume', 'guess']"
+39,Ses01F_impro04_F011 [069.4300-070.9400]: A resume?,4.89,3.67,5.04,neutral,4.533333333333332,1 out of 1,['resume'],['resume']
+40,Ses01F_impro04_M012 [070.3800-072.7264]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+41,Do you have a resume?,4.89,3.67,5.04,neutral,4.533333333333332,1 out of 1,['resume'],['resume']
+42,Ses01F_impro04_F012 [072.1300-074.7300]: No.,nan,nan,nan,nan,nan,0,nan,[]
+43,Ses01F_impro04_M013 [073.7473-077.1500]: It's kind of helpful when getting a job.,6.734999999999999,3.685,6.125,positive,5.515000000000001,4 out of 4,"['kind', 'helpful', 'get', 'job']","['kind', 'helpful', 'get', 'job']"
+44,Ses01F_impro04_F013 [076.4900-080.7269]: I just- I mean I call people up and I tell them what I'm good at.,5.494,3.878,5.306,neutral,4.892666666666667,5 out of 5,"['mean', 'call', 'people', 'tell', 'good']","['mean', 'call', 'people', 'tell', 'good']"
+45,Ses01F_impro04_M014 [080.1435-087.8100]: Well maybe we should sit down some time and you can just tell me all the stuff that you have done and I'll write it out.,5.735,3.5766666666666667,5.303333333333334,neutral,4.871666666666667,6 out of 8,"['sit', 'time', 'tell', 'stuff', 'do', 'write']","['well', 'maybe', 'sit', 'time', 'tell', 'stuff', 'do', 'write']"
+46,Ses01F_impro04_F014 [085.4900-086.9800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+47,Ses01F_impro04_F015 [087.2203-093.3300]: I don't like- I don't like sending things in the mail.,3.934,5.63,4.27,negative,4.6113333333333335,5 out of 5,"['neg-like', 'neg-like', 'neg-send', 'neg-thing', 'mail']","['like', 'like', 'send', 'thing', 'mail']"
+48,I don't want my information out there.,3.835,6.205,4.61,negative,4.883333333333333,2 out of 2,"['neg-want', 'neg-information']","['want', 'information']"
+49,Ses01F_impro04_M015 [092.3700-099.2700]: No.,nan,nan,nan,nan,nan,0,nan,[]
+50,You can- or you can just bring it in person.,5.89,4.0,5.859999999999999,neutral,5.25,2 out of 2,"['bring', 'person']","['bring', 'person']"
+51,"But they need, generally, something to see, you know, what kind of what that you've done, what kind of--",6.585,3.4766666666666666,6.405,positive,5.48888888888889,6 out of 8,"['need', 'see', 'know', 'kind', 'do', 'kind']","['need', 'generally', 'something', 'see', 'know', 'kind', 'do', 'kind']"
+52,Ses01F_impro04_F016 [097.4100-101.0475]: I'm there in front of them.,nan,nan,nan,nan,nan,0,nan,['front']
+53,I'm telling them what I'm good at.,6.58,3.76,5.675000000000001,positive,5.338333333333334,2 out of 2,"['tell', 'good']","['tell', 'good']"
+54,Ses01F_impro04_M016 [100.4850-103.4700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+55,"But the piece of paper helps, too.",5.866666666666667,3.7933333333333334,5.88,neutral,5.18,3 out of 3,"['piece', 'paper', 'help']","['piece', 'paper', 'help']"
+56,Ses01F_impro04_F017 [102.7800-105.4150]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+57,It's a piece of paper.,5.325,3.545,5.375,neutral,4.748333333333334,2 out of 2,"['piece', 'paper']","['piece', 'paper']"
+58,Ses01F_impro04_M017 [104.9700-107.7800]: No.,nan,nan,nan,nan,nan,0,nan,[]
+59,"But it has an outline, you know.",5.96,2.93,5.79,neutral,4.8933333333333335,2 out of 2,"['outline', 'know']","['outline', 'know']"
+60,"Ses01F_impro04_F018 [106.1700-111.8600]: I just don't want this paper trail, you know.",5.3875,4.6075,5.0425,neutral,5.0125,4 out of 4,"['neg-want', 'neg-paper', 'trail', 'know']","['want', 'paper', 'trail', 'know']"
+61,"I just don't want things following me around, like-.",5.2675,5.48,5.1675,neutral,5.305000000000001,4 out of 5,"['neg-want', 'neg-thing', 'neg-follow', 'like']","['want', 'thing', 'follow', 'around', 'like']"
+62,Ses01F_impro04_M018 [111.6600-117.7250]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+63,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+64,"Well, um.",nan,nan,nan,nan,nan,0,nan,"['well', 'um']"
+65,Maybe--,nan,nan,nan,nan,nan,0,nan,['maybe']
+66,"Ses01F_impro04_F019 [114.9200-122.3100]: It's just-- You know, I've had this problem before.",5.17,4.025,5.36,neutral,4.851666666666667,2 out of 2,"['know', 'problem']","['know', 'problem']"
+67,You're not the first person to tell me that I need a resume but...,4.436,4.518,4.532,neutral,4.495333333333334,5 out of 5,"['neg-first', 'neg-person', 'tell', 'need', 'resume']","['first', 'person', 'tell', 'need', 'resume']"
+68,Ses01F_impro04_M019 [118.4600-119.7700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+69,"Ses01F_impro04_M020 [121.5000-123.4200]: Okay, yeah.",nan,nan,nan,nan,nan,0,nan,"['okay', 'yeah']"
+70,I would imagine.,6.555,4.135,6.43,positive,5.706666666666666,2 out of 2,"['would', 'imagine']","['would', 'imagine']"
+71,Ses01F_impro04_F020 [122.4000-129.9300]: ..I just-..I just think it's kind of prejudiced and they are really discriminating against people who just aren't that way.,5.0216666666666665,4.458333333333333,5.588333333333333,neutral,5.022777777777778,6 out of 7,"['think', 'kind', 'prejudiced', 'discriminate', 'people', 'neg-way']","['think', 'kind', 'prejudiced', 'really', 'discriminate', 'people', 'way']"
+72,"Ses01F_impro04_M021 [129.4300-139.1600]: Well, sometimes you have to do things that you don't necessarily like to do to have a job.",4.583333333333333,4.343333333333334,4.523333333333333,neutral,4.483333333333333,3 out of 6,"['thing', 'neg-like', 'job']","['well', 'sometimes', 'thing', 'necessarily', 'like', 'job']"
+73,"But the job affords you money, you won't have to be taking the bus right now.",6.093333333333334,4.756666666666667,5.678333333333334,positive,5.509444444444445,6 out of 7,"['job', 'afford', 'money', 'take', 'bus', 'right']","['job', 'afford', 'money', 'wo', 'take', 'bus', 'right']"
+74,"Ses01F_impro04_F021 [133.7400-137.4400]: That's baloney, that's baloney.",nan,nan,nan,nan,nan,0,nan,"['baloney', 'baloney']"
+75,Ses01F_impro04_F022 [138.1300-139.8900]: Please.,nan,nan,nan,nan,nan,0,nan,['please']
+76,Ses01F_impro04_M022 [139.5219-141.8225]: maybe get a car.,6.359999999999999,3.855,6.03,positive,5.415,2 out of 3,"['get', 'car']","['maybe', 'get', 'car']"
+77,"Ses01F_impro04_M023 [144.9125-149.5100]: I just, you know, think you should try a little harder maybe.",6.2625,3.7975000000000003,5.85,positive,5.303333333333334,4 out of 6,"['know', 'think', 'try', 'little']","['know', 'think', 'try', 'little', 'harder', 'maybe']"
+78,Ses01F_impro04_F023 [148.5500-152.8500]: you think that you're better than me because I don't have a car?,5.025,4.855,5.045,neutral,4.9750000000000005,2 out of 3,"['think', 'neg-car']","['think', 'better', 'car']"
+79,Ses01F_impro04_M024 [151.8400-154.0300]: I didn't say that.,4.09,5.57,3.12,neutral,4.260000000000001,1 out of 1,['neg-say'],['say']
+80,"Ses01F_impro04_F024 [153.1800-155.2925]: You know, you're riding the bus, too.",5.203333333333333,3.816666666666667,5.24,neutral,4.753333333333333,3 out of 3,"['know', 'rid', 'bus']","['know', 'rid', 'bus']"
+81,"Ses01F_impro04_M025 [154.6000-157.8000]: I am riding the bus, but by choice.",5.05,3.91,5.5,neutral,4.82,3 out of 3,"['rid', 'bus', 'choice']","['rid', 'bus', 'choice']"
+82,Ses01F_impro04_F025 [157.1625-159.7000]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+83,What choice?,6.36,3.52,6.56,positive,5.48,1 out of 1,['choice'],['choice']
+84,"Ses01F_impro04_M026 [158.9500-161.3500]: To save the environment, carpool.",6.336666666666667,3.7033333333333336,5.453333333333333,positive,5.164444444444444,3 out of 3,"['save', 'environment', 'carpool']","['save', 'environment', 'carpool']"
+85,Ses01F_impro04_F026 [161.0787-163.7800]: You're saving the environment.,6.98,4.035,5.48,positive,5.498333333333334,2 out of 2,"['save', 'environment']","['save', 'environment']"
+86,mmhmm,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+87,Ses01F_impro04_M027 [162.1200-164.7825]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+88,One less car at a time.,6.1066666666666665,3.3733333333333335,5.443333333333333,positive,4.974444444444445,3 out of 4,"['one', 'car', 'time']","['one', 'less', 'car', 'time']"
+89,Ses01F_impro04_F027 [164.3925-167.5650]: Interesting.,6.78,5.1,6.83,positive,6.236666666666667,1 out of 1,['interesting'],['interesting']
+90,That's fantastic.,8.36,6.4,7.21,positive,7.323333333333333,1 out of 1,['fantastic'],['fantastic']
+91,Ses01F_impro04_M028 [165.4700-166.7100]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+92,"Ses01F_impro04_M029 [167.0500-171.4300]: You know, you don't have to take out your frustration on me, you know, just because...",5.3175,4.4750000000000005,5.0,neutral,4.930833333333333,4 out of 4,"['know', 'neg-take', 'frustration', 'know']","['know', 'take', 'frustration', 'know']"
+93,Ses01F_impro04_F028 [170.8300-172.8400]: I'm not frustrated.,7.45,4.6,6.15,positive,6.066666666666667,1 out of 1,['neg-frustrated'],['frustrated']
+94,Ses01F_impro04_M030 [171.7500-175.2600]: ...you can't get a job and refuse to have a resume.,4.145,5.08,4.8625,neutral,4.695833333333333,4 out of 5,"['neg-get', 'neg-job', 'refuse', 'resume']","['ca', 'get', 'job', 'refuse', 'resume']"
+95,Ses01F_impro04_F029 [175.2700-178.4300]: Who do you think you are?,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 1,['think'],['think']
+96,Ses01F_impro04_M031 [178.0033-180.8650]: I don't think I'm anyone.,3.3200000000000003,6.25,3.5,negative,4.3566666666666665,1 out of 2,['neg-think'],"['think', 'anyone']"
+97,Ses01F_impro04_F030 [180.3025-183.4875]: You are so high and mighty.,6.109999999999999,4.765,6.305,positive,5.726666666666667,2 out of 2,"['high', 'mighty']","['high', 'mighty']"
+98,I just--,nan,nan,nan,nan,nan,0,nan,[]
+99,Ses01F_impro04_M032 [182.8200-185.5400]: I- I-I didn't-- okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+100,Ses01F_impro04_F031 [184.4700-188.8700]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+101,I'm saving the environment.,6.98,4.035,5.48,positive,5.498333333333334,2 out of 2,"['save', 'environment']","['save', 'environment']"
+102,I'm riding this car because I- I want to.,5.433333333333334,4.57,5.62,neutral,5.207777777777778,3 out of 3,"['rid', 'car', 'want']","['rid', 'car', 'want']"
+103,Ses01F_impro04_M033 [186.1200-187.4625]: What?,nan,nan,nan,nan,nan,0,nan,[]
+104,No.,nan,nan,nan,nan,nan,0,nan,[]
+105,Ses01F_impro04_M034 [188.0100-190.7100]: What?,nan,nan,nan,nan,nan,0,nan,[]
+106,Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+107,So now you're...,nan,nan,nan,nan,nan,0,nan,[]
+108,"Ses01F_impro04_F032 [189.1200-192.0200]: The bus, I'm riding the bus because I want to.",4.9775,4.3325,5.0525,neutral,4.7875,4 out of 4,"['bus', 'rid', 'bus', 'want']","['bus', 'rid', 'bus', 'want']"
+109,Ses01F_impro04_M035 [191.2800-195.1300]: you know what?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+110,You don't have to take your anger and your hurt out on me.,3.3766666666666665,5.376666666666667,4.68,negative,4.477777777777778,3 out of 3,"['neg-take', 'anger', 'hurt']","['take', 'anger', 'hurt']"
+111,Ses01F_impro04_F033 [193.5875-199.4325]: I can not-- you are not here by choice.,3.6399999999999997,6.48,3.4400000000000004,negative,4.5200000000000005,1 out of 1,['neg-choice'],['choice']
+112,Nobody would ride this bus by choice.,5.915,4.0649999999999995,5.665,neutral,5.215,4 out of 5,"['would', 'ride', 'bus', 'choice']","['nobody', 'would', 'ride', 'bus', 'choice']"
+113,Ses01F_impro04_M036 [200.2150-202.0825]: Why not?,nan,nan,nan,nan,nan,0,nan,[]

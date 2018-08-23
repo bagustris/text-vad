@@ -1,0 +1,163 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses03M_impro03_M000 [000.4621-003.0025]: Hey.,nan,nan,nan,nan,nan,0,nan,['hey']
+2,Ses03M_impro03_F000 [002.3299-004.6150]: Hey.,nan,nan,nan,nan,nan,0,nan,['hey']
+3,"Ses03M_impro03_M001 [004.0436-007.3747]: Esmeralda, guess what?",5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 2,['guess'],"['esmeralda', 'guess']"
+4,Ses03M_impro03_F001 [006.2964-007.8946]: What?,nan,nan,nan,nan,nan,0,nan,[]
+5,Ses03M_impro03_M002 [007.5288-014.0755]: [LAUGHTER] Guess who just got hitched?,6.1525,4.285,5.6125,positive,5.3500000000000005,4 out of 4,"['laughter', 'guess', 'get', 'hitch']","['laughter', 'guess', 'get', 'hitch']"
+6,Ses03M_impro03_F002 [014.2850-025.0825]: Shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 1,['shut'],['shut']
+7,Oh my God.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+8,Really?,nan,nan,nan,nan,nan,0,nan,['really']
+9,Just like that?,7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+10,You just asked the question and what...how did you ask?,6.086666666666667,3.5433333333333334,6.153333333333333,positive,5.261111111111112,3 out of 3,"['ask', 'question', 'ask']","['ask', 'question', 'ask']"
+11,Ses03M_impro03_M003 [014.1525-021.7776]: This guy.,6.55,4.71,5.12,positive,5.46,1 out of 1,['guy'],['guy']
+12,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+13,Can you believe it?,7.05,3.33,6.56,positive,5.646666666666666,1 out of 1,['believe'],['believe']
+14,She said yes too.,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 2,['say'],"['say', 'yes']"
+15,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+16,She said yes.,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 2,['say'],"['say', 'yes']"
+17,Ses03M_impro03_M004 [023.4975-027.2268]: Okay we were at Chuck E. Cheese.,5.935,3.875,6.075,neutral,5.294999999999999,2 out of 3,"['chuck', 'cheese']","['okay', 'chuck', 'cheese']"
+18,Ses03M_impro03_F003 [025.1665-028.9250]: Chuck E. Cheese?,5.935,3.875,6.075,neutral,5.294999999999999,2 out of 2,"['chuck', 'cheese']","['chuck', 'cheese']"
+19,"Ah, man that is so lame.",4.3100000000000005,3.5500000000000003,4.445,neutral,4.1016666666666675,2 out of 3,"['man', 'lame']","['ah', 'man', 'lame']"
+20,Ses03M_impro03_F004 [029.9675-034.1700]: Are you serious [GARBAGE] man?,4.726666666666667,4.083333333333333,5.42,neutral,4.743333333333333,3 out of 3,"['serious', 'garbage', 'man']","['serious', 'garbage', 'man']"
+21,Ses03M_impro03_M005 [028.4206-035.8916]: Get the big pizza--and I put it in the pizza and she ate so [GARBAGE],6.082857142857143,4.177142857142857,5.792857142857143,positive,5.350952380952381,7 out of 7,"['get', 'big', 'pizza', 'put', 'pizza', 'eat', 'garbage']","['get', 'big', 'pizza', 'put', 'pizza', 'eat', 'garbage']"
+22,Ses03M_impro03_F005 [035.5900-041.3575]: Oh like that one movie.,6.923333333333334,3.82,5.84,positive,5.527777777777779,3 out of 4,"['like', 'one', 'movie']","['oh', 'like', 'one', 'movie']"
+23,What's that one movie I just saw?,5.83,3.7466666666666666,5.303333333333333,neutral,4.96,3 out of 3,"['one', 'movie', 'saw']","['one', 'movie', 'saw']"
+24,No.,nan,nan,nan,nan,nan,0,nan,[]
+25,Where she like swallows the...,6.505000000000001,4.09,6.0,positive,5.531666666666666,2 out of 2,"['like', 'swallow']","['like', 'swallow']"
+26,Ses03M_impro03_M006 [037.5283-040.8402]: American Pie?,6.45,4.05,6.29,positive,5.596666666666667,1 out of 2,['pie'],"['american', 'pie']"
+27,Ah.,nan,nan,nan,nan,nan,0,nan,['ah']
+28,"Ses03M_impro03_F006 [041.3825-047.1559]: oh, I don't remember.",3.5,6.859999999999999,3.6900000000000004,negative,4.683333333333334,1 out of 2,['neg-remember'],"['oh', 'remember']"
+29,Everybody Says I Love You with Drew Barrymore...no you haven't seen it?,5.955,4.8725,5.7925,neutral,5.54,4 out of 6,"['say', 'love', 'draw', 'neg-see']","['everybody', 'say', 'love', 'draw', 'barrymore', 'see']"
+30,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+31,Ses03M_impro03_M007 [045.7500-052.7925]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+32,It sounds like a chick flick.,6.29,4.2225,5.890000000000001,positive,5.4675,4 out of 4,"['sound', 'like', 'chick', 'flick']","['sound', 'like', 'chick', 'flick']"
+33,"Anyways so, she gets the ring and she goes,",6.5,4.32,5.473333333333334,positive,5.431111111111111,3 out of 4,"['get', 'ring', 'go']","['anyways', 'get', 'ring', 'go']"
+34,Ses03M_impro03_F007 [047.2875-049.4858]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+35,Well...,nan,nan,nan,nan,nan,0,nan,['well']
+36,Ses03M_impro03_M008 [052.9100-058.3046]: Barry what's this?,nan,nan,nan,nan,nan,0,nan,['barry']
+37,"And I go, I don't know.",4.75,5.8100000000000005,4.775,neutral,5.111666666666667,2 out of 2,"['go', 'neg-know']","['go', 'know']"
+38,She goes--,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+39,Ses03M_impro03_F008 [056.2058-058.8630]: She calls you Barry?,6.18,3.29,5.61,positive,5.026666666666666,1 out of 2,['call'],"['call', 'barry']"
+40,Ses03M_impro03_M009 [058.3600-060.1425]: That's my name.,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 1,['name'],['name']
+41,"Ses03M_impro03_F009 [059.5725-064.0950]: Oh, okay.",nan,nan,nan,nan,nan,0,nan,"['oh', 'okay']"
+42,Well I call you Joe cause you're middle name Joseph.,5.54,3.165,5.2575,neutral,4.654166666666667,4 out of 7,"['call', 'cause', 'middle', 'name']","['well', 'call', 'joe', 'cause', 'middle', 'name', 'joseph']"
+43,"Ses03M_impro03_M010 [063.6550-071.4500]: Barry Joe, B.J.",nan,nan,nan,nan,nan,0,nan,"['barry', 'joe']"
+44,"[LAUGHTER] Oh you dirty, dirty girl.",5.385,5.18,5.5975,neutral,5.3875,4 out of 5,"['laughter', 'dirty', 'dirty', 'girl']","['laughter', 'oh', 'dirty', 'dirty', 'girl']"
+45,you're so dirty.,3.17,5.05,5.05,negative,4.423333333333333,1 out of 1,['dirty'],['dirty']
+46,Ses03M_impro03_F010 [064.9400-070.2428]: [LAUGHTER] So nasty.,5.5,5.415,5.5,neutral,5.471666666666667,2 out of 2,"['laughter', 'nasty']","['laughter', 'nasty']"
+47,No you... dirty me?,6.83,4.95,4.95,positive,5.576666666666667,1 out of 1,['neg-dirty'],['dirty']
+48,Ses03M_impro03_F011 [070.8012-072.2069]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+49,"Ses03M_impro03_M011 [071.6292-079.4853]: Ah...Anyways, so she took the ring and she goes, is this real?",6.33,4.465,5.3725000000000005,positive,5.389166666666667,4 out of 6,"['take', 'ring', 'go', 'real']","['ah', 'anyways', 'take', 'ring', 'go', 'real']"
+50,"So I was like, of course--",7.44,4.4,6.28,positive,6.04,1 out of 2,['like'],"['like', 'course']"
+51,Ses03M_impro03_M012 [079.5700-082.0655]: Sara and I--,nan,nan,nan,nan,nan,0,nan,['sara']
+52,Ses03M_impro03_F012 [081.5456-086.9756]: She actually asked if it was real?,6.52,3.7649999999999997,6.09,positive,5.458333333333333,2 out of 3,"['ask', 'real']","['actually', 'ask', 'real']"
+53,I would've probably asked the same thing considering you were in Chuck E. Cheese.,5.973333333333333,3.5300000000000002,5.975,neutral,5.1594444444444445,6 out of 7,"['would', 'ask', 'thing', 'consider', 'chuck', 'cheese']","['would', 'probably', 'ask', 'thing', 'consider', 'chuck', 'cheese']"
+54,Ses03M_impro03_M013 [086.2875-089.7868]: Come on.,5.64,3.57,5.94,neutral,5.05,1 out of 1,['come'],['come']
+55,It was her birthday.,6.37,4.6,6.07,positive,5.68,1 out of 1,['birthday'],['birthday']
+56,Ses03M_impro03_F013 [087.0333-088.9203]: Because of Chuck E. Cheese?,5.935,3.875,6.075,neutral,5.294999999999999,2 out of 2,"['chuck', 'cheese']","['chuck', 'cheese']"
+57,"Ses03M_impro03_F014 [089.1050-092.6173]: Oh, man.",5.42,4.36,5.44,neutral,5.073333333333334,1 out of 2,['man'],"['oh', 'man']"
+58,How old are you?,3.19,4.48,4.22,negative,3.9633333333333334,1 out of 1,['old'],['old']
+59,Five?,5.4,3.55,5.65,neutral,4.866666666666666,1 out of 1,['five'],['five']
+60,Ses03M_impro03_M014 [090.0757-094.3118]: She wanted...she always wants something spontaneous.,6.21,5.43,5.636666666666667,positive,5.758888888888889,3 out of 5,"['want', 'want', 'spontaneous']","['want', 'always', 'want', 'something', 'spontaneous']"
+61,Ses03M_impro03_F015 [092.8676-095.6211]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+62,"That's, you know, okay.",6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['know', 'okay']"
+63,"Ses03M_impro03_M015 [094.5043-100.2616]: I couldn't, I couldn't afford the Red Lobster.",4.733333333333333,5.1066666666666665,4.636666666666667,neutral,4.825555555555556,3 out of 5,"['neg-afford', 'neg-red', 'lobster']","['could', 'could', 'afford', 'red', 'lobster']"
+64,[LAUGHTER] What anyway?,8.05,5.39,7.02,positive,6.82,1 out of 2,['laughter'],"['laughter', 'anyway']"
+65,Ses03M_impro03_F016 [096.5950-106.0767]: Oh god!,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+66,"You are damn cheap, cheap, cheap.",5.01,4.6274999999999995,5.515,neutral,5.050833333333333,4 out of 4,"['damn', 'cheap', 'cheap', 'cheap']","['damn', 'cheap', 'cheap', 'cheap']"
+67,"Anyways, moving on.",4.95,4.24,5.12,neutral,4.7700000000000005,1 out of 2,['move'],"['anyways', 'move']"
+68,It's not like you're poor.,3.1149999999999998,5.135,3.86,negative,4.036666666666666,2 out of 2,"['neg-like', 'poor']","['like', 'poor']"
+69,I mean your dad makes... okey,5.22,4.176666666666667,5.503333333333333,neutral,4.966666666666666,3 out of 4,"['mean', 'dad', 'make']","['mean', 'dad', 'make', 'okey']"
+70,Ses03M_impro03_M016 [103.4965-106.2307]: So Okay then and.,nan,nan,nan,nan,nan,0,nan,['okay']
+71,"Ses03M_impro03_M017 [106.2307-109.6004]: I got all the character animals to do a conga line,",6.002,4.026,5.678,positive,5.235333333333333,5 out of 5,"['get', 'character', 'animal', 'conga', 'line']","['get', 'character', 'animal', 'conga', 'line']"
+72,"Ses03M_impro03_M018 [109.6004-115.3577]: dim down the lights and uh, I got on one of the tables pulled her up.",5.53,3.418333333333333,5.628333333333333,neutral,4.858888888888889,6 out of 7,"['dim', 'light', 'get', 'one', 'table', 'pull']","['dim', 'light', 'uh', 'get', 'one', 'table', 'pull']"
+73,Ses03M_impro03_F017 [112.7967-115.3962]: You had the mouse?,4.8,3.38,4.29,neutral,4.156666666666666,1 out of 1,['mouse'],['mouse']
+74,Ses03M_impro03_F018 [115.4540-119.5553]: Isn't it a rat?,6.79,4.1,6.65,positive,5.846666666666667,1 out of 1,['neg-rat'],['rat']
+75,It's a rat.,3.21,5.9,3.35,negative,4.153333333333333,1 out of 1,['rat'],['rat']
+76,Chuck E. Cheese?,5.935,3.875,6.075,neutral,5.294999999999999,2 out of 2,"['chuck', 'cheese']","['chuck', 'cheese']"
+77,Ses03M_impro03_M019 [115.4050-117.8650]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+78,Ses03M_impro03_M020 [119.4205-127.3325]: Chucky...I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['chucky', 'know']"
+79,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+80,"Anyways, I pull her up and I go, I go Sarah",6.076666666666667,4.6066666666666665,5.553333333333334,positive,5.412222222222223,3 out of 5,"['pull', 'go', 'go']","['anyways', 'pull', 'go', 'go', 'sarah']"
+81,Ses03M_impro03_F019 [121.1750-124.6300]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+82,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+83,"Ses03M_impro03_M021 [127.4150-136.4228]: You're my guiding light, then they put on that song the I've had the time of my life, that song.",6.361428571428571,4.13,5.961428571428572,positive,5.484285714285714,7 out of 7,"['guide', 'light', 'put', 'song', 'time', 'life', 'song']","['guide', 'light', 'put', 'song', 'time', 'life', 'song']"
+84,Ses03M_impro03_F020 [129.1150-132.7400]: Oh my God.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+85,"Ses03M_impro03_F021 [134.5551-138.1400]: Okay, that is really cheesy Joe.",4.9,4.09,4.86,neutral,4.616666666666667,1 out of 4,['cheesy'],"['okay', 'really', 'cheesy', 'joe']"
+86,"Ses03M_impro03_M022 [136.6731-141.3521]: And I go, I want to spend the rest of my life with you.",6.554,4.502,5.654,positive,5.57,5 out of 5,"['go', 'want', 'spend', 'rest', 'life']","['go', 'want', 'spend', 'rest', 'life']"
+87,Ses03M_impro03_F022 [140.4664-142.8155]: Oh that's kind of sweet.,7.775,3.665,6.87,positive,6.103333333333334,2 out of 3,"['kind', 'sweet']","['oh', 'kind', 'sweet']"
+88,Ses03M_impro03_M023 [141.5832-146.2430]: And I love you baby.,7.335,5.165,5.43,positive,5.976666666666667,2 out of 2,"['love', 'baby']","['love', 'baby']"
+89,And I want you to marry me.,6.545,5.404999999999999,5.529999999999999,positive,5.826666666666665,2 out of 2,"['want', 'marry']","['want', 'marry']"
+90,"Ses03M_impro03_F023 [145.4342-153.7332]: Wait, wait, wait I want you to marry me?",5.348,4.334,5.398,neutral,5.026666666666666,5 out of 5,"['wait', 'wait', 'wait', 'want', 'marry']","['wait', 'wait', 'wait', 'want', 'marry']"
+91,"No, shouldn't you like be more like a question like, would you marry me?",6.133333333333334,4.566666666666666,5.628333333333334,positive,5.442777777777778,6 out of 6,"['neg-like', 'like', 'question', 'like', 'would', 'marry']","['like', 'like', 'question', 'like', 'would', 'marry']"
+92,Not like I want you to marry me.,4.55,5.276666666666666,4.666666666666667,neutral,4.8311111111111105,3 out of 3,"['neg-like', 'neg-want', 'marry']","['like', 'want', 'marry']"
+93,It's like a demand.,5.77,5.125,5.71,neutral,5.535,2 out of 2,"['like', 'demand']","['like', 'demand']"
+94,Ses03M_impro03_F024 [153.7525-157.7825]: You marry me.,7.09,5.52,5.67,positive,6.093333333333334,1 out of 1,['marry'],['marry']
+95,"I man I Jane, you Tarzan.",5.42,4.36,5.44,neutral,5.073333333333334,1 out of 3,['man'],"['man', 'jane', 'tarzan']"
+96,Ses03M_impro03_M024 [153.1425-160.3450]: No.,nan,nan,nan,nan,nan,0,nan,[]
+97,"Well that's what I said, spur of the moment--and she goes, she goes,",5.93,4.5360000000000005,5.808,neutral,5.424666666666667,5 out of 6,"['say', 'spur', 'moment', 'go', 'go']","['well', 'say', 'spur', 'moment', 'go', 'go']"
+98,Ses03M_impro03_M025 [160.7036-165.7300]: sure.,6.64,3.48,6.82,positive,5.646666666666666,1 out of 1,['sure'],['sure']
+99,And that was it.,nan,nan,nan,nan,nan,0,nan,[]
+100,Ses03M_impro03_F025 [164.6702-166.7882]: She said sure?,6.275,3.955,6.85,positive,5.6933333333333325,2 out of 2,"['say', 'sure']","['say', 'sure']"
+101,Ses03M_impro03_F026 [166.8267-170.5430]: Sure?,6.64,3.48,6.82,positive,5.646666666666666,1 out of 1,['sure'],['sure']
+102,Who says sure?,6.275,3.955,6.85,positive,5.6933333333333325,2 out of 2,"['say', 'sure']","['say', 'sure']"
+103,You say yes...I don't like--,4.234999999999999,5.015,5.3,neutral,4.8500000000000005,2 out of 3,"['say', 'neg-like']","['say', 'yes', 'like']"
+104,"Ses03M_impro03_M026 [166.0758-168.0398]: Yeah, she goes--",6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['yeah', 'go']"
+105,Ses03M_impro03_M027 [169.7728-174.2015]: Cause she was a little confused at first but then she said yes.,5.48,4.258,5.548,neutral,5.0953333333333335,5 out of 6,"['cause', 'little', 'confused', 'first', 'say']","['cause', 'little', 'confused', 'first', 'say', 'yes']"
+106,Ses03M_impro03_F027 [172.3145-174.6251]: How long have you guys been going out?,6.4350000000000005,4.785,5.225,positive,5.4816666666666665,2 out of 3,"['guy', 'go']","['long', 'guy', 'go']"
+107,Ses03M_impro03_M028 [174.3362-178.6301]: About two and a half weeks.,5.785,3.33,5.165,neutral,4.760000000000001,2 out of 3,"['two', 'week']","['two', 'half', 'week']"
+108,Ses03M_impro03_F028 [177.9947-180.0650]: What?,nan,nan,nan,nan,nan,0,nan,[]
+109,Ses03M_impro03_M029 [179.4389-184.8303]: Two and ...  We love each other.,7.15,4.345000000000001,5.484999999999999,positive,5.66,2 out of 2,"['two', 'love']","['two', 'love']"
+110,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+111,Ses03M_impro03_F029 [181.2000-183.3925]: What?,nan,nan,nan,nan,nan,0,nan,[]
+112,Ses03M_impro03_F030 [184.3138-191.7622]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+113,I haven't seen you in about two and a half years and I come back and you're getting engaged to somebody you only knew for,5.71125,3.88875,5.48375,neutral,5.027916666666666,8 out of 10,"['neg-see', 'two', 'year', 'come', 'back', 'get', 'engage', 'know']","['see', 'two', 'half', 'year', 'come', 'back', 'get', 'engage', 'somebody', 'know']"
+114,"Ses03M_impro03_M030 [190.3950-193.3989]: You got to meet her, she's wonderful.",6.53,3.9833333333333334,6.243333333333333,positive,5.585555555555556,3 out of 3,"['get', 'meet', 'wonderful']","['get', 'meet', 'wonderful']"
+115,"Ses03M_impro03_F031 [191.7622-197.5580]: No, no, no.",nan,nan,nan,nan,nan,0,nan,[]
+116,You don't get married in two and a half weeks.,4.5975,4.3675,4.7524999999999995,neutral,4.5725,4 out of 5,"['neg-get', 'neg-marry', 'two', 'week']","['get', 'marry', 'two', 'half', 'week']"
+117,It doesn't work that way.,4.52,6.385,4.525,neutral,5.1433333333333335,2 out of 2,"['neg-work', 'neg-way']","['work', 'way']"
+118,You don't even have sex----in two and a half weeks.,4.946666666666666,3.02,4.72,neutral,4.228888888888889,3 out of 5,"['neg-sex', 'two', 'week']","['even', 'sex', 'two', 'half', 'week']"
+119,Ses03M_impro03_M031 [194.5349-204.9520]: She just graduated from high school and----she's planning to apply for colleges----and stuff.She's so great.,6.24,4.061428571428571,6.2628571428571425,positive,5.521428571428571,7 out of 7,"['graduate', 'high', 'school', 'plan', 'apply', 'college', 'great']","['graduate', 'high', 'school', 'plan', 'apply', 'college', 'great']"
+120,She has so much life and energy and stuff.,6.48,5.12,5.75,positive,5.783333333333334,3 out of 4,"['life', 'energy', 'stuff']","['much', 'life', 'energy', 'stuff']"
+121,Ses03M_impro03_F032 [197.8275-201.3512]: What?,nan,nan,nan,nan,nan,0,nan,[]
+122,Oh my god.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+123,Ses03M_impro03_F033 [202.1985-204.8025]: She must be hot.,5.59,4.43,5.029999999999999,neutral,5.016666666666667,2 out of 2,"['must', 'hot']","['must', 'hot']"
+124,"Ses03M_impro03_F034 [205.3756-208.6489]: Yeah, that's it.",nan,nan,nan,nan,nan,0,nan,['yeah']
+125,She's hot and you are- getting married.,6.303333333333334,4.6499999999999995,5.44,positive,5.464444444444445,3 out of 3,"['hot', 'get', 'marry']","['hot', 'get', 'marry']"
+126,"Ses03M_impro03_M032 [206.3191-208.5912]: Yeah, she is good-looking.",nan,nan,nan,nan,nan,0,nan,['yeah']
+127,Ses03M_impro03_F035 [208.6489-212.7700]: I cannot believe you.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 1,['neg-believe'],['believe']
+128,Why do you want to get married?,6.3933333333333335,4.826666666666666,5.57,positive,5.596666666666667,3 out of 3,"['want', 'get', 'marry']","['want', 'get', 'marry']"
+129,You're a boy.,5.84,4.11,5.5,neutral,5.1499999999999995,1 out of 1,['boy'],['boy']
+130,You're a little boy.,5.875,4.155,5.34,neutral,5.123333333333334,2 out of 2,"['little', 'boy']","['little', 'boy']"
+131,Ses03M_impro03_M033 [212.3150-214.4833]: I'm twenty eight years old.,5.14,3.74,5.1075,neutral,4.6625,4 out of 4,"['twenty', 'eight', 'year', 'old']","['twenty', 'eight', 'year', 'old']"
+132,Ses03M_impro03_F036 [213.7950-217.9375]: You still act like a boy.,6.306666666666667,4.233333333333333,5.963333333333334,positive,5.501111111111111,3 out of 4,"['act', 'like', 'boy']","['still', 'act', 'like', 'boy']"
+133,And men take a lot longer to grow----I will tell you.,5.456666666666667,3.6599999999999997,5.09,neutral,4.735555555555556,3 out of 6,"['take', 'grow', 'tell']","['men', 'take', 'lot', 'longer', 'grow', 'tell']"
+134,Ses03M_impro03_M034 [216.0044-223.1096]: Well that's why I'm dating someone who's just eighteen years old.,5.46,3.9925,5.2125,neutral,4.888333333333334,4 out of 6,"['date', 'eighteen', 'year', 'old']","['well', 'date', 'someone', 'eighteen', 'year', 'old']"
+135,Jesus.,nan,nan,nan,nan,nan,0,nan,['jesus']
+136,I think she's ready to have kids already.,6.85,4.12,5.796666666666667,positive,5.588888888888889,3 out of 4,"['think', 'ready', 'kid']","['think', 'ready', 'kid', 'already']"
+137,Ses03M_impro03_F037 [218.0262-220.4331]: Oh man.,5.42,4.36,5.44,neutral,5.073333333333334,1 out of 2,['man'],"['oh', 'man']"
+138,Ses03M_impro03_F038 [221.8425-224.2503]: What?,nan,nan,nan,nan,nan,0,nan,[]
+139,Eighteen?,5.72,3.83,5.71,neutral,5.086666666666667,1 out of 1,['eighteen'],['eighteen']
+140,Ses03M_impro03_M035 [223.2829-226.7082]: I'm so excited.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+141,It's going to be great.,6.91,4.5,5.99,positive,5.8,2 out of 2,"['go', 'great']","['go', 'great']"
+142,Ses03M_impro03_F039 [226.0364-231.7551]: I can't believe you.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 2,['neg-believe'],"['ca', 'believe']"
+143,I can't believe it.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 2,['neg-believe'],"['ca', 'believe']"
+144,Well I'm going to be there.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['well', 'go']"
+145,I'll be at that wedding but I'll be in the back.,6.055,3.955,5.15,positive,5.053333333333334,2 out of 2,"['wedding', 'back']","['wedding', 'back']"
+146,Ses03M_impro03_M036 [230.0029-237.0888]: She just...she just...we're in a good position too.,6.725,3.505,5.5649999999999995,positive,5.265,2 out of 2,"['good', 'position']","['good', 'position']"
+147,She just got promoted to assistant manager at Jack In The Box,5.74,3.998,5.986,neutral,5.241333333333333,5 out of 6,"['get', 'promote', 'assistant', 'manager', 'box']","['get', 'promote', 'assistant', 'manager', 'jack', 'box']"
+148,Ses03M_impro03_M037 [237.1650-240.0150]: -and so... yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+149,Ses03M_impro03_F040 [238.0125-243.9437]: Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+150,Very promising.,6.95,4.7,6.33,positive,5.993333333333333,1 out of 1,['promising'],['promising']
+151,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+152,Very promising future and what are you doing?,6.8149999999999995,5.015000000000001,5.93,positive,5.919999999999999,2 out of 2,"['promising', 'future']","['promising', 'future']"
+153,Ses03M_impro03_M038 [243.1157-248.5775]: I'm still working at my parents' restaurant.,6.243333333333333,4.22,5.6466666666666665,positive,5.37,3 out of 4,"['work', 'parent', 'restaurant']","['still', 'work', 'parent', 'restaurant']"
+154,Busing tables.,5.305,3.415,5.359999999999999,neutral,4.6933333333333325,2 out of 2,"['bus', 'table']","['bus', 'table']"
+155,Ses03M_impro03_F041 [246.6175-250.5650]: Alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+156,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+157,Have a kid.,7.23,4.71,4.83,positive,5.590000000000001,1 out of 1,['kid'],['kid']
+158,Make a beautiful life.,6.793333333333333,4.99,6.093333333333333,positive,5.958888888888889,3 out of 3,"['make', 'beautiful', 'life']","['make', 'beautiful', 'life']"
+159,Ses03M_impro03_M039 [249.9128-255.0346]: Oh that's great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 2,['great'],"['oh', 'great']"
+160,My mom said we can move in with her again if we run out of money.,6.402,5.078,6.01,positive,5.830000000000001,5 out of 5,"['mom', 'say', 'move', 'run', 'money']","['mom', 'say', 'move', 'run', 'money']"
+161,"Ses03M_impro03_F042 [254.3029-260.5801]: You, You are too much, I can't handle it.",4.27,6.52,4.0,neutral,4.93,1 out of 3,['neg-handle'],"['much', 'ca', 'handle']"
+162,Ses03M_impro03_M040 [255.2849-261.6584]: I'm so happy.,8.47,6.05,7.21,positive,7.243333333333333,1 out of 1,['happy'],['happy']

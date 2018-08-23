@@ -1,0 +1,99 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses03F_impro03_M000 [002.1064-008.9800]: Oh, my God, look at that.",5.925000000000001,4.66,5.4399999999999995,neutral,5.341666666666666,2 out of 3,"['god', 'look']","['oh', 'god', 'look']"
+2,"Huh-oh, how many carats is that?",nan,nan,nan,nan,nan,0,nan,"['many', 'carat']"
+3,F: [LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 2,['laughter'],"['f', 'laughter']"
+4,Ses03F_impro03_F000 [009.1916-020.3925]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+5,[LAUGHTER].,8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+6,"Dude, I don't know.",4.545,5.285,4.904999999999999,neutral,4.911666666666666,2 out of 2,"['dude', 'neg-know']","['dude', 'know']"
+7,It's- Probably.,nan,nan,nan,nan,nan,0,nan,['probably']
+8,It's huge.,5.72,4.24,4.89,neutral,4.95,1 out of 1,['huge'],['huge']
+9,I don't even know how to like wear it.,5.66,4.83,5.406666666666666,neutral,5.2988888888888885,3 out of 4,"['neg-know', 'like', 'wear']","['even', 'know', 'like', 'wear']"
+10,My hand is like going down like really low.,6.298,3.97,5.376,positive,5.214666666666667,5 out of 6,"['hand', 'like', 'go', 'like', 'low']","['hand', 'like', 'go', 'like', 'really', 'low']"
+11,I can't believe it.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 2,['neg-believe'],"['ca', 'believe']"
+12,Ses03F_impro03_M001 [010.3200-014.5100]: Like eighteen?,6.58,4.115,5.995,positive,5.5633333333333335,2 out of 2,"['like', 'eighteen']","['like', 'eighteen']"
+13,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+14,"Ses03F_impro03_M002 [016.5675-019.0675]: Oh, Jesus.",nan,nan,nan,nan,nan,0,nan,"['oh', 'jesus']"
+15,Ses03F_impro03_M003 [020.0600-021.4825]: Is it-,nan,nan,nan,nan,nan,0,nan,[]
+16,"Ses03F_impro03_F001 [020.4220-023.3725]: I- Yeah, it's-",nan,nan,nan,nan,nan,0,nan,['yeah']
+17,Ses03F_impro03_M004 [022.8625-025.3200]: So how did he do it?,nan,nan,nan,nan,nan,0,nan,[]
+18,"Ses03F_impro03_F002 [024.4325-035.9275]: Oh, man.",5.42,4.36,5.44,neutral,5.073333333333334,1 out of 2,['man'],"['oh', 'man']"
+19,"So I was--okay, so we went to go see this show on Broadway, right?",6.428,4.5440000000000005,5.93,positive,5.634,5 out of 7,"['go', 'go', 'see', 'show', 'right']","['okay', 'go', 'go', 'see', 'show', 'broadway', 'right']"
+20,And it was The wed- the wed- The Lousy Chaperone.,5.573333333333333,4.726666666666667,5.2299999999999995,neutral,5.176666666666667,3 out of 4,"['wed', 'wed', 'lousy']","['wed', 'wed', 'lousy', 'chaperone']"
+21,Have you seen that one?,6.18,3.285,5.779999999999999,positive,5.081666666666666,2 out of 2,"['see', 'one']","['see', 'one']"
+22,Ses03F_impro03_M005 [029.9407-031.5653]: yeah [LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 2,['laughter'],"['yeah', 'laughter']"
+23,"Ses03F_impro03_M006 [035.3225-041.0900]: Yeah, The Lousy Chaperone.",3.14,4.28,4.33,negative,3.9166666666666665,1 out of 3,['lousy'],"['yeah', 'lousy', 'chaperone']"
+24,[LAUGHTER] Uh huh.,8.05,5.39,7.02,positive,6.82,1 out of 3,['laughter'],"['laughter', 'uh', 'huh']"
+25,Ses03F_impro03_F003 [036.3650-052.1291]: Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+26,Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+27,Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+28,"So, and there's like a whole like wedding scene in it.",6.806,3.91,5.8340000000000005,positive,5.516666666666667,5 out of 5,"['like', 'whole', 'like', 'wedding', 'scene']","['like', 'whole', 'like', 'wedding', 'scene']"
+29,"All right, not the--Drowsy, Drowsy [LAUGHTER] --not the Lousy.",6.446,5.2219999999999995,5.97,positive,5.879333333333332,5 out of 5,"['right', 'neg-drowsy', 'drowsy', 'laughter', 'neg-lousy']","['right', 'drowsy', 'drowsy', 'laughter', 'lousy']"
+30,[LAUGHTER].,8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+31,Um - So Drowsy.,4.25,2.83,3.47,neutral,3.516666666666667,1 out of 2,['drowsy'],"['um', 'drowsy']"
+32,So I go to see this Drowsy Chaperone.,5.613333333333333,3.8633333333333333,4.933333333333334,neutral,4.803333333333334,3 out of 4,"['go', 'see', 'drowsy']","['go', 'see', 'drowsy', 'chaperone']"
+33,And uh-,nan,nan,nan,nan,nan,0,nan,['uh']
+34,Ses03F_impro03_M007 [045.0201-050.9625]: [LAUGHTER] Uh- Drowsy.,6.15,4.109999999999999,5.245,positive,5.168333333333333,2 out of 3,"['laughter', 'drowsy']","['laughter', 'uh', 'drowsy']"
+35,"Ses03F_impro03_F004 [052.1844-057.3954]: at the end of the performance, you know, like we're all clapping and stuff.",6.183333333333334,4.3116666666666665,5.74,positive,5.411666666666666,6 out of 6,"['end', 'performance', 'know', 'like', 'clap', 'stuff']","['end', 'performance', 'know', 'like', 'clap', 'stuff']"
+36,And all of a sudden I look over and,5.95,3.76,5.88,neutral,5.196666666666666,1 out of 2,['look'],"['sudden', 'look']"
+37,Ses03F_impro03_F005 [057.4608-060.2412]: Joe's gone.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['joe', 'go']"
+38,"-where did he go, you know?",6.57,4.050000000000001,5.555,positive,5.391666666666667,2 out of 2,"['go', 'know']","['go', 'know']"
+39,Ses03F_impro03_M008 [059.0500-061.7550]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+40,Oh-,nan,nan,nan,nan,nan,0,nan,['oh']
+41,"Ses03F_impro03_F006 [060.2739-067.3326]: And I'm like oh, he went to the- -the bathroom, but he didn't tell me, I didn't even notice him leaving.",5.415,4.8933333333333335,5.38,neutral,5.229444444444444,6 out of 8,"['like', 'go', 'bathroom', 'neg-tell', 'neg-notice', 'leave']","['like', 'oh', 'go', 'bathroom', 'tell', 'even', 'notice', 'leave']"
+42,"And all of a sudden, I swear to God, I'm sitting there and-",5.053333333333334,4.6,5.056666666666667,neutral,4.903333333333333,3 out of 4,"['swear', 'god', 'sit']","['sudden', 'swear', 'god', 'sit']"
+43,Ses03F_impro03_F007 [067.4660-072.6274]: he comes up onstage-- And the entire cast everyone just like,5.898,3.77,5.454,neutral,5.040666666666667,5 out of 6,"['come', 'onstage', 'entire', 'cast', 'like']","['come', 'onstage', 'entire', 'cast', 'everyone', 'like']"
+44,Ses03F_impro03_M009 [069.6325-071.1625]: oh-,nan,nan,nan,nan,nan,0,nan,['oh']
+45,Ses03F_impro03_F008 [072.6493-077.9810]: goes up there and everyone's clapping and he's standing there and they put a spotlight on him.,5.605,4.1925,5.7675,neutral,5.1883333333333335,4 out of 6,"['go', 'stand', 'put', 'spotlight']","['go', 'everyone', 'clapping', 'stand', 'put', 'spotlight']"
+46,"Ses03F_impro03_M010 [077.2450-078.5916]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+47,Ses03F_impro03_F009 [078.3325-086.6601]: And I'm like freaking out.,5.585,5.35,5.695,neutral,5.543333333333333,2 out of 2,"['like', 'freak']","['like', 'freak']"
+48,"I'm like what the hell's going on, you know.",5.782500000000001,4.69,5.215,neutral,5.229166666666667,4 out of 4,"['like', 'hell', 'go', 'know']","['like', 'hell', 'go', 'know']"
+49,I don't know what's going on.,4.75,5.8100000000000005,4.775,neutral,5.111666666666667,2 out of 2,"['neg-know', 'go']","['know', 'go']"
+50,And so he's like standing there and then all of a sudden they give him a microphone-,6.3875,4.065,5.81,positive,5.420833333333333,4 out of 5,"['like', 'stand', 'give', 'microphone']","['like', 'stand', 'sudden', 'give', 'microphone']"
+51,Ses03F_impro03_F010 [086.8517-091.0215]: and he just starts doing like this little spiel about me and like,6.800000000000001,4.452500000000001,5.8100000000000005,positive,5.6875,4 out of 5,"['start', 'like', 'little', 'like']","['start', 'like', 'little', 'spiel', 'like']"
+52,"Ses03F_impro03_F011 [091.0978-100.3984]: he asked me to marry him, like- onstage.",6.49,4.47,5.795,positive,5.585000000000001,4 out of 4,"['ask', 'marry', 'like', 'onstage']","['ask', 'marry', 'like', 'onstage']"
+53,"I was like, I couldn't believe--and I had to walk up there and I was, like I think I tripped or something.",6.38,4.631666666666667,5.74,positive,5.583888888888889,6 out of 8,"['like', 'neg-believe', 'walk', 'like', 'think', 'trip']","['like', 'could', 'believe', 'walk', 'like', 'think', 'trip', 'something']"
+54,Ses03F_impro03_M011 [093.1200-095.7850]: Are you kidding me?,7.23,4.71,4.83,positive,5.590000000000001,1 out of 1,['kid'],['kid']
+55,Ses03F_impro03_M012 [099.0850-104.2582]: Wha- What'd you say?,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 2,['say'],"['wha', 'say']"
+56,"You said yes, right?",6.615,4.715,7.02,positive,6.116666666666667,2 out of 3,"['say', 'right']","['say', 'yes', 'right']"
+57,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+58,"Ses03F_impro03_F012 [102.1865-105.5993]: Yeah, I said yes, but I, yeah, I mean,",4.17,4.619999999999999,5.525,neutral,4.7716666666666665,2 out of 5,"['say', 'mean']","['yeah', 'say', 'yes', 'yeah', 'mean']"
+59,"Ses03F_impro03_F013 [105.6538-109.4775]: I don't know- it just like took me, took me by surprise.",5.54,5.354,5.066,neutral,5.32,5 out of 5,"['neg-know', 'like', 'take', 'take', 'surprise']","['know', 'like', 'take', 'take', 'surprise']"
+60,Ses03F_impro03_F014 [109.6125-111.9900]: He scored points.,5.975,5.1049999999999995,6.795,neutral,5.958333333333333,2 out of 2,"['score', 'point']","['score', 'point']"
+61,Ses03F_impro03_M013 [110.8983-112.9591]: Did you get a standing ovation?,5.65,4.495,6.35,neutral,5.498333333333332,2 out of 3,"['get', 'ovation']","['get', 'standing', 'ovation']"
+62,"Ses03F_impro03_F015 [112.3100-119.3266]: Oh, yeah.",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah']"
+63,Everyone--yeah.,nan,nan,nan,nan,nan,0,nan,"['everyone', 'yeah']"
+64,"And people--friends of ours were in the audience, I didn't know about, like family members.",6.0285714285714285,4.564285714285714,5.7457142857142856,positive,5.446190476190476,7 out of 7,"['people', 'friend', 'audience', 'neg-know', 'like', 'family', 'member']","['people', 'friend', 'audience', 'know', 'like', 'family', 'member']"
+65,Ses03F_impro03_F016 [119.3484-121.0150]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+66,It was great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+67,Ses03F_impro03_M014 [118.3671-119.8500]: Are you serious?,5.88,4.05,5.67,neutral,5.2,1 out of 1,['serious'],['serious']
+68,"Ses03F_impro03_F017 [121.0600-122.9466]: It was--I cried,",3.22,5.45,2.56,negative,3.7433333333333336,1 out of 1,['cry'],['cry']
+69,"Ses03F_impro03_M015 [124.8600-129.7394]: No, you deserve to cry.",3.2250000000000005,5.475,3.12,negative,3.94,2 out of 2,"['neg-deserve', 'cry']","['deserve', 'cry']"
+70,"I mean, tears of happiness.",4.683333333333334,5.37,5.633333333333333,neutral,5.228888888888889,3 out of 3,"['mean', 'tear', 'happiness']","['mean', 'tear', 'happiness']"
+71,"Ses03F_impro03_F018 [123.0011-125.3344]: like a loser, I cried.",4.503333333333334,4.596666666666667,4.456666666666667,neutral,4.518888888888889,3 out of 3,"['like', 'loser', 'cry']","['like', 'loser', 'cry']"
+72,"Ses03F_impro03_F019 [129.4075-135.3764]: But, I don't know, I--it's so weird to think I'm marrying somebody 'cause I feel so young, you know?",5.92,4.5285714285714285,5.4314285714285715,neutral,5.293333333333333,7 out of 8,"['neg-know', 'weird', 'think', 'marry', 'feel', 'young', 'know']","['know', 'weird', 'think', 'marry', 'somebody', 'feel', 'young', 'know']"
+73,Ses03F_impro03_M016 [135.1256-140.4356]: So where- where- where is this--have you talked about where it's going to be?,6.48,4.12,5.885,positive,5.495,2 out of 2,"['talk', 'go']","['talk', 'go']"
+74,Ses03F_impro03_F020 [138.7565-142.0166]: No.,nan,nan,nan,nan,nan,0,nan,[]
+75,No plans.,3.8600000000000003,6.140000000000001,3.7199999999999998,negative,4.573333333333333,1 out of 1,['neg-plan'],['plan']
+76,or any- and probably,nan,nan,nan,nan,nan,0,nan,['probably']
+77,Ses03F_impro03_F021 [142.1038-147.9480]: like I think I want to get married--I want to have two weddings.,6.61875,4.57125,5.62625,positive,5.605416666666667,8 out of 8,"['like', 'think', 'want', 'get', 'marry', 'want', 'two', 'wedding']","['like', 'think', 'want', 'get', 'marry', 'want', 'two', 'wedding']"
+78,"One here, then one in Europe.",6.09,2.67,5.56,positive,4.773333333333333,2 out of 3,"['one', 'one']","['one', 'one', 'europe']"
+79,Ses03F_impro03_M017 [146.6700-148.6225]: Hawaii?,nan,nan,nan,nan,nan,0,nan,['hawaii']
+80,No.,nan,nan,nan,nan,nan,0,nan,[]
+81,Ses03F_impro03_F022 [148.1770-151.5025]: No.,nan,nan,nan,nan,nan,0,nan,[]
+82,Hawaii's for honeymoons.,7.53,5.91,7.33,positive,6.923333333333335,1 out of 2,['honeymoon'],"['hawaii', 'honeymoon']"
+83,But uh--,nan,nan,nan,nan,nan,0,nan,['uh']
+84,Ses03F_impro03_M018 [149.6825-153.6100]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+85,Like Paris?,7.44,4.4,6.28,positive,6.04,1 out of 2,['like'],"['like', 'paris']"
+86,On the Eiffel Tower?,5.24,3.86,5.45,neutral,4.8500000000000005,1 out of 2,['tower'],"['eiffel', 'tower']"
+87,"Ses03F_impro03_F023 [153.1175-162.0575]: Oh, maybe.",nan,nan,nan,nan,nan,0,nan,"['oh', 'maybe']"
+88,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+89,I've been there so many times.,5.6,3.41,4.36,neutral,4.456666666666667,1 out of 2,['time'],"['many', 'time']"
+90,I think it's--we're going to get married in Spain and then we're going to get married here.,6.525714285714286,4.55,5.685714285714286,positive,5.587142857142857,7 out of 8,"['think', 'go', 'get', 'marry', 'go', 'get', 'marry']","['think', 'go', 'get', 'marry', 'spain', 'go', 'get', 'marry']"
+91,Ses03F_impro03_M019 [154.7025-158.5550]: He's rich enough.,6.83,6.81,6.83,positive,6.823333333333333,1 out of 2,['rich'],"['rich', 'enough']"
+92,Maybe you can rent out the Eiffel Tower for your--,4.825,4.055,5.5649999999999995,neutral,4.8149999999999995,2 out of 4,"['rent', 'tower']","['maybe', 'rent', 'eiffel', 'tower']"
+93,"Ses03F_impro03_M020 [160.1400-163.2000]: Oh, Jesus.",nan,nan,nan,nan,nan,0,nan,"['oh', 'jesus']"
+94,Ses03F_impro03_M021 [163.3825-168.8625]: That's awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+95,[LAUGHTER] Marriage.,7.805,5.17,6.175,positive,6.383333333333333,2 out of 2,"['laughter', 'marriage']","['laughter', 'marriage']"
+96,Ses03F_impro03_F024 [164.6825-167.9625]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+97,I'm so excited.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+98,[LAUGHTER].,8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']

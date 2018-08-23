@@ -1,0 +1,99 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses04M_script03_1_M000 [007.4200-009.3200]: Good God.,6.895,4.609999999999999,5.705,positive,5.736666666666667,2 out of 2,"['good', 'god']","['good', 'god']"
+2,Ses04M_script03_1_F000 [008.8800-010.2100]: Do you think it's them?,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 1,['think'],['think']
+3,Ses04M_script03_1_M001 [009.8600-010.9100]: I wonder.,6.68,4.38,6.44,positive,5.833333333333333,1 out of 1,['wonder'],['wonder']
+4,"Ses04M_script03_1_F001 [010.5800-013.5400]: Nobody knows we're here, except Freda and she wouldn't ring up.",5.213333333333334,4.206666666666667,5.426666666666667,neutral,4.948888888888889,3 out of 6,"['know', 'would', 'neg-ring']","['nobody', 'know', 'except', 'freda', 'would', 'ring']"
+5,"Ses04M_script03_1_M002 [013.1500-014.6900]: It must be them, then.",5.45,4.1,5.06,neutral,4.87,1 out of 1,['must'],['must']
+6,Ses04M_script03_1_F002 [014.2900-016.2800]: What are we to do?,nan,nan,nan,nan,nan,0,nan,[]
+7,"Ses04M_script03_1_M003 [015.7076-019.1500]: We'll be alright, darling.",7.32,3.95,5.44,positive,5.57,1 out of 2,['darling'],"['alright', 'darling']"
+8,"Whatever happens, aren't we?",5.5,3.43,5.53,neutral,4.82,1 out of 2,['happen'],"['whatever', 'happen']"
+9,Ses04M_script03_1_F003 [018.5500-021.4700]: Now and always sweet.,7.77,4.14,6.12,positive,6.010000000000001,1 out of 2,['sweet'],"['always', 'sweet']"
+10,"Ses04M_script03_1_M004 [020.7000-022.8700]: I don't care, then.",2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+11,Ses04M_script03_1_F004 [022.3900-025.2600]: It was bound to come sooner or later.,5.23,4.05,5.09,neutral,4.79,2 out of 4,"['bind', 'come']","['bind', 'come', 'sooner', 'later']"
+12,"Ses04M_script03_1_M005 [024.4900-028.9700]: Hello, hello.",nan,nan,nan,nan,nan,0,nan,"['hello', 'hello']"
+13,What?,nan,nan,nan,nan,nan,0,nan,[]
+14,Wrong number.,4.415,4.395,4.76,neutral,4.5233333333333325,2 out of 2,"['wrong', 'number']","['wrong', 'number']"
+15,"Ses04M_script03_1_F005 [028.5700-031.8200]: Oh, it sent shivers up my spine.",5.04,3.74,4.833333333333333,neutral,4.5377777777777775,3 out of 4,"['send', 'shiver', 'spine']","['oh', 'send', 'shiver', 'spine']"
+16,Ses04M_script03_1_M006 [031.2700-034.0200]: What shall we do if they suddenly walk in on us?,6.3149999999999995,3.38,5.859999999999999,positive,5.185,2 out of 4,"['shall', 'walk']","['shall', 'suddenly', 'walk', 'us']"
+17,Ses04M_script03_1_F006 [033.5400-035.3900]: Behave exquisitely.,6.25,3.72,7.05,positive,5.673333333333333,1 out of 2,['behave'],"['behave', 'exquisitely']"
+18,Ses04M_script03_1_M007 [034.9700-037.4500]: With the mo- with the most perfect poise?,6.345000000000001,4.24,6.365,positive,5.650000000000001,2 out of 3,"['perfect', 'poise']","['mo', 'perfect', 'poise']"
+19,Ses04M_script03_1_F007 [037.1200-040.0400]: Certainly.,nan,nan,nan,nan,nan,0,nan,['certainly']
+20,I shall probably do a court curtsey.,4.69,3.9749999999999996,4.915,neutral,4.526666666666666,2 out of 4,"['shall', 'court']","['shall', 'probably', 'court', 'curtsey']"
+21,Ses04M_script03_1_M008 [039.5600-044.2200]: Ah.,nan,nan,nan,nan,nan,0,nan,['ah']
+22,"Things that ought to matter dreadfully don't matter when one's happy, do they?",5.488333333333333,4.968333333333334,5.241666666666667,neutral,5.232777777777778,6 out of 7,"['thing', 'ought', 'matter', 'neg-matter', 'neg-one', 'happy']","['thing', 'ought', 'matter', 'dreadfully', 'matter', 'one', 'happy']"
+23,Ses04M_script03_1_F008 [043.7500-047.0000]: But what's so horrible is that one can't stay happy.,3.4524999999999997,4.8575,4.45,negative,4.253333333333333,4 out of 5,"['horrible', 'one', 'neg-stay', 'neg-happy']","['horrible', 'one', 'ca', 'stay', 'happy']"
+24,"Ses04M_script03_1_M009 [046.5600-048.4600]: Don't say that, darling.",5.705,4.76,4.28,neutral,4.915,2 out of 2,"['neg-say', 'darling']","['say', 'darling']"
+25,Ses04M_script03_1_F009 [047.9500-050.9500]: It's true.,7.51,4.98,7.0,positive,6.496666666666667,1 out of 1,['true'],['true']
+26,The whole business is a very poor joke.,5.7225,4.3975,5.345,neutral,5.155,4 out of 4,"['whole', 'business', 'poor', 'joke']","['whole', 'business', 'poor', 'joke']"
+27,"Ses04M_script03_1_M010 [050.4300-054.1000]: Meaning that sacred and beautiful thing, love?",6.1080000000000005,4.862,5.358,positive,5.442666666666667,5 out of 5,"['mean', 'sacred', 'beautiful', 'thing', 'love']","['mean', 'sacred', 'beautiful', 'thing', 'love']"
+28,"Ses04M_script03_1_F010 [053.6700-056.3700]: Yes, meaning just that.",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['yes', 'mean']"
+29,Ses04M_script03_1_M011 [056.5800-064.4400]: What does it all mean?,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+30,That's what I ask myself in my ceaseless quest for ultimate truth.,6.285,4.5649999999999995,6.2475000000000005,positive,5.699166666666667,4 out of 5,"['ask', 'quest', 'ultimate', 'truth']","['ask', 'ceaseless', 'quest', 'ultimate', 'truth']"
+31,"Dear God, what does it all mean?",4.165,5.185,4.585,neutral,4.645,2 out of 3,"['god', 'mean']","['dear', 'god', 'mean']"
+32,Ses04M_script03_1_F011 [063.8200-066.9514]: Don't laugh at me.,2.4400000000000004,3.38,2.6100000000000003,negative,2.81,1 out of 1,['neg-laugh'],['laugh']
+33,I'm serious.,5.88,4.05,5.67,neutral,5.2,1 out of 1,['serious'],['serious']
+34,"Ses04M_script03_1_M012 [066.5500-069.8300]: You mustn't be serious, my dear.",4.785,5.025,4.695,neutral,4.835,2 out of 3,"['must', 'neg-serious']","['must', 'serious', 'dear']"
+35,That's just what they want.,6.0,5.29,5.39,neutral,5.56,1 out of 1,['want'],['want']
+36,Ses04M_script03_1_F012 [069.4200-070.7400]: Who's they?,nan,nan,nan,nan,nan,0,nan,[]
+37,Ses04M_script03_1_M013 [070.2600-084.4500]: All the futile moralists who try to make life unbearable.,4.866,4.7459999999999996,4.932,neutral,4.848,5 out of 6,"['futile', 'try', 'make', 'life', 'unbearable']","['futile', 'moralist', 'try', 'make', 'life', 'unbearable']"
+38,Laugh at them.,7.56,6.62,7.39,positive,7.19,1 out of 1,['laugh'],['laugh']
+39,Be flippant.,nan,nan,nan,nan,nan,0,nan,['flippant']
+40,Laugh at everything.,7.56,6.62,7.39,positive,7.19,1 out of 2,['laugh'],"['laugh', 'everything']"
+41,All their sacred shibboleths.,6.95,5.0,5.12,positive,5.69,1 out of 2,['sacred'],"['sacred', 'shibboleth']"
+42,Flippancy brings out the acid- acid in their damn sweetness and light.,5.073333333333333,4.47,5.073333333333333,neutral,4.872222222222223,6 out of 7,"['bring', 'acid', 'acid', 'damn', 'sweetness', 'light']","['flippancy', 'bring', 'acid', 'acid', 'damn', 'sweetness', 'light']"
+43,"Ses04M_script03_1_F013 [083.8900-087.4200]: If I laugh at everything, I must laugh at us, too.",6.8566666666666665,5.78,6.613333333333333,positive,6.416666666666667,3 out of 5,"['laugh', 'must', 'laugh']","['laugh', 'everything', 'must', 'laugh', 'us']"
+44,Ses04M_script03_1_M014 [086.9200-090.8600]: Certainly you must.,5.45,4.1,5.06,neutral,4.87,1 out of 2,['must'],"['certainly', 'must']"
+45,We're figures of fun alright.,6.7299999999999995,4.995,6.215,positive,5.9799999999999995,2 out of 3,"['figure', 'fun']","['figure', 'fun', 'alright']"
+46,"Ses04M_script03_1_F014 [090.2854-095.4400]: How long will it last, this ludicrous and overbearing love of ours?",5.2,5.08,4.99,neutral,5.090000000000001,3 out of 5,"['ludicrous', 'overbearing', 'love']","['long', 'last', 'ludicrous', 'overbearing', 'love']"
+47,Ses04M_script03_1_M015 [094.9400-097.3231]: Who knows.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+48,Ses04M_script03_1_F015 [096.9400-100.1596]: Shall we always want to bicker and fight?,4.5525,5.0675,5.125,neutral,4.915,4 out of 5,"['shall', 'want', 'bicker', 'fight']","['shall', 'always', 'want', 'bicker', 'fight']"
+49,Ses04M_script03_1_M016 [099.5976-103.1100]: No.,nan,nan,nan,nan,nan,0,nan,[]
+50,That fire will fade along with our passion.,5.5,5.11,5.1433333333333335,neutral,5.251111111111111,3 out of 4,"['fire', 'fade', 'passion']","['fire', 'fade', 'along', 'passion']"
+51,"Ses04M_script03_1_F016 [102.7400-105.4400]: Oh, dear.",nan,nan,nan,nan,nan,0,nan,"['oh', 'dear']"
+52,Should we like that.,7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+53,Ses04M_script03_1_M017 [104.9227-108.2200]: It all depends on how well we've played.,6.275,4.13,6.25,positive,5.551666666666667,2 out of 3,"['depend', 'play']","['depend', 'well', 'play']"
+54,Ses04M_script03_1_F017 [107.4900-111.3400]: What happens if one of us dies?,4.42,4.333333333333334,4.79,neutral,4.514444444444444,3 out of 4,"['happen', 'one', 'die']","['happen', 'one', 'us', 'die']"
+55,"Does the one that's left, still laugh?",6.109999999999999,4.59,6.14,positive,5.613333333333333,3 out of 4,"['one', 'leave', 'laugh']","['one', 'leave', 'still', 'laugh']"
+56,Ses04M_script03_1_M018 [110.8700-113.5200]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+57,"Yes, with all his might.",nan,nan,nan,nan,nan,0,nan,"['yes', 'might']"
+58,"Ses04M_script03_1_F018 [113.0000-115.2800]: Well that's serious enough, isn't it?",5.88,4.05,5.67,neutral,5.2,1 out of 3,['serious'],"['well', 'serious', 'enough']"
+59,"Ses04M_script03_1_M019 [114.8100-122.2200]: No, no, it isn't.",nan,nan,nan,nan,nan,0,nan,[]
+60,"Death's very laughable; such a cunning little mystery, all done with mirrors.",5.094285714285714,4.784285714285715,5.26,neutral,5.046190476190477,7 out of 7,"['death', 'laughable', 'cunning', 'little', 'mystery', 'do', 'mirror']","['death', 'laughable', 'cunning', 'little', 'mystery', 'do', 'mirror']"
+61,"Ses04M_script03_1_F019 [121.5800-124.4200]: Darling, I believe you're talking nonsense.",6.2524999999999995,3.795,5.795,positive,5.280833333333333,4 out of 4,"['darling', 'believe', 'talk', 'nonsense']","['darling', 'believe', 'talk', 'nonsense']"
+62,Ses04M_script03_1_M020 [123.4600-139.1477]: So is everyone else in the long run.,6.41,5.24,5.44,positive,5.696666666666666,1 out of 4,['run'],"['everyone', 'else', 'long', 'run']"
+63,Let's be superficial and pity the poor philosophers.,4.644,3.872,5.156,neutral,4.557333333333333,5 out of 5,"['let', 'superficial', 'pity', 'poor', 'philosopher']","['let', 'superficial', 'pity', 'poor', 'philosopher']"
+64,"Let's blow trumpets and squeakers and- and enjoy the party as much as we can, like very small, quite idiotic little school children.",6.171818181818182,4.448181818181818,5.6863636363636365,positive,5.435454545454546,11 out of 14,"['let', 'blow', 'trumpet', 'enjoy', 'party', 'like', 'small', 'idiotic', 'little', 'school', 'child']","['let', 'blow', 'trumpet', 'squeaker', 'enjoy', 'party', 'much', 'like', 'small', 'quite', 'idiotic', 'little', 'school', 'child']"
+65,Ses04M_script03_1_M021 [139.1744-147.1219]: Let's savor the delight of the moment.,6.74,3.855,6.505,positive,5.7,4 out of 4,"['let', 'savor', 'delight', 'moment']","['let', 'savor', 'delight', 'moment']"
+66,"Come and kiss me, darling, before your body rots and worms pop in and out of your eye sockets.",5.653333333333333,4.316666666666666,5.471111111111111,neutral,5.147037037037037,9 out of 9,"['come', 'kiss', 'darling', 'body', 'rot', 'worm', 'pop', 'eye', 'socket']","['come', 'kiss', 'darling', 'body', 'rot', 'worm', 'pop', 'eye', 'socket']"
+67,"Ses04M_script03_1_F020 [147.0951-149.5837]: Elliot, worms don't pop.",4.405,4.525,4.77,neutral,4.566666666666666,2 out of 3,"['worm', 'neg-pop']","['elliot', 'worm', 'pop']"
+68,"Ses04M_script03_1_M022 [148.8345-163.6300]: I don't mind what you do, see?",4.785,4.425,4.955,neutral,4.721666666666667,2 out of 2,"['neg-mind', 'see']","['mind', 'see']"
+69,You can paint yourself bright green all over and dance naked in the Place Vendome and rush off madly with all the men in the world and I shan't say a word as long as you love me best.,5.912727272727273,5.107272727272727,5.610909090909091,neutral,5.543636363636364,11 out of 17,"['paint', 'bright', 'green', 'dance', 'naked', 'place', 'rush', 'world', 'neg-say', 'neg-word', 'love']","['paint', 'bright', 'green', 'dance', 'naked', 'place', 'vendome', 'rush', 'madly', 'men', 'world', 'sha', 'say', 'word', 'long', 'love', 'best']"
+70,"Ses04M_script03_1_F021 [162.9098-171.5798]: Thank you, dear.",7.77,3.33,6.89,positive,5.996666666666666,1 out of 2,['thank'],"['thank', 'dear']"
+71,"The same applies to you, except that if I catch you so much as looking at another woman, I will kill you.",5.13,4.322,5.418,neutral,4.956666666666667,5 out of 8,"['apply', 'catch', 'look', 'woman', 'kill']","['apply', 'except', 'catch', 'much', 'look', 'another', 'woman', 'kill']"
+72,Ses04M_script03_1_M023 [170.7770-173.9700]: Do you remember that awful scene we had in Venice?,4.906666666666666,3.316666666666667,4.886666666666667,neutral,4.37,3 out of 4,"['remember', 'awful', 'scene']","['remember', 'awful', 'scene', 'venice']"
+73,Ses04M_script03_1_F022 [173.6400-175.6100]: Which particular one?,5.57,3.285,6.545,neutral,5.133333333333334,2 out of 2,"['particular', 'one']","['particular', 'one']"
+74,Ses04M_script03_1_M024 [175.0400-179.3500]: The one when you bought that little painted wooded snake and put it on my bed?,5.85,4.21,5.64,neutral,5.233333333333333,6 out of 8,"['one', 'buy', 'little', 'snake', 'put', 'bed']","['one', 'buy', 'little', 'painted', 'wooded', 'snake', 'put', 'bed']"
+75,"Ses04M_script03_1_F023 [178.7000-183.8000]: Oh, Charles; that was his name, Charles.",5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 4,['name'],"['oh', 'charles', 'name', 'charles']"
+76,"Oh, he did wriggle so beautifully.",5.43,3.75,5.0,neutral,4.726666666666667,1 out of 3,['wriggle'],"['oh', 'wriggle', 'beautifully']"
+77,Ses04M_script03_1_M025 [183.3000-185.2100]: Horrible thing.,3.94,4.69,5.285,negative,4.638333333333334,2 out of 2,"['horrible', 'thing']","['horrible', 'thing']"
+78,I hated it.,5.69,2.88,6.21,neutral,4.926666666666667,1 out of 1,['hat'],['hat']
+79,Ses04M_script03_1_F024 [184.5400-190.1500]: I know you did.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+80,You threw it out of the window into the Grand Canal.,6.0024999999999995,3.8975,5.83,positive,5.243333333333333,4 out of 4,"['throw', 'window', 'grand', 'canal']","['throw', 'window', 'grand', 'canal']"
+81,I don't think I'll ever forgive you for that.,5.1899999999999995,4.9350000000000005,4.970000000000001,neutral,5.031666666666667,2 out of 3,"['neg-think', 'forgive']","['think', 'ever', 'forgive']"
+82,Ses04M_script03_1_M026 [189.5600-191.5400]: How long did that row last?,5.48,3.39,6.06,neutral,4.976666666666667,1 out of 3,['row'],"['long', 'row', 'last']"
+83,Ses04M_script03_1_F025 [191.0600-193.6000]: It went on intermittently for days.,6.34,4.24,5.46,positive,5.346666666666667,2 out of 3,"['go', 'day']","['go', 'intermittently', 'day']"
+84,Ses04M_script03_1_M027 [193.1000-198.2100]: The worst one was in Cannes when your curling irons burnt holes in my dressing gown.,5.636666666666667,3.6466666666666665,5.3999999999999995,neutral,4.894444444444445,6 out of 9,"['one', 'curling', 'iron', 'hole', 'dress', 'gown']","['worst', 'one', 'cannes', 'curling', 'iron', 'burnt', 'hole', 'dress', 'gown']"
+85,"Ses04M_script03_1_F026 [197.5300-201.5200]: It burnt my comb, too, and all the towels in the bathroom.",5.195,3.3725,5.4225,neutral,4.663333333333334,4 out of 4,"['burn', 'comb', 'towel', 'bathroom']","['burn', 'comb', 'towel', 'bathroom']"
+86,Ses04M_script03_1_M028 [201.3627-203.3400]: Line?,4.82,3.24,4.89,neutral,4.316666666666666,1 out of 1,['line'],['line']
+87,Ses04M_script03_1_M029 [203.4000-205.5000]: How -- that was a rouser wasn't it?,nan,nan,nan,nan,nan,0,nan,['rouser']
+88,Ses04M_script03_1_F027 [204.9900-207.7500]: That was the first time you ever hit me.,5.626666666666667,4.596666666666667,5.296666666666667,neutral,5.173333333333333,3 out of 4,"['first', 'time', 'hit']","['first', 'time', 'ever', 'hit']"
+89,Ses04M_script03_1_M030 [207.1000-209.2300]: I didn't hit you very hard.,5.199999999999999,4.51,4.904999999999999,neutral,4.871666666666666,2 out of 2,"['neg-hit', 'hard']","['hit', 'hard']"
+90,"Ses04M_script03_1_F028 [208.6000-215.2300]: The manager came in and found is rolling about on the floor, biting and scratching like panthers.",5.531111111111111,4.196666666666666,5.844444444444445,neutral,5.190740740740741,9 out of 9,"['manager', 'come', 'find', 'roll', 'floor', 'bite', 'scratch', 'like', 'panther']","['manager', 'come', 'find', 'roll', 'floor', 'bite', 'scratch', 'like', 'panther']"
+91,"Oh, dear.",nan,nan,nan,nan,nan,0,nan,"['oh', 'dear']"
+92,"Ses04M_script03_1_M031 [214.7000-219.0500]: Ah, I shall never forget his face.",5.316666666666666,4.18,5.116666666666666,neutral,4.871111111111111,3 out of 5,"['shall', 'forget', 'face']","['ah', 'shall', 'never', 'forget', 'face']"
+93,Ses04M_script03_1_F029 [218.3100-222.6500]: How ridiculous.,3.67,5.65,3.78,negative,4.366666666666666,1 out of 1,['ridiculous'],['ridiculous']
+94,"How utterly, utterly ridiculous.",3.67,5.65,3.78,negative,4.366666666666666,1 out of 3,['ridiculous'],"['utterly', 'utterly', 'ridiculous']"
+95,Ses04M_script03_1_M032 [222.0700-225.3700]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+96,We were very much younger then.,nan,nan,nan,nan,nan,0,nan,"['much', 'younger']"
+97,Ses04M_script03_1_F030 [225.0800-227.4261]: And very much sillier.,nan,nan,nan,nan,nan,0,nan,"['much', 'sillier']"
+98,"Ses04M_script03_1_M033 [226.9000-231.7100]: As a matter of fact, the real cause of that row was Peter Burden.",5.468333333333334,3.703333333333333,5.3966666666666665,neutral,4.856111111111111,6 out of 7,"['matter', 'fact', 'real', 'cause', 'row', 'burden']","['matter', 'fact', 'real', 'cause', 'row', 'peter', 'burden']"

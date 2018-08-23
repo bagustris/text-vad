@@ -1,0 +1,141 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01F_script03_2_M000 [003.1785-006.2400]: We were very much younger then.,nan,nan,nan,nan,nan,0,nan,"['much', 'younger']"
+2,Ses01F_script03_2_F000 [004.8100-010.0600]: And very much sillier.,nan,nan,nan,nan,nan,0,nan,"['much', 'sillier']"
+3,Ses01F_script03_2_M001 [009.5600-016.0125]: However I believe the real cause of that row was Peter Burden.,5.562,3.642,5.364,neutral,4.856000000000001,5 out of 7,"['believe', 'real', 'cause', 'row', 'burden']","['however', 'believe', 'real', 'cause', 'row', 'peter', 'burden']"
+4,Ses01F_script03_2_F001 [015.4800-019.5500]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+5,You knew there was nothing in that.,6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['know', 'nothing']"
+6,Ses01F_script03_2_M002 [018.6600-023.0400]: I knew nothing of the sort.,6.82,3.24,5.78,positive,5.28,1 out of 3,['know'],"['know', 'nothing', 'sort']"
+7,You took presents from him.,5.835,4.67,5.74,neutral,5.414999999999999,2 out of 2,"['take', 'present']","['take', 'present']"
+8,Ses01F_script03_2_F002 [022.3100-026.1300]: Presents?,6.85,4.82,6.65,positive,6.1066666666666665,1 out of 1,['present'],['present']
+9,"It was only a trivial, little brooch.",5.116666666666667,3.8866666666666667,4.963333333333333,neutral,4.655555555555556,3 out of 3,"['trivial', 'little', 'brooch']","['trivial', 'little', 'brooch']"
+10,Ses01F_script03_2_M003 [025.7100-029.8700]: It was bristling with diamonds.,6.88,5.82,5.64,positive,6.113333333333333,1 out of 2,['diamond'],"['bristle', 'diamond']"
+11,"In the worst possible taste, too.",6.885,4.135,6.665,positive,5.895,2 out of 3,"['possible', 'taste']","['worst', 'possible', 'taste']"
+12,Ses01F_script03_2_F003 [029.2200-034.5800]: It was not.,nan,nan,nan,nan,nan,0,nan,[]
+13,"I still have it, and I wear it often.",6.36,3.33,5.72,positive,5.136666666666667,1 out of 3,['wear'],"['still', 'wear', 'often']"
+14,It is very pretty.,7.7,5.5,6.7,positive,6.633333333333333,1 out of 1,['pretty'],['pretty']
+15,Ses01F_script03_2_M004 [034.2100-038.4400]: You went out of your way to torture me over Peter Burden.,4.17,4.2025,4.015,neutral,4.129166666666666,4 out of 5,"['go', 'way', 'torture', 'burden']","['go', 'way', 'torture', 'peter', 'burden']"
+16,Ses01F_script03_2_F004 [037.5000-043.1500]: I did not.,nan,nan,nan,nan,nan,0,nan,[]
+17,You worked that whole thing up in your jealous imagination.,5.212,4.3100000000000005,5.8,neutral,5.107333333333333,5 out of 5,"['work', 'whole', 'thing', 'jealous', 'imagination']","['work', 'whole', 'thing', 'jealous', 'imagination']"
+18,"Ses01F_script03_2_M005 [042.2500-047.1200]: Well, you let him kiss you, huh?",6.865,4.38,6.289999999999999,positive,5.845,2 out of 4,"['let', 'kiss']","['well', 'let', 'kiss', 'huh']"
+19,You said you did.,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 1,['say'],['say']
+20,"Ses01F_script03_2_F005 [046.7500-048.7825]: Well, what of it?",nan,nan,nan,nan,nan,0,nan,['well']
+21,Ses01F_script03_2_M006 [048.1600-049.9500]: What of it?,nan,nan,nan,nan,nan,0,nan,[]
+22,Ses01F_script03_2_F006 [049.4100-053.4700]: It gave him a lot of pleasure and it didn't hurt me.,7.693333333333333,5.55,6.39,positive,6.544444444444444,3 out of 4,"['give', 'pleasure', 'neg-hurt']","['give', 'lot', 'pleasure', 'hurt']"
+23,Ses01F_script03_2_M007 [052.6700-055.2693]: What about me?,nan,nan,nan,nan,nan,0,nan,[]
+24,"Ses01F_script03_2_F007 [054.7489-061.4654]: If you hadn't been so suspicious and nosey, you never would have known a thing about it.",6.2,3.87,5.795,positive,5.288333333333333,4 out of 6,"['neg-suspicious', 'would', 'know', 'thing']","['suspicious', 'nosey', 'never', 'would', 'know', 'thing']"
+25,"Ses01F_script03_2_M008 [060.8262-064.8857]: That's a nice point of view, I must say.",6.086,3.844,6.303999999999999,positive,5.411333333333332,5 out of 5,"['nice', 'point', 'view', 'must', 'say']","['nice', 'point', 'view', 'must', 'say']"
+26,Ses01F_script03_2_F008 [064.3325-067.5625]: Oh dear.,nan,nan,nan,nan,nan,0,nan,"['oh', 'dear']"
+27,I'm bored with this conversation.,6.72,2.65,6.28,positive,5.216666666666666,1 out of 2,['conversation'],"['bore', 'conversation']"
+28,Ses01F_script03_2_M009 [067.0600-074.0100]: So am I.  I'm bored stiff.,3.62,3.825,4.955,negative,4.133333333333334,2 out of 2,"['bored', 'stiff']","['bored', 'stiff']"
+29,[GARBAGE]  Do you want some brandy?,4.85,4.33,5.346666666666667,neutral,4.842222222222222,3 out of 3,"['garbage', 'want', 'brandy']","['garbage', 'want', 'brandy']"
+30,Ses01F_script03_2_F009 [073.6900-076.1625]: No.,nan,nan,nan,nan,nan,0,nan,[]
+31,Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+32,"Ses01F_script03_2_M010 [075.9600-078.6500]: I'll have a little, I think.",6.295,3.975,5.84,positive,5.37,2 out of 2,"['little', 'think']","['little', 'think']"
+33,"Ses01F_script03_2_F010 [078.2197-081.8200]: I don't know why you'd want any, you've already had three glasses.",5.0225,4.6425,5.12,neutral,4.928333333333334,4 out of 5,"['neg-know', 'want', 'three', 'glass']","['know', 'want', 'already', 'three', 'glass']"
+34,Ses01F_script03_2_M011 [081.3800-084.9165]: No particular reason.,4.34,6.385,3.1799999999999997,neutral,4.635,2 out of 2,"['neg-particular', 'neg-reason']","['particular', 'reason']"
+35,"Anyhow, they are very small ones.",5.925,3.05,5.045,neutral,4.673333333333333,2 out of 3,"['small', 'one']","['anyhow', 'small', 'one']"
+36,Ses01F_script03_2_F011 [084.4600-088.9700]: I just think it's silly to go on and on and on about such a thing.,6.3175,4.2250000000000005,5.9350000000000005,positive,5.4925,4 out of 4,"['think', 'silly', 'go', 'thing']","['think', 'silly', 'go', 'thing']"
+37,"Ses01F_script03_2_M012 [088.0800-094.2300]: You can hardly call three glasses of liquor a whole evening long, going on and on and on.",5.887142857142857,3.8714285714285714,5.395714285714286,neutral,5.051428571428572,7 out of 9,"['call', 'three', 'glass', 'liquor', 'whole', 'evening', 'go']","['hardly', 'call', 'three', 'glass', 'liquor', 'whole', 'evening', 'long', 'go']"
+38,Ses01F_script03_2_F012 [093.8500-096.9300]: It's become a habit with you.,5.76,3.99,5.925,neutral,5.2250000000000005,2 out of 2,"['become', 'habit']","['become', 'habit']"
+39,Ses01F_script03_2_M013 [095.9900-100.9500]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+40,Don't be so grand.,3.7199999999999998,6.25,4.0,negative,4.656666666666666,1 out of 1,['neg-grand'],['grand']
+41,Just because you don't happen to want one at the moment.,5.172499999999999,4.5,5.16,neutral,4.944166666666667,4 out of 4,"['neg-happen', 'neg-want', 'one', 'moment']","['happen', 'want', 'one', 'moment']"
+42,Ses01F_script03_2_F013 [100.2315-102.3100]: Don't be stupid.,7.16,5.66,5.97,positive,6.263333333333333,1 out of 1,['neg-stupid'],['stupid']
+43,"Ses01F_script03_2_M014 [101.9000-104.1500]: Really, Amanda.",nan,nan,nan,nan,nan,0,nan,"['really', 'amanda']"
+44,Ses01F_script03_2_F014 [103.2700-105.4500]: What?,nan,nan,nan,nan,nan,0,nan,[]
+45,Ses01F_script03_2_M015 [105.2596-108.2337]: Nothing.,nan,nan,nan,nan,nan,0,nan,['nothing']
+46,"Ses01F_script03_2_M016 [111.9800-115.3300]: you going out somewhere, dear?",6.32,4.86,5.33,positive,5.503333333333333,1 out of 3,['go'],"['go', 'somewhere', 'dear']"
+47,Ses01F_script03_2_F015 [114.8512-119.6000]: No.,nan,nan,nan,nan,nan,0,nan,[]
+48,I am just making myself fascinating for you.,6.73,4.404999999999999,6.195,positive,5.776666666666666,2 out of 2,"['make', 'fascinating']","['make', 'fascinating']"
+49,Ses01F_script03_2_M017 [119.7000-122.8900]: That reply has broken my heart.,6.066666666666666,4.406666666666666,5.573333333333333,positive,5.348888888888889,3 out of 3,"['reply', 'break', 'heart']","['reply', 'break', 'heart']"
+50,Ses01F_script03_2_F016 [121.9500-126.5400]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+51,It's a woman's duty to allure the man.,6.1850000000000005,4.03,5.285,positive,5.166666666666667,4 out of 4,"['woman', 'duty', 'allure', 'man']","['woman', 'duty', 'allure', 'man']"
+52,"Ses01F_script03_2_M018 [126.1529-129.1350]: Well as a matter of fact, yes, that's perfectly true.",6.5200000000000005,4.1066666666666665,6.373333333333333,positive,5.666666666666667,3 out of 6,"['matter', 'fact', 'true']","['well', 'matter', 'fact', 'yes', 'perfectly', 'true']"
+53,Ses01F_script03_2_F017 [128.7100-130.4800]: No it isn't.,nan,nan,nan,nan,nan,0,nan,[]
+54,Ses01F_script03_2_M019 [130.0500-131.4200]: Yes it is.,nan,nan,nan,nan,nan,0,nan,['yes']
+55,Ses01F_script03_2_F018 [130.9500-132.7900]: You shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 1,['shut'],['shut']
+56,Ses01F_script03_2_M020 [132.3100-137.4000]: Oh really.,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+57,"It's a pity you didn't have any brandy, it would have made you a little less disagreeable.",4.785,4.358333333333333,5.14,neutral,4.761111111111112,6 out of 7,"['pity', 'neg-brandy', 'would', 'make', 'little', 'disagreeable']","['pity', 'brandy', 'would', 'make', 'little', 'less', 'disagreeable']"
+58,Ses01F_script03_2_F019 [137.1300-141.1970]: It's funny it hasn't worked such wonders for you.,5.286666666666667,5.556666666666667,4.59,neutral,5.144444444444445,3 out of 3,"['funny', 'neg-work', 'neg-wonder']","['funny', 'work', 'wonder']"
+59,"Ses01F_script03_2_M021 [140.8379-144.0300]: Snap, snap, snap.",4.42,3.42,4.86,neutral,4.233333333333333,3 out of 3,"['snap', 'snap', 'snap']","['snap', 'snap', 'snap']"
+60,You know you are like a little adder.,6.155,3.7700000000000005,5.4125,positive,5.1125,4 out of 4,"['know', 'like', 'little', 'adder']","['know', 'like', 'little', 'adder']"
+61,"Ses01F_script03_2_F020 [143.6400-146.3800]: Adders don't snap, they sting.",4.193333333333333,4.9,4.333333333333333,neutral,4.475555555555555,3 out of 3,"['adder', 'neg-snap', 'sting']","['adder', 'snap', 'sting']"
+62,Ses01F_script03_2_M022 [145.6700-152.9500]: Nonsense.,4.0,4.52,4.74,neutral,4.42,1 out of 1,['nonsense'],['nonsense']
+63,They have a bag of venom behind their fangs and they snap.,4.255,4.195,4.9875,neutral,4.479166666666667,4 out of 5,"['bag', 'venom', 'fang', 'snap']","['bag', 'venom', 'behind', 'fang', 'snap']"
+64,They snap.,4.42,3.42,4.86,neutral,4.233333333333333,1 out of 1,['snap'],['snap']
+65,Ses01F_script03_2_F021 [149.9800-158.4966]: They sting.,2.55,4.88,3.45,negative,3.6266666666666665,1 out of 1,['sting'],['sting']
+66,I don't care.,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+67,Do you understand?,6.68,3.52,6.71,positive,5.636666666666667,1 out of 1,['understand'],['understand']
+68,I don't care if they bark and they roll about like hoops.,5.328,4.436,4.99,neutral,4.918,5 out of 5,"['neg-care', 'bark', 'roll', 'like', 'hoop']","['care', 'bark', 'roll', 'like', 'hoop']"
+69,Ses01F_script03_2_M023 [157.8200-161.5400]: Did you see much of Peter Burden after our divorce?,3.9366666666666665,4.416666666666666,4.386666666666667,negative,4.246666666666666,3 out of 5,"['see', 'burden', 'divorce']","['see', 'much', 'peter', 'burden', 'divorce']"
+70,"Ses01F_script03_2_F022 [160.7500-163.3800]: Yes I did, quite a lot.",nan,nan,nan,nan,nan,0,nan,"['yes', 'quite', 'lot']"
+71,"Ses01F_script03_2_M024 [162.7700-175.5200]: And I suppose you let him kiss you a good deal more than, too.",6.606,3.93,6.044,positive,5.526666666666666,5 out of 5,"['suppose', 'let', 'kiss', 'good', 'deal']","['suppose', 'let', 'kiss', 'good', 'deal']"
+72,Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+73,"I suppose you guys had a riotous time, huh?",5.806666666666667,3.816666666666667,4.863333333333333,neutral,4.828888888888889,3 out of 5,"['suppose', 'guy', 'time']","['suppose', 'guy', 'riotous', 'time', 'huh']"
+74,"All out, no restraint at all.",6.529999999999999,5.95,5.55,positive,6.010000000000001,1 out of 1,['neg-restraint'],['restraint']
+75,"Well, you never really had much anyhow.",nan,nan,nan,nan,nan,0,nan,"['well', 'never', 'really', 'much', 'anyhow']"
+76,Ses01F_script03_2_F023 [165.6900-167.9300]: Mind your own business.,6.09,4.38,5.72,positive,5.396666666666666,2 out of 2,"['mind', 'business']","['mind', 'business']"
+77,"Ses01F_script03_2_F024 [175.1100-179.4600]: You're quite insufferable, I expect it's because you are drunk.",4.62,4.52,3.7366666666666664,neutral,4.292222222222223,3 out of 4,"['insufferable', 'expect', 'drunk']","['quite', 'insufferable', 'expect', 'drunk']"
+78,Ses01F_script03_2_M025 [178.7700-183.2600]: I think I am not in the least bit drunk.,5.263333333333333,4.22,4.99,neutral,4.8244444444444445,3 out of 4,"['think', 'bit', 'drunk']","['think', 'least', 'bit', 'drunk']"
+79,Ses01F_script03_2_F025 [182.0300-184.9100]: You've always had a weak head.,4.405,4.675000000000001,5.4399999999999995,neutral,4.840000000000001,2 out of 3,"['weak', 'head']","['always', 'weak', 'head']"
+80,Ses01F_script03_2_M026 [184.3500-193.4894]: I think I mentioned once before that I've had three minute liquor glasses the whole evening long.,5.785,3.63875,5.35375,neutral,4.925833333333333,8 out of 9,"['think', 'mention', 'three', 'minute', 'liquor', 'glass', 'whole', 'evening']","['think', 'mention', 'three', 'minute', 'liquor', 'glass', 'whole', 'evening', 'long']"
+81,A child of two cannot get drunk on that.,5.8375,4.985,5.415,neutral,5.4125000000000005,4 out of 4,"['child', 'two', 'neg-get', 'neg-drunk']","['child', 'two', 'get', 'drunk']"
+82,"Ses01F_script03_2_F026 [193.0300-198.8800]: On the contrary, a child of two can get violently drunk on only one glass of brandy.",5.67375,3.8449999999999998,5.085,neutral,4.867916666666667,8 out of 9,"['contrary', 'child', 'two', 'get', 'drunk', 'one', 'glass', 'brandy']","['contrary', 'child', 'two', 'get', 'violently', 'drunk', 'one', 'glass', 'brandy']"
+83,Ses01F_script03_2_M027 [197.9100-212.7500]: That's very interesting Amanda.,6.78,5.1,6.83,positive,6.236666666666667,1 out of 2,['interesting'],"['interesting', 'amanda']"
+84,How about a child of four?,6.23,4.36,5.425000000000001,positive,5.338333333333334,2 out of 2,"['child', 'four']","['child', 'four']"
+85,Or a child of six?,6.025,4.255,5.390000000000001,positive,5.223333333333334,2 out of 2,"['child', 'six']","['child', 'six']"
+86,Or a child of nine?,6.15,4.58,5.205,positive,5.3116666666666665,2 out of 2,"['child', 'nine']","['child', 'nine']"
+87,"We can get a good little conversation going on about this, you know, intemperate tots.",6.587142857142857,3.6314285714285717,5.732857142857143,positive,5.317142857142858,7 out of 8,"['get', 'good', 'little', 'conversation', 'go', 'know', 'tot']","['get', 'good', 'little', 'conversation', 'go', 'know', 'intemperate', 'tot']"
+88,Ses01F_script03_2_F027 [201.3300-203.3069]: Oh shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 2,['shut'],"['oh', 'shut']"
+89,Ses01F_script03_2_F028 [205.3300-207.8000]: Shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 1,['shut'],['shut']
+90,"Ses01F_script03_2_F029 [212.4025-215.4525]: Not very funny, darling.",4.865,4.285,4.555,neutral,4.568333333333333,2 out of 2,"['neg-funny', 'darling']","['funny', 'darling']"
+91,Why don't you have some more brandy.,5.67,3.86,5.5,neutral,5.01,1 out of 1,['brandy'],['brandy']
+92,Ses01F_script03_2_M028 [215.1200-221.1500]: [LAUGHTER] That's a very good idea.,7.663333333333333,4.57,6.513333333333334,positive,6.24888888888889,3 out of 3,"['laughter', 'good', 'idea']","['laughter', 'good', 'idea']"
+93,I think I will.,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 1,['think'],['think']
+94,"Ses01F_script03_2_M029 [224.5224-229.6000]: Look, you better turn that off.",5.7,3.62,5.88,neutral,5.066666666666666,2 out of 3,"['look', 'turn']","['look', 'better', 'turn']"
+95,I don't want to wake up the people upstairs.,4.376666666666667,4.8933333333333335,4.766666666666667,neutral,4.678888888888888,3 out of 4,"['neg-want', 'neg-wake', 'people']","['want', 'wake', 'people', 'upstairs']"
+96,Ses01F_script03_2_F030 [227.0225-228.4100]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+97,Ses01F_script03_2_F031 [229.4275-233.0800]: There are no people upstairs; it's a photographer's studio.,5.75,4.866666666666667,5.273333333333333,neutral,5.296666666666667,3 out of 4,"['neg-people', 'photographer', 'studio']","['people', 'upstairs', 'photographer', 'studio']"
+98,Ses01F_script03_2_M030 [233.4050-235.7308]: Well then you'll wake up the people downstairs.,6.135,3.785,5.555,positive,5.158333333333333,2 out of 4,"['wake', 'people']","['well', 'wake', 'people', 'downstairs']"
+99,Ses01F_script03_2_F032 [235.2400-237.8068]: They are away in Tunis.,nan,nan,nan,nan,nan,0,nan,"['away', 'tunis']"
+100,Ses01F_script03_2_M031 [237.2400-241.4997]: This is no time of year for Tunis.,4.325,6.63,4.915,neutral,5.29,2 out of 3,"['neg-time', 'neg-year']","['time', 'year', 'tunis']"
+101,"Ses01F_script03_2_F033 [241.2519-244.1269]: Turn it on again, please.",5.45,3.48,5.88,neutral,4.9366666666666665,1 out of 2,['turn'],"['turn', 'please']"
+102,Ses01F_script03_2_M032 [243.8542-246.8036]: I will do no such thing.,4.45,6.57,4.59,neutral,5.203333333333333,1 out of 1,['neg-thing'],['thing']
+103,Ses01F_script03_2_F034 [246.5557-251.6118]: Fine if you insist on being boorish and idiotic.,4.72,4.323333333333333,5.776666666666666,neutral,4.94,3 out of 4,"['fine', 'insist', 'idiotic']","['fine', 'insist', 'boorish', 'idiotic']"
+104,"Ses01F_script03_2_M033 [251.3391-257.0100]: Will you turn that off, it's driving me mad.",4.806666666666667,4.42,5.483333333333333,neutral,4.903333333333333,3 out of 3,"['turn', 'drive', 'mad']","['turn', 'drive', 'mad']"
+105,"Ses01F_script03_2_F035 [256.4800-260.4175]: You are far too temperamental, try to control yourself.",4.643333333333333,4.82,5.34,neutral,4.934444444444444,3 out of 4,"['temperamental', 'try', 'control']","['far', 'temperamental', 'try', 'control']"
+106,Ses01F_script03_2_M034 [260.4625-263.6400]: Turn it off.,5.45,3.48,5.88,neutral,4.9366666666666665,1 out of 1,['turn'],['turn']
+107,Ses01F_script03_2_F036 [262.8900-271.7200]: I won't.,nan,nan,nan,nan,nan,0,nan,['wo']
+108,"Let go, let go of me.",6.135,3.785,5.695,positive,5.205,4 out of 4,"['let', 'go', 'let', 'go']","['let', 'go', 'let', 'go']"
+109,"Listen, listen?",6.91,3.76,5.56,positive,5.41,2 out of 2,"['listen', 'listen']","['listen', 'listen']"
+110,"I'm sick and tired of listening to you, you sadistic bully.",3.7560000000000002,4.642,4.014,negative,4.137333333333333,5 out of 5,"['sick', 'tired', 'listen', 'sadistic', 'bully']","['sick', 'tired', 'listen', 'sadistic', 'bully']"
+111,"Ses01F_script03_2_M035 [264.8475-267.1900]: Amanda, listen, listen.",6.91,3.76,5.56,positive,5.41,2 out of 3,"['listen', 'listen']","['amanda', 'listen', 'listen']"
+112,Ses01F_script03_2_M036 [269.3425-273.6100]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+113,That's very amusing indeed.,7.6,5.18,6.79,positive,6.523333333333333,1 out of 2,['amusing'],"['amusing', 'indeed']"
+114,Ses01F_script03_2_F037 [272.7300-283.0800]: Oh shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 2,['shut'],"['oh', 'shut']"
+115,Let go.,6.135,3.785,5.695,positive,5.205,2 out of 2,"['let', 'go']","['let', 'go']"
+116,"I hate you, I hate you.",1.96,6.26,4.47,negative,4.2299999999999995,2 out of 2,"['hate', 'hate']","['hate', 'hate']"
+117,Do you hear?,6.68,3.62,6.71,positive,5.670000000000001,1 out of 1,['hear'],['hear']
+118,You are a conceited and overbearing and utterly impossible.,3.3,5.3999999999999995,4.226666666666667,negative,4.308888888888888,3 out of 4,"['conceited', 'overbearing', 'impossible']","['conceited', 'overbearing', 'utterly', 'impossible']"
+119,"Ses01F_script03_2_M037 [277.5875-286.5600]: You are a vile, ill-tempered, loose living, wicked little beast and I never want to see you again as long as I live.",4.98875,4.94625,5.015,neutral,4.983333333333333,8 out of 11,"['vile', 'loose', 'wicked', 'little', 'beast', 'want', 'see', 'live']","['vile', 'loose', 'living', 'wicked', 'little', 'beast', 'never', 'want', 'see', 'long', 'live']"
+120,Ses01F_script03_2_F038 [287.2950-292.7200]: This is the end.,4.73,3.95,4.41,neutral,4.363333333333333,1 out of 1,['end'],['end']
+121,Do you hear me?,6.68,3.62,6.71,positive,5.670000000000001,1 out of 1,['hear'],['hear']
+122,Finally and forever.,nan,nan,nan,nan,nan,0,nan,"['finally', 'forever']"
+123,Ses01F_script03_2_M038 [293.2325-295.3000]: You're not going like this.,3.1199999999999997,5.369999999999999,4.195,negative,4.228333333333333,2 out of 2,"['neg-go', 'neg-like']","['go', 'like']"
+124,Ses01F_script03_2_F039 [294.6300-296.6200]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+125,Yes I am.,nan,nan,nan,nan,nan,0,nan,['yes']
+126,Ses01F_script03_2_M039 [295.9600-297.4550]: You're not.,nan,nan,nan,nan,nan,0,nan,[]
+127,Ses01F_script03_2_F040 [297.0300-315.4600]: Yes I am.,nan,nan,nan,nan,nan,0,nan,['yes']
+128,Stop it.,4.73,4.14,5.06,neutral,4.6433333333333335,1 out of 1,['stop'],['stop']
+129,Stop it.,4.73,4.14,5.06,neutral,4.6433333333333335,1 out of 1,['stop'],['stop']
+130,Let go of me.,6.135,3.785,5.695,positive,5.205,2 out of 2,"['let', 'go']","['let', 'go']"
+131,Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+132,You're a cruel fiend.,3.25,5.125,4.34,negative,4.238333333333333,2 out of 2,"['cruel', 'fiend']","['cruel', 'fiend']"
+133,I loathe and I hate you.,2.3200000000000003,5.72,4.619999999999999,negative,4.22,2 out of 2,"['loathe', 'hate']","['loathe', 'hate']"
+134,Marry you again?,7.09,5.52,5.67,positive,6.093333333333334,1 out of 1,['marry'],['marry']
+135,"Never, never, never.",nan,nan,nan,nan,nan,0,nan,"['never', 'never', 'never']"
+136,"I hope you die in torment, you brute beast cad.",3.916,5.808,4.73,negative,4.8180000000000005,5 out of 6,"['hope', 'die', 'torment', 'brute', 'beast']","['hope', 'die', 'torment', 'brute', 'beast', 'cad']"
+137,Ses01F_script03_2_M040 [298.6500-314.6500]: Shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 1,['shut'],['shut']
+138,Shut up.,4.5,4.05,5.61,neutral,4.72,1 out of 1,['shut'],['shut']
+139,"God, I wouldn't marry you again if you came crawling back to me on a bended knee.",4.824285714285715,3.9828571428571427,5.251428571428572,neutral,4.686190476190476,7 out of 8,"['god', 'would', 'neg-marry', 'come', 'crawl', 'back', 'knee']","['god', 'would', 'marry', 'come', 'crawl', 'back', 'bended', 'knee']"
+140,"You are a vile, ill-tempered, mean little wench and I never want to see you again as long as I live.",5.041428571428572,4.635714285714286,4.997142857142857,neutral,4.891428571428572,7 out of 9,"['vile', 'mean', 'little', 'wench', 'want', 'see', 'live']","['vile', 'mean', 'little', 'wench', 'never', 'want', 'see', 'long', 'live']"

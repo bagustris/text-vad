@@ -1,0 +1,125 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses05M_impro08_M000 [002.7277-005.3600]: D.S.L.,nan,nan,nan,nan,nan,0,nan,[]
+2,"Extreme, can I help you?",6.300000000000001,5.234999999999999,6.385,positive,5.973333333333334,2 out of 2,"['extreme', 'help']","['extreme', 'help']"
+3,"Ses05M_impro08_F000 [004.4500-031.2000]: Hi, I need- I need some help.",5.95,3.8766666666666665,5.67,neutral,5.165555555555556,3 out of 4,"['need', 'need', 'help']","['hi', 'need', 'need', 'help']"
+4,"I've been transferred to, like, eight different departments and I've told my problem to every single department, and then they just send me to another one and say they are going to send all my information so I won't have to repeat it, and then that person doesn't know what's going on.",5.622105263157895,3.9642105263157896,5.382105263157895,neutral,4.989473684210526,19 out of 22,"['transfer', 'like', 'eight', 'different', 'department', 'tell', 'problem', 'single', 'department', 'send', 'one', 'say', 'go', 'send', 'information', 'neg-repeat', 'person', 'neg-know', 'go']","['transfer', 'like', 'eight', 'different', 'department', 'tell', 'problem', 'every', 'single', 'department', 'send', 'another', 'one', 'say', 'go', 'send', 'information', 'wo', 'repeat', 'person', 'know', 'go']"
+5,"And I've restated my story about eight different times and I just want somebody to help me get my connection back, because this happens every two weeks.",5.918333333333333,3.7283333333333335,5.636666666666667,neutral,5.094444444444444,12 out of 15,"['story', 'eight', 'different', 'time', 'want', 'help', 'get', 'connection', 'back', 'happen', 'two', 'week']","['restate', 'story', 'eight', 'different', 'time', 'want', 'somebody', 'help', 'get', 'connection', 'back', 'happen', 'every', 'two', 'week']"
+6,And I want to know what to do to stop it from happening again.,5.7625,4.025,5.4399999999999995,neutral,5.075833333333334,4 out of 4,"['want', 'know', 'stop', 'happen']","['want', 'know', 'stop', 'happen']"
+7,Ses05M_impro08_M001 [030.3700-032.8900]: This happens every two weeks?,5.6899999999999995,3.3633333333333333,5.286666666666667,neutral,4.78,3 out of 4,"['happen', 'two', 'week']","['happen', 'every', 'two', 'week']"
+8,Ses05M_impro08_F001 [031.8600-034.8400]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+9,That my service just goes out.,6.575,3.9050000000000002,5.33,positive,5.2700000000000005,2 out of 2,"['service', 'go']","['service', 'go']"
+10,Ses05M_impro08_M002 [034.1300-035.7900]: You've lost your connection.,4.795,4.9399999999999995,5.8,neutral,5.178333333333334,2 out of 2,"['lose', 'connection']","['lose', 'connection']"
+11,Ses05M_impro08_F002 [035.2100-036.1900]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+12,Ses05M_impro08_M003 [035.8000-036.8000]: okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+13,Ses05M_impro08_F003 [036.3600-047.0600]: And I'll reset the IP address.,5.380000000000001,3.11,5.375,neutral,4.621666666666667,2 out of 3,"['reset', 'address']","['reset', 'ip', 'address']"
+14,"I will do like, you know, direct connect the modem to my computer, and then reset everything, and then put the router back in.",5.916666666666667,3.721111111111111,5.833333333333333,neutral,5.157037037037036,9 out of 11,"['like', 'know', 'direct', 'connect', 'modem', 'computer', 'reset', 'put', 'back']","['like', 'know', 'direct', 'connect', 'modem', 'computer', 'reset', 'everything', 'put', 'router', 'back']"
+15,And-,nan,nan,nan,nan,nan,0,nan,[]
+16,Ses05M_impro08_M004 [046.1300-048.3000]: Hmm.,nan,nan,nan,nan,nan,0,nan,['hmm']
+17,Mmm.,nan,nan,nan,nan,nan,0,nan,['mmm']
+18,"Ses05M_impro08_F004 [047.0700-051.9000]: Is not, It it It will work again for like a week and then it goes out again.",6.02,4.23,5.7525,positive,5.334166666666667,4 out of 4,"['work', 'like', 'week', 'go']","['work', 'like', 'week', 'go']"
+19,Ses05M_impro08_M005 [051.1000-053.6800]: Has somebody tried to pin your site?,5.383333333333333,3.76,5.93,neutral,5.024444444444444,3 out of 4,"['try', 'pin', 'site']","['somebody', 'try', 'pin', 'site']"
+20,"Ses05M_impro08_F005 [053.0200-056.2300]: Uh, yeah.",nan,nan,nan,nan,nan,0,nan,"['uh', 'yeah']"
+21,We've pinned it a couple of times.,6.0,4.03,5.243333333333333,neutral,5.091111111111111,3 out of 3,"['pin', 'couple', 'time']","['pin', 'couple', 'time']"
+22,Ses05M_impro08_M006 [055.5200-061.9800]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+23,"Um-  Well, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 3,['neg-know'],"['um', 'well', 'know']"
+24,And it consistently happens every two weeks?,5.6899999999999995,3.3633333333333333,5.286666666666667,neutral,4.78,3 out of 5,"['happen', 'two', 'week']","['consistently', 'happen', 'every', 'two', 'week']"
+25,"Ses05M_impro08_F006 [061.5000-066.9100]: Pretty much, yeah - I don't know if it's, like, bad phone lines or something.",5.411666666666667,4.698333333333333,5.015,neutral,5.041666666666667,6 out of 9,"['pretty', 'neg-know', 'like', 'bad', 'phone', 'line']","['pretty', 'much', 'yeah', 'know', 'like', 'bad', 'phone', 'line', 'something']"
+26,Ses05M_impro08_MXX0 [062.4862-063.0662]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+27,"Ses05M_impro08_M007 [065.8700-069.6100]: Well, you know what, does your D.S.L.",6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['well', 'know']"
+28,"cable -- you have D.S.L., right?",6.61,4.26,6.475,positive,5.781666666666666,2 out of 2,"['cable', 'right']","['cable', 'right']"
+29,Ses05M_impro08_F007 [069.0700-070.2700]: Hmm.,nan,nan,nan,nan,nan,0,nan,['hmm']
+30,Mmm.,nan,nan,nan,nan,nan,0,nan,['mmm']
+31,Ses05M_impro08_M008 [069.6400-077.4800]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+32,Does your D.S.L.,nan,nan,nan,nan,nan,0,nan,[]
+33,"cable, you know, travel a long distance by any chance?",6.11,4.084,5.578,positive,5.2573333333333325,5 out of 6,"['cable', 'know', 'travel', 'distance', 'chance']","['cable', 'know', 'travel', 'long', 'distance', 'chance']"
+34,- Does it go through any windows?,6.395,4.065,5.359999999999999,positive,5.273333333333333,2 out of 2,"['go', 'window']","['go', 'window']"
+35,"I mean, is it --",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+36,Ses05M_impro08_F008 [074.3700-075.9300]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+37,"Ses05M_impro08_F009 [077.2200-081.0600]: It goes- It goes, like, through doorways.",6.44,4.4425,5.63,positive,5.504166666666666,4 out of 4,"['go', 'go', 'like', 'doorway']","['go', 'go', 'like', 'doorway']"
+38,But it goes a long distance.,5.105,4.335,4.79,neutral,4.743333333333333,2 out of 3,"['go', 'distance']","['go', 'long', 'distance']"
+39,Ses05M_impro08_M009 [080.3600-090.8700]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+40,Is it being- Is it being compressed between anything by any chance?,5.449999999999999,4.65,5.0649999999999995,neutral,5.055,2 out of 3,"['compress', 'chance']","['compress', 'anything', 'chance']"
+41,"Because sometimes your connection can be you know, disrupted by, you know, the cable being squished.",5.355,3.9783333333333335,5.71,neutral,5.014444444444444,6 out of 7,"['connection', 'know', 'disrupt', 'know', 'cable', 'squish']","['sometimes', 'connection', 'know', 'disrupt', 'know', 'cable', 'squish']"
+42,Ses05M_impro08_F010 [090.1500-091.7900]: Oh really?,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+43,Ses05M_impro08_M010 [090.8800-096.9200]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+44,That can be- That can create a bad connection.,5.7,5.19,5.923333333333334,neutral,5.604444444444444,3 out of 3,"['create', 'bad', 'connection']","['create', 'bad', 'connection']"
+45,"And it won't always be a bad connection, but it will be bad off and on.",4.16,4.723333333333334,4.776666666666666,neutral,4.553333333333334,3 out of 5,"['bad', 'connection', 'bad']","['wo', 'always', 'bad', 'connection', 'bad']"
+46,"Ses05M_impro08_F011 [096.1400-103.2600]: Well, I- I can check that.",6.55,3.38,4.67,positive,4.866666666666666,1 out of 2,['check'],"['well', 'check']"
+47,"Is there anything else we can do, too?",nan,nan,nan,nan,nan,0,nan,"['anything', 'else']"
+48,"Like, I'll go through and check the line throughout the house, but --",6.464,3.966,5.516,positive,5.315333333333333,5 out of 6,"['like', 'go', 'check', 'line', 'house']","['like', 'go', 'check', 'line', 'throughout', 'house']"
+49,"Ses05M_impro08_M011 [102.5100-111.7900]: Yeah, well, absolutely.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'well', 'absolutely']"
+50,"What we can -- let's just go ahead and just do a basic diagnostic of your system first off, okay.",5.901666666666666,3.895,5.633333333333333,neutral,5.1433333333333335,6 out of 8,"['let', 'go', 'basic', 'diagnostic', 'system', 'first']","['let', 'go', 'ahead', 'basic', 'diagnostic', 'system', 'first', 'okay']"
+51,Can you go down to your start button?,6.07,4.59,5.786666666666667,positive,5.482222222222222,3 out of 3,"['go', 'start', 'button']","['go', 'start', 'button']"
+52,Ses05M_impro08_F012 [111.1800-112.6300]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+53,"Ses05M_impro08_M012 [111.8400-115.9800]: Okay, And uh- go ahead and click on run.",6.1433333333333335,4.303333333333334,5.43,positive,5.292222222222223,3 out of 6,"['go', 'click', 'run']","['okay', 'uh', 'go', 'ahead', 'click', 'run']"
+54,Ses05M_impro08_F013 [115.4600-116.6000]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+55,Ses05M_impro08_M013 [116.0200-119.2300]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+56,We're gonna get your -- a little black box is going to come up.,5.781666666666666,3.7583333333333333,5.375,neutral,4.971666666666667,6 out of 8,"['get', 'little', 'black', 'box', 'go', 'come']","['gon', 'na', 'get', 'little', 'black', 'box', 'go', 'come']"
+57,Do you see that?,6.27,3.9,6.0,positive,5.390000000000001,1 out of 1,['see'],['see']
+58,"Ses05M_impro08_F014 [118.5100-119.7700]: Yeah, I see that.",6.27,3.9,6.0,positive,5.390000000000001,1 out of 2,['see'],"['yeah', 'see']"
+59,"Ses05M_impro08_M014 [119.2400-125.5000]: Okay Uh- You've got your C calling, go ahead and type in directory list.",5.958333333333333,3.4266666666666667,5.536666666666667,neutral,4.973888888888889,6 out of 10,"['get', 'call', 'go', 'type', 'directory', 'list']","['okay', 'uh', 'get', 'c', 'call', 'go', 'ahead', 'type', 'directory', 'list']"
+60,Ses05M_impro08_F015 [125.0400-126.0400]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+61,Ses05M_impro08_M015 [125.6900-126.7900]: And hit enter.,5.02,4.890000000000001,5.970000000000001,neutral,5.293333333333334,2 out of 2,"['hit', 'enter']","['hit', 'enter']"
+62,Ses05M_impro08_F016 [126.4500-127.7600]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+63,Ses05M_impro08_M016 [126.9100-129.1000]: Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+64,Can you tell me what that says?,5.59,4.145,5.91,neutral,5.215,2 out of 2,"['tell', 'say']","['tell', 'say']"
+65,"Ses05M_impro08_F017 [128.8000-134.4000]: Uh, it it's like a bunch of different letter and numbers and stuff.",6.051666666666667,3.5616666666666665,5.706666666666667,positive,5.1066666666666665,6 out of 7,"['like', 'bunch', 'different', 'letter', 'number', 'stuff']","['uh', 'like', 'bunch', 'different', 'letter', 'number', 'stuff']"
+66,"Ses05M_impro08_M017 [133.4700-143.1800]: Okay Okay, And Um- letters and numbers and stuff.",5.71,3.4033333333333333,5.6433333333333335,neutral,4.9188888888888895,3 out of 6,"['letter', 'number', 'stuff']","['okay', 'okay', 'um', 'letter', 'number', 'stuff']"
+67,Uh- Can you - Can you just type in IP address search?,5.91,3.2533333333333334,4.926666666666667,neutral,4.696666666666666,3 out of 5,"['type', 'address', 'search']","['uh', 'type', 'ip', 'address', 'search']"
+68,And hit enter.,5.02,4.890000000000001,5.970000000000001,neutral,5.293333333333334,2 out of 2,"['hit', 'enter']","['hit', 'enter']"
+69,"Ses05M_impro08_F018 [141.7300-143.9900]: Uh huh, Okay.",nan,nan,nan,nan,nan,0,nan,"['uh', 'huh', 'okay']"
+70,Ses05M_impro08_M018 [143.5700-146.3700]: Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+71,Does it list your IP address there?,6.0,2.8,5.25,neutral,4.683333333333334,2 out of 3,"['list', 'address']","['list', 'ip', 'address']"
+72,"Ses05M_impro08_F019 [145.9200-149.2800]: Uh, yeah looks -- no, no.",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 3,['look'],"['uh', 'yeah', 'look']"
+73,It's set to zeros.,5.23,3.1,5.81,neutral,4.713333333333334,1 out of 2,['set'],"['set', 'zero']"
+74,Ses05M_impro08_M019 [148.9400-160.5000]: It's set to zeros.,5.23,3.1,5.81,neutral,4.713333333333334,1 out of 2,['set'],"['set', 'zero']"
+75,"Okay, maybe that's our problem.",3.52,4.81,4.94,negative,4.423333333333333,1 out of 3,['problem'],"['okay', 'maybe', 'problem']"
+76,That could very well be our problem there.,3.52,4.81,4.94,negative,4.423333333333333,1 out of 3,['problem'],"['could', 'well', 'problem']"
+77,Somehow you've lost your IP address.,4.85,4.24,4.64,neutral,4.576666666666667,2 out of 4,"['lose', 'address']","['somehow', 'lose', 'ip', 'address']"
+78,I'm not sure why that would happen every week.,5.01,4.2725,4.9825,neutral,4.755,4 out of 5,"['neg-sure', 'would', 'happen', 'week']","['sure', 'would', 'happen', 'every', 'week']"
+79,"It could be a cycling issue, something like that.",5.695,4.475,5.875,neutral,5.348333333333334,2 out of 5,"['issue', 'like']","['could', 'cycling', 'issue', 'something', 'like']"
+80,But let's go ahead and type your IP address in again.,6.11,3.37,5.2924999999999995,positive,4.924166666666667,4 out of 6,"['let', 'go', 'type', 'address']","['let', 'go', 'ahead', 'type', 'ip', 'address']"
+81,Ses05M_impro08_FXX0 [151.1271-151.7483]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+82,"Ses05M_impro08_F020 [158.0500-163.6700]: what happening - So if we reset this, how will I know it's not going to happen again every other week?",5.07,4.1466666666666665,5.265000000000001,neutral,4.827222222222223,6 out of 7,"['happen', 'reset', 'know', 'neg-go', 'neg-happen', 'week']","['happen', 'reset', 'know', 'go', 'happen', 'every', 'week']"
+83,"Ses05M_impro08_M020 [163.1200-170.1700]: Well, if it does happen again, let me give you my direct number and you can call me.",6.116666666666667,3.631666666666667,5.905,positive,5.217777777777779,6 out of 7,"['happen', 'let', 'give', 'direct', 'number', 'call']","['well', 'happen', 'let', 'give', 'direct', 'number', 'call']"
+84,"Actually, I'll give you my cell number.",5.803333333333334,4.1000000000000005,5.57,neutral,5.1577777777777785,3 out of 4,"['give', 'cell', 'number']","['actually', 'give', 'cell', 'number']"
+85,Um- It's --,nan,nan,nan,nan,nan,0,nan,['um']
+86,Ses05M_impro08_F021 [169.0900-171.9700]: Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+87,That would be amazing.,6.8149999999999995,4.93,6.385,positive,6.043333333333333,2 out of 2,"['would', 'amazing']","['would', 'amazing']"
+88,Really?,nan,nan,nan,nan,nan,0,nan,['really']
+89,Ses05M_impro08_M021 [170.4500-176.2600]: Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+90,"we seriously- Yeah, I mean, obviously you've worked- you know -- I don't want to hassle you anymore.",5.07,4.652,5.17,neutral,4.964,5 out of 9,"['mean', 'work', 'know', 'neg-want', 'neg-hassle']","['seriously', 'yeah', 'mean', 'obviously', 'work', 'know', 'want', 'hassle', 'anymore']"
+91,"Ses05M_impro08_F022 [174.2300-188.6900]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+92,I can't even tell you how much of a relief that is.,5.68,5.28,5.35,neutral,5.436666666666667,2 out of 5,"['neg-tell', 'relief']","['ca', 'even', 'tell', 'much', 'relief']"
+93,I literally call and talk to five different people.,5.966,3.588,5.914000000000001,neutral,5.156,5 out of 6,"['call', 'talk', 'five', 'different', 'people']","['literally', 'call', 'talk', 'five', 'different', 'people']"
+94,Like last week it went off and I spent an hour and a half on the phone with different people.,5.96125,3.95,5.66625,neutral,5.1925,8 out of 10,"['like', 'week', 'go', 'spend', 'hour', 'phone', 'different', 'people']","['like', 'last', 'week', 'go', 'spend', 'hour', 'half', 'phone', 'different', 'people']"
+95,"And I've been doing that like every, every other week for months now.",6.163333333333333,3.79,5.536666666666667,positive,5.163333333333333,3 out of 5,"['like', 'week', 'month']","['like', 'every', 'every', 'week', 'month']"
+96,Ses05M_impro08_M022 [187.7200-189.5700]: I completely understand.,6.68,3.52,6.71,positive,5.636666666666667,1 out of 2,['understand'],"['completely', 'understand']"
+97,Ses05M_impro08_F023 [188.8600-190.8500]: It's so frustrating.,2.57,5.48,3.72,negative,3.923333333333334,1 out of 1,['frustrating'],['frustrating']
+98,Ses05M_impro08_M023 [189.6200-192.6100]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+99,And I just don't want that to happen to you anymore.,4.75,4.07,5.07,neutral,4.63,2 out of 3,"['neg-want', 'happen']","['want', 'happen', 'anymore']"
+100,Ses05M_impro08_F024 [191.8600-193.8700]: Thank you so much.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 2,['thank'],"['thank', 'much']"
+101,Ses05M_impro08_M024 [192.9300-195.1600]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+102,It's a new service we are offering.,6.726666666666667,3.8633333333333333,5.33,positive,5.306666666666667,3 out of 3,"['new', 'service', 'offer']","['new', 'service', 'offer']"
+103,"Ses05M_impro08_F025 [194.5000-197.0800]: Yeah, accountability.",4.89,3.7,6.55,neutral,5.046666666666667,1 out of 2,['accountability'],"['yeah', 'accountability']"
+104,It's awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+105,Ses05M_impro08_M025 [195.6700-202.3700]: Uh huh Uh huh We want you to be happy.,7.235,5.67,6.3,positive,6.401666666666667,2 out of 6,"['want', 'happy']","['uh', 'huh', 'uh', 'huh', 'want', 'happy']"
+106,You're our customer.,5.86,3.4,6.16,neutral,5.14,1 out of 1,['customer'],['customer']
+107,You're the most important thing.,6.1850000000000005,4.07,5.9,positive,5.385000000000001,2 out of 2,"['important', 'thing']","['important', 'thing']"
+108,Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+109,Ses05M_impro08_F026 [200.6700-207.5500]: Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+110,"You know I was thinking about changing internet providers, but but that- that really is enough to change my mind.",6.188571428571429,4.187142857142857,6.078571428571428,positive,5.484761904761904,7 out of 9,"['know', 'think', 'change', 'internet', 'provider', 'change', 'mind']","['know', 'think', 'change', 'internet', 'provider', 'really', 'enough', 'change', 'mind']"
+111,Ses05M_impro08_M026 [207.2100-214.1100]: Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+112,"Well, that makes me very happy.",7.28,4.859999999999999,6.715,positive,6.285,2 out of 3,"['make', 'happy']","['well', 'make', 'happy']"
+113,That makes us all happy here at D.S.L.,7.28,4.859999999999999,6.715,positive,6.285,2 out of 3,"['make', 'happy']","['make', 'us', 'happy']"
+114,Extreme.,5.65,6.18,5.88,neutral,5.903333333333333,1 out of 1,['extreme'],['extreme']
+115,Is there anything else I can help you with?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 3,['help'],"['anything', 'else', 'help']"
+116,Ses05M_impro08_F027 [213.4600-219.2000]: No.,nan,nan,nan,nan,nan,0,nan,[]
+117,I'm just gonna go have a fantastic day now.,7.013333333333334,4.96,6.043333333333333,positive,6.0055555555555555,3 out of 5,"['go', 'fantastic', 'day']","['gon', 'na', 'go', 'fantastic', 'day']"
+118,Ses05M_impro08_M027 [217.9600-221.0900]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+119,You have a wonderful day.,6.885,4.095000000000001,6.390000000000001,positive,5.79,2 out of 2,"['wonderful', 'day']","['wonderful', 'day']"
+120,Call us anytime.,5.994999999999999,3.945,5.465,neutral,5.135,2 out of 3,"['call', 'anytime']","['call', 'us', 'anytime']"
+121,Ses05M_impro08_F028 [220.4400-222.1500]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+122,Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+123,Ses05M_impro08_M028 [221.1500-222.8300]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+124,"Bye, bye.",nan,nan,nan,nan,nan,0,nan,"['bye', 'bye']"
