@@ -1,0 +1,75 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses05F_impro06_M000 [006.3966-009.3642]: What's wrong Melissa?,3.24,5.29,3.39,negative,3.973333333333334,1 out of 2,['wrong'],"['wrong', 'melissa']"
+2,Ses05F_impro06_F000 [010.2102-015.6070]: A good friend of mine passed away the other day.,6.6925,3.9875,5.7725,positive,5.484166666666667,4 out of 6,"['good', 'friend', 'pass', 'day']","['good', 'friend', 'mine', 'pass', 'away', 'day']"
+3,"Ses05F_impro06_M001 [015.6700-021.0373]: Oh no, I'm so sorry.",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['oh', 'sorry']"
+4,What happened?,5.5,3.43,5.53,neutral,4.82,1 out of 1,['happen'],['happen']
+5,"Ses05F_impro06_F001 [021.2500-027.5580]: Oh they had some pretty progressive cancer,",5.286666666666667,5.006666666666667,5.403333333333333,neutral,5.232222222222222,3 out of 4,"['pretty', 'progressive', 'cancer']","['oh', 'pretty', 'progressive', 'cancer']"
+6,"Ses05F_impro06_F002 [027.9065-035.5400]: metastasized and it was old and they knew that it wasn't looking good, but-",4.0425,5.075,4.4275,neutral,4.515,4 out of 5,"['old', 'know', 'neg-look', 'neg-good']","['metastasize', 'old', 'know', 'look', 'good']"
+7,Ses05F_impro06_M002 [036.2900-043.3500]: That's the worst.,nan,nan,nan,nan,nan,0,nan,['worst']
+8,I'm so sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+9,Did you know him well?,6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['know', 'well']"
+10,Ses05F_impro06_F003 [042.8100-047.2600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+11,We were.,nan,nan,nan,nan,nan,0,nan,[]
+12,Pretty close.,6.465,4.655,6.32,positive,5.8133333333333335,2 out of 2,"['pretty', 'close']","['pretty', 'close']"
+13,Ses05F_impro06_F004 [048.5000-049.9800]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+14,"Ses05F_impro06_M003 [050.1700-053.8800]: I am so sorry,  It's-",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+15,Ses05F_impro06_M004 [054.9200-058.5500]: It's the worst when they go like that.,6.880000000000001,4.630000000000001,5.805,positive,5.771666666666667,2 out of 3,"['go', 'like']","['worst', 'go', 'like']"
+16,[GARBAGE] Was he young?,4.595,3.965,5.375,neutral,4.645,2 out of 2,"['garbage', 'young']","['garbage', 'young']"
+17,Ses05F_impro06_F005 [058.2100-059.5700]: Kind of.,7.78,3.19,7.62,positive,6.196666666666666,1 out of 1,['kind'],['kind']
+18,"Ses05F_impro06_F006 [060.2000-064.5300]: It's hard to watch when it's painful for them, you know.",4.8,4.1575,5.28,neutral,4.745833333333334,4 out of 4,"['hard', 'watch', 'painful', 'know']","['hard', 'watch', 'painful', 'know']"
+19,"Ses05F_impro06_M005 [064.2400-067.0000]: Absolutely, absolutely.",nan,nan,nan,nan,nan,0,nan,"['absolutely', 'absolutely']"
+20,Ses05F_impro06_M006 [067.7200-069.1600]: It's the think,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 1,['think'],['think']
+21,"Ses05F_impro06_F007 [069.5700-071.5400]: I just, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+22,Ses05F_impro06_M007 [070.5100-072.2600]: There's no reason for it.,3.7300000000000004,6.67,3.8899999999999997,negative,4.763333333333333,1 out of 1,['neg-reason'],['reason']
+23,Ses05F_impro06_F008 [071.5800-073.9400]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+24,Ses05F_impro06_F009 [075.3900-079.4200]: And he could of...,nan,nan,nan,nan,nan,0,nan,['could']
+25,He was pretty awesome,7.78,5.775,6.905,positive,6.82,2 out of 2,"['pretty', 'awesome']","['pretty', 'awesome']"
+26,Ses05F_impro06_M008 [078.9500-085.5600]: Yeah?,nan,nan,nan,nan,nan,0,nan,['yeah']
+27,What'd he do?,nan,nan,nan,nan,nan,0,nan,[]
+28,What did they do?,nan,nan,nan,nan,nan,0,nan,[]
+29,How'd you know him?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+30,"Ses05F_impro06_F010 [085.3100-087.7300]: Uh,  We grew up together.",6.28,2.6,5.5,positive,4.793333333333334,1 out of 3,['grow'],"['uh', 'grow', 'together']"
+31,Ses05F_impro06_M009 [087.3200-088.8300]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+32,"Ses05F_impro06_M010 [090.2500-092.8100]: Is he an actor too, or-?",6.15,4.35,5.64,positive,5.38,1 out of 1,['actor'],['actor']
+33,"Ses05F_impro06_F011 [092.2200-099.8000]: Yeah, he kind of did a lot of things, but we acted together, sometimes.",6.323333333333333,3.6033333333333335,6.38,positive,5.435555555555555,3 out of 7,"['kind', 'thing', 'act']","['yeah', 'kind', 'lot', 'thing', 'act', 'together', 'sometimes']"
+34,"Ses05F_impro06_F012 [103.5100-107.6400]: I feel really bad for his family, you know.",5.895,4.125,5.205,neutral,5.075,4 out of 5,"['feel', 'bad', 'family', 'know']","['feel', 'really', 'bad', 'family', 'know']"
+35,"Ses05F_impro06_M011 [107.0300-109.2000]: Yes of course, of course.",nan,nan,nan,nan,nan,0,nan,"['yes', 'course', 'course']"
+36,"Ses05F_impro06_F013 [108.7600-111.9300]: It must be really, really hard to lose a child.",5.1475,4.84,4.9025,neutral,4.963333333333334,4 out of 6,"['must', 'hard', 'lose', 'child']","['must', 'really', 'really', 'hard', 'lose', 'child']"
+37,Ses05F_impro06_M012 [111.4700-114.0600]: Was he very close to his family?,6.24,4.08,5.960000000000001,positive,5.426666666666667,2 out of 2,"['close', 'family']","['close', 'family']"
+38,Ses05F_impro06_F014 [114.1700-119.6000]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+39,"And they were really supportive, like through the whole process, but-",6.4675,3.9025,6.3025,positive,5.5575,4 out of 5,"['supportive', 'like', 'whole', 'process']","['really', 'supportive', 'like', 'whole', 'process']"
+40,Ses05F_impro06_M013 [119.1800-120.8577]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+41,Ses05F_impro06_F015 [120.6600-122.3200]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+42,Ses05F_impro06_F016 [123.9500-128.7400]: I can't imagine what his- what his parents are going through.,5.283333333333333,4.846666666666667,4.47,neutral,4.866666666666666,3 out of 4,"['neg-imagine', 'parent', 'go']","['ca', 'imagine', 'parent', 'go']"
+43,Ses05F_impro06_M014 [129.2400-133.9100]: Of course not.,nan,nan,nan,nan,nan,0,nan,['course']
+44,You have no idea what it's like to lose a kid.,5.3025,4.97,4.8475,neutral,5.04,4 out of 4,"['neg-idea', 'like', 'lose', 'kid']","['idea', 'like', 'lose', 'kid']"
+45,"Ses05F_impro06_F017 [136.6800-140.1300]: Yeah, I'm just going to miss him.",5.21,4.38,5.225,neutral,4.9383333333333335,2 out of 3,"['go', 'miss']","['yeah', 'go', 'miss']"
+46,Ses05F_impro06_M015 [140.2000-144.2500]: Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+47,"If there's anything I can do, you just let me know.",6.385,2.975,5.92,positive,5.093333333333333,2 out of 3,"['let', 'know']","['anything', 'let', 'know']"
+48,Okay?,nan,nan,nan,nan,nan,0,nan,['okay']
+49,Ses05F_impro06_F018 [143.2700-144.7800]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+50,Ses05F_impro06_M016 [144.2900-145.9900]: Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+51,Ses05F_impro06_M017 [146.3600-149.2100]: Is there a funeral planned?,4.1049999999999995,3.9799999999999995,4.67,neutral,4.251666666666666,2 out of 2,"['funeral', 'plan']","['funeral', 'plan']"
+52,or-,nan,nan,nan,nan,nan,0,nan,[]
+53,"Ses05F_impro06_F019 [148.7700-153.8700]: Yeah, they're going to do some sort of memorial service or something.",6.29,3.686666666666667,5.3,positive,5.092222222222222,3 out of 6,"['go', 'memorial', 'service']","['yeah', 'go', 'sort', 'memorial', 'service', 'something']"
+54,"Ses05F_impro06_M018 [155.0600-157.7158]: Cool, Well, If you want me to go with you, I will.",6.38,4.526666666666667,5.72,positive,5.542222222222222,3 out of 4,"['cool', 'want', 'go']","['cool', 'well', 'want', 'go']"
+55,Ses05F_impro06_F020 [157.2900-158.6900]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+56,Ses05F_impro06_M019 [158.0500-159.8900]: No problem.,6.48,5.19,5.06,positive,5.576666666666667,1 out of 1,['neg-problem'],['problem']
+57,"Ses05F_impro06_F021 [159.8700-164.7700]: It's really bizarre, you know, when you know somebody really well, and then...",6.016666666666667,3.8266666666666667,5.3533333333333335,positive,5.065555555555556,3 out of 7,"['bizarre', 'know', 'know']","['really', 'bizarre', 'know', 'know', 'somebody', 'really', 'well']"
+58,Ses05F_impro06_F022 [165.5800-172.2900]: something happens and they die and it's like-,4.87,4.91,5.03,neutral,4.936666666666667,3 out of 4,"['happen', 'die', 'like']","['something', 'happen', 'die', 'like']"
+59,"Ses05F_impro06_F023 [172.5400-179.2000]: really hard to imagine that like you're going to continue to live, and that person's just going to have stopped.",6.224444444444445,4.282222222222222,5.838888888888889,positive,5.448518518518519,9 out of 10,"['hard', 'imagine', 'like', 'go', 'continue', 'live', 'person', 'go', 'stop']","['really', 'hard', 'imagine', 'like', 'go', 'continue', 'live', 'person', 'go', 'stop']"
+60,"Ses05F_impro06_M020 [178.7400-184.4600]: Right, it just doesn't make any sense, it's not real.",4.5125,5.895,4.69,neutral,5.0325,4 out of 4,"['right', 'neg-make', 'neg-sense', 'neg-real']","['right', 'make', 'sense', 'real']"
+61,It doesn't feel real.,3.3200000000000003,5.95,4.305,negative,4.5249999999999995,2 out of 2,"['neg-feel', 'neg-real']","['feel', 'real']"
+62,Ses05F_impro06_M021 [184.7000-186.3400]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+63,Ses05F_impro06_F024 [185.9500-187.5100]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+64,"Ses05F_impro06_M022 [187.9000-200.7100]: Do you know what, it's going to pass,eventually, I mean it'll never pass, it'll always be there, and you'll always remember and everything like that, but you know.",5.97375,4.05625,5.40125,neutral,5.143750000000001,8 out of 13,"['know', 'go', 'pass', 'mean', 'pass', 'remember', 'like', 'know']","['know', 'go', 'pass', 'eventually', 'mean', 'never', 'pass', 'always', 'always', 'remember', 'everything', 'like', 'know']"
+65,It'll get easier I guess.,5.635,3.7649999999999997,5.27,neutral,4.89,2 out of 3,"['get', 'guess']","['get', 'easier', 'guess']"
+66,Ses05F_impro06_F025 [200.2700-202.1200]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+67,Ses05F_impro06_M023 [201.6100-203.7000]: That's the best way to put it.,5.5,3.38,5.385,neutral,4.755,2 out of 3,"['way', 'put']","['best', 'way', 'put']"
+68,Ses05F_impro06_F026 [203.3100-207.2700]: It's hard to say good-bye.,5.13,4.465,5.92,neutral,5.171666666666666,2 out of 2,"['hard', 'say']","['hard', 'say']"
+69,Ses05F_impro06_M024 [207.0900-209.0700]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+70,Ses05F_impro06_F027 [208.7300-210.5200]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+71,"Ses05F_impro06_M025 [210.4800-221.8500]: Do you know what, if it was me that died, I'd really want you to be crying and being really upset too any way.",4.345,4.711666666666667,4.3566666666666665,neutral,4.471111111111111,6 out of 8,"['know', 'die', 'want', 'cry', 'upset', 'way']","['know', 'die', 'really', 'want', 'cry', 'really', 'upset', 'way']"
+72,"So, I think you should definitely do this, because it's trying what it's supposed to be.",5.863333333333333,3.6933333333333334,5.8500000000000005,neutral,5.135555555555555,3 out of 4,"['think', 'try', 'suppose']","['think', 'definitely', 'try', 'suppose']"
+73,Ses05F_impro06_F028 [215.3500-217.1500]: [LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+74,Ses05F_impro06_F029 [220.7800-222.7600]: yeah yeah.,nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"

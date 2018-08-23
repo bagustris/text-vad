@@ -1,0 +1,124 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses04M_impro03_M000 [007.0300-020.1500]: So, um, well, I just -- I kind of wanted to, you know, tell you that I'm actually -- I proposed to Kate and we're going to get married.",6.45375,4.3,5.76875,positive,5.5075,8 out of 12,"['kind', 'want', 'know', 'tell', 'propose', 'go', 'get', 'marry']","['um', 'well', 'kind', 'want', 'know', 'tell', 'actually', 'propose', 'kate', 'go', 'get', 'marry']"
+2,"Ses04M_impro03_F000 [019.5800-021.5800]: Wait, what?",4.55,3.62,5.31,neutral,4.493333333333333,1 out of 1,['wait'],['wait']
+3,Ses04M_impro03_M001 [021.0000-027.9300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+4,"Yeah, I proposed to her yesterday.",6.26,4.77,5.77,positive,5.599999999999999,1 out of 3,['propose'],"['yeah', 'propose', 'yesterday']"
+5,We're getting -- we're engaged now and we're going to -- we're going to get married in about eight months.,6.2075,4.3725000000000005,5.545,positive,5.375,8 out of 8,"['get', 'engage', 'go', 'go', 'get', 'marry', 'eight', 'month']","['get', 'engage', 'go', 'go', 'get', 'marry', 'eight', 'month']"
+6,"Ses04M_impro03_F001 [027.4400-030.4000]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+7,Congratulations.,7.3,6.05,6.68,positive,6.676666666666667,1 out of 1,['congratulation'],['congratulation']
+8,"Ses04M_impro03_M002 [029.0300-030.9900]: Yeah, it's pretty amazing, huh?",7.71,5.775,6.765000000000001,positive,6.75,2 out of 4,"['pretty', 'amazing']","['yeah', 'pretty', 'amazing', 'huh']"
+9,Ses04M_impro03_F002 [030.5200-034.3400]: I can't -- how did you do it?,nan,nan,nan,nan,nan,0,nan,['ca']
+10,What happened?,5.5,3.43,5.53,neutral,4.82,1 out of 1,['happen'],['happen']
+11,Ses04M_impro03_M003 [033.7400-040.0300]: Well I decided to take her sailing,5.550000000000001,3.8099999999999996,5.555,neutral,4.971666666666667,2 out of 4,"['decide', 'take']","['well', 'decide', 'take', 'sailing']"
+12,"Ses04M_impro03_M004 [040.0600-051.7600]: and we were just out on the water and, you know, I just -- I had the ring with me.",6.97,3.7933333333333334,5.78,positive,5.514444444444444,3 out of 3,"['water', 'know', 'ring']","['water', 'know', 'ring']"
+13,And I was like let's do this.,6.695,3.555,6.17,positive,5.473333333333334,2 out of 2,"['like', 'let']","['like', 'let']"
+14,And she was like okay and then we're getting married.,6.873333333333333,4.53,5.866666666666667,positive,5.756666666666667,3 out of 4,"['like', 'get', 'marry']","['like', 'okay', 'get', 'marry']"
+15,Ses04M_impro03_F003 [049.8400-055.0554]: [LAUGHTER] Well you paint a romantic picture.,7.032500000000001,4.575,6.5375,positive,6.048333333333335,4 out of 5,"['laughter', 'paint', 'romantic', 'picture']","['laughter', 'well', 'paint', 'romantic', 'picture']"
+16,"Ses04M_impro03_M005 [054.7500-058.4800]: Well I didn't want it to be like cheesy, you know.",5.79,4.11,5.3825,neutral,5.094166666666667,4 out of 5,"['neg-want', 'like', 'cheesy', 'know']","['well', 'want', 'like', 'cheesy', 'know']"
+17,Ses04M_impro03_F004 [058.0300-059.7800]: Did she cry?,3.22,5.45,2.56,negative,3.7433333333333336,1 out of 1,['cry'],['cry']
+18,"Ses04M_impro03_M006 [059.4344-065.8600]: She didn't cry, but she was laughing a lot and it was very exciting, so...",7.43,6.04,7.346666666666667,positive,6.938888888888889,3 out of 4,"['neg-cry', 'laugh', 'exciting']","['cry', 'laugh', 'lot', 'exciting']"
+19,"Ses04M_impro03_F005 [065.1400-068.5600]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+20,How long have you been planning on doing this?,6.14,3.86,6.28,positive,5.426666666666667,1 out of 2,['plan'],"['long', 'plan']"
+21,"Ses04M_impro03_M007 [067.8100-074.0500]: Honestly, it was kind of quickly.",7.78,3.19,7.62,positive,6.196666666666666,1 out of 3,['kind'],"['honestly', 'kind', 'quickly']"
+22,It was actually only in the past couple months.,5.993333333333333,4.433333333333334,5.28,neutral,5.235555555555556,3 out of 4,"['past', 'couple', 'month']","['actually', 'past', 'couple', 'month']"
+23,Ses04M_impro03_F006 [073.6200-079.8300]: I can't believe this.,2.95,6.67,3.4400000000000004,negative,4.353333333333334,1 out of 2,['neg-believe'],"['ca', 'believe']"
+24,You're getting married.,6.59,4.595,5.66,positive,5.614999999999999,2 out of 2,"['get', 'marry']","['get', 'marry']"
+25,It's crazy!,5.14,5.9,4.19,neutral,5.076666666666667,1 out of 1,['crazy'],['crazy']
+26,Ses04M_impro03_M008 [074.3900-084.1300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+27,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+28,So- I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+29,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+30,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+31,"It's weird 'cause it's like the beginning of the rest of my life, you know.",6.713333333333333,3.8016666666666667,5.7,positive,5.405,6 out of 6,"['weird', 'like', 'beginning', 'rest', 'life', 'know']","['weird', 'like', 'beginning', 'rest', 'life', 'know']"
+32,"Ses04M_impro03_F007 [082.8700-084.8000]: Yeah, it is.",nan,nan,nan,nan,nan,0,nan,['yeah']
+33,"Ses04M_impro03_M009 [084.3100-091.0900]: But uh- no, I mean, you know.",7.195,4.215,5.805,positive,5.738333333333333,2 out of 3,"['neg-mean', 'know']","['uh', 'mean', 'know']"
+34,"You know, I really want you to like, you know, sort of",6.7700000000000005,4.0425,5.8075,positive,5.54,4 out of 6,"['know', 'want', 'like', 'know']","['know', 'really', 'want', 'like', 'know', 'sort']"
+35,Ses04M_impro03_M010 [091.1200-100.6800]: help Kate out with like planning stuff.,6.5975,4.0175,6.07,positive,5.561666666666667,4 out of 5,"['help', 'like', 'plan', 'stuff']","['help', 'kate', 'like', 'plan', 'stuff']"
+36,"I mean, if you want to.",4.215,5.05,4.779999999999999,neutral,4.681666666666667,2 out of 2,"['mean', 'want']","['mean', 'want']"
+37,"I mean, you guys are good friends anyway so I figured, you know, if you guys want to like -- I mean, you know, I'm sure you enjoy that kind of thing.",6.163333333333333,4.128666666666667,5.803333333333334,positive,5.365111111111111,15 out of 16,"['mean', 'guy', 'good', 'friend', 'figure', 'know', 'guy', 'want', 'like', 'mean', 'know', 'sure', 'enjoy', 'kind', 'thing']","['mean', 'guy', 'good', 'friend', 'anyway', 'figure', 'know', 'guy', 'want', 'like', 'mean', 'know', 'sure', 'enjoy', 'kind', 'thing']"
+38,"Ses04M_impro03_F008 [099.8300-103.3400]: Yeah, I would love to.",6.955,4.585,5.93,positive,5.823333333333333,2 out of 3,"['would', 'love']","['yeah', 'would', 'love']"
+39,Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+40,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+41,Ses04M_impro03_M011 [101.1000-104.4700]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+42,Well there you go.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 2,['go'],"['well', 'go']"
+43,"Ses04M_impro03_F009 [103.8900-108.4600]: Oh, my God, where -- have you guys talked about where you're going to get married or--",6.431666666666667,4.616666666666666,5.535,positive,5.527777777777778,6 out of 7,"['god', 'guy', 'talk', 'go', 'get', 'marry']","['oh', 'god', 'guy', 'talk', 'go', 'get', 'marry']"
+44,Ses04M_impro03_M012 [106.6800-111.5215]: I think we're going to -- we're going to -- we want to do it in Hawaii and just fly everybody in.,6.276,4.732,5.566,positive,5.524666666666666,5 out of 7,"['think', 'go', 'go', 'want', 'fly']","['think', 'go', 'go', 'want', 'hawaii', 'fly', 'everybody']"
+45,"Ses04M_impro03_F010 [110.8553-113.2500]: Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+46,M: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+47,"Ses04M_impro03_M013 [112.7400-121.8700]: I just -- 'cause, I mean, Hawaii just has like the best fruit buffets.",5.73,4.5625,5.6125,neutral,5.301666666666667,4 out of 6,"['mean', 'like', 'fruit', 'buffet']","['mean', 'hawaii', 'like', 'best', 'fruit', 'buffet']"
+48,"And so I'm just going to say forget, you know, all like kind of meats and all that stuff.",6.3100000000000005,4.04625,5.725,positive,5.360416666666666,8 out of 8,"['go', 'say', 'forget', 'know', 'like', 'kind', 'meat', 'stuff']","['go', 'say', 'forget', 'know', 'like', 'kind', 'meat', 'stuff']"
+49,F: Just have fruit.,7.0,4.09,6.12,positive,5.736666666666667,1 out of 2,['fruit'],"['f', 'fruit']"
+50,"Ses04M_impro03_M014 [121.8900-127.4400]: It's just going to be like a all fruit--fruit buffet wedding, plus a cake.",6.962857142857143,4.72,5.812857142857143,positive,5.831904761904762,7 out of 8,"['go', 'like', 'fruit', 'fruit', 'buffet', 'wedding', 'cake']","['go', 'like', 'fruit', 'fruit', 'buffet', 'wedding', 'plus', 'cake']"
+51,F: Tropical.,7.05,4.3,5.62,positive,5.656666666666666,1 out of 2,['tropical'],"['f', 'tropical']"
+52,Ses04M_impro03_F011 [126.3600-131.1200]: Are you going to get married like on the beach barefoot or like fancier?,6.928571428571429,4.611428571428571,5.961428571428572,positive,5.833809523809523,7 out of 8,"['go', 'get', 'marry', 'like', 'beach', 'barefoot', 'like']","['go', 'get', 'marry', 'like', 'beach', 'barefoot', 'like', 'fancier']"
+53,Like in a church.,6.325,4.015000000000001,5.66,positive,5.333333333333333,2 out of 2,"['like', 'church']","['like', 'church']"
+54,Ses04M_impro03_M015 [129.6800-131.0600]: Barefoot?,6.91,4.33,6.82,positive,6.0200000000000005,1 out of 1,['barefoot'],['barefoot']
+55,Ses04M_impro03_F012 [131.1400-133.7004]: Well I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['well', 'know']"
+56,Throwing it out there.,5.55,4.52,6.12,neutral,5.396666666666667,1 out of 1,['throw'],['throw']
+57,"Ses04M_impro03_M016 [131.4300-136.6900]: Um, no, no, no.",nan,nan,nan,nan,nan,0,nan,['um']
+58,It'll be in like a park near the beach.,7.216666666666667,4.066666666666666,5.846666666666667,positive,5.71,3 out of 4,"['like', 'park', 'beach']","['like', 'park', 'near', 'beach']"
+59,Ses04M_impro03_F013 [135.9300-137.5500]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+60,Ses04M_impro03_M017 [136.9900-142.9900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+61,But I'm really excited.,7.79,6.61,5.79,positive,6.73,1 out of 2,['excite'],"['really', 'excite']"
+62,So and everybody's going to come out and it'll be a great time.,6.265,3.995,5.57,positive,5.276666666666666,4 out of 5,"['go', 'come', 'great', 'time']","['everybody', 'go', 'come', 'great', 'time']"
+63,And--,nan,nan,nan,nan,nan,0,nan,[]
+64,"Ses04M_impro03_F014 [142.3500-148.9700]: Are you going to have a big wedding or like keep it really small like just, you know, family and really close friends?",6.578181818181818,4.169090909090909,5.711818181818182,positive,5.486363636363635,11 out of 13,"['go', 'big', 'wedding', 'like', 'keep', 'small', 'like', 'know', 'family', 'close', 'friend']","['go', 'big', 'wedding', 'like', 'keep', 'really', 'small', 'like', 'know', 'family', 'really', 'close', 'friend']"
+65,"Or, I mean--",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+66,"Ses04M_impro03_M018 [147.4300-158.3300]: It'll be kind of small, but not, you know, not tiny, you know.",5.688,4.404,5.198,neutral,5.096666666666667,5 out of 5,"['kind', 'small', 'neg-know', 'neg-tiny', 'know']","['kind', 'small', 'know', 'tiny', 'know']"
+67,"I want to have, you know, as many people as we can afford to fly out to Hawaii and put up there for--",6.038333333333333,4.2316666666666665,5.705,positive,5.325,6 out of 8,"['want', 'know', 'people', 'afford', 'fly', 'put']","['want', 'know', 'many', 'people', 'afford', 'fly', 'hawaii', 'put']"
+68,Ses04M_impro03_F015 [156.5100-160.2900]: It's so exciting.,7.95,6.95,7.21,positive,7.37,1 out of 1,['exciting'],['exciting']
+69,What's the ring look like?,6.826666666666667,4.196666666666666,5.866666666666667,positive,5.63,3 out of 3,"['ring', 'look', 'like']","['ring', 'look', 'like']"
+70,Ses04M_impro03_M019 [159.7195-165.4200]: It's big and shiny.,6.16,4.390000000000001,5.890000000000001,positive,5.48,2 out of 2,"['big', 'shiny']","['big', 'shiny']"
+71,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+72,It's silver and--,7.48,4.0,7.05,positive,6.176666666666667,1 out of 1,['silver'],['silver']
+73,Ses04M_impro03_F016 [163.8800-166.9800]: Big and shiny.,6.16,4.390000000000001,5.890000000000001,positive,5.48,2 out of 2,"['big', 'shiny']","['big', 'shiny']"
+74,You're such a guy.,6.55,4.71,5.12,positive,5.46,1 out of 1,['guy'],['guy']
+75,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+76,"Ses04M_impro03_M020 [165.6200-177.2881]: Yeah, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['yeah', 'know']"
+77,"[LAUGHTER] But, yeah, so anyway -- well I wanted to tell you that, you know, 'cause you're one of my good friends and you're Kate's- one of her best friends and-",6.6433333333333335,3.928888888888889,5.92,positive,5.497407407407408,9 out of 14,"['laughter', 'want', 'tell', 'know', 'one', 'good', 'friend', 'one', 'friend']","['laughter', 'yeah', 'anyway', 'well', 'want', 'tell', 'know', 'one', 'good', 'friend', 'kate', 'one', 'best', 'friend']"
+78,Ses04M_impro03_F017 [175.2500-180.1800]: I'm so excited for you.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+79,That's great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+80,I'm so-,nan,nan,nan,nan,nan,0,nan,[]
+81,"Ses04M_impro03_M021 [177.3200-186.4000]: Yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"
+82,"She was actually -- she was going to tell you but I told her that I wanted to tell you and she had to work today anyway, so I decided to-",5.637142857142857,4.1657142857142855,5.42,neutral,5.074285714285714,7 out of 10,"['go', 'tell', 'tell', 'want', 'tell', 'work', 'decide']","['actually', 'go', 'tell', 'tell', 'want', 'tell', 'work', 'today', 'anyway', 'decide']"
+83,Ses04M_impro03_F018 [185.2800-187.3300]: Well I'm glad you told me.,6.41,3.785,5.970000000000001,positive,5.388333333333333,2 out of 3,"['glad', 'tell']","['well', 'glad', 'tell']"
+84,"Ses04M_impro03_M022 [186.9500-188.7700]: Yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"
+85,Ses04M_impro03_F019 [187.5700-191.5000]: It's fantastic.,8.36,6.4,7.21,positive,7.323333333333333,1 out of 1,['fantastic'],['fantastic']
+86,I -- congratulations.,7.3,6.05,6.68,positive,6.676666666666667,1 out of 1,['congratulation'],['congratulation']
+87,It's amazing.,7.72,6.05,6.83,positive,6.866666666666667,1 out of 1,['amazing'],['amazing']
+88,M: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+89,Ses04M_impro03_M023 [189.4400-200.2371]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+90,I'm really -- I'm really excited.,7.79,6.61,5.79,positive,6.73,1 out of 3,['excite'],"['really', 'really', 'excite']"
+91,"And it's -- I don't know, it's like a little -- it's like a little scary, 'cause I'm like, ah, you know, it's the first time I've ever done anything like this.",6.076666666666667,4.444166666666667,5.5225,positive,5.347777777777778,12 out of 15,"['neg-know', 'like', 'little', 'like', 'little', 'scary', 'like', 'know', 'first', 'time', 'do', 'like']","['know', 'like', 'little', 'like', 'little', 'scary', 'like', 'ah', 'know', 'first', 'time', 'ever', 'do', 'anything', 'like']"
+92,"Ses04M_impro03_M024 [200.2763-217.5000]: But, you know, it's like I really love her and I really just -- I can't imagine spending my life with anybody else but her.",5.971666666666667,4.941666666666666,5.178333333333334,neutral,5.36388888888889,6 out of 11,"['know', 'like', 'love', 'neg-imagine', 'neg-spend', 'life']","['know', 'like', 'really', 'love', 'really', 'ca', 'imagine', 'spend', 'life', 'anybody', 'else']"
+93,"So, you know, it's like I know that's the right thing.",6.79,3.862,6.082,positive,5.578,5 out of 5,"['know', 'like', 'know', 'right', 'thing']","['know', 'like', 'know', 'right', 'thing']"
+94,"And if you have to, you know, if you have to question that, you know, don't- don't do it.",6.666666666666667,3.3833333333333333,5.8133333333333335,positive,5.2877777777777775,3 out of 3,"['know', 'question', 'know']","['know', 'question', 'know']"
+95,So we're going to do it.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+96,"Ses04M_impro03_M025 [217.5292-229.4600]: And it's going to -- the -- you know, I told her that I just -- I want the color brown to be as an integral in the wedding.",6.1899999999999995,4.09,5.4037500000000005,positive,5.227916666666666,8 out of 8,"['go', 'know', 'tell', 'want', 'color', 'brown', 'integral', 'wedding']","['go', 'know', 'tell', 'want', 'color', 'brown', 'integral', 'wedding']"
+97,"And, um, maybe some greens and blues.",6.41,3.88,5.715,positive,5.335,2 out of 4,"['green', 'blue']","['um', 'maybe', 'green', 'blue']"
+98,Ses04M_impro03_F020 [227.1800-229.6500]: And how did she feel about that?,6.27,4.05,5.5,positive,5.273333333333333,1 out of 1,['feel'],['feel']
+99,Ses04M_impro03_M026 [229.4800-230.9400]: She's okay with it.,nan,nan,nan,nan,nan,0,nan,['okay']
+100,Ses04M_impro03_F021 [230.4900-234.7100]: Well that's good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['well', 'good']"
+101,It'll be a great wedding.,7.425,4.73,5.865,positive,6.006666666666668,2 out of 2,"['great', 'wedding']","['great', 'wedding']"
+102,You're willing to compromise on things.,6.0,3.183333333333333,6.093333333333334,neutral,5.092222222222222,3 out of 3,"['willing', 'compromise', 'thing']","['willing', 'compromise', 'thing']"
+103,"Ses04M_impro03_M027 [233.2900-236.6100]: Exactly, exactly, exactly.",nan,nan,nan,nan,nan,0,nan,"['exactly', 'exactly', 'exactly']"
+104,So--,nan,nan,nan,nan,nan,0,nan,[]
+105,Ses04M_impro03_F022 [236.0000-243.0400]: She's going to let you have say in the wedding choices?,6.378,4.168,5.982,positive,5.509333333333333,5 out of 5,"['go', 'let', 'say', 'wedding', 'choice']","['go', 'let', 'say', 'wedding', 'choice']"
+106,That's pretty impressive.,7.375,4.8,6.390000000000001,positive,6.1883333333333335,2 out of 2,"['pretty', 'impressive']","['pretty', 'impressive']"
+107,Very forward-thinking woman.,7.09,3.8,5.93,positive,5.6066666666666665,1 out of 1,['woman'],['woman']
+108,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+109,"Ses04M_impro03_M028 [239.4500-246.6900]: Well, I mean I just told her--Well I just said, you know, hey, these are my suggestions.",5.244,4.104,5.636,neutral,4.994666666666666,5 out of 8,"['mean', 'tell', 'say', 'know', 'suggestion']","['well', 'mean', 'tell', 'well', 'say', 'know', 'hey', 'suggestion']"
+110,Ses04M_impro03_F023 [246.5600-248.2900]: And brown.,5.52,3.32,4.65,neutral,4.496666666666667,1 out of 1,['brown'],['brown']
+111,Ses04M_impro03_M029 [246.7200-252.3800]: All fruit and the color brown.,6.523333333333333,3.53,5.573333333333333,positive,5.208888888888889,3 out of 3,"['fruit', 'color', 'brown']","['fruit', 'color', 'brown']"
+112,Just that.,nan,nan,nan,nan,nan,0,nan,[]
+113,That's all- that's my only request.,5.85,4.45,5.67,neutral,5.323333333333333,1 out of 1,['request'],['request']
+114,"F: All fruit, haha.",7.0,4.09,6.12,positive,5.736666666666667,1 out of 3,['fruit'],"['f', 'fruit', 'haha']"
+115,Ses04M_impro03_F024 [250.6500-254.5500]: This is why men don't plan weddings.,3.2550000000000003,5.41,4.32,negative,4.328333333333334,2 out of 3,"['neg-plan', 'neg-wedding']","['men', 'plan', 'wedding']"
+116,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+117,Ses04M_impro03_M030 [252.6700-259.2400]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+118,Well maybe--maybe you're right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 4,['right'],"['well', 'maybe', 'maybe', 'right']"
+119,Maybe there's something to that.,nan,nan,nan,nan,nan,0,nan,"['maybe', 'something']"
+120,Ses04M_impro03_F025 [255.7200-259.4100]: All fruit and brown.,6.26,3.705,5.385,positive,5.116666666666666,2 out of 2,"['fruit', 'brown']","['fruit', 'brown']"
+121,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+122,"Ses04M_impro03_M031 [259.3139-265.9300]: So, um, anyway, do you want to order now?",5.91,4.24,5.975,neutral,5.375,2 out of 4,"['want', 'order']","['um', 'anyway', 'want', 'order']"
+123,"So, um I mean--",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['um', 'mean']"

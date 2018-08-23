@@ -1,0 +1,83 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses01F_impro06_M000 [011.4600-014.7400]: I'm sorry, Joy.",6.51,5.085,6.325,positive,5.973333333333333,2 out of 2,"['sorry', 'joy']","['sorry', 'joy']"
+2,Ses01F_impro06_F000 [014.7939-018.1700]: It's okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+3,Ses01F_impro06_M001 [018.4900-024.9100]: Is there anything I can get you?,6.09,3.67,5.65,positive,5.136666666666667,1 out of 2,['get'],"['anything', 'get']"
+4,Do you want me to take care of anything for you or...?,6.153333333333333,4.16,5.593333333333333,positive,5.302222222222222,3 out of 4,"['want', 'take', 'care']","['want', 'take', 'care', 'anything']"
+5,"Ses01F_impro06_F001 [024.0200-025.6900]: No, no, no.",nan,nan,nan,nan,nan,0,nan,[]
+6,Ses01F_impro06_M002 [025.1200-026.5600]: ...pick up anything?,5.91,3.62,5.94,neutral,5.156666666666667,1 out of 2,['pick'],"['pick', 'anything']"
+7,Ses01F_impro06_F002 [026.0700-027.6500]: No.,nan,nan,nan,nan,nan,0,nan,[]
+8,Ses01F_impro06_M003 [028.9700-035.0200]: You know you are welcome to stay at my house if you want to just check out for a couple days and hang out.,6.282222222222222,4.021111111111111,5.556666666666667,positive,5.286666666666666,9 out of 9,"['know', 'welcome', 'stay', 'house', 'want', 'check', 'couple', 'day', 'hang']","['know', 'welcome', 'stay', 'house', 'want', 'check', 'couple', 'day', 'hang']"
+9,Ses01F_impro06_F003 [034.4500-035.7800]: That's sweet.,7.77,4.14,6.12,positive,6.010000000000001,1 out of 1,['sweet'],['sweet']
+10,Ses01F_impro06_F004 [036.0700-038.0400]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+11,Ses01F_impro06_F005 [039.6025-046.2900]: I went to see her headstone a week or two ago.,5.322,3.92,5.052,neutral,4.764666666666667,5 out of 6,"['go', 'see', 'headstone', 'week', 'two']","['go', 'see', 'headstone', 'week', 'two', 'ago']"
+12,Ses01F_impro06_F006 [047.3400-059.3800]: I used to go to cemeteries a lot before she died.,4.165,5.0125,4.3575,neutral,4.511666666666667,4 out of 5,"['use', 'go', 'cemetery', 'die']","['use', 'go', 'cemetery', 'lot', 'die']"
+13,"I just, you know, I felt like they were urban oasis, you know, there is always this green in the city.",6.634285714285714,4.198571428571428,5.535714285714286,positive,5.456190476190476,7 out of 9,"['know', 'like', 'urban', 'oasis', 'know', 'green', 'city']","['know', 'felt', 'like', 'urban', 'oasis', 'know', 'always', 'green', 'city']"
+14,Ses01F_impro06_M004 [056.1700-057.4900]: Hmm.,nan,nan,nan,nan,nan,0,nan,['hmm']
+15,Ses01F_impro06_F007 [059.4525-067.4525]: So I was like wandering around before.,6.67,3.9050000000000002,5.665,positive,5.413333333333333,2 out of 3,"['like', 'wander']","['like', 'wander', 'around']"
+16,It takes forever to find her headstone; I always lose it.,4.327500000000001,4.4125,4.765,neutral,4.501666666666666,4 out of 6,"['take', 'find', 'headstone', 'lose']","['take', 'forever', 'find', 'headstone', 'always', 'lose']"
+17,You know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+18,Ses01F_impro06_F008 [070.2200-080.1300]: So I was looking at this other one and there was like a piece of candy there and I thought that I would take the candy and put it on her headstone.,5.836363636363636,4.052727272727273,5.6872727272727275,neutral,5.192121212121212,11 out of 11,"['look', 'one', 'like', 'piece', 'candy', 'think', 'would', 'take', 'candy', 'put', 'headstone']","['look', 'one', 'like', 'piece', 'candy', 'think', 'would', 'take', 'candy', 'put', 'headstone']"
+19,And-,nan,nan,nan,nan,nan,0,nan,[]
+20,F:Umm.,nan,nan,nan,nan,nan,0,nan,"['f', 'umm']"
+21,"Ses01F_impro06_F009 [080.1600-087.7400]: this woman came up and, you know, it was hers.",6.516666666666667,3.5366666666666666,5.883333333333334,positive,5.312222222222222,3 out of 3,"['woman', 'come', 'know']","['woman', 'come', 'know']"
+22,It was her person that was there.,6.1,3.71,6.0,positive,5.27,1 out of 1,['person'],['person']
+23,Ses01F_impro06_M005 [086.9600-088.6300]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+24,She was there?,nan,nan,nan,nan,nan,0,nan,[]
+25,Ses01F_impro06_F010 [087.8300-093.6700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+26,"And she was like, that's pathetic, I hope you enjoy it.",6.425,4.5625,5.88,positive,5.6225,4 out of 4,"['like', 'pathetic', 'hope', 'enjoy']","['like', 'pathetic', 'hope', 'enjoy']"
+27,"Ses01F_impro06_F011 [101.8300-116.9100]: And I, you know, I mean, I said I was sorry and I brought it back to her kind of and I like put it on the ground and she was like, no, it's fine.",5.828333333333333,3.836666666666667,5.901666666666666,neutral,5.188888888888889,12 out of 12,"['know', 'mean', 'say', 'sorry', 'bring', 'back', 'kind', 'like', 'put', 'ground', 'like', 'fine']","['know', 'mean', 'say', 'sorry', 'bring', 'back', 'kind', 'like', 'put', 'ground', 'like', 'fine']"
+28,"She was like, I would rather have her back, honestly.",6.036666666666667,3.6,5.8133333333333335,positive,5.1499999999999995,3 out of 5,"['like', 'would', 'back']","['like', 'would', 'rather', 'back', 'honestly']"
+29,Ses01F_impro06_M006 [107.7800-109.2700]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+30,Ses01F_impro06_F012 [117.0700-126.0400]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+31,"It just, like, I felt so bad because I shouldn't have done it.",5.09,5.196666666666667,4.496666666666667,neutral,4.927777777777778,3 out of 4,"['like', 'bad', 'neg-do']","['like', 'felt', 'bad', 'do']"
+32,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+33,Whatever.,nan,nan,nan,nan,nan,0,nan,['whatever']
+34,Ses01F_impro06_M007 [125.4700-127.1900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+35,Ses01F_impro06_F013 [132.9575-134.4900]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+36,Ses01F_impro06_M008 [134.4000-136.4900]: How long were you there for?,nan,nan,nan,nan,nan,0,nan,['long']
+37,Ses01F_impro06_F014 [135.9600-137.9500]: At the cemetery?,3.49,4.1,3.82,negative,3.8033333333333332,1 out of 1,['cemetery'],['cemetery']
+38,Ses01F_impro06_M009 [137.0900-138.4400]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+39,Ses01F_impro06_F015 [138.0685-141.0500]: couple hours.,6.08,4.165,5.93,positive,5.391666666666667,2 out of 2,"['couple', 'hour']","['couple', 'hour']"
+40,Ses01F_impro06_F016 [141.8400-149.4375]: I brought- I brought Chuck with me.,5.473333333333333,4.176666666666667,5.493333333333333,neutral,5.047777777777777,3 out of 3,"['bring', 'bring', 'chuck']","['bring', 'bring', 'chuck']"
+41,"He went to Redlands, yeah, for the day.",6.34,4.24,5.46,positive,5.346666666666667,2 out of 4,"['go', 'day']","['go', 'redlands', 'yeah', 'day']"
+42,We ran through the sprinklers.,6.135,4.265000000000001,5.91,positive,5.436666666666667,2 out of 2,"['run', 'sprinkler']","['run', 'sprinkler']"
+43,Ses01F_impro06_M010 [144.0900-145.6800]: Oh really?,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+44,Ses01F_impro06_M011 [155.0700-158.3800]: You ran through the sprinklers in the cemetery?,5.253333333333334,4.21,5.213333333333333,neutral,4.892222222222222,3 out of 3,"['run', 'sprinkler', 'cemetery']","['run', 'sprinkler', 'cemetery']"
+45,Ses01F_impro06_F017 [158.0800-163.3500]: It was hot.,5.73,4.76,5.0,neutral,5.163333333333333,1 out of 1,['hot'],['hot']
+46,[LIPSMACK],nan,nan,nan,nan,nan,0,nan,['lipsmack']
+47,Ses01F_impro06_M012 [165.6100-168.1000]: Is it a big cemetery?,4.5649999999999995,4.215,4.715,neutral,4.498333333333333,2 out of 2,"['big', 'cemetery']","['big', 'cemetery']"
+48,Ses01F_impro06_F018 [167.6400-174.8400]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+49,It's huge.,5.72,4.24,4.89,neutral,4.95,1 out of 1,['huge'],['huge']
+50,Redlands is an old city so they have lots and lots of stones.,4.706666666666667,4.2700000000000005,5.506666666666667,neutral,4.827777777777778,3 out of 6,"['old', 'city', 'stone']","['redlands', 'old', 'city', 'lot', 'lot', 'stone']"
+51,"Ses01F_impro06_M013 [174.3900-177.1500]: Oh, so they're like really old too, really old ones?",4.9775,4.0075,5.07,neutral,4.685,4 out of 7,"['like', 'old', 'old', 'one']","['oh', 'like', 'really', 'old', 'really', 'old', 'one']"
+52,Ses01F_impro06_F019 [176.3500-178.0100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+53,Ses01F_impro06_F020 [182.5600-197.7300]: It's weird.,5.09,4.29,4.75,neutral,4.71,1 out of 1,['weird'],['weird']
+54,"Whenever I go back to town, I think of her.",5.8375,3.7525,5.63,neutral,5.073333333333333,4 out of 5,"['go', 'back', 'town', 'think']","['whenever', 'go', 'back', 'town', 'think']"
+55,"I mean, it's like ...",4.9350000000000005,4.605,5.225,neutral,4.921666666666667,2 out of 2,"['mean', 'like']","['mean', 'like']"
+56,I mean we grew up together and she died when we were twenty one.,4.5440000000000005,4.13,4.7299999999999995,neutral,4.468,5 out of 6,"['mean', 'grow', 'die', 'twenty', 'one']","['mean', 'grow', 'together', 'die', 'twenty', 'one']"
+57,And yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+58,"She had cancer, she had two brain tumors.",4.1175,4.2875,4.1825,neutral,4.195833333333333,4 out of 4,"['cancer', 'two', 'brain', 'tumor']","['cancer', 'two', 'brain', 'tumor']"
+59,Ses01F_impro06_F021 [197.7550-214.3400]: My best friend Heather.,6.79,4.29,6.31,positive,5.796666666666667,1 out of 3,['friend'],"['best', 'friend', 'heather']"
+60,"She's got a- we have a- we built this like little--  There's a park, Prospect Park.",6.507142857142857,3.532857142857143,5.75,positive,5.263333333333333,7 out of 7,"['get', 'build', 'like', 'little', 'park', 'prospect', 'park']","['get', 'build', 'like', 'little', 'park', 'prospect', 'park']"
+61,And there is like a garden section of it that we set up for her.,6.2425,3.74,6.055,positive,5.345833333333334,4 out of 4,"['like', 'garden', 'section', 'set']","['like', 'garden', 'section', 'set']"
+62,Ses01F_impro06_F022 [217.5000-222.4100]: She used to have these poetry parties on Memorial Day.,6.118,4.146,5.516,positive,5.26,5 out of 5,"['use', 'poetry', 'party', 'memorial', 'day']","['use', 'poetry', 'party', 'memorial', 'day']"
+63,Ses01F_impro06_M014 [219.7300-221.0300]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+64,Ses01F_impro06_F023 [223.5200-227.5500]: Umm.,nan,nan,nan,nan,nan,0,nan,['umm']
+65,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+66,"Ses01F_impro06_F024 [229.0800-235.9800]: And the last time before she died, I remember she couldn't really stand, umm...",4.625,5.0875,4.515,neutral,4.7425,4 out of 8,"['time', 'die', 'remember', 'neg-stand']","['last', 'time', 'die', 'remember', 'could', 'really', 'stand', 'umm']"
+67,"Ses01F_impro06_F025 [237.5300-256.4800]: But I mean she could, but it was- so it was kind of sitting at her feet holding her up and she had these poems she had memorized.",5.582857142857143,3.8385714285714285,5.921428571428572,neutral,5.114285714285714,7 out of 8,"['mean', 'kind', 'sit', 'foot', 'hold', 'poem', 'memorize']","['mean', 'could', 'kind', 'sit', 'foot', 'hold', 'poem', 'memorize']"
+68,"And I remember looking up, she had curly red hair and there was this palm tree right behind her and it was like a crown growing right out of her head.",6.513333333333334,3.9116666666666666,6.0675,positive,5.4975,12 out of 14,"['remember', 'look', 'red', 'hair', 'palm', 'tree', 'right', 'like', 'crown', 'grow', 'right', 'head']","['remember', 'look', 'curly', 'red', 'hair', 'palm', 'tree', 'right', 'behind', 'like', 'crown', 'grow', 'right', 'head']"
+69,It was cool.,6.82,3.43,6.44,positive,5.5633333333333335,1 out of 1,['cool'],['cool']
+70,Ses01F_impro06_M015 [255.3500-257.3100]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+71,"Ses01F_impro06_F026 [266.5500-275.3100]: Some, I guess.",5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+72,"She memorized this one, John Dunn, it's called, Death Be Not Proud.",4.572,3.968,4.63,neutral,4.39,5 out of 7,"['memorize', 'one', 'call', 'death', 'neg-proud']","['memorize', 'one', 'john', 'dunn', 'call', 'death', 'proud']"
+73,and-,nan,nan,nan,nan,nan,0,nan,[]
+74,F:Mmhmm.,nan,nan,nan,nan,nan,0,nan,"['f', 'mmhmm']"
+75,Ses01F_impro06_M016 [262.9900-266.1750]: So she wrote a lot of poetry?,6.300000000000001,3.7,5.555,positive,5.185,2 out of 3,"['write', 'poetry']","['write', 'lot', 'poetry']"
+76,"Ses01F_impro06_F027 [275.3800-281.6000]: There's another one, I can't remember.",4.795,4.765,4.625,neutral,4.728333333333333,2 out of 4,"['one', 'neg-remember']","['another', 'one', 'ca', 'remember']"
+77,"Ses01F_impro06_F028 [282.0100-311.1400]: I remember, too, when we were--  she died at U.C.L.A.",4.085,5.0200000000000005,4.795,neutral,4.633333333333334,2 out of 2,"['remember', 'die']","['remember', 'die']"
+78,"She had brain surgery and there was not much hope to begin with, but I gave blood for her surgery, her mom and I before, so we dropped her off in the waiting room and then we were giving blood and came back.",5.088666666666667,4.322666666666667,4.948666666666667,neutral,4.786666666666666,15 out of 16,"['brain', 'surgery', 'neg-hope', 'begin', 'give', 'blood', 'surgery', 'mom', 'drop', 'wait', 'room', 'give', 'blood', 'come', 'back']","['brain', 'surgery', 'much', 'hope', 'begin', 'give', 'blood', 'surgery', 'mom', 'drop', 'wait', 'room', 'give', 'blood', 'come', 'back']"
+79,"And she, in her wheelchair, like can hardly do anything, reciting her poetry for these people like in the waiting room.",5.74,3.73875,5.51,neutral,4.99625,8 out of 10,"['wheelchair', 'like', 'recite', 'poetry', 'people', 'like', 'wait', 'room']","['wheelchair', 'like', 'hardly', 'anything', 'recite', 'poetry', 'people', 'like', 'wait', 'room']"
+80,All she needs is a God damn audience.,5.390000000000001,4.81,4.8975,neutral,5.0325,4 out of 4,"['need', 'god', 'damn', 'audience']","['need', 'god', 'damn', 'audience']"
+81,You know?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+82,Ses01F_impro06_M017 [308.2400-310.0100]: Mmhmm.Mmhmm.Mmhmm.,nan,nan,nan,nan,nan,0,nan,[]

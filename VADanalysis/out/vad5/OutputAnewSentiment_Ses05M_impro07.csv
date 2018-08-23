@@ -1,0 +1,164 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses05M_impro07_M000 [004.1200-006.4700]: Guess what?,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+2,Ses05M_impro07_F000 [005.4800-006.7000]: What?,nan,nan,nan,nan,nan,0,nan,[]
+3,Ses05M_impro07_M001 [006.4900-009.0600]: I got it.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+4,I got accepted to U.S.C..,6.24,3.235,5.795,positive,5.09,2 out of 2,"['get', 'accept']","['get', 'accept']"
+5,"Ses05M_impro07_F001 [008.3300-009.6900]: Oh, for real?",7.09,4.05,5.89,positive,5.676666666666667,1 out of 2,['real'],"['oh', 'real']"
+6,Ses05M_impro07_M002 [009.0700-012.1151]: Yes!,nan,nan,nan,nan,nan,0,nan,['yes']
+7,I just found out today.,6.45,3.52,6.24,positive,5.403333333333333,1 out of 2,['find'],"['find', 'today']"
+8,I just got the letter.,5.885,3.4299999999999997,5.8100000000000005,neutral,5.041666666666667,2 out of 2,"['get', 'letter']","['get', 'letter']"
+9,Ses05M_impro07_F002 [009.7000-011.2200]: That's awesome!,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+10,"Ses05M_impro07_F003 [011.3500-013.6000]: oh,I'm so glad.",7.55,3.71,7.0,positive,6.086666666666666,1 out of 2,['glad'],"['oh', 'glad']"
+11,Ses05M_impro07_M003 [012.1251-014.4800]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+12,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+13,I'm so excited.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+14,Ses05M_impro07_F004 [013.9900-015.7900]: What are you gonna study?,5.78,2.55,5.33,neutral,4.553333333333334,1 out of 3,['study'],"['gon', 'na', 'study']"
+15,"Ses05M_impro07_M004 [014.8100-018.1700]: oh, Theater.",6.14,3.73,5.54,positive,5.136666666666667,1 out of 2,['theater'],"['oh', 'theater']"
+16,"yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"
+17,Ses05M_impro07_F005 [016.3800-018.9800]: Really?,nan,nan,nan,nan,nan,0,nan,['really']
+18,Are you doing the M.F.A.,nan,nan,nan,nan,nan,0,nan,[]
+19,program?,5.5,3.9,6.53,neutral,5.31,1 out of 1,['program'],['program']
+20,Ses05M_impro07_M005 [018.3300-019.6900]: yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+21,"Ses05M_impro07_F006 [018.9900-020.8200]: Oh, my gosh.",nan,nan,nan,nan,nan,0,nan,"['oh', 'gosh']"
+22,Ses05M_impro07_M006 [019.8000-020.9300]: oh-,nan,nan,nan,nan,nan,0,nan,['oh']
+23,Ses05M_impro07_F007 [020.8300-023.4200]: I heard it's so tough to get into.,5.74,3.8433333333333333,6.12,neutral,5.234444444444445,3 out of 3,"['hear', 'tough', 'get']","['hear', 'tough', 'get']"
+24,Ses05M_impro07_M007 [020.9400-022.5300]: It's exactly what I wanted.,6.0,5.29,5.39,neutral,5.56,1 out of 2,['want'],"['exactly', 'want']"
+25,"Ses05M_impro07_M008 [022.5700-027.5700]: Oh, of course.",nan,nan,nan,nan,nan,0,nan,"['oh', 'course']"
+26,No.,nan,nan,nan,nan,nan,0,nan,[]
+27,I didn't know it was that tough.,3.815,5.5,5.109999999999999,negative,4.808333333333333,2 out of 2,"['neg-know', 'tough']","['know', 'tough']"
+28,I'm just happy that I made it.,7.28,4.859999999999999,6.715,positive,6.285,2 out of 2,"['happy', 'make']","['happy', 'make']"
+29,Ses05M_impro07_F008 [026.5900-028.3300]: That's awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+30,"Ses05M_impro07_M009 [027.9100-033.1200]: I worked really hard, I'll say, I worked really hard.",4.942,4.418,5.808,neutral,5.056,5 out of 7,"['work', 'hard', 'say', 'work', 'hard']","['work', 'really', 'hard', 'say', 'work', 'really', 'hard']"
+31,"You know, I I'm not bragging or anything like that.",6.736666666666667,4.713333333333334,5.58,positive,5.676666666666667,3 out of 4,"['know', 'neg-brag', 'like']","['know', 'brag', 'anything', 'like']"
+32,But-,nan,nan,nan,nan,nan,0,nan,[]
+33,"Ses05M_impro07_F009 [029.3000-031.2600]: Yeah, that's awesome.",7.86,6.05,7.11,positive,7.006666666666667,1 out of 2,['awesome'],"['yeah', 'awesome']"
+34,Ses05M_impro07_F010 [032.1000-033.3300]: No.,nan,nan,nan,nan,nan,0,nan,[]
+35,"Ses05M_impro07_M010 [033.1300-038.8600]: No, No, I'm really looking forward to it.",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 3,['look'],"['really', 'look', 'forward']"
+36,"You know how long -- I have been talking about this forever, right?",6.926666666666667,3.8733333333333335,6.46,positive,5.753333333333334,3 out of 5,"['know', 'talk', 'right']","['know', 'long', 'talk', 'forever', 'right']"
+37,right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+38,Ses05M_impro07_F011 [037.6200-041.0500]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+39,"Yes, seriously, for years.",5.75,3.33,5.81,neutral,4.963333333333334,1 out of 3,['year'],"['yes', 'seriously', 'year']"
+40,Ses05M_impro07_M011 [040.5100-047.0800]: Finally.,nan,nan,nan,nan,nan,0,nan,['finally']
+41,I'm so excited.,8.11,6.43,7.33,positive,7.289999999999999,1 out of 1,['excited'],['excited']
+42,"We're gonna -- well, I'll be here.",nan,nan,nan,nan,nan,0,nan,"['gon', 'na', 'well']"
+43,We're still gonna be able to see each other.,6.455,3.6399999999999997,6.085,positive,5.3933333333333335,2 out of 5,"['able', 'see']","['still', 'gon', 'na', 'able', 'see']"
+44,Ses05M_impro07_F012 [045.3500-050.1800]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+45,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+46,I'm- I'm definitely -- I realize [LAUGHTER].,7.245000000000001,4.3149999999999995,6.98,positive,6.18,2 out of 3,"['realize', 'laughter']","['definitely', 'realize', 'laughter']"
+47,"Ses05M_impro07_M012 [047.1300-049.2400]: We're gonna hang out, right?",5.21,4.93,5.885,neutral,5.341666666666666,2 out of 4,"['hang', 'right']","['gon', 'na', 'hang', 'right']"
+48,"Ses05M_impro07_M013 [049.6700-051.7100]: What are you, wait, what are you doing?",4.55,3.62,5.31,neutral,4.493333333333333,1 out of 1,['wait'],['wait']
+49,"Ses05M_impro07_F013 [051.2900-055.9000]: Um- I'm gonna be studying at U.S.C., too.",5.78,2.55,5.33,neutral,4.553333333333334,1 out of 4,['study'],"['um', 'gon', 'na', 'study']"
+50,Ses05M_impro07_M014 [054.3300-058.0600]: Perfect!,7.19,4.71,6.53,positive,6.1433333333333335,1 out of 1,['perfect'],['perfect']
+51,"Oh, my God.",5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+52,"Are you staying, are you going to live on campus?",6.7125,4.22,5.6875,positive,5.54,4 out of 4,"['stay', 'go', 'live', 'campus']","['stay', 'go', 'live', 'campus']"
+53,"Ses05M_impro07_F014 [057.6600-063.5900]: Not on campus, but um- I probably won't live too far.",2.8049999999999997,5.5600000000000005,4.145,negative,4.17,2 out of 6,"['neg-campus', 'neg-live']","['campus', 'um', 'probably', 'wo', 'live', 'far']"
+54,"Maybe, I don't know, I might go to Silver Lake or something.",6.0275,4.565,5.49,positive,5.360833333333335,4 out of 7,"['neg-know', 'go', 'silver', 'lake']","['maybe', 'know', 'might', 'go', 'silver', 'lake', 'something']"
+55,Ses05M_impro07_M015 [062.7600-064.3900]: We are gonna party all the time.,6.39,4.745,5.140000000000001,positive,5.425,2 out of 4,"['party', 'time']","['gon', 'na', 'party', 'time']"
+56,Ses05M_impro07_F015 [063.9800-066.8800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+57,Totally- Well where are you going to live?,7.135,4.785,5.915,positive,5.945,2 out of 4,"['go', 'live']","['totally', 'well', 'go', 'live']"
+58,Ses05M_impro07_M016 [064.4000-066.0900]: We are gonna have a great time.,6.55,3.775,5.505000000000001,positive,5.276666666666666,2 out of 4,"['great', 'time']","['gon', 'na', 'great', 'time']"
+59,Ses05M_impro07_M017 [066.1100-071.1000]: [garbage] I'm going to live on campus.,5.8975,4.395,5.5475,neutral,5.28,4 out of 4,"['garbage', 'go', 'live', 'campus']","['garbage', 'go', 'live', 'campus']"
+60,"I mean, well, around campus, anyway.",4.4350000000000005,4.49,4.6899999999999995,neutral,4.538333333333333,2 out of 5,"['mean', 'campus']","['mean', 'well', 'around', 'campus', 'anyway']"
+61,"Yeah, housing around campus.",6.145,3.45,5.665,positive,5.086666666666666,2 out of 4,"['housing', 'campus']","['yeah', 'housing', 'around', 'campus']"
+62,Ses05M_impro07_F016 [067.6700-068.9500]: Oh yeah.,nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah']"
+63,Ses05M_impro07_F017 [070.4300-071.8400]: Good tradeoff,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['good', 'tradeoff']"
+64,"Ses05M_impro07_M018 [071.1200-076.1300]: I just want to be really close to things, you know.",5.9,3.9425,5.63,neutral,5.1575,4 out of 5,"['want', 'close', 'thing', 'know']","['want', 'really', 'close', 'thing', 'know']"
+65,I know it's not exactly the best neighborhood in the entire world.,6.26,3.6725,5.7275,positive,5.22,4 out of 6,"['know', 'neighborhood', 'entire', 'world']","['know', 'exactly', 'best', 'neighborhood', 'entire', 'world']"
+66,But uh-,nan,nan,nan,nan,nan,0,nan,['uh']
+67,Ses05M_impro07_F018 [075.7300-077.8400]: I don't- I don't think it's that bad.,3.2800000000000002,5.555,3.5300000000000002,negative,4.121666666666667,2 out of 2,"['neg-think', 'bad']","['think', 'bad']"
+68,"Ses05M_impro07_M019 [076.9900-083.4600]: I don't- you know ,I feel the same way, you know what I mean.",4.922,4.352,4.9,neutral,4.724666666666667,5 out of 5,"['neg-know', 'feel', 'way', 'know', 'mean']","['know', 'feel', 'way', 'know', 'mean']"
+69,"And everybody says a lot of other crap you know, they don't know what they are talking about anyway.",5.198,4.486,5.486,neutral,5.0566666666666675,5 out of 8,"['say', 'crap', 'know', 'neg-know', 'talk']","['everybody', 'say', 'lot', 'crap', 'know', 'know', 'talk', 'anyway']"
+70,Ses05M_impro07_F019 [083.1200-084.1900]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+71,Ses05M_impro07_M020 [083.4800-086.1000]: They don't live here.,2.05,5.29,3.5,negative,3.6133333333333333,1 out of 1,['neg-live'],['live']
+72,"They don't know, right?",2.9299999999999997,5.88,3.53,negative,4.113333333333332,2 out of 2,"['neg-know', 'neg-right']","['know', 'right']"
+73,Ses05M_impro07_F020 [085.0200-093.7100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+74,"I think it's really also if you- if you consider yourself like, us and them, kind of thing- If you think you're part of your community then --you going to like it more",6.531,3.765,6.23,positive,5.508666666666667,10 out of 13,"['think', 'consider', 'like', 'kind', 'thing', 'think', 'part', 'community', 'go', 'like']","['think', 'really', 'also', 'consider', 'like', 'us', 'kind', 'thing', 'think', 'part', 'community', 'go', 'like']"
+75,Ses05M_impro07_M021 [089.6200-091.0700]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+76,Ses05M_impro07_M022 [092.3800-099.5000]: Exactly.,nan,nan,nan,nan,nan,0,nan,['exactly']
+77,You make it what you make it.,6.09,3.67,6.22,positive,5.326666666666667,2 out of 2,"['make', 'make']","['make', 'make']"
+78,You know?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+79,Right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+80,And I'm gonna make it so freaking awesome.,5.8933333333333335,5.34,6.1466666666666665,neutral,5.793333333333334,3 out of 5,"['make', 'freak', 'awesome']","['gon', 'na', 'make', 'freak', 'awesome']"
+81,"Ses05M_impro07_F021 [093.8500-095.7400]: Right, Exactly.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['right', 'exactly']"
+82,Ses05M_impro07_F022 [097.6700-100.5300]: Oh I'm so glad.,7.55,3.71,7.0,positive,6.086666666666666,1 out of 2,['glad'],"['oh', 'glad']"
+83,Ses05M_impro07_M023 [099.7600-101.1900]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+84,"Ses05M_impro07_F023 [100.5600-103.2400]: So when do you know, like, where you're gonna live?",7.403333333333333,4.116666666666667,6.1866666666666665,positive,5.902222222222222,3 out of 5,"['know', 'like', 'live']","['know', 'like', 'gon', 'na', 'live']"
+85,and-,nan,nan,nan,nan,nan,0,nan,[]
+86,"Ses05M_impro07_M024 [102.0000-104.3200]: Well, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['well', 'know']"
+87,I've got to go look for a place.,6.055,3.9525,5.8475,positive,5.285,4 out of 4,"['get', 'go', 'look', 'place']","['get', 'go', 'look', 'place']"
+88,"Ses05M_impro07_F024 [103.8200-105.2400]: Oh, wow.",nan,nan,nan,nan,nan,0,nan,"['oh', 'wow']"
+89,"Ses05M_impro07_M025 [104.3900-110.2900]: Yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"
+90,I- I don't- I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+91,Do you have any suggestions?,5.79,4.18,6.41,neutral,5.46,1 out of 1,['suggestion'],['suggestion']
+92,Ses05M_impro07_F025 [109.4600-111.1900]: Um-,nan,nan,nan,nan,nan,0,nan,['um']
+93,Ses05M_impro07_M026 [110.7800-113.2000]: You know the area better than I do.,6.1899999999999995,2.715,5.42,positive,4.7749999999999995,2 out of 3,"['know', 'area']","['know', 'area', 'better']"
+94,Ses05M_impro07_F026 [112.2900-117.1100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+95,"I mean, I know, I know, like the- the housing surrounding the campus pretty well.",6.115,3.92625,5.55875,positive,5.2,8 out of 9,"['mean', 'know', 'know', 'like', 'housing', 'surround', 'campus', 'pretty']","['mean', 'know', 'know', 'like', 'housing', 'surround', 'campus', 'pretty', 'well']"
+96,"Ses05M_impro07_M027 [116.0700-117.6800]: yeah, yeah?",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah']"
+97,Ses05M_impro07_F027 [117.1700-120.0700]: Um- How many people do you want to live with?,6.55,4.59,5.763333333333334,positive,5.634444444444445,3 out of 5,"['people', 'want', 'live']","['um', 'many', 'people', 'want', 'live']"
+98,Ses05M_impro07_M028 [119.6400-124.5000]: Not a lot.,nan,nan,nan,nan,nan,0,nan,['lot']
+99,"I mean, I wouldn't want to live with more than three other people.",4.253333333333333,4.295,4.845000000000001,neutral,4.464444444444444,6 out of 6,"['mean', 'would', 'neg-want', 'neg-live', 'three', 'people']","['mean', 'would', 'want', 'live', 'three', 'people']"
+100,"So, like four of us total, right?",6.335,4.26,6.495,positive,5.696666666666666,4 out of 5,"['like', 'four', 'total', 'right']","['like', 'four', 'us', 'total', 'right']"
+101,Ses05M_impro07_F028 [124.1700-125.4900]: All dudes?,5.91,3.81,5.59,neutral,5.1033333333333335,1 out of 1,['dude'],['dude']
+102,Ses05M_impro07_M029 [124.9800-126.9900]: I don't care.,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+103,I don't care.,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+104,Ses05M_impro07_F029 [126.5900-129.7200]: Um- I think I have some friends.,6.734999999999999,4.02,6.404999999999999,positive,5.719999999999999,2 out of 3,"['think', 'friend']","['um', 'think', 'friend']"
+105,Ses05M_impro07_M030 [129.1500-130.2400]: yeah?,nan,nan,nan,nan,nan,0,nan,['yeah']
+106,Ses05M_impro07_F030 [129.8400-130.7300]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+107,Ses05M_impro07_M031 [130.3300-132.5300]: That would be perfect.,6.550000000000001,4.26,6.235,positive,5.6816666666666675,2 out of 2,"['would', 'perfect']","['would', 'perfect']"
+108,"Ses05M_impro07_F031 [131.9200-140.1300]: There's actually, a friend of mine is um- moving out of her place and her place is amazing-- And it's really cheap.",6.07,4.348333333333334,6.201666666666666,positive,5.539999999999999,6 out of 10,"['friend', 'move', 'place', 'place', 'amazing', 'cheap']","['actually', 'friend', 'mine', 'um', 'move', 'place', 'place', 'amazing', 'really', 'cheap']"
+109,Ses05M_impro07_M032 [138.1400-139.4700]: Really?,nan,nan,nan,nan,nan,0,nan,['really']
+110,Ses05M_impro07_M033 [139.7400-140.7600]: Really?,nan,nan,nan,nan,nan,0,nan,['really']
+111,Ses05M_impro07_F032 [140.3800-141.4600]: yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+112,Ses05M_impro07_M034 [140.8300-144.6400]: Cheap is exactly what I need- Because I have no money at all.,4.53,3.76,4.876666666666666,neutral,4.388888888888888,3 out of 4,"['cheap', 'need', 'neg-money']","['cheap', 'exactly', 'need', 'money']"
+113,Ses05M_impro07_FXX1 [142.4182-142.9171]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+114,Ses05M_impro07_F033 [143.8800-145.2100]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+115,"Ses05M_impro07_M035 [144.6500-145.7800]: But, uh--",nan,nan,nan,nan,nan,0,nan,['uh']
+116,Ses05M_impro07_F034 [145.2500-148.3700]: How are you going to pay for school?,5.986666666666667,4.556666666666667,5.846666666666667,neutral,5.463333333333334,3 out of 3,"['go', 'pay', 'school']","['go', 'pay', 'school']"
+117,Did- did you--?,nan,nan,nan,nan,nan,0,nan,[]
+118,"Ses05M_impro07_M036 [147.1600-154.8300]: Loans, scholarships, I've got a lot of scholarships-- Yeah, yeah.",5.95,4.6425,5.3950000000000005,neutral,5.329166666666667,4 out of 7,"['loan', 'scholarship', 'get', 'scholarship']","['loan', 'scholarship', 'get', 'lot', 'scholarship', 'yeah', 'yeah']"
+119,"I'm- I'm half Native American so I get all those scholarships, too.",6.233333333333333,4.173333333333333,5.926666666666667,positive,5.444444444444444,3 out of 5,"['native', 'get', 'scholarship']","['half', 'native', 'american', 'get', 'scholarship']"
+120,yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+121,"Ses05M_impro07_F035 [148.5700-150.9100]: You've got a lot- oh, awesome.",6.975,4.859999999999999,6.380000000000001,positive,6.071666666666666,2 out of 4,"['get', 'awesome']","['get', 'lot', 'oh', 'awesome']"
+122,Ses05M_impro07_F036 [153.3400-154.9900]: Oh cool.,6.82,3.43,6.44,positive,5.5633333333333335,1 out of 2,['cool'],"['oh', 'cool']"
+123,Ses05M_impro07_M037 [154.8326-159.2100]: So it comes Indian like.,6.54,3.9850000000000003,6.11,positive,5.545000000000001,2 out of 3,"['come', 'like']","['come', 'indian', 'like']"
+124,"And you know I'm kind of smart, so.",7.443333333333333,3.4133333333333336,6.736666666666666,positive,5.864444444444445,3 out of 3,"['know', 'kind', 'smart']","['know', 'kind', 'smart']"
+125,Ses05M_impro07_F037 [158.8000-160.0000]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+126,"Ses05M_impro07_M038 [159.7200-163.9900]: That helps, right?",7.135,4.645,7.025,positive,6.2683333333333335,2 out of 2,"['help', 'right']","['help', 'right']"
+127,Get some academic scholarships.,6.486666666666666,4.263333333333334,5.98,positive,5.576666666666667,3 out of 3,"['get', 'academic', 'scholarship']","['get', 'academic', 'scholarship']"
+128,And uh-,nan,nan,nan,nan,nan,0,nan,['uh']
+129,Ses05M_impro07_F038 [161.1600-162.5700]: totally.,nan,nan,nan,nan,nan,0,nan,['totally']
+130,Ses05M_impro07_F039 [162.6200-164.0700]: good for you.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+131,"Ses05M_impro07_M039 [164.0100-172.3900]: And yeah, well, I mean, basically I just applied for any and every possible scholarship and grant that could come by, so I can go.",5.575,4.331666666666667,5.62,neutral,5.1755555555555555,6 out of 12,"['mean', 'apply', 'possible', 'scholarship', 'come', 'go']","['yeah', 'well', 'mean', 'basically', 'apply', 'every', 'possible', 'scholarship', 'grant', 'could', 'come', 'go']"
+132,Ses05M_impro07_F040 [171.1600-172.6900]: the way to do it.,5.91,2.9,4.83,neutral,4.546666666666667,1 out of 1,['way'],['way']
+133,"Ses05M_impro07_M040 [172.4300-179.9000]: Yeah, yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'yeah', 'yeah']"
+134,And it's gonna work out.,5.05,4.33,6.12,neutral,5.166666666666667,1 out of 3,['work'],"['gon', 'na', 'work']"
+135,"I'm gonna be able to pay for it, I'm gonna go, I mean, I'll have a little debt in the end.",4.887142857142857,4.481428571428571,5.042857142857143,neutral,4.803809523809524,7 out of 11,"['able', 'pay', 'go', 'mean', 'little', 'debt', 'end']","['gon', 'na', 'able', 'pay', 'gon', 'na', 'go', 'mean', 'little', 'debt', 'end']"
+136,But I don't care.,2.3600000000000003,7.33,3.4400000000000004,negative,4.376666666666668,1 out of 1,['neg-care'],['care']
+137,"Ses05M_impro07_F041 [173.6400-175.8500]: Wow, are you so excited?",8.11,6.43,7.33,positive,7.289999999999999,1 out of 2,['excited'],"['wow', 'excited']"
+138,Ses05M_impro07_FXX2 [179.0688-179.7402]: Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+139,Ses05M_impro07_M041 [179.9100-184.0100]: It's just you know a dream come true.,6.85,4.04,6.03,positive,5.640000000000001,4 out of 4,"['know', 'dream', 'come', 'true']","['know', 'dream', 'come', 'true']"
+140,How could you not be excited about a dream come true?,5.6975,4.0775,5.6375,neutral,5.137499999999999,4 out of 5,"['neg-excite', 'dream', 'come', 'true']","['could', 'excite', 'dream', 'come', 'true']"
+141,"Ses05M_impro07_F042 [183.4500-188.4300]: You're gonna be so busy, too.",5.41,4.52,4.44,neutral,4.79,1 out of 3,['busy'],"['gon', 'na', 'busy']"
+142,You're going to have to work so hard.,5.24,4.5633333333333335,5.47,neutral,5.091111111111111,3 out of 3,"['go', 'work', 'hard']","['go', 'work', 'hard']"
+143,"Ses05M_impro07_M042 [185.5500-187.4900]: Oh I know, I know.",6.82,3.24,5.78,positive,5.28,2 out of 3,"['know', 'know']","['oh', 'know', 'know']"
+144,Ses05M_impro07_M043 [187.5600-192.3900]: But I'm so looking forward to being so busy.,5.68,4.14,5.16,neutral,4.993333333333333,2 out of 3,"['look', 'busy']","['look', 'forward', 'busy']"
+145,You know what I mean?,4.625,4.025,4.975,neutral,4.541666666666667,2 out of 2,"['know', 'mean']","['know', 'mean']"
+146,"It's the kind of busy you've got to love, right?",6.92,4.348,6.158,positive,5.808666666666667,5 out of 5,"['kind', 'busy', 'get', 'love', 'right']","['kind', 'busy', 'get', 'love', 'right']"
+147,Ses05M_impro07_FXX3 [189.4691-190.5432]: Oh good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['oh', 'good']"
+148,Ses05M_impro07_F043 [191.8400-193.3900]: Oh totally.,nan,nan,nan,nan,nan,0,nan,"['oh', 'totally']"
+149,Ses05M_impro07_M044 [192.4400-198.0700]: Because you're doing something you love.,8.0,5.36,5.92,positive,6.426666666666667,1 out of 2,['love'],"['something', 'love']"
+150,That's the kind of busy you want.,6.3966666666666665,4.333333333333333,5.816666666666666,positive,5.515555555555555,3 out of 3,"['kind', 'busy', 'want']","['kind', 'busy', 'want']"
+151,I want to be able to do that for the rest of my life.,6.795,4.1375,5.8075,positive,5.580000000000001,4 out of 4,"['want', 'able', 'rest', 'life']","['want', 'able', 'rest', 'life']"
+152,Be that kind of busy.,6.595000000000001,3.8549999999999995,6.03,positive,5.493333333333333,2 out of 2,"['kind', 'busy']","['kind', 'busy']"
+153,Ses05M_impro07_F044 [197.6100-201.4300]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+154,Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+155,So exciting.,7.95,6.95,7.21,positive,7.37,1 out of 1,['exciting'],['exciting']
+156,Ses05M_impro07_M045 [200.4800-205.3900]: I had to tell you right away.,6.295,4.43,6.050000000000001,positive,5.591666666666666,2 out of 3,"['tell', 'right']","['tell', 'right', 'away']"
+157,I knew you'd be excited.,7.305,4.925000000000001,5.785,positive,6.005,2 out of 2,"['know', 'excite']","['know', 'excite']"
+158,Ses05M_impro07_M046 [205.6300-207.0500]: We'll have fun.,8.37,6.32,7.04,positive,7.243333333333333,1 out of 1,['fun'],['fun']
+159,Ses05M_impro07_F045 [206.7100-209.2800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+160,We'll have so much fun.,8.37,6.32,7.04,positive,7.243333333333333,1 out of 2,['fun'],"['much', 'fun']"
+161,Ses05M_impro07_M047 [208.6000-212.1100]: Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+162,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+163,Ses05M_impro07_F046 [211.6700-213.3300]: cool,6.82,3.43,6.44,positive,5.5633333333333335,1 out of 1,['cool'],['cool']

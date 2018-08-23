@@ -1,0 +1,179 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses04F_script02_2_M000 [008.4000-011.3500]: Well, so what do you think?",6.68,3.75,6.5,positive,5.6433333333333335,1 out of 2,['think'],"['well', 'think']"
+2,Ses04F_script02_2_F000 [010.9400-012.1900]: About what?,nan,nan,nan,nan,nan,0,nan,[]
+3,Ses04F_script02_2_M001 [011.8900-013.4100]: What I said.,5.91,4.43,6.88,neutral,5.739999999999999,1 out of 1,['say'],['say']
+4,Ses04F_script02_2_F001 [012.7500-014.9800]: It's ridiculous.,3.67,5.65,3.78,negative,4.366666666666666,1 out of 1,['ridiculous'],['ridiculous']
+5,Ses04F_script02_2_M002 [014.3700-018.7700]: It certainly is not.,nan,nan,nan,nan,nan,0,nan,['certainly']
+6,It's slightly exaggerated scientific fact.,6.09,3.755,6.0600000000000005,positive,5.301666666666667,2 out of 4,"['scientific', 'fact']","['slightly', 'exaggerated', 'scientific', 'fact']"
+7,Ses04F_script02_2_F002 [018.3900-025.7200]: It's PR.,nan,nan,nan,nan,nan,0,nan,['pr']
+8,Somebody sold you a bill of goods that this wonderful event is going to take place on the beach.,6.017777777777778,4.391111111111111,5.652222222222222,positive,5.353703703703704,9 out of 10,"['sell', 'bill', 'good', 'wonderful', 'event', 'go', 'take', 'place', 'beach']","['somebody', 'sell', 'bill', 'good', 'wonderful', 'event', 'go', 'take', 'place', 'beach']"
+9,Ses04F_script02_2_M003 [025.9200-029.0200]: I'm not the only one.,3.91,7.33,4.44,negative,5.226666666666667,1 out of 1,['neg-one'],['one']
+10,Look at these people.,5.825,3.7649999999999997,5.640000000000001,neutral,5.076666666666667,2 out of 2,"['look', 'people']","['look', 'people']"
+11,Ses04F_script02_2_F003 [028.4900-041.1495]: Well sure everybody's told the same story.,6.393333333333333,3.62,5.696666666666667,positive,5.236666666666666,3 out of 5,"['sure', 'tell', 'story']","['well', 'sure', 'everybody', 'tell', 'story']"
+12,It keeps us all coming back for more.,5.573333333333333,3.1966666666666668,5.623333333333333,neutral,4.797777777777777,3 out of 4,"['keep', 'come', 'back']","['keep', 'us', 'come', 'back']"
+13,"It keeps us all excited, keeps us thinking that life is going to start any minute now if we can just find the right spot and get in on the action.",6.384615384615385,4.428461538461539,5.742307692307692,positive,5.51846153846154,13 out of 15,"['keep', 'excite', 'keep', 'think', 'life', 'go', 'start', 'minute', 'find', 'right', 'spot', 'get', 'action']","['keep', 'us', 'excite', 'keep', 'us', 'think', 'life', 'go', 'start', 'minute', 'find', 'right', 'spot', 'get', 'action']"
+14,Ses04F_script02_2_M004 [040.5100-043.0800]: Are we talking about the same thing?,6.095,3.4050000000000002,5.925000000000001,positive,5.141666666666667,2 out of 2,"['talk', 'thing']","['talk', 'thing']"
+15,Ses04F_script02_2_F004 [042.4200-045.8900]: Well I'm sorry but it's still just fish to me.,5.615,3.975,5.865,neutral,5.151666666666666,2 out of 4,"['sorry', 'fish']","['well', 'sorry', 'still', 'fish']"
+16,"Ses04F_script02_2_M005 [045.9210-052.9800]: Carla, can I ask you something?",5.95,3.48,6.29,neutral,5.239999999999999,1 out of 3,['ask'],"['carla', 'ask', 'something']"
+17,Don't take this the wrong way but are you having your period?,4.415,4.4675,4.8475,neutral,4.576666666666667,4 out of 4,"['neg-take', 'wrong', 'way', 'period']","['take', 'wrong', 'way', 'period']"
+18,Ses04F_script02_2_F005 [052.0059-060.1920]: Goddamn it Augie don't ask me that.,3.9299999999999997,6.164999999999999,4.15,negative,4.748333333333333,2 out of 3,"['goddamn', 'neg-ask']","['goddamn', 'augie', 'ask']"
+19,You always ask me that.,5.95,3.48,6.29,neutral,5.239999999999999,1 out of 2,['ask'],"['always', 'ask']"
+20,I hate it when you ask me that.,3.955,4.87,5.38,negative,4.734999999999999,2 out of 2,"['hate', 'ask']","['hate', 'ask']"
+21,It's insulting.,1.89,4.7,4.48,negative,3.69,1 out of 1,['insulting'],['insulting']
+22,Ses04F_script02_2_M006 [059.1414-062.2900]: Well then what's bugging you?,3.45,6.06,4.08,negative,4.53,1 out of 2,['bug'],"['well', 'bug']"
+23,Ses04F_script02_2_F006 [061.5000-066.0000]: We just have different ideas about what this evening is supposed to look like.,6.451666666666666,3.8666666666666667,5.845,positive,5.387777777777778,6 out of 6,"['different', 'idea', 'evening', 'suppose', 'look', 'like']","['different', 'idea', 'evening', 'suppose', 'look', 'like']"
+24,Ses04F_script02_2_M007 [065.1300-075.5900]: There's nothing to it.,nan,nan,nan,nan,nan,0,nan,['nothing']
+25,We come down here.,5.64,3.57,5.94,neutral,5.05,1 out of 1,['come'],['come']
+26,The grunions arrive.,6.41,5.0,6.84,positive,6.083333333333333,1 out of 2,['arrive'],"['grunions', 'arrive']"
+27,They do their little fish business.,5.9366666666666665,3.7466666666666666,5.536666666666666,neutral,5.073333333333333,3 out of 3,"['little', 'fish', 'business']","['little', 'fish', 'business']"
+28,"We go oh, ah look at the fish.",6.23,3.9833333333333334,5.763333333333334,positive,5.325555555555556,3 out of 5,"['go', 'look', 'fish']","['go', 'oh', 'ah', 'look', 'fish']"
+29,They go home.,6.9,4.32,6.05,positive,5.756666666666667,2 out of 2,"['go', 'home']","['go', 'home']"
+30,We go home.,6.9,4.32,6.05,positive,5.756666666666667,2 out of 2,"['go', 'home']","['go', 'home']"
+31,"Ses04F_script02_2_F007 [075.0100-078.8300]: For heaven's sake, this is not about fish.",5.453333333333333,4.7,4.77,neutral,4.974444444444444,3 out of 3,"['heaven', 'sake', 'neg-fish']","['heaven', 'sake', 'fish']"
+32,Ses04F_script02_2_M008 [082.1300-084.4300]: Why not?,nan,nan,nan,nan,nan,0,nan,[]
+33,Ses04F_script02_2_F008 [083.7513-087.9500]: We totally skipped.,4.76,4.25,5.35,neutral,4.786666666666666,1 out of 2,['skip'],"['totally', 'skip']"
+34,Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+35,Ses04F_script02_2_M009 [089.8722-098.6500]: There's nothing to it.,nan,nan,nan,nan,nan,0,nan,['nothing']
+36,We come down here.,5.64,3.57,5.94,neutral,5.05,1 out of 1,['come'],['come']
+37,The grunions arrive.,6.41,5.0,6.84,positive,6.083333333333333,1 out of 2,['arrive'],"['grunions', 'arrive']"
+38,They do the little fish business.,5.9366666666666665,3.7466666666666666,5.536666666666666,neutral,5.073333333333333,3 out of 3,"['little', 'fish', 'business']","['little', 'fish', 'business']"
+39,"We go oh, ah look at the fish.",6.23,3.9833333333333334,5.763333333333334,positive,5.325555555555556,3 out of 5,"['go', 'look', 'fish']","['go', 'oh', 'ah', 'look', 'fish']"
+40,They go home.,6.9,4.32,6.05,positive,5.756666666666667,2 out of 2,"['go', 'home']","['go', 'home']"
+41,We go home.,6.9,4.32,6.05,positive,5.756666666666667,2 out of 2,"['go', 'home']","['go', 'home']"
+42,"Ses04F_script02_2_F009 [098.2800-102.1400]: For heaven's sake, grow up we are not going to see the Grunions.",5.2940000000000005,4.254,4.912,neutral,4.82,5 out of 6,"['heaven', 'sake', 'grow', 'neg-go', 'neg-see']","['heaven', 'sake', 'grow', 'go', 'see', 'grunions']"
+43,Ses04F_script02_2_M010 [101.5700-103.1801]: Why not?,nan,nan,nan,nan,nan,0,nan,[]
+44,Ses04F_script02_2_F010 [102.6110-106.0900]: We never do.,nan,nan,nan,nan,nan,0,nan,['never']
+45,Do we have we ever?,nan,nan,nan,nan,nan,0,nan,['ever']
+46,Ses04F_script02_2_M011 [105.6100-108.3400]: We've missed them twice that's not ever.,4.1,3.9,5.12,neutral,4.373333333333334,1 out of 3,['miss'],"['miss', 'twice', 'ever']"
+47,Ses04F_script02_2_F011 [107.6800-111.0597]: Twice is every time we've tried that's ever.,5.619999999999999,3.705,5.15,neutral,4.825,2 out of 5,"['time', 'try']","['twice', 'every', 'time', 'try', 'ever']"
+48,Ses04F_script02_2_M012 [110.4031-112.6500]: We'll see them this year.,6.01,3.615,5.904999999999999,positive,5.176666666666667,2 out of 2,"['see', 'year']","['see', 'year']"
+49,"Ses04F_script02_2_F012 [112.1000-118.1600]: No, we won't.",nan,nan,nan,nan,nan,0,nan,['wo']
+50,It's pointless.,3.22,4.26,3.75,negative,3.7433333333333336,1 out of 1,['pointless'],['pointless']
+51,It's like waiting up to see Santa Clause.,5.79,3.81,5.5975,neutral,5.065833333333333,4 out of 5,"['like', 'wait', 'see', 'clause']","['like', 'wait', 'see', 'santa', 'clause']"
+52,"Ses04F_script02_2_F013 [118.2126-127.2854]: God I feel as though my entire life is going to be spent standing on the beach with my eyes wide open and my hands clasped expectantly waiting for the fish to show up,",5.88125,4.098125,5.681875,neutral,5.220416666666666,16 out of 18,"['god', 'feel', 'entire', 'life', 'go', 'spend', 'stand', 'beach', 'eye', 'wide', 'open', 'hand', 'clasp', 'wait', 'fish', 'show']","['god', 'feel', 'though', 'entire', 'life', 'go', 'spend', 'stand', 'beach', 'eye', 'wide', 'open', 'hand', 'clasp', 'expectantly', 'wait', 'fish', 'show']"
+53,Ses04F_script02_2_F014 [127.3291-130.1900]: and the fish won't show up.,5.255,4.615,5.125,neutral,4.998333333333334,2 out of 3,"['fish', 'neg-show']","['fish', 'wo', 'show']"
+54,Ses04F_script02_2_M013 [129.5332-132.1300]: I thought you wanted to see it.,6.316666666666666,4.3133333333333335,5.963333333333333,positive,5.5311111111111115,3 out of 3,"['think', 'want', 'see']","['think', 'want', 'see']"
+55,Ses04F_script02_2_F015 [131.4600-135.1803]: You don't understand anything I'm saying.,4.615,5.455,5.085,neutral,5.051666666666667,2 out of 3,"['neg-understand', 'say']","['understand', 'anything', 'say']"
+56,"Ses04F_script02_2_M014 [134.6112-136.8876]: No, of course not.",nan,nan,nan,nan,nan,0,nan,['course']
+57,Ses04F_script02_2_F016 [136.3400-144.9861]: I did want to see it.,6.135,4.595,5.695,positive,5.4750000000000005,2 out of 2,"['want', 'see']","['want', 'see']"
+58,I always do.,nan,nan,nan,nan,nan,0,nan,['always']
+59,I keep thinking that this time will be the time but it never is.,6.05,3.5,5.2325,positive,4.9275,4 out of 5,"['keep', 'think', 'time', 'time']","['keep', 'think', 'time', 'time', 'never']"
+60,Ses04F_script02_2_M015 [144.2857-148.5700]: It's just a fish.,6.42,3.33,6.08,positive,5.276666666666666,1 out of 1,['fish'],['fish']
+61,Nothing to get traumatized over.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 3,['get'],"['nothing', 'get', 'traumatize']"
+62,"Ses04F_script02_2_F017 [147.8000-150.5900]: For heaven's sake, this is not about fish.",5.453333333333333,4.7,4.77,neutral,4.974444444444444,3 out of 3,"['heaven', 'sake', 'neg-fish']","['heaven', 'sake', 'fish']"
+63,Ses04F_script02_2_M016 [149.9100-160.7300]: I've been trying to work this backwards but I can't seem to pinpoint the moment when we took a turn for the worse.,5.191428571428571,4.711428571428572,5.394285714285714,neutral,5.09904761904762,7 out of 10,"['try', 'work', 'neg-seem', 'neg-pinpoint', 'moment', 'take', 'turn']","['try', 'work', 'backwards', 'ca', 'seem', 'pinpoint', 'moment', 'take', 'turn', 'worse']"
+64,You were fine during the phone call from Marge.,6.256666666666667,3.526666666666667,5.276666666666667,positive,5.0200000000000005,3 out of 4,"['fine', 'phone', 'call']","['fine', 'phone', 'call', 'marge']"
+65,Dinner was okay.,6.4,3.85,6.05,positive,5.433333333333334,1 out of 2,['dinner'],"['dinner', 'okay']"
+66,Doing the dishes was no problem.,6.09,4.38,5.279999999999999,positive,5.249999999999999,2 out of 2,"['dish', 'neg-problem']","['dish', 'problem']"
+67,Ses04F_script02_2_M017 [160.7700-169.6200]: Let's see I took a shower.,6.0575,3.82,6.09,positive,5.3225,4 out of 4,"['let', 'see', 'take', 'shower']","['let', 'see', 'take', 'shower']"
+68,You watched the news.,5.205,3.99,5.515000000000001,neutral,4.903333333333333,2 out of 2,"['watch', 'news']","['watch', 'news']"
+69,You said the Grunions are running tonight.,6.16,4.835,6.16,positive,5.718333333333334,2 out of 4,"['say', 'run']","['say', 'grunions', 'run', 'tonight']"
+70,I said great let's go.,6.42,4.035,6.23,positive,5.561666666666667,4 out of 4,"['say', 'great', 'let', 'go']","['say', 'great', 'let', 'go']"
+71,I feel lucky tonight.,6.795,4.675,5.43,positive,5.633333333333333,2 out of 3,"['feel', 'lucky']","['feel', 'lucky', 'tonight']"
+72,Ses04F_script02_2_M018 [169.6643-177.3300]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+73,"Uh, so I'm putting on my jacket, putting out the animals.",5.775,3.8425,6.1225000000000005,neutral,5.246666666666667,4 out of 5,"['put', 'jacket', 'put', 'animal']","['uh', 'put', 'jacket', 'put', 'animal']"
+74,We're getting the car out of the garage.,6.073333333333333,3.9366666666666665,6.056666666666667,positive,5.355555555555555,3 out of 3,"['get', 'car', 'garage']","['get', 'car', 'garage']"
+75,Ses04F_script02_2_F018 [175.6800-182.8524]: Do you remember the first time we came to see it?,6.268,3.7840000000000003,5.798,positive,5.283333333333333,5 out of 5,"['remember', 'first', 'time', 'come', 'see']","['remember', 'first', 'time', 'come', 'see']"
+76,It was about four years ago right after we got married.,6.302,4.182,5.988,positive,5.490666666666667,5 out of 6,"['four', 'year', 'right', 'get', 'marry']","['four', 'year', 'ago', 'right', 'get', 'marry']"
+77,Ses04F_script02_2_F019 [182.9400-192.4831]: We thought I was pregnant and we had a bottle of champagne but no glasses.,6.14,4.686,5.498,positive,5.441333333333334,5 out of 5,"['think', 'pregnant', 'bottle', 'champagne', 'neg-glass']","['think', 'pregnant', 'bottle', 'champagne', 'glass']"
+78,You asked me to dance.,6.609999999999999,4.48,6.285,positive,5.791666666666667,2 out of 2,"['ask', 'dance']","['ask', 'dance']"
+79,So we took off our shoes,5.300000000000001,3.46,5.135,neutral,4.631666666666667,2 out of 2,"['take', 'shoe']","['take', 'shoe']"
+80,"Ses04F_script02_2_F020 [192.5200-200.3000]: and you popped the cork and while we were dancing, you said the softest most intimate things to me",6.154999999999999,4.621666666666667,5.873333333333333,positive,5.55,6 out of 7,"['pop', 'cork', 'dance', 'say', 'intimate', 'thing']","['pop', 'cork', 'dance', 'say', 'softest', 'intimate', 'thing']"
+81,Ses04F_script02_2_F021 [200.3400-206.0537]: right into my ear so that I could hear them as much as- so that I could feel them as much as hear them.,6.562,3.958,6.564,positive,5.6946666666666665,5 out of 9,"['right', 'ear', 'hear', 'feel', 'hear']","['right', 'ear', 'could', 'hear', 'much', 'could', 'feel', 'much', 'hear']"
+82,Ses04F_script02_2_F022 [206.2900-215.9900]: And I remember thinking this is it.,6.59,3.4450000000000003,6.404999999999999,positive,5.4799999999999995,2 out of 2,"['remember', 'think']","['remember', 'think']"
+83,"At last, at last I'm as happy as I'm supposed to be.",6.87,4.6899999999999995,6.16,positive,5.906666666666666,2 out of 4,"['happy', 'suppose']","['last', 'last', 'happy', 'suppose']"
+84,Ses04F_script02_2_M019 [215.2700-217.1100]: Wait a minute.,5.025,3.69,4.74,neutral,4.485,2 out of 2,"['wait', 'minute']","['wait', 'minute']"
+85,I've got it.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+86,"Ses04F_script02_2_F023 [216.7800-220.6100]: Dancing barefoot in the sand, drinking champagne from the bottle.",6.35,3.7199999999999998,5.9975000000000005,positive,5.355833333333334,4 out of 6,"['barefoot', 'sand', 'champagne', 'bottle']","['dancing', 'barefoot', 'sand', 'drinking', 'champagne', 'bottle']"
+87,Ses04F_script02_2_M020 [219.5200-231.5200]: It was in the car right.,6.975,4.52,6.785,positive,6.093333333333334,2 out of 2,"['car', 'right']","['car', 'right']"
+88,"Driving past the Knickerbocker Liquor Locker, you said let's get some champagne and I said times a wasting or something like that.",5.908181818181818,4.086363636363636,5.843636363636364,neutral,5.279393939393939,11 out of 14,"['drive', 'past', 'liquor', 'locker', 'say', 'let', 'get', 'champagne', 'say', 'time', 'like']","['drive', 'past', 'knickerbocker', 'liquor', 'locker', 'say', 'let', 'get', 'champagne', 'say', 'time', 'wasting', 'something', 'like']"
+89,Right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+90,"Ses04F_script02_2_M021 [231.5400-235.8300]: That's it, right?",7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+91,"You want this to be like the other time, right.",6.59,4.525,5.7975,positive,5.6375,4 out of 4,"['want', 'like', 'time', 'right']","['want', 'like', 'time', 'right']"
+92,That's it.,nan,nan,nan,nan,nan,0,nan,[]
+93,Ses04F_script02_2_F024 [235.3400-240.9300]: I would rather not remember some things.,4.62,5.746666666666666,4.74,neutral,5.035555555555556,3 out of 4,"['would', 'neg-remember', 'neg-thing']","['would', 'rather', 'remember', 'thing']"
+94,I would rather not hope for some things.,4.66,3.9833333333333334,4.8566666666666665,neutral,4.5,3 out of 4,"['would', 'neg-hope', 'thing']","['would', 'rather', 'hope', 'thing']"
+95,Ses04F_script02_2_M022 [240.1800-247.9036]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+96,Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+97,I got it.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+98,Sure.,6.64,3.48,6.82,positive,5.646666666666666,1 out of 1,['sure'],['sure']
+99,Of course.,nan,nan,nan,nan,nan,0,nan,['course']
+100,Listen you want to dance?,6.726666666666667,4.843333333333334,5.743333333333333,positive,5.771111111111111,3 out of 3,"['listen', 'want', 'dance']","['listen', 'want', 'dance']"
+101,Ses04F_script02_2_F025 [247.5533-249.1731]: No.,nan,nan,nan,nan,nan,0,nan,[]
+102,Ses04F_script02_2_M023 [248.9104-250.8400]: You want me to get some champagne?,6.316666666666666,4.253333333333333,5.836666666666667,positive,5.4688888888888885,3 out of 3,"['want', 'get', 'champagne']","['want', 'get', 'champagne']"
+103,Ses04F_script02_2_F026 [250.4800-251.7400]: No.,nan,nan,nan,nan,nan,0,nan,[]
+104,Ses04F_script02_2_M024 [251.3000-253.0600]: Take off our shoes?,5.300000000000001,3.46,5.135,neutral,4.631666666666667,2 out of 2,"['take', 'shoe']","['take', 'shoe']"
+105,Ses04F_script02_2_F027 [252.6600-254.3100]: No.,nan,nan,nan,nan,nan,0,nan,[]
+106,No.,nan,nan,nan,nan,nan,0,nan,[]
+107,Ses04F_script02_2_M025 [254.1000-256.0897]: Well what?,nan,nan,nan,nan,nan,0,nan,['well']
+108,Want me to breath in your ear?,6.156666666666667,3.7133333333333334,5.97,positive,5.28,3 out of 3,"['want', 'breath', 'ear']","['want', 'breath', 'ear']"
+109,Ses04F_script02_2_F028 [255.8600-257.0500]: No.,nan,nan,nan,nan,nan,0,nan,[]
+110,Ses04F_script02_2_M026 [256.5600-258.5100]: Want to get married again?,6.3933333333333335,4.826666666666666,5.57,positive,5.596666666666667,3 out of 3,"['want', 'get', 'marry']","['want', 'get', 'marry']"
+111,Ses04F_script02_2_F029 [258.1200-259.5100]: No.,nan,nan,nan,nan,nan,0,nan,[]
+112,Ses04F_script02_2_M027 [259.1200-261.7300]: What?,nan,nan,nan,nan,nan,0,nan,[]
+113,What do you want a divorce?,4.245,5.34,4.705,neutral,4.763333333333334,2 out of 2,"['want', 'divorce']","['want', 'divorce']"
+114,Ses04F_script02_2_F030 [261.3700-262.7600]: No.,nan,nan,nan,nan,nan,0,nan,[]
+115,Ses04F_script02_2_M028 [262.3800-263.9200]: A vacation?,8.53,5.22,7.11,positive,6.953333333333333,1 out of 1,['vacation'],['vacation']
+116,Ses04F_script02_2_F031 [263.3600-264.7100]: No.,nan,nan,nan,nan,nan,0,nan,[]
+117,"Ses04F_script02_2_M029 [264.4100-271.6000]: A new carpet, a poodle, a backrub, ice cream, a suicide pact.",5.561428571428571,4.078571428571428,5.4157142857142855,neutral,5.018571428571429,7 out of 8,"['new', 'carpet', 'poodle', 'ice', 'cream', 'suicide', 'pact']","['new', 'carpet', 'poodle', 'backrub', 'ice', 'cream', 'suicide', 'pact']"
+118,What?,nan,nan,nan,nan,nan,0,nan,[]
+119,What?,nan,nan,nan,nan,nan,0,nan,[]
+120,Carla what the hell do you want?,4.275,5.775,4.43,neutral,4.826666666666667,2 out of 3,"['hell', 'want']","['carla', 'hell', 'want']"
+121,Ses04F_script02_2_F032 [270.9300-274.2400]: I want something to turn out the way it's supposed to.,5.6575,3.75,5.3025,neutral,4.903333333333333,4 out of 5,"['want', 'turn', 'way', 'suppose']","['want', 'something', 'turn', 'way', 'suppose']"
+122,Ses04F_script02_2_M030 [273.4500-277.9600]: Well welcome to the human race.,6.386666666666667,4.193333333333333,5.503333333333333,positive,5.361111111111111,3 out of 4,"['welcome', 'human', 'race']","['well', 'welcome', 'human', 'race']"
+123,You think this is what I had in mind.,6.6899999999999995,4.4,6.295,positive,5.794999999999999,2 out of 2,"['think', 'mind']","['think', 'mind']"
+124,"Ses04F_script02_2_M031 [277.9900-285.5509]: Do you think that when I proposed, I had this great fantasy going that four years down the line we'd come to the beach and yell at each other over fish.",6.049166666666666,4.216666666666667,5.746666666666667,positive,5.3374999999999995,12 out of 12,"['think', 'propose', 'great', 'fantasy', 'go', 'four', 'year', 'line', 'come', 'beach', 'yell', 'fish']","['think', 'propose', 'great', 'fantasy', 'go', 'four', 'year', 'line', 'come', 'beach', 'yell', 'fish']"
+125,Ses04F_script02_2_M032 [285.5947-293.3900]: Do you think that I knew that there'd be times when you'd look at me like I'm a used Kleenex and times I would look at you and think holy hell when's the next flight to Alaska.,5.886923076923077,3.946923076923077,5.389230769230769,neutral,5.074358974358975,13 out of 16,"['think', 'know', 'time', 'look', 'like', 'use', 'time', 'would', 'look', 'think', 'holy', 'hell', 'flight']","['think', 'know', 'time', 'look', 'like', 'use', 'kleenex', 'time', 'would', 'look', 'think', 'holy', 'hell', 'next', 'flight', 'alaska']"
+126,"Ses04F_script02_2_M033 [293.4200-299.9532]: No, no I'm just like you.",7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+127,I thought it was going to be all peaches and roses and sand in our hair and wind in our,6.421428571428572,3.85,5.685714285714286,positive,5.31904761904762,7 out of 7,"['think', 'go', 'peach', 'rose', 'sand', 'hair', 'wind']","['think', 'go', 'peach', 'rose', 'sand', 'hair', 'wind']"
+128,"Ses04F_script02_2_M034 [299.9970-309.4700]: Sand in our toes and wind in our hair and the fish will always come and the bills will always pay themselves and ha, ha baby the jokes on us.",5.92,3.978,5.4190000000000005,neutral,5.105666666666667,10 out of 15,"['sand', 'toe', 'wind', 'hair', 'fish', 'come', 'bill', 'pay', 'baby', 'joke']","['sand', 'toe', 'wind', 'hair', 'fish', 'always', 'come', 'bill', 'always', 'pay', 'ha', 'ha', 'baby', 'joke', 'us']"
+129,"Because you know what you get,",6.455,3.455,5.715,positive,5.208333333333333,2 out of 2,"['know', 'get']","['know', 'get']"
+130,"Ses04F_script02_2_M035 [309.4900-312.1400]: you know what you get Carla, this.",6.455,3.455,5.715,positive,5.208333333333333,2 out of 3,"['know', 'get']","['know', 'get', 'carla']"
+131,"Ses04F_script02_2_F033 [311.6600-315.3500]: This what, what is this?",nan,nan,nan,nan,nan,0,nan,[]
+132,This isn't even anything.,nan,nan,nan,nan,nan,0,nan,"['even', 'anything']"
+133,Ses04F_script02_2_M036 [314.7000-316.3000]: Yes it is.,nan,nan,nan,nan,nan,0,nan,['yes']
+134,"Ses04F_script02_2_F034 [315.7700-321.4100]: Oh, right, sure this is standing on the beach.",6.609999999999999,4.17,6.3925,positive,5.724166666666666,4 out of 5,"['right', 'sure', 'stand', 'beach']","['oh', 'right', 'sure', 'stand', 'beach']"
+135,This is waiting.,4.55,3.62,5.31,neutral,4.493333333333333,1 out of 1,['wait'],['wait']
+136,This is fighting.,3.54,6.33,4.68,negative,4.8500000000000005,1 out of 1,['fight'],['fight']
+137,Ses04F_script02_2_M037 [320.9400-322.3200]: Right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+138,Ses04F_script02_2_F035 [321.9600-325.3500]: But this isn't anything like I thought anything would be like.,5.6475,4.39,5.61,neutral,5.215833333333333,4 out of 6,"['neg-like', 'think', 'would', 'like']","['anything', 'like', 'think', 'anything', 'would', 'like']"
+139,"Ses04F_script02_2_M038 [324.5200-326.7300]: No, I know me either.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['know', 'either']"
+140,Ses04F_script02_2_F036 [326.2626-337.0900]: This is just this.,nan,nan,nan,nan,nan,0,nan,[]
+141,"I mean it includes a lot in everything but it's just not, you know, something else.",4.0,4.873333333333333,4.743333333333333,neutral,4.538888888888889,3 out of 7,"['mean', 'include', 'neg-know']","['mean', 'include', 'lot', 'everything', 'know', 'something', 'else']"
+142,Do you have any idea what I'm trying to say?,6.2,4.363333333333333,6.3100000000000005,positive,5.624444444444445,3 out of 3,"['idea', 'try', 'say']","['idea', 'try', 'say']"
+143,Ses04F_script02_2_M039 [336.3200-338.1000]: I'm doing the best I can.,nan,nan,nan,nan,nan,0,nan,['best']
+144,"Ses04F_script02_2_F037 [337.5900-351.2149]: I know you are, Augie.",6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['know', 'augie']"
+145,Really I do.,nan,nan,nan,nan,nan,0,nan,['really']
+146,I know you wanted this to be special and nice and it's the full moon and the sand and all but I just couldn't help thinking about being somewhere else.,5.866666666666667,4.204444444444444,5.328888888888889,neutral,5.133333333333334,9 out of 12,"['know', 'want', 'special', 'nice', 'full', 'moon', 'sand', 'neg-help', 'neg-think']","['know', 'want', 'special', 'nice', 'full', 'moon', 'sand', 'could', 'help', 'think', 'somewhere', 'else']"
+147,Ses04F_script02_2_M040 [350.1643-353.2000]: Maybe if you were with somebody else too.,nan,nan,nan,nan,nan,0,nan,"['maybe', 'somebody', 'else']"
+148,Ses04F_script02_2_F038 [352.6800-355.3737]: I didn't say that.,4.09,5.57,3.12,neutral,4.260000000000001,1 out of 1,['neg-say'],['say']
+149,"Ses04F_script02_2_M041 [354.9359-360.7581]: No, I know but still.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['know', 'still']"
+150,I know I don't make you happy.,4.086666666666667,4.506666666666667,4.116666666666667,neutral,4.236666666666667,3 out of 3,"['know', 'neg-make', 'neg-happy']","['know', 'make', 'happy']"
+151,"Ses04F_script02_2_F039 [360.4079-365.1200]: For heaven's sake, whatever I'm doing I'd rather be doing it with you.",6.390000000000001,3.7150000000000003,5.195,positive,5.1000000000000005,2 out of 4,"['heaven', 'sake']","['heaven', 'sake', 'whatever', 'rather']"
+152,Ses04F_script02_2_M042 [364.5200-366.3900]: Yeah?,nan,nan,nan,nan,nan,0,nan,['yeah']
+153,Ses04F_script02_2_F040 [365.7000-372.7900]: Well don't be ridiculous.,6.33,4.35,6.220000000000001,positive,5.633333333333333,1 out of 2,['neg-ridiculous'],"['well', 'ridiculous']"
+154,Don't you know that?,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+155,You're the one who probably wishes you were with somebody else,6.615,3.025,6.029999999999999,positive,5.223333333333334,2 out of 5,"['one', 'wish']","['one', 'probably', 'wish', 'somebody', 'else']"
+156,Ses04F_script02_2_F041 [372.8186-376.5000]: somebody who knew how to enjoy herself and didn't take everything so hard.,6.005,4.555,5.7975,positive,5.4525,4 out of 6,"['know', 'enjoy', 'neg-take', 'hard']","['somebody', 'know', 'enjoy', 'take', 'everything', 'hard']"
+157,"Ses04F_script02_2_M043 [375.8300-379.5380]: Actually now that you mention it, no I don't.",5.39,2.65,5.33,neutral,4.456666666666666,1 out of 2,['mention'],"['actually', 'mention']"
+158,Ses04F_script02_2_F042 [378.7938-384.8349]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+159,Fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+160,So we're in the wrong spot but we're with the right person.,5.445,4.2375,5.345,neutral,5.009166666666666,4 out of 4,"['wrong', 'spot', 'right', 'person']","['wrong', 'spot', 'right', 'person']"
+161,Ses04F_script02_2_M044 [384.2221-389.9567]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+162,It seemed like a good spot to me.,6.475,3.5625,5.5125,positive,5.183333333333334,4 out of 4,"['seem', 'like', 'good', 'spot']","['seem', 'like', 'good', 'spot']"
+163,Ses04F_script02_2_M045 [390.1318-394.4219]: I mean look at the view you've got of the moon from here.,5.628,3.794,5.73,neutral,5.050666666666667,5 out of 5,"['mean', 'look', 'view', 'get', 'moon']","['mean', 'look', 'view', 'get', 'moon']"
+164,"Ses04F_script02_2_F043 [393.6777-401.5200]: Yeah, I noticed that.",5.94,3.38,5.11,neutral,4.81,1 out of 2,['notice'],"['yeah', 'notice']"
+165,"Looks pretty on the water doesn't it, big old white moon.",5.911428571428571,4.271428571428571,5.59,neutral,5.257619047619047,7 out of 7,"['look', 'pretty', 'water', 'neg-big', 'old', 'white', 'moon']","['look', 'pretty', 'water', 'big', 'old', 'white', 'moon']"
+166,Ses04F_script02_2_M046 [401.6800-405.7700]: Well look at what we got here.,6.02,3.715,5.765000000000001,positive,5.166666666666667,2 out of 3,"['look', 'get']","['well', 'look', 'get']"
+167,"Ses04F_script02_2_F044 [405.0900-408.3864]: Oh, Augie you brought refreshments.",6.25,4.255,6.154999999999999,positive,5.553333333333332,2 out of 4,"['bring', 'refreshment']","['oh', 'augie', 'bring', 'refreshment']"
+168,Ses04F_script02_2_M047 [407.8400-409.8200]: It's not champagne.,3.1399999999999997,6.2,3.5300000000000002,negative,4.29,1 out of 1,['neg-champagne'],['champagne']
+169,Ses04F_script02_2_F045 [409.3500-412.6600]: Well then I guess we don't need glasses.,4.75,5.683333333333334,4.803333333333334,neutral,5.07888888888889,3 out of 4,"['guess', 'neg-need', 'neg-glass']","['well', 'guess', 'need', 'glass']"
+170,Ses04F_script02_2_M048 [412.5600-416.7914]: You still cold?,4.32,3.55,5.17,neutral,4.346666666666667,1 out of 2,['cold'],"['still', 'cold']"
+171,Do you want to go home?,6.6000000000000005,4.6433333333333335,5.83,positive,5.691111111111112,3 out of 3,"['want', 'go', 'home']","['want', 'go', 'home']"
+172,Ses04F_script02_2_F046 [416.5700-426.5972]: I'm beginning to think you might be right.,6.8133333333333335,3.8666666666666667,6.46,positive,5.713333333333334,3 out of 4,"['begin', 'think', 'right']","['begin', 'think', 'might', 'right']"
+173,I think this may be the spot after all.,5.783333333333333,3.296666666666667,5.756666666666667,neutral,4.945555555555555,3 out of 3,"['think', 'may', 'spot']","['think', 'may', 'spot']"
+174,Augie I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['augie', 'sorry']"
+175,Ses04F_script02_2_M049 [426.1595-431.6100]: Shh.,nan,nan,nan,nan,nan,0,nan,['shh']
+176,"If we're very quiet, the fish might come.",6.176666666666667,2.95,5.94,positive,5.022222222222222,3 out of 4,"['quiet', 'fish', 'come']","['quiet', 'fish', 'might', 'come']"
+177,Ses04F_script02_2_F047 [431.6600-433.6889]: Or not.,nan,nan,nan,nan,nan,0,nan,[]
+178,Ses04F_script02_2_M050 [433.4701-435.0898]: Or not.,nan,nan,nan,nan,nan,0,nan,[]

@@ -1,0 +1,57 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01F_impro01_F000 [006.2901-008.2357]: Excuse me.,4.52,3.61,4.72,neutral,4.283333333333332,1 out of 1,['excuse'],['excuse']
+2,Ses01F_impro01_M000 [007.5712-010.4750]: Do you have your forms?,5.64,3.85,6.47,neutral,5.32,1 out of 1,['form'],['form']
+3,Ses01F_impro01_F001 [010.0100-011.3925]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+4,Ses01F_impro01_M001 [010.9266-014.6649]: Let me see them.,6.109999999999999,3.3049999999999997,6.029999999999999,positive,5.1483333333333325,2 out of 2,"['let', 'see']","['let', 'see']"
+5,Ses01F_impro01_F002 [014.8872-018.0175]: Is there a problem?,3.52,4.81,4.94,negative,4.423333333333333,1 out of 1,['problem'],['problem']
+6,Ses01F_impro01_M002 [016.8352-019.7175]: Who told you to get in this line?,5.3933333333333335,3.59,5.16,neutral,4.714444444444445,3 out of 3,"['tell', 'get', 'line']","['tell', 'get', 'line']"
+7,Ses01F_impro01_F003 [019.2900-020.7875]: You did.,nan,nan,nan,nan,nan,0,nan,[]
+8,Ses01F_impro01_F004 [021.3257-024.7400]: You were standing at the beginning and you directed me.,5.803333333333333,3.4633333333333334,5.996666666666666,neutral,5.087777777777777,3 out of 3,"['stand', 'beginning', 'direct']","['stand', 'beginning', 'direct']"
+9,Ses01F_impro01_M003 [023.4700-028.0300]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+10,But I didn't tell you to get in this line if you are filling out this particular form.,5.3149999999999995,4.025,6.0633333333333335,neutral,5.134444444444444,6 out of 6,"['neg-tell', 'get', 'line', 'fill', 'particular', 'form']","['tell', 'get', 'line', 'fill', 'particular', 'form']"
+11,Ses01F_impro01_F005 [027.4600-031.4900]: Well what's the problem?,3.52,4.81,4.94,negative,4.423333333333333,1 out of 2,['problem'],"['well', 'problem']"
+12,Let me change it.,5.52,3.38,5.935,neutral,4.944999999999999,2 out of 2,"['let', 'change']","['let', 'change']"
+13,Ses01F_impro01_M004 [028.3950-031.2117]: This form is a Z.X.four.,5.64,3.85,6.47,neutral,5.32,1 out of 1,['form'],['form']
+14,Ses01F_impro01_M005 [031.2660-039.3875]: You can't--  This is not the line for Z.X.four.,5.18,6.76,5.11,neutral,5.683333333333334,1 out of 2,['neg-line'],"['ca', 'line']"
+15,"If you're going to fill out the Z.X.four, you need to have a different form of ID.",5.73,3.77,5.911666666666667,neutral,5.137222222222222,6 out of 6,"['go', 'fill', 'need', 'different', 'form', 'id']","['go', 'fill', 'need', 'different', 'form', 'id']"
+16,Ses01F_impro01_F006 [038.9650-043.5900]: What?,nan,nan,nan,nan,nan,0,nan,[]
+17,I'm getting an ID.,5.795,3.3049999999999997,5.505000000000001,neutral,4.868333333333333,2 out of 2,"['get', 'id']","['get', 'id']"
+18,This is why I'm here.,nan,nan,nan,nan,nan,0,nan,[]
+19,My wallet was stolen.,4.085,4.775,4.54,neutral,4.466666666666666,2 out of 2,"['wallet', 'steal']","['wallet', 'steal']"
+20,Ses01F_impro01_M006 [041.2300-046.9800]: No.,nan,nan,nan,nan,nan,0,nan,[]
+21,I need another set of ID to prove this is actually you.,5.545,3.24,5.5024999999999995,neutral,4.7625,4 out of 6,"['need', 'set', 'id', 'prove']","['need', 'another', 'set', 'id', 'prove', 'actually']"
+22,Ses01F_impro01_F007 [046.5800-052.1900]: How am I supposed to get an ID without an ID?,5.59,3.2199999999999998,5.37,neutral,4.726666666666667,4 out of 5,"['suppose', 'get', 'id', 'id']","['suppose', 'get', 'id', 'without', 'id']"
+23,How does a person get an ID in the first place?,6.176,3.748,5.984,positive,5.302666666666666,5 out of 5,"['person', 'get', 'id', 'first', 'place']","['person', 'get', 'id', 'first', 'place']"
+24,Ses01F_impro01_M007 [051.4000-057.6400]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+25,But I need an ID to pass this form along.,5.58,3.71,5.4175,neutral,4.9025,4 out of 5,"['need', 'id', 'pass', 'form']","['need', 'id', 'pass', 'form', 'along']"
+26,I can't just send it along without an ID.,4.66,4.755,4.71,neutral,4.708333333333333,2 out of 5,"['neg-send', 'id']","['ca', 'send', 'along', 'without', 'id']"
+27,Ses01F_impro01_F008 [056.1600-058.8225]: I'm here to get an ID.,5.795,3.3049999999999997,5.505000000000001,neutral,4.868333333333333,2 out of 2,"['get', 'id']","['get', 'id']"
+28,Ses01F_impro01_M008 [058.1800-062.5900]: No.,nan,nan,nan,nan,nan,0,nan,[]
+29,"I need another ID, a separate one.",5.2475000000000005,3.2975,5.029999999999999,neutral,4.5249999999999995,4 out of 5,"['need', 'id', 'separate', 'one']","['need', 'another', 'id', 'separate', 'one']"
+30,Ses01F_impro01_F009 [061.8700-065.9700]: Like what?,7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+31,Like a birth certificate?,6.653333333333333,4.586666666666667,5.583333333333333,positive,5.607777777777778,3 out of 3,"['like', 'birth', 'certificate']","['like', 'birth', 'certificate']"
+32,"Ses01F_impro01_M009 [065.5100-073.0000]: A birth certificate, a passport...a student ID; didn't you go to school?",5.645714285714286,4.372857142857143,5.498571428571428,neutral,5.172380952380952,7 out of 7,"['birth', 'certificate', 'passport', 'student', 'id', 'neg-go', 'school']","['birth', 'certificate', 'passport', 'student', 'id', 'go', 'school']"
+33,Anything?,nan,nan,nan,nan,nan,0,nan,['anything']
+34,Ses01F_impro01_F010 [066.4200-069.3400]: Who the hell has a birth certificate?,5.023333333333333,5.206666666666667,4.6466666666666665,neutral,4.958888888888889,3 out of 3,"['hell', 'birth', 'certificate']","['hell', 'birth', 'certificate']"
+35,"Ses01F_impro01_F011 [072.4500-082.2600]: Yes but my wallet was stolen, I don't have anything.",4.085,4.775,4.54,neutral,4.466666666666666,2 out of 4,"['wallet', 'steal']","['yes', 'wallet', 'steal', 'anything']"
+36,"I don't have any credit cards, I don't have my ID.",5.0,5.116666666666667,4.8999999999999995,neutral,5.0055555555555555,3 out of 3,"['neg-credit', 'card', 'neg-id']","['credit', 'card', 'id']"
+37,Don't you have things on file here?,4.945,4.985,4.6,neutral,4.843333333333333,2 out of 2,"['neg-thing', 'file']","['thing', 'file']"
+38,Ses01F_impro01_M010 [081.5900-086.0300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+39,"We keep it on file, but we need an ID to access that file.",5.805,3.69,5.373333333333333,neutral,4.9561111111111105,6 out of 6,"['keep', 'file', 'need', 'id', 'access', 'file']","['keep', 'file', 'need', 'id', 'access', 'file']"
+40,Ses01F_impro01_F012 [085.2700-088.0200]: That's out of control.,4.43,4.76,5.47,neutral,4.886666666666667,1 out of 1,['control'],['control']
+41,Ses01F_impro01_M011 [087.1500-094.3900]: I don't understand why this is so complicated for people when they get here.,4.7325,4.9175,5.032500000000001,neutral,4.894166666666667,4 out of 4,"['neg-understand', 'complicated', 'people', 'get']","['understand', 'complicated', 'people', 'get']"
+42,It's just a simple form.,6.404999999999999,3.2800000000000002,6.484999999999999,positive,5.39,2 out of 2,"['simple', 'form']","['simple', 'form']"
+43,I just need an ID.,5.475,3.3049999999999997,5.21,neutral,4.663333333333333,2 out of 2,"['need', 'id']","['need', 'id']"
+44,Ses01F_impro01_F013 [093.6700-097.0218]: How long have you been working here?,5.05,4.33,6.12,neutral,5.166666666666667,1 out of 2,['work'],"['long', 'work']"
+45,Ses01F_impro01_M012 [095.8600-098.6800]: Actually too long.,nan,nan,nan,nan,nan,0,nan,"['actually', 'long']"
+46,Ses01F_impro01_F014 [097.8900-102.9600]: Clearly.,nan,nan,nan,nan,nan,0,nan,['clearly']
+47,"You know, do you have like a supervisor or something?",6.180000000000001,3.896666666666667,5.87,positive,5.315555555555556,3 out of 4,"['know', 'like', 'supervisor']","['know', 'like', 'supervisor', 'something']"
+48,Ses01F_impro01_M013 [101.8400-107.8700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+49,Do you want to see my supervisor?,5.516666666666667,4.413333333333333,5.6466666666666665,neutral,5.192222222222222,3 out of 3,"['want', 'see', 'supervisor']","['want', 'see', 'supervisor']"
+50,Huh?,nan,nan,nan,nan,nan,0,nan,['huh']
+51,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+52,Do you want to see my supervisor?,5.516666666666667,4.413333333333333,5.6466666666666665,neutral,5.192222222222222,3 out of 3,"['want', 'see', 'supervisor']","['want', 'see', 'supervisor']"
+53,Fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+54,I'll be right back.,6.04,3.795,6.1899999999999995,positive,5.341666666666666,2 out of 2,"['right', 'back']","['right', 'back']"
+55,Ses01F_impro01_F015 [103.9700-106.7100]: That would - I would appreciate that.,6.383333333333334,3.5733333333333333,6.293333333333334,positive,5.416666666666667,3 out of 3,"['would', 'would', 'appreciate']","['would', 'would', 'appreciate']"
+56,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']

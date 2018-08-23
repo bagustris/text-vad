@@ -1,0 +1,112 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01F_impro07_M000 [002.9700-004.7800]: Did you get the letter?,5.885,3.4299999999999997,5.8100000000000005,neutral,5.041666666666667,2 out of 2,"['get', 'letter']","['get', 'letter']"
+2,Ses01F_impro07_F000 [003.9500-010.5900]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+3,"There's a big envelope it says, you're in.",5.833333333333333,3.853333333333333,5.996666666666667,neutral,5.227777777777778,3 out of 3,"['big', 'envelope', 'say']","['big', 'envelope', 'say']"
+4,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+5,Ses01F_impro07_M001 [007.5325-011.9600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+6,That is so awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+7,M: Did you-,nan,nan,nan,nan,nan,0,nan,[]
+8,Ses01F_impro07_M002 [013.9200-019.0900]: Oh my God.,5.9,5.56,5.0,neutral,5.486666666666667,1 out of 2,['god'],"['oh', 'god']"
+9,What are you going to do?,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+10,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+11,Ses01F_impro07_F001 [011.3600-016.5575]: So I have to move back to the ghetto but...I know.,4.9225,4.28,4.9725,neutral,4.7250000000000005,4 out of 4,"['move', 'back', 'ghetto', 'know']","['move', 'back', 'ghetto', 'know']"
+12,"Ses01F_impro07_M003 [020.6800-028.0600]: Oh-Yeah, I bet you're really excited.",6.37,5.6850000000000005,5.645,positive,5.8999999999999995,2 out of 3,"['bet', 'excite']","['bet', 'really', 'excite']"
+13,Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+14,That's what loans are for?,4.19,3.3,3.77,neutral,3.7533333333333334,1 out of 1,['loan'],['loan']
+15,Right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+16,Exactly.,nan,nan,nan,nan,nan,0,nan,['exactly']
+17,Ses01F_impro07_F002 [019.6100-031.6500]: I'm really excited.,7.79,6.61,5.79,positive,6.73,1 out of 2,['excite'],"['really', 'excite']"
+18,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+19,"I don't know how I'm going to pay for anything, but...",5.243333333333333,5.286666666666667,5.293333333333333,neutral,5.274444444444445,3 out of 4,"['neg-know', 'go', 'pay']","['know', 'go', 'pay', 'anything']"
+20,I also- Yeah.,nan,nan,nan,nan,nan,0,nan,"['also', 'yeah']"
+21,"Loans, too, yeah.",4.19,3.3,3.77,neutral,3.7533333333333334,1 out of 2,['loan'],"['loan', 'yeah']"
+22,"I applied, though, for a bunch of grants and scholarships so I'm still waiting to hear on that.",5.796,3.818,5.772,neutral,5.128666666666667,5 out of 8,"['apply', 'bunch', 'scholarship', 'wait', 'hear']","['apply', 'though', 'bunch', 'grant', 'scholarship', 'still', 'wait', 'hear']"
+23,Ses01F_impro07_M004 [030.9150-038.8100]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+24,"Good, good.",7.89,3.66,6.41,positive,5.986666666666667,2 out of 2,"['good', 'good']","['good', 'good']"
+25,That's awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+26,Are you going to stay around here?,6.23,4.0,5.52,positive,5.25,2 out of 3,"['go', 'stay']","['go', 'stay', 'around']"
+27,Or are you going to like get a different neighborhood- you going to move to a different neighborhood?,6.124444444444444,4.225555555555555,6.061111111111111,positive,5.470370370370371,9 out of 9,"['go', 'like', 'get', 'different', 'neighborhood', 'go', 'move', 'different', 'neighborhood']","['go', 'like', 'get', 'different', 'neighborhood', 'go', 'move', 'different', 'neighborhood']"
+28,"Ses01F_impro07_F003 [032.5200-034.9000]: Oh- I know, I know, I know, I know.",6.82,3.24,5.78,positive,5.28,4 out of 5,"['know', 'know', 'know', 'know']","['oh', 'know', 'know', 'know', 'know']"
+29,Ses01F_impro07_F004 [037.1625-042.4900]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+30,"I spend so much time commuting as it is, I'd rather.",5.216666666666667,3.68,4.943333333333333,neutral,4.613333333333333,3 out of 5,"['spend', 'time', 'commute']","['spend', 'much', 'time', 'commute', 'rather']"
+31,Ses01F_impro07_M005 [041.1700-046.9975]: This is so- I am so happy that you're going to stay.,6.976666666666667,4.683333333333334,6.083333333333333,positive,5.914444444444444,3 out of 3,"['happy', 'go', 'stay']","['happy', 'go', 'stay']"
+32,You're not going to...We should totally throw a party.,5.47,5.246666666666666,5.57,neutral,5.428888888888888,3 out of 4,"['neg-go', 'throw', 'party']","['go', 'totally', 'throw', 'party']"
+33,Ses01F_impro07_F005 [042.9550-045.8850]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+34,We should throw a party.,6.365,5.3,6.02,positive,5.895,2 out of 2,"['throw', 'party']","['throw', 'party']"
+35,Ses01F_impro07_F006 [046.2800-055.4100]: At Arapaho we could afford that.,6.56,4.33,6.44,positive,5.776666666666667,1 out of 3,['afford'],"['arapaho', 'could', 'afford']"
+36,[GARBAGE].,2.88,3.84,5.15,negative,3.956666666666667,1 out of 1,['garbage'],['garbage']
+37,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+38,"So what are you doing this summer, though?",7.5,5.48,6.61,positive,6.53,1 out of 2,['summer'],"['summer', 'though']"
+39,"You're staying around, too, yeah?",6.14,3.14,5.71,positive,4.996666666666666,1 out of 3,['stay'],"['stay', 'around', 'yeah']"
+40,Ses01F_impro07_M006 [047.1100-052.8125]: A rapper party ho.,6.04,4.845,5.345,positive,5.41,2 out of 3,"['rapper', 'party']","['rapper', 'party', 'ho']"
+41,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+42,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+43,Ses01F_impro07_M007 [054.1600-063.2800]: I am just- Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+44,"I'm sticking around, I'm just doing my thing.",5.41,3.62,5.615,neutral,4.881666666666667,2 out of 3,"['stick', 'thing']","['stick', 'around', 'thing']"
+45,I'm living here.,7.95,4.71,6.5,positive,6.386666666666667,1 out of 1,['live'],['live']
+46,"I'm so glad you're going to stay, I'm so glad you're going to be here.",6.776,4.056,6.074,positive,5.635333333333333,5 out of 5,"['glad', 'go', 'stay', 'glad', 'go']","['glad', 'go', 'stay', 'glad', 'go']"
+47,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+48,Woo.,6.37,4.33,5.32,positive,5.34,1 out of 1,['woo'],['woo']
+49,F:Yay.,nan,nan,nan,nan,nan,0,nan,"['f', 'yay']"
+50,Ses01F_impro07_F007 [063.0200-072.7500]: It's a relief too.,6.63,4.42,5.64,positive,5.5633333333333335,1 out of 1,['relief'],['relief']
+51,I mean I was thinking I was going to have to pack up all of my stuff but yeah.,5.368,4.208,5.376,neutral,4.984000000000001,5 out of 6,"['mean', 'think', 'go', 'pack', 'stuff']","['mean', 'think', 'go', 'pack', 'stuff', 'yeah']"
+52,Hooray for U.S.C.,nan,nan,nan,nan,nan,0,nan,['hooray']
+53,Ses01F_impro07_M008 [064.6275-067.2400]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+54,Big time.,5.619999999999999,3.87,4.985,neutral,4.824999999999999,2 out of 2,"['big', 'time']","['big', 'time']"
+55,Ses01F_impro07_M009 [067.7250-074.0325]: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+56,Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+57,Yay.,nan,nan,nan,nan,nan,0,nan,['yay']
+58,So what major?,5.52,4.24,5.28,neutral,5.013333333333333,1 out of 1,['major'],['major']
+59,What are you doing?,nan,nan,nan,nan,nan,0,nan,[]
+60,Ses01F_impro07_F008 [073.5050-080.7800]: Umm.,nan,nan,nan,nan,nan,0,nan,['umm']
+61,It's...It's uhh...It's Critical Studies.,4.865,3.75,4.775,neutral,4.463333333333334,2 out of 3,"['critical', 'study']","['uhh', 'critical', 'study']"
+62,"It's a really prestigious program, so they say.",5.96,4.52,6.56,neutral,5.68,3 out of 4,"['prestigious', 'program', 'say']","['really', 'prestigious', 'program', 'say']"
+63,"Ses01F_impro07_M010 [076.6200-078.1700]: Oh, okay.",nan,nan,nan,nan,nan,0,nan,"['oh', 'okay']"
+64,Ses01F_impro07_M011 [078.8400-081.3600]: Ooh.,nan,nan,nan,nan,nan,0,nan,['ooh']
+65,Fancy.,7.43,5.42,7.16,positive,6.669999999999999,1 out of 1,['fancy'],['fancy']
+66,Ses01F_impro07_F009 [081.0275-083.3050]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+67,I'm not sure.,3.3600000000000003,6.52,3.1799999999999997,negative,4.353333333333333,1 out of 1,['neg-sure'],['sure']
+68,Ses01F_impro07_M012 [082.6575-087.1025]: Is this a Masters or a P.h.D.?,5.72,4.4,4.17,neutral,4.763333333333334,1 out of 1,['master'],['master']
+69,Or can you...?,nan,nan,nan,nan,nan,0,nan,[]
+70,Nice,6.95,3.53,6.47,positive,5.6499999999999995,1 out of 1,['nice'],['nice']
+71,Ses01F_impro07_F010 [084.5100-088.3100]: Umm...P.h.D.,nan,nan,nan,nan,nan,0,nan,['umm']
+72,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+73,Ses01F_impro07_M013 [087.5875-090.6500]: That's good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+74,"Don't you have to like teach a class, too, when you do that?",6.743333333333333,4.1,5.766666666666667,positive,5.536666666666666,3 out of 3,"['like', 'teach', 'class']","['like', 'teach', 'class']"
+75,"Ses01F_impro07_F011 [089.5600-094.8150]: Um, yeah, yeah.",nan,nan,nan,nan,nan,0,nan,"['um', 'yeah', 'yeah']"
+76,I'm a TA for two sessions.,5.699999999999999,3.355,5.13,neutral,4.728333333333333,2 out of 3,"['two', 'session']","['ta', 'two', 'session']"
+77,Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+78,Ses01F_impro07_M014 [094.2900-099.3700]: Teacher.,7.37,2.9,5.95,positive,5.406666666666666,1 out of 1,['teacher'],['teacher']
+79,"Mrs. Nash, I have a question.",6.36,3.67,5.88,positive,5.303333333333334,1 out of 2,['question'],"['nash', 'question']"
+80,Ses01F_impro07_F012 [094.8600-100.7400]: So I get to mold young minds.,5.4525,4.145,5.46,neutral,5.019166666666667,4 out of 4,"['get', 'mold', 'young', 'mind']","['get', 'mold', 'young', 'mind']"
+81,Mrs.?,nan,nan,nan,nan,nan,0,nan,[]
+82,That's my mother.,7.53,4.73,6.11,positive,6.123333333333334,1 out of 1,['mother'],['mother']
+83,Ses01F_impro07_M015 [099.9875-110.5400]: You have to get married.,6.59,4.595,5.66,positive,5.614999999999999,2 out of 2,"['get', 'marry']","['get', 'marry']"
+84,Well you are married to Chuck.,6.074999999999999,4.734999999999999,5.355,positive,5.388333333333333,2 out of 3,"['marry', 'chuck']","['well', 'marry', 'chuck']"
+85,You're Mrs. Nash.,nan,nan,nan,nan,nan,0,nan,['nash']
+86,Not to be confused with Mrs.,5.5,6.05,5.61,neutral,5.72,1 out of 1,['neg-confuse'],['confuse']
+87,Dash which is the popular seasoning.,5.713333333333333,3.86,5.696666666666667,neutral,5.09,3 out of 3,"['dash', 'popular', 'seasoning']","['dash', 'popular', 'seasoning']"
+88,F:[GARBAGE],2.88,3.84,5.15,negative,3.956666666666667,1 out of 2,['garbage'],"['f', 'garbage']"
+89,Ses01F_impro07_F013 [103.2600-110.4600]: I would be like- Oh.,6.675000000000001,4.105,6.11,positive,5.63,2 out of 3,"['would', 'like']","['would', 'like', 'oh']"
+90,"Right, right, right.",7.32,5.0,7.16,positive,6.493333333333333,3 out of 3,"['right', 'right', 'right']","['right', 'right', 'right']"
+91,Ses01F_impro07_M016 [110.5400-116.2800]: Mrs. Nash.,nan,nan,nan,nan,nan,0,nan,['nash']
+92,"That's so awesome, though.",7.86,6.05,7.11,positive,7.006666666666667,1 out of 2,['awesome'],"['awesome', 'though']"
+93,Ses01F_impro07_F014 [115.6800-126.4100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+94,Yeah I'm excited.,7.79,6.61,5.79,positive,6.73,1 out of 2,['excite'],"['yeah', 'excite']"
+95,Hooray.,nan,nan,nan,nan,nan,0,nan,['hooray']
+96,"And then I'll be a millionaire once I graduate, you understand?",7.086666666666667,4.726666666666667,6.54,positive,6.1177777777777775,3 out of 3,"['millionaire', 'graduate', 'understand']","['millionaire', 'graduate', 'understand']"
+97,Because that's the way it works.,5.48,3.615,5.475,neutral,4.8566666666666665,2 out of 2,"['way', 'work']","['way', 'work']"
+98,Ses01F_impro07_M017 [116.2800-119.8507]: Yay...School's fun.,6.89,5.445,6.46,positive,6.265000000000001,2 out of 3,"['school', 'fun']","['yay', 'school', 'fun']"
+99,"Ses01F_impro07_M018 [123.2575-128.0400]: Of course, right.",7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['course', 'right']"
+100,"That's where the real money is, being a student.",6.866666666666666,5.053333333333334,6.333333333333333,positive,6.084444444444444,3 out of 3,"['real', 'money', 'student']","['real', 'money', 'student']"
+101,Ses01F_impro07_F015 [127.4300-130.3175]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+102,Totally.,nan,nan,nan,nan,nan,0,nan,['totally']
+103,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+104,Ses01F_impro07_M019 [128.5400-141.6850]: That's how you get the big bucks.,6.076666666666666,4.233333333333333,5.55,positive,5.286666666666666,3 out of 3,"['get', 'big', 'buck']","['get', 'big', 'buck']"
+105,Are you messing with the chair?,4.695,3.7800000000000002,4.085,neutral,4.186666666666667,2 out of 2,"['mess', 'chair']","['mess', 'chair']"
+106,Don't ruin it.,7.68,4.6,4.84,positive,5.706666666666666,1 out of 1,['neg-ruin'],['ruin']
+107,Ses01F_impro07_F016 [133.3125-142.3625]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+108,"I made such a mess of it, the entire time.",5.215,3.6575,4.6325,neutral,4.501666666666667,4 out of 4,"['make', 'mess', 'entire', 'time']","['make', 'mess', 'entire', 'time']"
+109,"The last three things I've done, I've ruined everything, I think.",5.077999999999999,3.926,5.774,neutral,4.925999999999999,5 out of 7,"['three', 'thing', 'do', 'ruin', 'think']","['last', 'three', 'thing', 'do', 'ruin', 'everything', 'think']"
+110,Mm-hmm.,nan,nan,nan,nan,nan,0,nan,[]
+111,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']

@@ -1,0 +1,73 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses04M_impro06_F000 [009.0835-012.2600]: Hey, how you doing?",nan,nan,nan,nan,nan,0,nan,['hey']
+2,Ses04M_impro06_F001 [014.6600-017.1300]: I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+3,Ses04M_impro06_M000 [017.0200-019.1226]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+4,"Ses04M_impro06_F002 [017.2300-022.5100]: I know- I know there's nothing I can say that will really help, but--",6.625,3.8,6.3325,positive,5.585833333333333,4 out of 6,"['know', 'know', 'say', 'help']","['know', 'know', 'nothing', 'say', 'really', 'help']"
+5,Ses04M_impro06_M001 [022.1200-033.7100]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+6,I just -- I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+7,"It's just weird because you have somebody who's, you know,",5.955,3.765,5.265000000000001,neutral,4.995,2 out of 3,"['weird', 'know']","['weird', 'somebody', 'know']"
+8,Ses04M_impro06_M002 [034.1100-044.5600]: a major part of your life and then they're gone.,5.8225,4.5125,5.4275,neutral,5.254166666666667,4 out of 4,"['major', 'part', 'life', 'go']","['major', 'part', 'life', 'go']"
+9,And I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+10,That's not really -- it's never really happened to me before.,5.5,3.43,5.53,neutral,4.82,1 out of 4,['happen'],"['really', 'never', 'really', 'happen']"
+11,Ses04M_impro06_F003 [044.5600-049.5000]: I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+12,It's never easy.,7.47,3.82,6.79,positive,6.026666666666666,1 out of 2,['easy'],"['never', 'easy']"
+13,Ses04M_impro06_M003 [049.0336-050.6300]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+14,"Ses04M_impro06_F004 [051.4800-056.8564]: But, I'm here if there's anything you need.",5.45,3.67,5.06,neutral,4.726666666666667,1 out of 2,['need'],"['anything', 'need']"
+15,"I mean, you just have to ask.",4.19,4.145,5.23,neutral,4.521666666666667,2 out of 2,"['mean', 'ask']","['mean', 'ask']"
+16,I know --,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+17,Ses04M_impro06_M004 [056.5200-057.8700]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']
+18,Ses04M_impro06_F005 [057.3300-060.5700]: --it doesn't really do anything.,nan,nan,nan,nan,nan,0,nan,"['really', 'anything']"
+19,But--,nan,nan,nan,nan,nan,0,nan,[]
+20,Ses04M_impro06_M005 [063.9400-069.0400]: I just -- it's just not fair.,2.8600000000000003,6.71,3.88,negative,4.483333333333333,1 out of 1,['neg-fair'],['fair']
+21,Ses04M_impro06_F006 [072.0300-076.6200]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+22,It never is.,nan,nan,nan,nan,nan,0,nan,['never']
+23,"Ses04M_impro06_F007 [080.9000-086.4800]: How's, um -- how's his parents doing?",6.73,4.14,5.0,positive,5.29,1 out of 2,['parent'],"['um', 'parent']"
+24,"Ses04M_impro06_M006 [091.1100-097.4300]: I mean, they're, you know, they're upset.",3.9000000000000004,4.18,4.75,negative,4.276666666666666,3 out of 3,"['mean', 'know', 'upset']","['mean', 'know', 'upset']"
+25,"It's like you know, they",7.130000000000001,3.8200000000000003,6.03,positive,5.66,2 out of 2,"['like', 'know']","['like', 'know']"
+26,Ses04M_impro06_M007 [100.6700-105.4600]: feel the same way everybody else does.,6.09,3.4749999999999996,5.165,positive,4.91,2 out of 4,"['feel', 'way']","['feel', 'way', 'everybody', 'else']"
+27,F: Yeah.,nan,nan,nan,nan,nan,0,nan,"['f', 'yeah']"
+28,"Ses04M_impro06_F008 [111.0200-118.8700]: I mean, what do you want to do?",4.215,5.05,4.779999999999999,neutral,4.681666666666667,2 out of 2,"['mean', 'want']","['mean', 'want']"
+29,Do you want to- do you want to talk about it?,6.213333333333333,4.653333333333333,5.74,positive,5.535555555555557,3 out of 3,"['want', 'want', 'talk']","['want', 'want', 'talk']"
+30,Do you-,nan,nan,nan,nan,nan,0,nan,[]
+31,"Ses04M_impro06_M008 [118.6000-130.7100]: [BREATHING] I mean, there's nothing really to talk about.",4.535,4.095,5.305,neutral,4.645,2 out of 5,"['mean', 'talk']","['breathing', 'mean', 'nothing', 'really', 'talk']"
+32,He's gone and I'll never see him again.,6.295,4.38,5.665,positive,5.446666666666666,2 out of 3,"['go', 'see']","['go', 'never', 'see']"
+33,"Ses04M_impro06_F009 [132.7200-144.7998]: Well I know it's not a lot of help or anything, but at least you got to know him.",6.67,3.6100000000000003,6.025,positive,5.435,4 out of 8,"['know', 'help', 'get', 'know']","['well', 'know', 'lot', 'help', 'anything', 'least', 'get', 'know']"
+34,"I mean, at least you had the time with him that you did.",4.015,4.109999999999999,4.265000000000001,neutral,4.13,2 out of 3,"['mean', 'time']","['mean', 'least', 'time']"
+35,Ses04M_impro06_M009 [145.3900-148.1600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+36,"Ses04M_impro06_F010 [147.1800-150.3400]: I mean, we can be grateful for that.",4.965,4.55,5.585,neutral,5.033333333333334,2 out of 2,"['mean', 'grateful']","['mean', 'grateful']"
+37,"Ses04M_impro06_M010 [150.5800-163.4500]: Yeah, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['yeah', 'know']"
+38,Sometimes I wish I didn't know him.,5.16,5.07,5.359999999999999,neutral,5.196666666666666,2 out of 3,"['wish', 'neg-know']","['sometimes', 'wish', 'know']"
+39,So I wouldn't--,5.91,3.81,5.94,neutral,5.22,1 out of 1,['would'],['would']
+40,Ses04M_impro06_F011 [160.9700-166.1600]: You feel that way now because you're upset.,4.876666666666667,3.8133333333333335,4.876666666666667,neutral,4.522222222222223,3 out of 3,"['feel', 'way', 'upset']","['feel', 'way', 'upset']"
+41,But you don't really think that.,3.3200000000000003,6.25,3.5,negative,4.3566666666666665,1 out of 2,['neg-think'],"['really', 'think']"
+42,Ses04M_impro06_F012 [175.6800-190.6900]: It'll get better.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 2,['get'],"['get', 'better']"
+43,"I know it doesn't help, but it will get better and you will remember all of the good things that you guys had; all of the memories that you have with him that were happy and you'll be grateful for those.",6.5,4.198,5.775,positive,5.491,10 out of 11,"['know', 'neg-help', 'get', 'remember', 'good', 'thing', 'guy', 'memory', 'happy', 'grateful']","['know', 'help', 'get', 'better', 'remember', 'good', 'thing', 'guy', 'memory', 'happy', 'grateful']"
+44,M: Mmhmm.,nan,nan,nan,nan,nan,0,nan,['mmhmm']
+45,Ses04M_impro06_M011 [191.4800-198.5200]: This is just -- this is a terrible life.,4.39,4.99,4.645,neutral,4.675,2 out of 2,"['terrible', 'life']","['terrible', 'life']"
+46,I just don't understand.,3.3200000000000003,6.48,3.29,negative,4.363333333333333,1 out of 1,['neg-understand'],['understand']
+47,"Ses04M_impro06_F013 [198.8400-201.8100]: Just life, in general?",6.0,4.65,5.5649999999999995,neutral,5.405,2 out of 2,"['life', 'general']","['life', 'general']"
+48,"Ses04M_impro06_M012 [202.1400-210.2100]: I mean, it's just not fair.",2.6450000000000005,5.76,4.025,negative,4.1433333333333335,2 out of 2,"['mean', 'neg-fair']","['mean', 'fair']"
+49,"Like, I don't know.",5.3100000000000005,5.58,5.25,neutral,5.38,2 out of 2,"['like', 'neg-know']","['like', 'know']"
+50,Why people -,5.7,3.77,5.4,neutral,4.956666666666667,1 out of 1,['people'],['people']
+51,"Ses04M_impro06_M013 [211.4600-220.3300]: there should just be some sort of rule that people don't die until they're older, 'cause then, at least, it's expected.",6.12,3.85,5.155,positive,5.041666666666667,4 out of 7,"['rule', 'people', 'neg-die', 'expect']","['sort', 'rule', 'people', 'die', 'older', 'least', 'expect']"
+52,Ses04M_impro06_F014 [220.5100-225.9400]: I agree.,7.17,3.62,6.94,positive,5.91,1 out of 1,['agree'],['agree']
+53,"If I knew how to make that happen, I would certainly help you.",6.2540000000000004,3.688,6.072,positive,5.338,5 out of 6,"['know', 'make', 'happen', 'would', 'help']","['know', 'make', 'happen', 'would', 'certainly', 'help']"
+54,Ses04M_impro06_M014 [235.9200-239.4900]: I don't know what to do.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+55,Ses04M_impro06_F015 [241.0200-246.6700]: When's the service?,6.83,2.95,5.33,positive,5.036666666666667,1 out of 1,['service'],['service']
+56,Can- can we help?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+57,"Is there anything, I mean--",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['anything', 'mean']"
+58,"Ses04M_impro06_M015 [246.1300-252.7800]: I mean, you- you can go.",4.375,4.835,4.75,neutral,4.653333333333333,2 out of 2,"['mean', 'go']","['mean', 'go']"
+59,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+60,I don't know what else.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['know', 'else']"
+61,Ses04M_impro06_M016 [255.5500-263.2500]: I hope it rains.,7.03,4.29,5.515000000000001,positive,5.611666666666667,2 out of 2,"['hope', 'rain']","['hope', 'rain']"
+62,Somehow that'll make me feel more comfortable.,6.676666666666667,3.3666666666666667,6.203333333333333,positive,5.415555555555556,3 out of 4,"['make', 'feel', 'comfortable']","['somehow', 'make', 'feel', 'comfortable']"
+63,"Ses04M_impro06_F016 [265.5400-270.3748]: Seems like if the whole world's sad, then it's okay for you to be.",5.462,3.8320000000000003,5.202,neutral,4.832,5 out of 6,"['seem', 'like', 'whole', 'world', 'sad']","['seem', 'like', 'whole', 'world', 'sad', 'okay']"
+64,Ses04M_impro06_M017 [270.3600-273.1800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+65,Ses04M_impro06_M018 [281.0000-288.3700]: I just wish there was some way to just bring him back to life magically.,6.034,3.75,5.632,positive,5.1386666666666665,5 out of 6,"['wish', 'way', 'bring', 'back', 'life']","['wish', 'way', 'bring', 'back', 'life', 'magically']"
+66,Ses04M_impro06_F017 [289.1700-291.1846]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+67,"Ses04M_impro06_M019 [290.5400-300.1000]: Just, you know, some thing; some genie.",6.156666666666666,3.6933333333333334,5.503333333333334,positive,5.1177777777777775,3 out of 3,"['know', 'thing', 'genie']","['know', 'thing', 'genie']"
+68,I need to find a genie bottle.,5.8675,3.73,5.625,neutral,5.074166666666667,4 out of 4,"['need', 'find', 'genie', 'bottle']","['need', 'find', 'genie', 'bottle']"
+69,Ses04M_impro06_F018 [304.4700-311.0742]: I don't have any magic answers.,4.465,3.975,5.3100000000000005,neutral,4.583333333333333,2 out of 2,"['neg-magic', 'answer']","['magic', 'answer']"
+70,"But,",nan,nan,nan,nan,nan,0,nan,[]
+71,"Ses04M_impro06_F019 [311.1200-319.5200]: I mean, as- as cliche as it is, as long as people who loved him remember him, then it's not a waste, you know.",6.140000000000001,4.38,5.5,positive,5.34,6 out of 8,"['mean', 'people', 'love', 'remember', 'neg-waste', 'know']","['mean', 'cliche', 'long', 'people', 'love', 'remember', 'waste', 'know']"
+72,Ses04M_impro06_M020 [320.6100-323.1300]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']

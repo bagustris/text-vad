@@ -1,0 +1,143 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01M_impro07_M000 [002.6812-007.9800]: Check this out.,6.55,3.38,4.67,positive,4.866666666666666,1 out of 1,['check'],['check']
+2,You know how I've told you I've been really into like softball recently?,6.265000000000001,3.9,5.6000000000000005,positive,5.255,4 out of 6,"['know', 'tell', 'like', 'softball']","['know', 'tell', 'really', 'like', 'softball', 'recently']"
+3,Ses01M_impro07_F000 [007.6300-008.5700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+4,"Ses01M_impro07_M001 [008.2200-014.7500]: Well, this is totally random, I got this full ride scholarship to go to U.S.C next year to play softball.",6.182222222222222,4.2555555555555555,5.623333333333333,positive,5.353703703703704,9 out of 12,"['random', 'get', 'full', 'ride', 'scholarship', 'go', 'year', 'play', 'softball']","['well', 'totally', 'random', 'get', 'full', 'ride', 'scholarship', 'go', 'next', 'year', 'play', 'softball']"
+5,Ses01M_impro07_F001 [013.9500-021.1200]: [LAUGHTER].,8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+6,For softball?,5.53,4.1,5.4,neutral,5.01,1 out of 1,['softball'],['softball']
+7,That's unbelievable.,5.57,5.4,5.37,neutral,5.446666666666666,1 out of 1,['unbelievable'],['unbelievable']
+8,Is it slow pitch?,4.76,3.1550000000000002,5.57,neutral,4.495,2 out of 2,"['slow', 'pitch']","['slow', 'pitch']"
+9,Ses01M_impro07_M002 [015.5400-020.6700]: For softball.,5.53,4.1,5.4,neutral,5.01,1 out of 1,['softball'],['softball']
+10,They're going to pay me to go to school.,6.07,4.6325,5.7175,positive,5.473333333333334,4 out of 4,"['go', 'pay', 'go', 'school']","['go', 'pay', 'go', 'school']"
+11,Isn't that awesome?,2.1399999999999997,3.95,2.8899999999999997,negative,2.9933333333333336,1 out of 1,['neg-awesome'],['awesome']
+12,Ses01M_impro07_M003 [020.9200-034.3800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+13,"Well, I don't--well yeah I can pitch, I'm not like the pitcher though.",4.126666666666666,4.976666666666667,4.463333333333333,neutral,4.522222222222221,3 out of 7,"['pitch', 'neg-like', 'neg-pitcher']","['well', 'well', 'yeah', 'pitch', 'like', 'pitcher', 'though']"
+14,I'm like the pinch hitter guy I mostly just hit.,4.898,4.716,5.426,neutral,5.013333333333334,5 out of 6,"['like', 'pinch', 'hitter', 'guy', 'hit']","['like', 'pinch', 'hitter', 'guy', 'mostly', 'hit']"
+15,"But I guess I'm going to have to... Yeah, and then I play shortstop too but...",6.0875,4.2325,5.58,positive,5.3,4 out of 5,"['guess', 'go', 'play', 'shortstop']","['guess', 'go', 'yeah', 'play', 'shortstop']"
+16,It's so ex- The good news is I get to stay here.,5.556,3.974,5.25,neutral,4.926666666666667,5 out of 5,"['ex', 'good', 'news', 'get', 'stay']","['ex', 'good', 'news', 'get', 'stay']"
+17,Ses01M_impro07_F002 [023.8800-025.2500]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+18,Ses01M_impro07_F003 [027.0600-029.8100]: Pinch hitting softball.,4.326666666666667,4.673333333333334,5.1066666666666665,neutral,4.702222222222222,3 out of 3,"['pinch', 'hit', 'softball']","['pinch', 'hit', 'softball']"
+19,Ses01M_impro07_F004 [030.3100-033.0800]: That is incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+20,Ses01M_impro07_F005 [033.7200-037.2700]: That's amazing.,7.72,6.05,6.83,positive,6.866666666666667,1 out of 1,['amazing'],['amazing']
+21,They pay for everything?,6.23,4.24,6.33,positive,5.6000000000000005,1 out of 2,['pay'],"['pay', 'everything']"
+22,Ses01M_impro07_M004 [034.7600-038.6600]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+23,"For softball, yeah.",5.53,4.1,5.4,neutral,5.01,1 out of 2,['softball'],"['softball', 'yeah']"
+24,"Ses01M_impro07_F006 [037.8800-042.5825]: Your housing, books, everything?",6.449999999999999,2.9299999999999997,6.265000000000001,positive,5.215,2 out of 3,"['housing', 'book']","['housing', 'book', 'everything']"
+25,That is incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+26,"Ses01M_impro07_M005 [038.7800-048.2800]: Yeah, everything.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'everything']"
+27,"Every like- free ride and I get to, you know, like be on like a Trojans sports team too.",6.956666666666667,4.296666666666667,6.087777777777778,positive,5.78037037037037,9 out of 11,"['like', 'free', 'ride', 'get', 'know', 'like', 'like', 'sport', 'team']","['every', 'like', 'free', 'ride', 'get', 'know', 'like', 'like', 'trojan', 'sport', 'team']"
+28,And it's like cool.,7.130000000000001,3.915,6.36,positive,5.801666666666667,2 out of 2,"['like', 'cool']","['like', 'cool']"
+29,Isn't it awesome?,2.1399999999999997,3.95,2.8899999999999997,negative,2.9933333333333336,1 out of 1,['neg-awesome'],['awesome']
+30,Ses01M_impro07_F007 [045.1450-049.2825]: That is incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+31,Do you get like a per diem?,6.765000000000001,4.035,5.965,positive,5.588333333333334,2 out of 4,"['get', 'like']","['get', 'like', 'per', 'diem']"
+32,Ses01M_impro07_M006 [048.7300-052.8600]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+33,I should ask.,5.95,3.48,6.29,neutral,5.239999999999999,1 out of 1,['ask'],['ask']
+34,"Yeah, I will.",nan,nan,nan,nan,nan,0,nan,['yeah']
+35,Ses01M_impro07_F008 [049.6400-052.1000]: You should...You should look into that.,5.95,3.76,5.88,neutral,5.196666666666666,1 out of 1,['look'],['look']
+36,"Ses01M_impro07_F009 [052.4600-057.4562]: That is amazing, congratulations.",7.51,6.05,6.755,positive,6.771666666666666,2 out of 2,"['amazing', 'congratulation']","['amazing', 'congratulation']"
+37,Good for you.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']
+38,Ses01M_impro07_M007 [054.6300-056.3100]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+39,Ses01M_impro07_M008 [056.5300-061.3500]: But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place.,6.253333333333334,4.3125,5.798333333333334,positive,5.454722222222223,12 out of 14,"['neg-know', 'neg-want', 'live', 'housing', 'give', 'think', 'want', 'know', 'like', 'get', 'like', 'place']","['know', 'want', 'live', 'housing', 'give', 'though', 'think', 'want', 'know', 'like', 'get', 'like', 'nicer', 'place']"
+40,Ses01M_impro07_F010 [058.7800-060.2100]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+41,"Ses01M_impro07_F011 [060.8100-066.7700]: Yeah, that you probably.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'probably']"
+42,You should see one of these Victorian houses around by.,6.516666666666667,3.506666666666667,5.99,positive,5.337777777777778,3 out of 5,"['see', 'one', 'house']","['see', 'one', 'victorian', 'house', 'around']"
+43,Ses01M_impro07_M009 [061.5900-063.5600]: Where should I move?,4.95,4.24,5.12,neutral,4.7700000000000005,1 out of 1,['move'],['move']
+44,Ses01M_impro07_M010 [066.3983-078.9000]: That's a really good idea.,7.47,4.16,6.26,positive,5.963333333333334,2 out of 3,"['good', 'idea']","['really', 'good', 'idea']"
+45,Or I could go to like Santa Monica.,6.880000000000001,4.630000000000001,5.805,positive,5.771666666666667,2 out of 5,"['go', 'like']","['could', 'go', 'like', 'santa', 'monica']"
+46,Go beach.,6.765000000000001,4.98,5.515000000000001,positive,5.753333333333334,2 out of 2,"['go', 'beach']","['go', 'beach']"
+47,"Venice beach, yeah a little dirty though.",5.43,4.783333333333333,5.31,neutral,5.174444444444444,3 out of 6,"['beach', 'little', 'dirty']","['venice', 'beach', 'yeah', 'little', 'dirty', 'though']"
+48,I don't want to go to Venice beach.,4.963333333333333,4.983333333333333,4.993333333333333,neutral,4.9799999999999995,3 out of 4,"['neg-want', 'neg-go', 'beach']","['want', 'go', 'venice', 'beach']"
+49,But - Malibu.,nan,nan,nan,nan,nan,0,nan,['malibu']
+50,All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+51,Ses01M_impro07_F012 [068.6400-072.3500]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+52,Venice beach.,7.21,5.1,5.7,positive,6.003333333333333,1 out of 2,['beach'],"['venice', 'beach']"
+53,F: Mmhmm.,nan,nan,nan,nan,nan,0,nan,"['f', 'mmhmm']"
+54,"Ses01M_impro07_F013 [072.8400-076.2300]: Oh, you don't like that.",2.5599999999999996,5.6,3.7199999999999998,negative,3.9599999999999995,1 out of 2,['neg-like'],"['oh', 'like']"
+55,You're west-sider?,nan,nan,nan,nan,nan,0,nan,[]
+56,Ses01M_impro07_F014 [076.5900-087.8575]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+57,That would be way too much of a commute you can't do that.,5.32,3.2866666666666666,5.12,neutral,4.575555555555556,3 out of 5,"['would', 'way', 'commute']","['would', 'way', 'much', 'commute', 'ca']"
+58,"Especially- I know especially from--I don't know, what I was going to say, I don't know.",5.082,5.21,5.286,neutral,5.192666666666667,5 out of 7,"['know', 'neg-know', 'go', 'say', 'neg-know']","['especially', 'know', 'especially', 'know', 'go', 'say', 'know']"
+59,Ses01M_impro07_M011 [080.6825-083.8200]: Professional softball player Malibu.,5.79,4.816666666666666,5.94,neutral,5.515555555555555,3 out of 4,"['professional', 'softball', 'player']","['professional', 'softball', 'player', 'malibu']"
+60,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+61,Ses01M_impro07_M012 [087.4300-090.4400]: From where?,nan,nan,nan,nan,nan,0,nan,[]
+62,Huh?,nan,nan,nan,nan,nan,0,nan,['huh']
+63,Well I'm from San Francisco.,nan,nan,nan,nan,nan,0,nan,"['well', 'san', 'francisco']"
+64,Ses01M_impro07_F015 [088.4125-092.4100]: I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+65,Commuting from what Malibu that would be ridiculous.,4.573333333333333,4.203333333333333,4.77,neutral,4.515555555555555,3 out of 4,"['commute', 'would', 'ridiculous']","['commute', 'malibu', 'would', 'ridiculous']"
+66,"Ses01M_impro07_M013 [090.9200-102.6100]: Oh yeah, that would be.",5.91,3.81,5.94,neutral,5.22,1 out of 3,['would'],"['oh', 'yeah', 'would']"
+67,"Well, depends on what type of car you had, though too.",5.8966666666666665,3.783333333333333,5.836666666666667,neutral,5.172222222222222,3 out of 5,"['depend', 'type', 'car']","['well', 'depend', 'type', 'car', 'though']"
+68,I guess it would be worth it.,5.545,3.835,5.415,neutral,4.931666666666666,2 out of 3,"['guess', 'would']","['guess', 'would', 'worth']"
+69,helicopter.,5.55,6.11,6.17,neutral,5.9433333333333325,1 out of 1,['helicopter'],['helicopter']
+70,"Yeah, helicopter.",5.55,6.11,6.17,neutral,5.9433333333333325,1 out of 2,['helicopter'],"['yeah', 'helicopter']"
+71,"There is a helipad there, right?",5.92,5.045,6.555,neutral,5.84,2 out of 2,"['helipad', 'right']","['helipad', 'right']"
+72,"Yeah, exactly.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'exactly']"
+73,Ses01M_impro07_F016 [095.2600-101.5000]: Oh yeah.,nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah']"
+74,He'd drop you right off at practice?,5.756666666666667,4.056666666666667,6.03,neutral,5.2811111111111115,3 out of 3,"['drop', 'right', 'practice']","['drop', 'right', 'practice']"
+75,Ses01M_impro07_F017 [101.6200-109.0200]: Do you--are you one of those like four a clock in the morning practices?,6.095,3.376666666666667,5.865,positive,5.112222222222223,6 out of 6,"['one', 'like', 'four', 'clock', 'morning', 'practice']","['one', 'like', 'four', 'clock', 'morning', 'practice']"
+76,Is it--that's more like swimming and- --ballet and things like that.,6.898000000000001,4.216,5.884,positive,5.666,5 out of 5,"['like', 'swimming', 'ballet', 'thing', 'like']","['like', 'swimming', 'ballet', 'thing', 'like']"
+77,Ses01M_impro07_M014 [106.5475-112.3500]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+78,I think it's in the afternoon 'cause I mean can't be too early 'cause then you can't see the ball.,4.676,4.9319999999999995,4.982,neutral,4.863333333333333,5 out of 8,"['think', 'afternoon', 'mean', 'neg-see', 'neg-ball']","['think', 'afternoon', 'mean', 'ca', 'early', 'ca', 'see', 'ball']"
+79,Ses01M_impro07_F018 [111.5900-116.3400]: They have those neon--softballs.,6.005000000000001,4.33,5.51,positive,5.281666666666667,2 out of 2,"['neon', 'softball']","['neon', 'softball']"
+80,They're like day-glow you can see them anywhere.,6.855,4.15,6.140000000000001,positive,5.715000000000001,2 out of 3,"['like', 'see']","['like', 'see', 'anywhere']"
+81,"Ses01M_impro07_M015 [115.6100-125.3625]: Yeah, but no.",nan,nan,nan,nan,nan,0,nan,['yeah']
+82,"Well, they have a night games but you know there's more like night games they're not like morning games, you know.",5.7379999999999995,4.4719999999999995,5.149,neutral,5.119666666666666,10 out of 11,"['night', 'game', 'know', 'like', 'night', 'game', 'neg-like', 'neg-morning', 'neg-game', 'know']","['well', 'night', 'game', 'know', 'like', 'night', 'game', 'like', 'morning', 'game', 'know']"
+83,I guess it's kind of same thing.,6.17,3.493333333333333,5.973333333333334,positive,5.2122222222222225,3 out of 3,"['guess', 'kind', 'thing']","['guess', 'kind', 'thing']"
+84,Ses01M_impro07_F019 [116.5000-119.0250]: I'm surprised you don't know that.,4.875,6.355,4.47,neutral,5.233333333333333,2 out of 2,"['surprised', 'neg-know']","['surprised', 'know']"
+85,Ses01M_impro07_F020 [121.1500-125.2500]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+86,That is incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+87,Is it--,nan,nan,nan,nan,nan,0,nan,[]
+88,Ses01M_impro07_F021 [125.3100-132.5725]: do they have a--is it a co-ed softball team?,5.720000000000001,3.7399999999999998,5.965,neutral,5.141666666666667,2 out of 2,"['softball', 'team']","['softball', 'team']"
+89,I mean... Really?,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['mean', 'really']"
+90,"You know, I didn't even know that they have that.",5.0,5.0,5.0,neutral,5.0,2 out of 3,"['know', 'neg-know']","['know', 'even', 'know']"
+91,Ses01M_impro07_M016 [127.5200-131.3900]: No it's all boys.,5.84,4.11,5.5,neutral,5.1499999999999995,1 out of 1,['boy'],['boy']
+92,All boys' softball team.,5.76,3.8633333333333333,5.8100000000000005,neutral,5.144444444444445,3 out of 3,"['boy', 'softball', 'team']","['boy', 'softball', 'team']"
+93,Ses01M_impro07_M017 [131.9500-134.6200]: They do it's--believe me it's huge.,6.385,3.785,5.725,positive,5.298333333333333,2 out of 2,"['believe', 'huge']","['believe', 'huge']"
+94,Ses01M_impro07_F022 [132.8600-138.1200]: Who do you play?,7.55,3.81,6.29,positive,5.883333333333333,1 out of 1,['play'],['play']
+95,Like do--are you like... nationally ranked?,6.713333333333334,4.156666666666667,6.043333333333334,positive,5.637777777777778,3 out of 4,"['like', 'like', 'rank']","['like', 'like', 'nationally', 'rank']"
+96,Ses01M_impro07_M018 [135.3050-141.0100]: I just got into it.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 1,['get'],['get']
+97,I just kind of fell into it.,7.78,3.19,7.62,positive,6.196666666666666,1 out of 2,['kind'],"['kind', 'fell']"
+98,Literally I was walking around and...,6.77,3.24,5.83,positive,5.28,1 out of 3,['walk'],"['literally', 'walk', 'around']"
+99,Ses01M_impro07_F023 [139.0700-141.8000]: That is unbelievable.,5.57,5.4,5.37,neutral,5.446666666666666,1 out of 1,['unbelievable'],['unbelievable']
+100,Ses01M_impro07_M019 [141.3400-142.6800]: It's pretty wild.,6.82,5.7,6.21,positive,6.243333333333333,2 out of 2,"['pretty', 'wild']","['pretty', 'wild']"
+101,Ses01M_impro07_F024 [141.9900-144.4850]: I would put that right up there with--ping-pong.,6.1066666666666665,4.223333333333334,6.346666666666667,positive,5.558888888888888,3 out of 3,"['would', 'put', 'right']","['would', 'put', 'right']"
+102,"Ses01M_impro07_M020 [143.9800-147.8400]: Yeah, well I doubt [GARBAGE] ping pong [GARBAGE]",3.952,4.02,4.868,negative,4.28,5 out of 7,"['doubt', 'garbage', 'ping', 'pong', 'garbage']","['yeah', 'well', 'doubt', 'garbage', 'ping', 'pong', 'garbage']"
+103,Ses01M_impro07_F025 [144.6600-148.2650]: I mean not to denigrate what you are doing.,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['mean', 'denigrate']"
+104,I think that's great.,7.09,3.945,6.575,positive,5.87,2 out of 2,"['think', 'great']","['think', 'great']"
+105,Ses01M_impro07_M021 [147.9100-150.1225]: Oh you mean it's not really sport that what you're saying?,3.796666666666667,4.846666666666667,4.946666666666666,negative,4.53,3 out of 5,"['mean', 'neg-sport', 'say']","['oh', 'mean', 'really', 'sport', 'say']"
+106,"Ses01M_impro07_F026 [149.7100-154.9200]: No, no.",nan,nan,nan,nan,nan,0,nan,[]
+107,I love softball.,6.765000000000001,4.73,5.66,positive,5.718333333333334,2 out of 2,"['love', 'softball']","['love', 'softball']"
+108,I played softball all the time.,6.226666666666667,3.7733333333333334,5.3500000000000005,positive,5.116666666666667,3 out of 3,"['play', 'softball', 'time']","['play', 'softball', 'time']"
+109,Ses01M_impro07_M022 [150.7925-153.8000]: It's totally a sport.,6.95,4.7,6.21,positive,5.953333333333333,1 out of 2,['sport'],"['totally', 'sport']"
+110,What are you talking about?,6.64,3.38,6.44,positive,5.486666666666667,1 out of 1,['talk'],['talk']
+111,"Ses01M_impro07_M023 [153.8600-159.1400]: What, just 'cause I don't play regular baseball doesn't mean I'm like any less of like a sports guy.",5.815,5.34875,5.08,neutral,5.414583333333333,8 out of 9,"['neg-play', 'neg-regular', 'neg-baseball', 'neg-mean', 'like', 'like', 'sport', 'guy']","['play', 'regular', 'baseball', 'mean', 'like', 'less', 'like', 'sport', 'guy']"
+112,Ses01M_impro07_F027 [156.1800-167.8000]: I am not saying you should be.,4.09,5.57,3.12,neutral,4.260000000000001,1 out of 1,['neg-say'],['say']
+113,I'm not no.,nan,nan,nan,nan,nan,0,nan,[]
+114,I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it.,7.071666666666666,4.571666666666666,6.428333333333334,positive,6.023888888888888,6 out of 8,"['think', 'great', 'think', 'proud', 'go', 'free']","['think', 'great', 'think', 'incredibly', 'proud', 'especially', 'go', 'free']"
+115,For free.,8.25,5.38,6.5,positive,6.71,1 out of 1,['free'],['free']
+116,Ses01M_impro07_M024 [165.1825-169.6425]: For free that's really what it's about.,8.25,5.38,6.5,positive,6.71,1 out of 2,['free'],"['free', 'really']"
+117,I mean who cares I mean if I have to play softball all the time?,5.196666666666666,3.9349999999999996,5.158333333333333,neutral,4.763333333333333,6 out of 6,"['mean', 'care', 'mean', 'play', 'softball', 'time']","['mean', 'care', 'mean', 'play', 'softball', 'time']"
+118,Ses01M_impro07_M025 [169.7275-172.3400]: But they got to like drive around in a bus--that would suck.,5.795,4.25,5.648333333333333,neutral,5.231111111111111,6 out of 7,"['get', 'like', 'drive', 'bus', 'would', 'suck']","['get', 'like', 'drive', 'around', 'bus', 'would', 'suck']"
+119,Ses01M_impro07_F028 [171.7300-174.2000]: Oh really?,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+120,With the whole team?,5.885,3.4299999999999997,6.385,neutral,5.233333333333333,2 out of 2,"['whole', 'team']","['whole', 'team']"
+121,Ses01M_impro07_M026 [172.4600-175.3625]: Yeah we have like away games and stuff.,6.696666666666667,4.323333333333333,5.65,positive,5.5566666666666675,3 out of 5,"['like', 'game', 'stuff']","['yeah', 'like', 'away', 'game', 'stuff']"
+122,Ses01M_impro07_F029 [174.9300-180.9100]: What are your teammates like?,6.82,4.07,5.98,positive,5.623333333333334,2 out of 2,"['teammate', 'like']","['teammate', 'like']"
+123,I'm sure you don't know yet?,4.91,5.12,5.52,neutral,5.183333333333334,2 out of 3,"['sure', 'neg-know']","['sure', 'know', 'yet']"
+124,What kind of people play softball?,6.640000000000001,3.7175,6.1775,positive,5.511666666666667,4 out of 4,"['kind', 'people', 'play', 'softball']","['kind', 'people', 'play', 'softball']"
+125,Ses01M_impro07_M027 [177.2600-178.7500]: They're nice.,6.95,3.53,6.47,positive,5.6499999999999995,1 out of 1,['nice'],['nice']
+126,"Ses01M_impro07_M028 [179.9400-185.3475]: Like, you know like police officers, like--kind of heavyset guys.",6.62125,4.33375,5.65125,positive,5.535416666666666,8 out of 9,"['like', 'know', 'like', 'police', 'officer', 'like', 'kind', 'guy']","['like', 'know', 'like', 'police', 'officer', 'like', 'kind', 'heavyset', 'guy']"
+127,"Mustaches, yeah.",nan,nan,nan,nan,nan,0,nan,"['mustache', 'yeah']"
+128,It's that kind of-,7.78,3.19,7.62,positive,6.196666666666666,1 out of 1,['kind'],['kind']
+129,Ses01M_impro07_F030 [183.0200-184.7200]: Oh really?,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+130,Ses01M_impro07_F031 [185.4225-188.8425]: Cool.,6.82,3.43,6.44,positive,5.5633333333333335,1 out of 1,['cool'],['cool']
+131,You don't seem like you'd fit in there.,4.463333333333333,5.569999999999999,5.1,neutral,5.044444444444443,3 out of 3,"['neg-seem', 'neg-like', 'fit']","['seem', 'like', 'fit']"
+132,Ses01M_impro07_M029 [185.7800-191.5200]: That kind of...They're okay.,7.78,3.19,7.62,positive,6.196666666666666,1 out of 2,['kind'],"['kind', 'okay']"
+133,No I'm like- I'm kind of like the odd man out I'm like...,5.866666666666667,4.368333333333333,5.793333333333333,neutral,5.342777777777777,6 out of 6,"['neg-like', 'kind', 'like', 'odd', 'man', 'like']","['like', 'kind', 'like', 'odd', 'man', 'like']"
+134,"Ses01M_impro07_F032 [191.0500-192.2475]: Oh, cool.",6.82,3.43,6.44,positive,5.5633333333333335,1 out of 2,['cool'],"['oh', 'cool']"
+135,Ses01M_impro07_M030 [192.2200-194.2500]: But you know I'm like [GARBAGE].,5.713333333333334,3.8266666666666667,5.736666666666667,neutral,5.092222222222222,3 out of 3,"['know', 'like', 'garbage']","['know', 'like', 'garbage']"
+136,Ses01M_impro07_F033 [192.7000-195.0500]: You're like the rookie?,6.345000000000001,3.95,5.095000000000001,positive,5.130000000000001,2 out of 2,"['like', 'rookie']","['like', 'rookie']"
+137,The new kid.,7.455,4.925,5.025,positive,5.801666666666667,2 out of 2,"['new', 'kid']","['new', 'kid']"
+138,Ses01M_impro07_M031 [194.7700-196.0200]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+139,Ses01M_impro07_F034 [195.1700-205.4775]: Just watch in five years you'll be like on the force.,5.642,4.0,5.702,neutral,5.1146666666666665,5 out of 5,"['watch', 'five', 'year', 'like', 'force']","['watch', 'five', 'year', 'like', 'force']"
+140,You carry around donuts in your back pocket... [LAUGHTER],6.0375,3.9875,5.8875,positive,5.304166666666666,4 out of 6,"['carry', 'back', 'pocket', 'laughter']","['carry', 'around', 'donut', 'back', 'pocket', 'laughter']"
+141,Ses01M_impro07_M032 [196.3800-199.8600]: I'm going to have a mustache...On the force...,5.245,5.105,4.775,neutral,5.041666666666667,2 out of 3,"['go', 'force']","['go', 'mustache', 'force']"
+142,Ses01M_impro07_M033 [204.8100-206.6000]: Pull over..,5.59,4.1,6.0,neutral,5.2299999999999995,1 out of 1,['pull'],['pull']

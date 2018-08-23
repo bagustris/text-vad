@@ -1,0 +1,99 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,M: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+2,"Ses02F_impro08_F000 [005.0720-009.3683]: Hi, my name is Shiloh, welcome to--Airline Six.",5.775,3.525,5.47,neutral,4.923333333333333,4 out of 6,"['name', 'welcome', 'airline', 'six']","['hi', 'name', 'shiloh', 'welcome', 'airline', 'six']"
+3,"Hi, how may I help you?",6.25,3.74,6.415,positive,5.468333333333334,2 out of 3,"['may', 'help']","['hi', 'may', 'help']"
+4,"Ses02F_impro08_M000 [006.2070-008.1700]: Yeah, hello.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'hello']"
+5,Ses02F_impro08_M001 [009.4065-017.6256]: Ok.,nan,nan,nan,nan,nan,0,nan,['ok']
+6,I've- I've just been talking to this machine for the past half hour and I can't-can't get anything done.,5.046666666666667,4.753333333333333,5.111666666666666,neutral,4.970555555555555,6 out of 10,"['talk', 'machine', 'past', 'hour', 'neg-get', 'neg-do']","['talk', 'machine', 'past', 'half', 'hour', 'ca', 'ca', 'get', 'anything', 'do']"
+7,I've been trying to book this vacation this entire time.,6.497999999999999,3.722,5.776,positive,5.332,5 out of 5,"['try', 'book', 'vacation', 'entire', 'time']","['try', 'book', 'vacation', 'entire', 'time']"
+8,"Ses02F_impro08_F001 [017.0726-018.7868]: All right, sir.",6.385,4.665,6.135,positive,5.728333333333334,2 out of 2,"['right', 'sir']","['right', 'sir']"
+9,"Ses02F_impro08_M002 [017.6532-022.1184]: I know, I'm sorry.",5.8149999999999995,3.93,5.715,neutral,5.153333333333333,2 out of 2,"['know', 'sorry']","['know', 'sorry']"
+10,It's-It's just that it's been a little frustrating because--,4.24,4.84,4.45,neutral,4.510000000000001,2 out of 2,"['little', 'frustrating']","['little', 'frustrating']"
+11,Ses02F_impro08_F002 [020.8328-025.5744]: I completely understand.,6.68,3.52,6.71,positive,5.636666666666667,1 out of 2,['understand'],"['completely', 'understand']"
+12,Automated systems are very difficult sometimes.,4.64,3.915,4.715,neutral,4.423333333333333,2 out of 4,"['system', 'difficult']","['automate', 'system', 'difficult', 'sometimes']"
+13,Ses02F_impro08_M003 [025.2703-026.3762]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+14,"Ses02F_impro08_F003 [026.0444-029.5192]: Um, how may I help you.",6.25,3.74,6.415,positive,5.468333333333334,2 out of 3,"['may', 'help']","['um', 'may', 'help']"
+15,You're trying to book a specific flight?,6.07,3.4699999999999998,5.8925,positive,5.144166666666666,4 out of 4,"['try', 'book', 'specific', 'flight']","['try', 'book', 'specific', 'flight']"
+16,"Ses02F_impro08_M004 [029.1963-035.8594]: Well, yeah, I mean I heard there was like these package deals and that maybe I could get a like a hotel or something like that.",6.158888888888889,4.275555555555556,5.805555555555555,positive,5.413333333333334,9 out of 14,"['mean', 'hear', 'like', 'package', 'deal', 'get', 'like', 'hotel', 'like']","['well', 'yeah', 'mean', 'hear', 'like', 'package', 'deal', 'maybe', 'could', 'get', 'like', 'hotel', 'something', 'like']"
+17,and-,nan,nan,nan,nan,nan,0,nan,[]
+18,"Ses02F_impro08_F004 [034.4217-041.7070]: Oh, yeah, absolutely.",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah', 'absolutely']"
+19,"You know, and especially because you've been waiting so long and I know that, um, you've been having a difficult time.",5.514,3.592,5.002,neutral,4.7026666666666666,5 out of 8,"['know', 'wait', 'know', 'difficult', 'time']","['know', 'especially', 'wait', 'long', 'know', 'um', 'difficult', 'time']"
+20,"Ses02F_impro08_F005 [041.7208-049.8355]: I want to definitely give you our special package today, which um is usually only for valued customers who have a record of having previous,",6.25875,4.26875,5.7524999999999995,positive,5.426666666666667,8 out of 12,"['want', 'give', 'special', 'package', 'value', 'customer', 'record', 'previous']","['want', 'definitely', 'give', 'special', 'package', 'today', 'um', 'usually', 'value', 'customer', 'record', 'previous']"
+21,"Ses02F_impro08_F006 [049.8493-056.3328]: um lots of purchases, but we're gonna go ahead and give that to you anyway.",6.84,4.843333333333334,5.8966666666666665,positive,5.859999999999999,3 out of 9,"['purchase', 'go', 'give']","['um', 'lot', 'purchase', 'gon', 'na', 'go', 'ahead', 'give', 'anyway']"
+22,"uh,  Just to make sure that you're happy with your service here.",7.0075,4.0375,6.395,positive,5.813333333333333,4 out of 5,"['make', 'sure', 'happy', 'service']","['uh', 'make', 'sure', 'happy', 'service']"
+23,Ses02F_impro08_M005 [055.8649-061.4450]: You- You can do that--You can do that now?,nan,nan,nan,nan,nan,0,nan,[]
+24,I don't have to get like transferred through or anything like that.,6.0200000000000005,4.5875,5.6025,positive,5.403333333333333,4 out of 5,"['neg-get', 'like', 'transfer', 'like']","['get', 'like', 'transfer', 'anything', 'like']"
+25,Ses02F_impro08_F007 [056.3466-057.4525]: Is that all right?,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+26,Ses02F_impro08_F008 [057.5493-062.4568]: I can do that right now for you.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+27,"No, absolutely.",nan,nan,nan,nan,nan,0,nan,['absolutely']
+28,I can take care of you all the way through to the end.,5.775,3.51,5.1575,neutral,4.814166666666666,4 out of 4,"['take', 'care', 'way', 'end']","['take', 'care', 'way', 'end']"
+29,Ses02F_impro08_F009 [062.4706-066.7146]: All I'm going to need is your credit card number but just give me one moment.,5.9725,3.79625,5.4825,neutral,5.08375,8 out of 8,"['go', 'need', 'credit', 'card', 'number', 'give', 'one', 'moment']","['go', 'need', 'credit', 'card', 'number', 'give', 'one', 'moment']"
+30,So-,nan,nan,nan,nan,nan,0,nan,[]
+31,Ses02F_impro08_M006 [062.4430-064.3092]: [BREATHING] that's good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['breathing', 'good']"
+32,"Ses02F_impro08_F010 [066.7422-079.4747]: um, you're scheduling a flight as well--And you would like to, um, we have a highly discounted hotel rate that goes along with that so that everything is all in one deal.",6.078,4.053,5.796,positive,5.309,10 out of 16,"['schedule', 'flight', 'would', 'like', 'discount', 'hotel', 'rate', 'go', 'one', 'deal']","['um', 'schedule', 'flight', 'well', 'would', 'like', 'um', 'highly', 'discount', 'hotel', 'rate', 'go', 'along', 'everything', 'one', 'deal']"
+33,You're taken care of by the time that you get there.,6.0375,3.5675,5.35,positive,4.985,4 out of 4,"['take', 'care', 'time', 'get']","['take', 'care', 'time', 'get']"
+34,F: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['f', 'uh', 'huh']"
+35,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+36,Ses02F_impro08_M007 [078.2023-087.4005]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+37,"I want to make sure it's like a nice hotel--I mean-mean I'm gonna be paying a lot of money for this so I don't wanna-I don't wanna, you know, I don't wanna to be a waste of time.",6.189090909090909,4.246363636363636,5.830909090909091,positive,5.422121212121212,11 out of 18,"['want', 'make', 'sure', 'like', 'nice', 'hotel', 'pay', 'money', 'know', 'waste', 'time']","['want', 'make', 'sure', 'like', 'nice', 'hotel', 'gon', 'na', 'pay', 'lot', 'money', 'wan', 'na', 'know', 'wan', 'na', 'waste', 'time']"
+38,Ses02F_impro08_F011 [081.6722-084.0361]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+39,we we,nan,nan,nan,nan,nan,0,nan,[]
+40,"Ses02F_impro08_F012 [086.4414-099.3203]: Yes, I completely understand.",6.68,3.52,6.71,positive,5.636666666666667,1 out of 3,['understand'],"['yes', 'completely', 'understand']"
+41,"Actually, our-our airline only uses five star hotel and above.",6.002,4.382,5.396,positive,5.260000000000001,5 out of 6,"['airline', 'use', 'five', 'star', 'hotel']","['actually', 'airline', 'use', 'five', 'star', 'hotel']"
+42,"Except we charge at a three star hotel rate because, as a corporation, we are able to get a deal from the hotels themselves.",5.9079999999999995,4.208,5.503,neutral,5.206333333333333,10 out of 11,"['charge', 'three', 'star', 'hotel', 'rate', 'corporation', 'able', 'get', 'deal', 'hotel']","['except', 'charge', 'three', 'star', 'hotel', 'rate', 'corporation', 'able', 'get', 'deal', 'hotel']"
+43,"Ses02F_impro08_F013 [099.3367-107.9377]: So, you will absolutely be in a high rated great hotel and we can make sure that it's in a area of town that you like as well.",6.044444444444444,4.026666666666666,5.688888888888889,positive,5.253333333333334,9 out of 11,"['high', 'rat', 'great', 'hotel', 'make', 'sure', 'area', 'town', 'like']","['absolutely', 'high', 'rat', 'great', 'hotel', 'make', 'sure', 'area', 'town', 'like', 'well']"
+44,Ses02F_impro08_M008 [107.6198-109.3063]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+45,So--,nan,nan,nan,nan,nan,0,nan,[]
+46,Ses02F_impro08_F014 [108.8601-110.2602]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+47,"Ses02F_impro08_M009 [109.8178-116.1077]: Well, you know, we wanted to--we wanted to go to Maui and--That was a",6.285,4.67,5.4725,positive,5.475833333333334,4 out of 6,"['know', 'want', 'want', 'go']","['well', 'know', 'want', 'want', 'go', 'maui']"
+48,Ses02F_impro08_F015 [114.0341-115.5271]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+49,"Ses02F_impro08_M010 [116.1630-120.5591]: --you know, the kids wanna go to the beach and stuff and so--um",6.688000000000001,4.286,5.2940000000000005,positive,5.422666666666667,5 out of 8,"['know', 'kid', 'go', 'beach', 'stuff']","['know', 'kid', 'wan', 'na', 'go', 'beach', 'stuff', 'um']"
+50,Ses02F_impro08_F016 [118.9969-122.0827]: Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+51,How many seats?,5.22,3.0,6.05,neutral,4.756666666666667,1 out of 2,['seat'],"['many', 'seat']"
+52,"Ses02F_impro08_M011 [122.0458-123.6128]: Well, it's gonna be four of them.",5.26,3.39,5.65,neutral,4.766666666666667,1 out of 4,['four'],"['well', 'gon', 'na', 'four']"
+53,Ses02F_impro08_F017 [123.3930-126.3472]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+54,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+55,Four seats.,5.24,3.1950000000000003,5.85,neutral,4.761666666666667,2 out of 2,"['four', 'seat']","['four', 'seat']"
+56,I'll book you for four seats.,5.843333333333333,3.1733333333333333,6.036666666666667,neutral,5.017777777777778,3 out of 3,"['book', 'four', 'seat']","['book', 'four', 'seat']"
+57,Ses02F_impro08_M012 [125.5349-127.8996]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+58,And can they like all get together?,6.765000000000001,4.035,5.965,positive,5.588333333333334,2 out of 3,"['like', 'get']","['like', 'get', 'together']"
+59,"Ses02F_impro08_F018 [126.9596-130.7963]: Oh, yeah, absolutely.",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah', 'absolutely']"
+60,Um- Would you like window seats or aisles?,6.042,3.396,5.706,positive,5.047999999999999,5 out of 6,"['would', 'like', 'window', 'seat', 'aisle']","['um', 'would', 'like', 'window', 'seat', 'aisle']"
+61,"Ses02F_impro08_M013 [130.3879-134.9498]: Um- You know, window is nice.",6.746666666666667,3.3466666666666667,5.88,positive,5.3244444444444445,3 out of 4,"['know', 'window', 'nice']","['um', 'know', 'window', 'nice']"
+62,I guess,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+63,"Ses02F_impro08_F019 [133.8439-143.7972]: Okay, I can do um- a win- -two like a window and a aisle and a window and an aisle next to each other so that each of you can sit two by two.",6.241,3.473,5.587,positive,5.1003333333333325,10 out of 13,"['win', 'two', 'like', 'window', 'aisle', 'window', 'aisle', 'sit', 'two', 'two']","['okay', 'um', 'win', 'two', 'like', 'window', 'aisle', 'window', 'aisle', 'next', 'sit', 'two', 'two']"
+64,And switch around maybe?,5.29,3.9,6.0,neutral,5.0633333333333335,1 out of 3,['switch'],"['switch', 'around', 'maybe']"
+65,M: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+66,Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+67,"Ses02F_impro08_M014 [143.5207-146.8899]: All right, Sure.",6.98,4.24,6.99,positive,6.07,2 out of 2,"['right', 'sure']","['right', 'sure']"
+68,"A yeah, that- that'd be good.",7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['yeah', 'good']"
+69,Ses02F_impro08_F020 [146.3132-148.7047]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+70,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+71,What time of the day would you like?,6.327500000000001,3.81,5.5425,positive,5.2266666666666675,4 out of 4,"['time', 'day', 'would', 'like']","['time', 'day', 'would', 'like']"
+72,"Ses02F_impro08_M015 [148.3729-154.4831]: Uh, well, yeah, I think we were just--you know, whenever best available, I guess.",6.385,3.7225,5.9399999999999995,positive,5.349166666666666,4 out of 9,"['think', 'know', 'available', 'guess']","['uh', 'well', 'yeah', 'think', 'know', 'whenever', 'best', 'available', 'guess']"
+73,You know--,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+74,Ses02F_impro08_F021 [153.6399-162.0139]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+75,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+76,Well we have a very open flight that leaves at nine a.m. and fortunately uh the time change actually goes um backwards from that.,5.577142857142857,4.18,5.382857142857143,neutral,5.046666666666666,7 out of 13,"['open', 'flight', 'leave', 'nine', 'time', 'change', 'go']","['well', 'open', 'flight', 'leave', 'nine', 'fortunately', 'uh', 'time', 'change', 'actually', 'go', 'um', 'backwards']"
+77,"Ses02F_impro08_F022 [162.0146-173.1274]: So, it's a five hour flight, but you'll arrive only at eleven a clock in the morning.",5.718571428571429,3.782857142857143,5.837142857142857,neutral,5.112857142857144,7 out of 7,"['five', 'hour', 'flight', 'arrive', 'eleven', 'clock', 'morning']","['five', 'hour', 'flight', 'arrive', 'eleven', 'clock', 'morning']"
+78,"So that day, you can have plenty of time to get to your hotel--Rest up and then still have a nice afternoon your first afternoon in Maui.",6.683333333333334,3.658888888888889,5.693333333333333,positive,5.345185185185184,9 out of 12,"['day', 'time', 'get', 'hotel', 'rest', 'nice', 'afternoon', 'first', 'afternoon']","['day', 'plenty', 'time', 'get', 'hotel', 'rest', 'still', 'nice', 'afternoon', 'first', 'afternoon', 'maui']"
+79,M: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+80,"Ses02F_impro08_M016 [171.9981-177.3618]: And, like, there's there's shuttles or something that I can get to the hotel.",6.445,4.1075,5.845000000000001,positive,5.465833333333333,4 out of 5,"['like', 'shuttle', 'get', 'hotel']","['like', 'shuttle', 'something', 'get', 'hotel']"
+81,Ses02F_impro08_F023 [175.2053-185.2554]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+82,That actually goes in on the same package with our hotel.,6.03,4.713333333333334,5.363333333333333,positive,5.36888888888889,3 out of 4,"['go', 'package', 'hotel']","['actually', 'go', 'package', 'hotel']"
+83,You just give me your address.,6.92,3.81,5.305,positive,5.345,2 out of 2,"['give', 'address']","['give', 'address']"
+84,We'll come and pick up a time that allows you to get to your flight with plenty of time to spare.,5.86375,3.66,5.415,neutral,4.979583333333333,8 out of 9,"['come', 'pick', 'time', 'allow', 'get', 'flight', 'time', 'spare']","['come', 'pick', 'time', 'allow', 'get', 'flight', 'plenty', 'time', 'spare']"
+85,Ses02F_impro08_F024 [185.2692-190.5223]: And a there will also be a shuttle waiting for you to take you to the appropriate hotel.,5.544,4.108,5.318,neutral,4.989999999999999,5 out of 6,"['shuttle', 'wait', 'take', 'appropriate', 'hotel']","['also', 'shuttle', 'wait', 'take', 'appropriate', 'hotel']"
+86,Ses02F_impro08_M017 [188.8496-196.5496]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+87,Wow.,nan,nan,nan,nan,nan,0,nan,['wow']
+88,"Sounds good then, I guess.",6.506666666666667,3.8866666666666667,5.6,positive,5.331111111111111,3 out of 3,"['sound', 'good', 'guess']","['sound', 'good', 'guess']"
+89,Thank you very much.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 2,['thank'],"['thank', 'much']"
+90,It's a lot better than talking to a machine.,5.82,3.885,5.62,neutral,5.108333333333333,2 out of 4,"['talk', 'machine']","['lot', 'better', 'talk', 'machine']"
+91,Ses02F_impro08_F025 [193.5359-199.2729]: Yeah--I completely understand.,6.68,3.52,6.71,positive,5.636666666666667,1 out of 3,['understand'],"['yeah', 'completely', 'understand']"
+92,It's a difficult process sometimes and we want to make traveling as easy as possible.,6.284285714285714,4.341428571428572,5.872857142857143,positive,5.499523809523809,7 out of 8,"['difficult', 'process', 'want', 'make', 'travel', 'easy', 'possible']","['difficult', 'process', 'sometimes', 'want', 'make', 'travel', 'easy', 'possible']"
+93,Ses02F_impro08_M018 [199.1070-202.0927]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+94,So we're confirmed then or do you--All right.,6.54,4.1899999999999995,6.859999999999999,positive,5.863333333333333,2 out of 2,"['confirm', 'right']","['confirm', 'right']"
+95,Ses02F_impro08_F026 [200.4894-205.6457]: Absolutely.,nan,nan,nan,nan,nan,0,nan,['absolutely']
+96,Thank you so much for calling and we hope that you will come to us again.,6.7675,3.87,6.305,positive,5.6475,4 out of 6,"['thank', 'call', 'hope', 'come']","['thank', 'much', 'call', 'hope', 'come', 'us']"
+97,Ses02F_impro08_M019 [204.6773-205.9775]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+98,Ses02F_impro08_F027 [205.6872-207.1232]: Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']

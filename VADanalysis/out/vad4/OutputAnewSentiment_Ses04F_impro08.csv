@@ -1,0 +1,131 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses04F_impro08_F000 [006.4500-010.3500]: Hello.,nan,nan,nan,nan,nan,0,nan,['hello']
+2,Thank you for calling Dell Taco Corporate.,6.345,3.8875,5.92,positive,5.384166666666666,4 out of 5,"['thank', 'call', 'taco', 'corporate']","['thank', 'call', 'dell', 'taco', 'corporate']"
+3,Can I help you?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+4,"Ses04F_impro08_M000 [009.8300-019.9800]: Yeah, um.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'um']"
+5,"I have been trying to reach somebody who will refund, uh, my money.",6.38,4.7925,6.1075,positive,5.760000000000001,4 out of 6,"['try', 'reach', 'refund', 'money']","['try', 'reach', 'somebody', 'refund', 'uh', 'money']"
+6,"Ses04F_impro08_M001 [020.0100-025.6600]: Um, I basically, um I- I ordered some food",6.67,3.9400000000000004,6.32,positive,5.6433333333333335,2 out of 5,"['order', 'food']","['um', 'basically', 'um', 'order', 'food']"
+7,Ses04F_impro08_M002 [025.6600-034.3900]: um and everything was pretty much uh- uh- just not done right.,4.99,5.61,4.3966666666666665,neutral,4.99888888888889,3 out of 8,"['pretty', 'neg-do', 'neg-right']","['um', 'everything', 'pretty', 'much', 'uh', 'uh', 'do', 'right']"
+8,All the orders were messed up.,4.66,3.9450000000000003,4.725,neutral,4.443333333333333,2 out of 2,"['order', 'mess']","['order', 'mess']"
+9,Ses04F_impro08_F001 [032.1700-038.4700]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+10,"Well, Did you go through the automated menu?",6.3100000000000005,4.515000000000001,5.8100000000000005,positive,5.545000000000001,2 out of 4,"['go', 'menu']","['well', 'go', 'automate', 'menu']"
+11,Most of your requests can be taken care of through that.,6.1033333333333335,3.88,5.6866666666666665,positive,5.223333333333334,3 out of 3,"['request', 'take', 'care']","['request', 'take', 'care']"
+12,"Ses04F_impro08_M003 [036.6900-045.0300]: Yes, I did and that didn't- I got through to, like, one operator and she sent me to like three others",5.905714285714286,3.8971428571428572,5.514285714285714,neutral,5.105714285714286,7 out of 9,"['neg-get', 'like', 'one', 'operator', 'send', 'like', 'three']","['yes', 'get', 'like', 'one', 'operator', 'send', 'like', 'three', 'others']"
+13,Ses04F_impro08_M004 [045.0300-053.6700]: and now I'm talking to you.,6.64,3.38,6.44,positive,5.486666666666667,1 out of 1,['talk'],['talk']
+14,And all I want is my money back.,5.953333333333333,4.913333333333333,5.6433333333333335,neutral,5.503333333333334,3 out of 3,"['want', 'money', 'back']","['want', 'money', 'back']"
+15,That's all I'm asking for.,5.95,3.48,6.29,neutral,5.239999999999999,1 out of 1,['ask'],['ask']
+16,It's not much.,nan,nan,nan,nan,nan,0,nan,['much']
+17,Ses04F_impro08_F002 [051.3600-053.7400]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+18,Well I'd be happy to-,8.47,6.05,7.21,positive,7.243333333333333,1 out of 2,['happy'],"['well', 'happy']"
+19,"Ses04F_impro08_M005 [053.6900-059.6500]: If you could just give me that, then I will leave you alone.",5.42,4.3500000000000005,5.2299999999999995,neutral,5.0,3 out of 4,"['give', 'leave', 'alone']","['could', 'give', 'leave', 'alone']"
+20,And just- if i could also- What?,nan,nan,nan,nan,nan,0,nan,"['could', 'also']"
+21,"Ses04F_impro08_F003 [055.1300-057.8400]: Okay, sir.",5.45,4.33,5.11,neutral,4.963333333333334,1 out of 2,['sir'],"['okay', 'sir']"
+22,I'd be happy to help you.,7.710000000000001,5.17,7.05,positive,6.6433333333333335,2 out of 2,"['happy', 'help']","['happy', 'help']"
+23,F: Can you-,nan,nan,nan,nan,nan,0,nan,['f']
+24,"Ses04F_impro08_F004 [059.4500-065.4122]: Sir, can- can you tell me which branch you went to.",5.5475,3.93,5.0725,neutral,4.8500000000000005,4 out of 4,"['sir', 'tell', 'branch', 'go']","['sir', 'tell', 'branch', 'go']"
+25,We can start there.,6.41,4.81,5.5,positive,5.573333333333333,1 out of 1,['start'],['start']
+26,"Ses04F_impro08_M006 [064.8681-067.2000]: Yeah, Beverley Hills.",5.41,3.15,6.95,neutral,5.170000000000001,1 out of 3,['hill'],"['yeah', 'beverley', 'hill']"
+27,Ses04F_impro08_F005 [066.9000-071.5113]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+28,"Um, and what was the complaint?",3.21,4.29,3.75,negative,3.75,1 out of 2,['complaint'],"['um', 'complaint']"
+29,Ses04F_impro08_M007 [071.6247-077.8300]: The food was prepared incorrectly.,7.52,4.69,6.08,positive,6.096666666666667,1 out of 3,['food'],"['food', 'prepared', 'incorrectly']"
+30,Ses04F_impro08_M008 [077.8429-079.9900]: I asked for no tomatoes.,5.075,5.4,5.415,neutral,5.296666666666667,2 out of 2,"['ask', 'neg-tomato']","['ask', 'tomato']"
+31,"Ses04F_impro08_F006 [077.8700-080.8200]: Can you be a little more specific, sir?",5.613333333333333,3.6933333333333334,5.3933333333333335,neutral,4.8999999999999995,3 out of 3,"['little', 'specific', 'sir']","['little', 'specific', 'sir']"
+32,Ses04F_impro08_M009 [079.9900-087.1600]: I asked for no tomatoes on six tacos.,5.4575000000000005,5.452500000000001,5.345,neutral,5.418333333333333,4 out of 4,"['ask', 'neg-tomato', 'neg-six', 'taco']","['ask', 'tomato', 'six', 'taco']"
+33,"I got tomatoes and onions on all of them,",5.753333333333333,3.7666666666666666,5.296666666666667,neutral,4.938888888888889,3 out of 3,"['get', 'tomato', 'onion']","['get', 'tomato', 'onion']"
+34,"Ses04F_impro08_M010 [087.1900-092.0900]: Um, hairs were found in three out of the six.",5.7275,3.4475,5.99,neutral,5.055000000000001,4 out of 5,"['hair', 'find', 'three', 'six']","['um', 'hair', 'find', 'three', 'six']"
+35,"Ses04F_impro08_F007 [090.8100-095.3100]: Did you try to take them back and get your order fixed, sir?",5.527142857142858,3.6999999999999997,5.718571428571429,neutral,4.981904761904762,7 out of 7,"['try', 'take', 'back', 'get', 'order', 'fix', 'sir']","['try', 'take', 'back', 'get', 'order', 'fix', 'sir']"
+36,Ses04F_impro08_M011 [094.7800-104.7500]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+37,"I did and they're like you've got to take it up with corporate, and I'm like well fine.",6.198333333333333,4.265,5.6450000000000005,positive,5.3694444444444445,6 out of 7,"['like', 'get', 'take', 'corporate', 'like', 'fine']","['like', 'get', 'take', 'corporate', 'like', 'well', 'fine']"
+38,I'll have your ass by the end of the day and so now I'm trying to do that.,5.576666666666667,3.856666666666667,5.3133333333333335,neutral,4.915555555555556,3 out of 4,"['end', 'day', 'try']","['as', 'end', 'day', 'try']"
+39,"Ses04F_impro08_F008 [104.3600-118.3300]: Well I'm very sorry, sir.",5.13,4.475,5.380000000000001,neutral,4.995,2 out of 3,"['sorry', 'sir']","['well', 'sorry', 'sir']"
+40,They should have dealt with it at that particular branch.,5.446666666666666,3.4899999999999998,6.1866666666666665,neutral,5.04111111111111,3 out of 3,"['deal', 'particular', 'branch']","['deal', 'particular', 'branch']"
+41,"I apologize for that, uh, but we can help you.",5.945,3.9050000000000002,5.555,neutral,5.135000000000001,2 out of 3,"['apologize', 'help']","['apologize', 'uh', 'help']"
+42,That's no worries.,7.9,3.67,6.83,positive,6.133333333333333,1 out of 1,['neg-worry'],['worry']
+43,We can take care of that.,6.23,3.5949999999999998,5.695,positive,5.173333333333333,2 out of 2,"['take', 'care']","['take', 'care']"
+44,So how much did you need to be refunded?,6.225,4.3149999999999995,5.755,positive,5.431666666666666,2 out of 3,"['need', 'refund']","['much', 'need', 'refund']"
+45,Ses04F_impro08_M012 [118.4400-124.4200]: It was a hundred a sixty dollars.,6.196666666666666,4.390000000000001,5.17,positive,5.252222222222222,3 out of 3,"['hundred', 'sixty', 'dollar']","['hundred', 'sixty', 'dollar']"
+46,"I'm sorry, uh, sixteen dollars.",6.166666666666666,4.796666666666667,5.026666666666667,positive,5.33,3 out of 4,"['sorry', 'sixteen', 'dollar']","['sorry', 'uh', 'sixteen', 'dollar']"
+47,Ses04F_impro08_F009 [124.0200-131.5200]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+48,"Um, I'm going to go ahead and transfer you over to another department.",5.815,3.8600000000000003,5.2475000000000005,neutral,4.974166666666667,4 out of 7,"['go', 'go', 'transfer', 'department']","['um', 'go', 'go', 'ahead', 'transfer', 'another', 'department']"
+49,They'll need your address.,5.78,3.36,4.975,neutral,4.705,2 out of 2,"['need', 'address']","['need', 'address']"
+50,"Ses04F_impro08_M013 [129.4500-138.0900]: Look, I don't want to be transferred over to another- All I want to do is just give you my name and address so you can send me a check.",5.9366666666666665,3.827777777777778,5.304444444444444,neutral,5.022962962962963,9 out of 10,"['look', 'neg-want', 'transfer', 'want', 'give', 'name', 'address', 'send', 'check']","['look', 'want', 'transfer', 'another', 'want', 'give', 'name', 'address', 'send', 'check']"
+51,Ses04F_impro08_M014 [138.1200-144.3546]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+52,You understand that's all I want.,6.34,4.405,6.05,positive,5.598333333333334,2 out of 2,"['understand', 'want']","['understand', 'want']"
+53,Just don't give me a problem with this.,2.8949999999999996,5.119999999999999,4.61,negative,4.208333333333333,2 out of 2,"['neg-give', 'problem']","['give', 'problem']"
+54,"Okay, please because I'm very sensitive right now",6.825,4.34,6.08,positive,5.748333333333332,2 out of 4,"['sensitive', 'right']","['okay', 'please', 'sensitive', 'right']"
+55,"F: I understand that, sir-",6.0649999999999995,3.925,5.91,positive,5.3,2 out of 3,"['understand', 'sir']","['f', 'understand', 'sir']"
+56,"Ses04F_impro08_M015 [144.3800-155.9300]: and if I get sent to another operator, I'll have to tell them the same damn story again.",5.663333333333333,3.708333333333333,5.165,neutral,4.845555555555555,6 out of 7,"['get', 'send', 'operator', 'tell', 'damn', 'story']","['get', 'send', 'another', 'operator', 'tell', 'damn', 'story']"
+57,I don't- I think I'm just going to lose my mind.,4.9825,5.3975,4.8275,neutral,5.069166666666667,4 out of 4,"['neg-think', 'go', 'lose', 'mind']","['think', 'go', 'lose', 'mind']"
+58,"So if you could please just not do that, that would be great.",6.705,3.9749999999999996,6.295,positive,5.658333333333334,2 out of 4,"['would', 'great']","['could', 'please', 'would', 'great']"
+59,Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+60,F: I-,nan,nan,nan,nan,nan,0,nan,['f']
+61,"Ses04F_impro08_F010 [155.2300-158.5800]: I understand, sir.",6.0649999999999995,3.925,5.91,positive,5.3,2 out of 2,"['understand', 'sir']","['understand', 'sir']"
+62,I will explain to them what the situa-,5.41,4.0,6.22,neutral,5.21,1 out of 2,['explain'],"['explain', 'situa']"
+63,Ses04F_impro08_M016 [157.0600-163.6400]: You don't understand because you've never gone to Del Taco and gotten the service that I've gotten.,5.863333333333333,4.303333333333334,5.23,neutral,5.1322222222222225,6 out of 8,"['neg-understand', 'go', 'taco', 'get', 'service', 'get']","['understand', 'never', 'go', 'del', 'taco', 'get', 'service', 'get']"
+64,You don't understand.,3.3200000000000003,6.48,3.29,negative,4.363333333333333,1 out of 1,['neg-understand'],['understand']
+65,Ses04F_impro08_F011 [163.1900-172.0100]: You're right sir.,6.385,4.665,6.135,positive,5.728333333333334,2 out of 2,"['right', 'sir']","['right', 'sir']"
+66,It is your particular situation but I will call the other operator.,5.3525,3.4775,5.5525,neutral,4.7941666666666665,4 out of 4,"['particular', 'situation', 'call', 'operator']","['particular', 'situation', 'call', 'operator']"
+67,I will explain to them what's going on.,5.865,4.43,5.775,neutral,5.3566666666666665,2 out of 2,"['explain', 'go']","['explain', 'go']"
+68,You won't have to tell your story again.,6.0,4.83,5.195,neutral,5.341666666666666,2 out of 3,"['neg-tell', 'story']","['wo', 'tell', 'story']"
+69,Ses04F_impro08_M017 [168.2100-172.1000]: You're not going to call the other operator.,4.116666666666666,4.84,4.6,neutral,4.518888888888889,3 out of 3,"['neg-go', 'neg-call', 'operator']","['go', 'call', 'operator']"
+70,You're not going to call the the other operator.,4.116666666666666,4.84,4.6,neutral,4.518888888888889,3 out of 3,"['neg-go', 'neg-call', 'operator']","['go', 'call', 'operator']"
+71,Ses04F_impro08_M018 [172.1000-174.9800]: You're going to fill out a form on your desk,5.77,3.6275000000000004,6.075,neutral,5.1575,4 out of 4,"['go', 'fill', 'form', 'desk']","['go', 'fill', 'form', 'desk']"
+72,Ses04F_impro08_M019 [175.0000-182.3800]: because I know you're at a desk right now in your stupid corporate building and you're going to send me a check for sixteen dollars and forty two cents.,5.88,3.9264285714285716,5.382142857142857,neutral,5.062857142857143,14 out of 14,"['know', 'desk', 'right', 'stupid', 'corporate', 'building', 'go', 'send', 'check', 'sixteen', 'dollar', 'forty', 'two', 'cent']","['know', 'desk', 'right', 'stupid', 'corporate', 'building', 'go', 'send', 'check', 'sixteen', 'dollar', 'forty', 'two', 'cent']"
+73,"Ses04F_impro08_F012 [176.2200-179.3800]: Okay, sir.",5.45,4.33,5.11,neutral,4.963333333333334,1 out of 2,['sir'],"['okay', 'sir']"
+74,They- they have to-,nan,nan,nan,nan,nan,0,nan,[]
+75,Ses04F_impro08_F013 [179.6400-180.9500]: Sir.,5.45,4.33,5.11,neutral,4.963333333333334,1 out of 1,['sir'],['sir']
+76,"Ses04F_impro08_F014 [181.8900-189.5000]: Sir, they have to take down your address at the other station.",5.470000000000001,3.7249999999999996,4.86,neutral,4.685,4 out of 4,"['sir', 'take', 'address', 'station']","['sir', 'take', 'address', 'station']"
+77,I will transfer.,5.29,3.22,5.5,neutral,4.67,1 out of 1,['transfer'],['transfer']
+78,I will explain everything to them.,5.41,4.0,6.22,neutral,5.21,1 out of 2,['explain'],"['explain', 'everything']"
+79,It will all be fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+80,I promise.,6.64,3.9,6.47,positive,5.669999999999999,1 out of 1,['promise'],['promise']
+81,Ses04F_impro08_M020 [188.4700-189.8882]: What's your name?,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 1,['name'],['name']
+82,Ses04F_impro08_F015 [189.9300-191.6340]: Cindy?,nan,nan,nan,nan,nan,0,nan,['cindy']
+83,Ses04F_impro08_M021 [192.0421-193.2402]: Cinnee?,nan,nan,nan,nan,nan,0,nan,['cinnee']
+84,Ses04F_impro08_F016 [193.4274-195.4900]: Cindy.,nan,nan,nan,nan,nan,0,nan,['cindy']
+85,Ses04F_impro08_M022 [194.3400-197.2900]: Cindy?,nan,nan,nan,nan,nan,0,nan,['cindy']
+86,Cindy what?,nan,nan,nan,nan,nan,0,nan,['cindy']
+87,"Ses04F_impro08_F017 [197.3100-200.9900]: Sir, I don't think my name is really relevant-",4.7475000000000005,5.1225000000000005,4.8025,neutral,4.890833333333334,4 out of 5,"['sir', 'neg-think', 'neg-name', 'relevant']","['sir', 'think', 'name', 'really', 'relevant']"
+88,"Ses04F_impro08_M023 [199.0800-205.6400]: Cindy, look.",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 2,['look'],"['cindy', 'look']"
+89,If you don't get your ass a piece of paper that has a check,5.2775,4.2,4.9425,neutral,4.806666666666666,4 out of 5,"['neg-get', 'piece', 'paper', 'check']","['get', 'as', 'piece', 'paper', 'check']"
+90,"Ses04F_impro08_M024 [205.6400-209.5700]: attached to it and you don't send it to me, I'm going to get very upset.",4.788,4.68,4.808,neutral,4.758666666666667,5 out of 5,"['attach', 'neg-send', 'go', 'get', 'upset']","['attach', 'send', 'go', 'get', 'upset']"
+91,"Ses04F_impro08_F018 [205.4000-208.9100]: Alright, sir.",5.45,4.33,5.11,neutral,4.963333333333334,1 out of 2,['sir'],"['alright', 'sir']"
+92,Sir.,5.45,4.33,5.11,neutral,4.963333333333334,1 out of 1,['sir'],['sir']
+93,I'm going to transfer you to the address.,5.906666666666667,3.71,5.24,neutral,4.952222222222223,3 out of 3,"['go', 'transfer', 'address']","['go', 'transfer', 'address']"
+94,Ses04F_impro08_F019 [209.2500-212.3346]: Alright.,nan,nan,nan,nan,nan,0,nan,['alright']
+95,"You know what, sir.",6.135,3.785,5.445,positive,5.121666666666667,2 out of 2,"['know', 'sir']","['know', 'sir']"
+96,The customer is always right.,6.59,4.2,6.66,positive,5.816666666666666,2 out of 3,"['customer', 'right']","['customer', 'always', 'right']"
+97,Ses04F_impro08_M025 [212.3573-215.8800]: You know what.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+98,I- You know what?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+99,You know what?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+100,"No, it's fine.",6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+101,it's fine it's fine You know what?,6.6066666666666665,3.6533333333333333,5.78,positive,5.346666666666667,3 out of 3,"['fine', 'fine', 'know']","['fine', 'fine', 'know']"
+102,Ses04F_impro08_F020 [212.3800-214.9200]: I will go ahead and I will take- I will take,5.32,4.633333333333333,4.996666666666667,neutral,4.983333333333333,3 out of 4,"['go', 'take', 'take']","['go', 'ahead', 'take', 'take']"
+103,"Ses04F_impro08_M026 [215.8800-219.7400]: Hey, Cindy.",nan,nan,nan,nan,nan,0,nan,"['hey', 'cindy']"
+104,"Cindy, look I know this is not your fault.",6.413333333333334,4.326666666666667,5.88,positive,5.54,3 out of 4,"['look', 'know', 'neg-fault']","['cindy', 'look', 'know', 'fault']"
+105,Do whatever you want.,6.0,5.29,5.39,neutral,5.56,1 out of 2,['want'],"['whatever', 'want']"
+106,Ses04F_impro08_M027 [219.7715-226.0600]: Send me to whatever operator.,5.515,3.05,5.34,neutral,4.635,2 out of 3,"['send', 'operator']","['send', 'whatever', 'operator']"
+107,I just- You know what?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+108,I'm just done.,5.41,3.67,6.35,neutral,5.1433333333333335,1 out of 1,['do'],['do']
+109,I'm just done.,5.41,3.67,6.35,neutral,5.1433333333333335,1 out of 1,['do'],['do']
+110,I've lost all hope.,5.535,5.359999999999999,5.585,neutral,5.493333333333333,2 out of 2,"['lose', 'hope']","['lose', 'hope']"
+111,"Ses04F_impro08_F021 [225.8100-232.1200]: Sir, customer satisfaction is our first goal.",6.522,4.096,6.132000000000001,positive,5.583333333333333,5 out of 5,"['sir', 'customer', 'satisfaction', 'first', 'goal']","['sir', 'customer', 'satisfaction', 'first', 'goal']"
+112,I will go ahead and take your number and your address down myself.,5.71,3.9825,5.295,neutral,4.995833333333333,4 out of 5,"['go', 'take', 'number', 'address']","['go', 'ahead', 'take', 'number', 'address']"
+113,Ses04F_impro08_M028 [226.0800-229.7100]: of getting my sixteen dollars back.,6.135,4.0075,5.075,positive,5.072500000000001,4 out of 4,"['get', 'sixteen', 'dollar', 'back']","['get', 'sixteen', 'dollar', 'back']"
+114,"It fine, no honestly.",6.5,3.86,5.78,positive,5.38,1 out of 2,['fine'],"['fine', 'honestly']"
+115,"Ses04F_impro08_M029 [229.8600-238.7700]: No, Cindy just don't even-look don't even.",nan,nan,nan,nan,nan,0,nan,"['cindy', 'even']"
+116,"Cuz I- look Cindy I know you don't care about me, okay.",5.043333333333334,4.776666666666666,5.033333333333333,neutral,4.9511111111111115,3 out of 6,"['look', 'know', 'neg-care']","['cuz', 'look', 'cindy', 'know', 'care', 'okay']"
+117,I know that I'm just like another person who calls-,6.635,3.66,5.9175,positive,5.404166666666666,4 out of 5,"['know', 'like', 'person', 'call']","['know', 'like', 'another', 'person', 'call']"
+118,Ses04F_impro08_F022 [232.4200-233.9800]: Wait.,4.55,3.62,5.31,neutral,4.493333333333333,1 out of 1,['wait'],['wait']
+119,But I-,nan,nan,nan,nan,nan,0,nan,[]
+120,Ses04F_impro08_F023 [236.3400-238.7300]: But I'm giving you what you want.,6.865,4.93,5.555,positive,5.783333333333334,2 out of 2,"['give', 'want']","['give', 'want']"
+121,Ses04F_impro08_M030 [238.8100-243.2100]: No it doesn't matter.,4.18,5.95,3.88,neutral,4.669999999999999,1 out of 1,['neg-matter'],['matter']
+122,It's fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+123,It's fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+124,Just send me to the next operator.,5.515,3.05,5.34,neutral,4.635,2 out of 3,"['send', 'operator']","['send', 'next', 'operator']"
+125,That's fine.,6.5,3.86,5.78,positive,5.38,1 out of 1,['fine'],['fine']
+126,Ses04F_impro08_F024 [242.9200-247.3900]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+127,"If that's what you want, you want to go to the next person?",6.105,4.7875,5.5275,positive,5.473333333333334,4 out of 5,"['want', 'want', 'go', 'person']","['want', 'want', 'go', 'next', 'person']"
+128,Ses04F_impro08_M031 [247.0900-247.9500]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+129,Ses04F_impro08_F025 [247.6300-249.9100]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+130,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']

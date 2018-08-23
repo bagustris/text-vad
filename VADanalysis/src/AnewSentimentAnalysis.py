@@ -54,9 +54,7 @@ def analyzefile(input_file, output_dir, mode):
     lmtzr = WordNetLemmatizer()
 
     # otherwise, split into sentences
-#    from line in myfile.readlines()
     sentences = tokenize.sent_tokenize(fulltext)
-    print(sentences)
     i = 1 # to store sentence index
     # check each word in sentence for sentiment and write to output_file
     with open(output_file, 'w', newline='') as csvfile:
@@ -77,8 +75,6 @@ def analyzefile(input_file, output_dir, mode):
 
             # search for each valid word's sentiment in ANEW
             words = nlp.pos_tag(s.lower())
-#            words = word_tokenize(line)
-#            print(words)
             for index, p in enumerate(words):
                 # don't process stops or words w/ punctuation
                 w = p[0]

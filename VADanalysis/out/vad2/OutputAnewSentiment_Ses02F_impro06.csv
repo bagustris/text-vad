@@ -1,0 +1,56 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses02F_impro06_M000 [005.7967-008.0783]: Hey, a what's up?",nan,nan,nan,nan,nan,0,nan,['hey']
+2,"Ses02F_impro06_F000 [010.3100-015.4000]: Um, Johnny died yesterday.",1.67,6.9,3.28,negative,3.9499999999999997,1 out of 4,['die'],"['um', 'johnny', 'die', 'yesterday']"
+3,"Ses02F_impro06_M001 [015.7633-020.6400]: Wow, that's horrible.",2.33,5.95,5.16,negative,4.48,1 out of 2,['horrible'],"['wow', 'horrible']"
+4,Ses02F_impro06_M002 [020.7700-023.3300]: I'm sorry to hear about that.,5.744999999999999,4.12,6.18,neutral,5.348333333333333,2 out of 2,"['sorry', 'hear']","['sorry', 'hear']"
+5,"Ses02F_impro06_F001 [021.1500-023.8600]: We knew that it was coming, but--",6.23,3.4050000000000002,5.86,positive,5.165,2 out of 2,"['know', 'come']","['know', 'come']"
+6,Ses02F_impro06_M003 [024.5600-025.8900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+7,Ses02F_impro06_F002 [025.5200-032.2600]: It seemed like he had a little bit longer.,5.9625,3.9250000000000003,5.38,neutral,5.089166666666667,4 out of 5,"['seem', 'like', 'little', 'bit']","['seem', 'like', 'little', 'bit', 'longer']"
+8,"Like just last week, he was doing was so well.",6.355,3.865,5.78,positive,5.333333333333333,2 out of 4,"['like', 'week']","['like', 'last', 'week', 'well']"
+9,"Ses02F_impro06_M004 [033.1100-040.3000]: I mean, you know, at least he's not in anymore pain now, right?",6.1425,4.195,5.91,positive,5.415833333333334,4 out of 6,"['mean', 'know', 'neg-pain', 'right']","['mean', 'know', 'least', 'anymore', 'pain', 'right']"
+10,Ses02F_impro06_F003 [041.7300-043.3700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+11,"Ses02F_impro06_M005 [043.3400-050.1000]: It's good, you know.",7.355,3.45,6.095000000000001,positive,5.633333333333333,2 out of 2,"['good', 'know']","['good', 'know']"
+12,you know It hurts I know.,5.363333333333333,3.7333333333333334,5.096666666666667,neutral,4.731111111111112,3 out of 3,"['know', 'hurt', 'know']","['know', 'hurt', 'know']"
+13,I know what it's like to lose someone like that.,6.3225,4.3675,5.6825,positive,5.4575,4 out of 5,"['know', 'like', 'lose', 'like']","['know', 'like', 'lose', 'someone', 'like']"
+14,Ses02F_impro06_F004 [052.1888-054.6000]: I just don't want him to be gone.,5.16,4.785,4.970000000000001,neutral,4.971666666666667,2 out of 2,"['neg-want', 'go']","['want', 'go']"
+15,Ses02F_impro06_M006 [055.5800-057.9644]: It's okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+16,"Ses02F_impro06_M007 [059.1200-068.5000]: 'Cause, you know, you've got all the times that you guys did spend together, you know and that's something good that you can look back on.",6.265555555555555,3.64,5.564444444444445,positive,5.156666666666666,9 out of 11,"['know', 'get', 'time', 'guy', 'spend', 'know', 'good', 'look', 'back']","['know', 'get', 'time', 'guy', 'spend', 'together', 'know', 'something', 'good', 'look', 'back']"
+17,Ses02F_impro06_M008 [070.8200-076.1700]: I mean--I don't know.,2.8049999999999997,5.785,4.195,negative,4.261666666666667,2 out of 2,"['mean', 'neg-know']","['mean', 'know']"
+18,Ses02F_impro06_F005 [075.8818-078.6800]: And his whole family was there.,6.555,3.915,6.11,positive,5.526666666666666,2 out of 2,"['whole', 'family']","['whole', 'family']"
+19,"Ses02F_impro06_F006 [082.1600-088.2252]: I mean, he was like really conscious right up until the end.",5.49,4.492,5.614,neutral,5.198666666666667,5 out of 6,"['mean', 'like', 'conscious', 'right', 'end']","['mean', 'like', 'really', 'conscious', 'right', 'end']"
+20,you know,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+21,"Ses02F_impro06_M009 [088.4296-099.1347]: Well, that's that's good, you know.",7.355,3.45,6.095000000000001,positive,5.633333333333333,2 out of 3,"['good', 'know']","['well', 'good', 'know']"
+22,"At least, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['least', 'know']"
+23,I mean it's- it's better to go- to goout that way than...,4.886666666666667,4.1899999999999995,4.776666666666666,neutral,4.6177777777777775,3 out of 5,"['mean', 'go', 'way']","['mean', 'better', 'go', 'goout', 'way']"
+24,"Ses02F_impro06_M010 [100.7536-107.0617]: .than you know, in pain and like this gradual, this horrible process.",4.885,4.451666666666667,5.44,neutral,4.9255555555555555,6 out of 6,"['know', 'pain', 'like', 'gradual', 'horrible', 'process']","['know', 'pain', 'like', 'gradual', 'horrible', 'process']"
+25,I mean--,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+26,"Ses02F_impro06_F007 [107.0300-113.8200]: He was so young, you know.",6.5649999999999995,3.665,5.6899999999999995,positive,5.306666666666667,2 out of 2,"['young', 'know']","['young', 'know']"
+27,And all the stories he used to tell me about...,5.906666666666666,3.856666666666667,5.09,neutral,4.9511111111111115,3 out of 3,"['story', 'use', 'tell']","['story', 'use', 'tell']"
+28,Ses02F_impro06_F008 [114.3099-122.5338]: ...the way he wanted to live and he was gonna go to Africa and he was gonna--,6.545,4.44,5.5125,positive,5.4991666666666665,4 out of 9,"['way', 'want', 'live', 'go']","['way', 'want', 'live', 'gon', 'na', 'go', 'africa', 'gon', 'na']"
+29,Ses02F_impro06_M011 [122.2578-130.8600]: But look at the--he--look at the life he did get to lead.,6.046,4.146,5.704,positive,5.298666666666667,5 out of 5,"['look', 'look', 'life', 'get', 'lead']","['look', 'look', 'life', 'get', 'lead']"
+30,"I mean, for his age, he'd done so much and--",4.54,4.0633333333333335,5.0633333333333335,neutral,4.555555555555556,3 out of 4,"['mean', 'age', 'do']","['mean', 'age', 'do', 'much']"
+31,Ses02F_impro06_F009 [130.6700-132.7800]: Nobody's ever gonna forget him.,3.73,4.43,3.5,negative,3.8866666666666667,1 out of 5,['forget'],"['nobody', 'ever', 'gon', 'na', 'forget']"
+32,"Ses02F_impro06_M012 [132.5900-138.2500]: Yeah, exactly.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'exactly']"
+33,He's made a big impact on a lot of people.,5.797499999999999,4.405,5.62,neutral,5.274166666666667,4 out of 5,"['make', 'big', 'impact', 'people']","['make', 'big', 'impact', 'lot', 'people']"
+34,and,nan,nan,nan,nan,nan,0,nan,[]
+35,"Ses02F_impro06_M013 [138.6800-153.2100]: And you'll always have that and--you should feel, you know, happy for him that he got to do so much before--I mean, and even after he found out last year.",6.04,4.095714285714285,5.765714285714286,positive,5.30047619047619,7 out of 11,"['feel', 'know', 'happy', 'get', 'mean', 'find', 'year']","['always', 'feel', 'know', 'happy', 'get', 'much', 'mean', 'even', 'find', 'last', 'year']"
+36,I mean--,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+37,Ses02F_impro06_F010 [153.9200-157.2495]: He did a lot.,nan,nan,nan,nan,nan,0,nan,['lot']
+38,But--,nan,nan,nan,nan,nan,0,nan,[]
+39,Ses02F_impro06_M014 [158.5900-160.8200]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+40,"It doesn't bring him back, but--",4.78,6.5600000000000005,4.53,neutral,5.29,2 out of 2,"['neg-bring', 'neg-back']","['bring', 'back']"
+41,"Ses02F_impro06_M015 [164.2500-172.3500]: But It's okay because now, you know, you'll just go on with your life and--",6.6066666666666665,4.5633333333333335,5.666666666666667,positive,5.612222222222222,3 out of 4,"['know', 'go', 'life']","['okay', 'know', 'go', 'life']"
+42,Ses02F_impro06_F011 [172.7700-174.9300]: I'm gonna forget him.,3.73,4.43,3.5,negative,3.8866666666666667,1 out of 3,['forget'],"['gon', 'na', 'forget']"
+43,"Ses02F_impro06_M016 [175.4300-177.5861]: No, you'll never forget him.",3.73,4.43,3.5,negative,3.8866666666666667,1 out of 2,['forget'],"['never', 'forget']"
+44,Ses02F_impro06_F012 [176.0300-179.1290]: I won't be able to hear his voice or his--,5.513333333333334,4.496666666666667,5.586666666666667,neutral,5.198888888888889,3 out of 4,"['neg-able', 'hear', 'voice']","['wo', 'able', 'hear', 'voice']"
+45,Ses02F_impro06_M017 [179.2300-187.3700]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+46,but you're not  I mean you're not going to forget him.,5.84,5.3,5.666666666666667,neutral,5.602222222222223,3 out of 3,"['neg-mean', 'neg-go', 'neg-forget']","['mean', 'go', 'forget']"
+47,The pain will go away eventually and--or it will subside--,4.58,4.743333333333333,4.6,neutral,4.641111111111111,3 out of 5,"['pain', 'go', 'subside']","['pain', 'go', 'away', 'eventually', 'subside']"
+48,Ses02F_impro06_F013 [185.3400-191.3555]: You start to lose like that image after a while.,5.755,4.53,5.5525,neutral,5.279166666666667,4 out of 4,"['start', 'lose', 'like', 'image']","['start', 'lose', 'like', 'image']"
+49,"Ses02F_impro06_M018 [196.5253-210.6666]: That will be, It'll be--it'll be better that way.",5.91,2.9,4.83,neutral,4.546666666666667,1 out of 2,['way'],"['better', 'way']"
+50,I mean Time will tell.,4.433333333333334,4.026666666666666,4.49,neutral,4.316666666666667,3 out of 3,"['mean', 'time', 'tell']","['mean', 'time', 'tell']"
+51,"Time heals, you know, and it's good.",6.77,3.436666666666667,5.516666666666667,positive,5.241111111111111,3 out of 4,"['time', 'know', 'good']","['time', 'heals', 'know', 'good']"
+52,It's okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+53,"I mean, it wasn't anybody's fault or anything like that so .",5.446666666666667,5.0633333333333335,5.476666666666667,neutral,5.32888888888889,3 out of 5,"['mean', 'neg-fault', 'like']","['mean', 'anybody', 'fault', 'anything', 'like']"
+54,"Ses02F_impro06_M019 [212.8076-217.7894]: It's hard to lose someone that way, but he's he's better--he's better off now.",4.616666666666666,4.276666666666666,4.726666666666667,neutral,4.54,3 out of 6,"['hard', 'lose', 'way']","['hard', 'lose', 'someone', 'way', 'better', 'better']"
+55,Ses02F_impro06_F014 [218.2176-219.4604]: Thanks.,7.73,4.05,6.72,positive,6.166666666666667,1 out of 1,['thanks'],['thanks']

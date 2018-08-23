@@ -1,0 +1,58 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses02F_impro02_F000 [008.9084-011.9078]: It's almost time for me to go.,5.96,4.135,4.845000000000001,neutral,4.9799999999999995,2 out of 3,"['time', 'go']","['almost', 'time', 'go']"
+2,Ses02F_impro02_M000 [011.5255-018.7886]: I can't believe that--now--are you sure this is absolutely necessary?,4.993333333333333,4.51,5.05,neutral,4.851111111111112,3 out of 5,"['neg-believe', 'sure', 'necessary']","['ca', 'believe', 'sure', 'absolutely', 'necessary']"
+3,Like--,7.44,4.4,6.28,positive,6.04,1 out of 1,['like'],['like']
+4,Ses02F_impro02_F001 [018.3682-024.3889]: There's nothing I can do.,nan,nan,nan,nan,nan,0,nan,['nothing']
+5,"I mean, the government you know--",4.343333333333334,3.933333333333333,4.3533333333333335,neutral,4.21,3 out of 3,"['mean', 'government', 'know']","['mean', 'government', 'know']"
+6,Ses02F_impro02_M001 [024.1978-031.0213]: What--what're we gonna do here?,nan,nan,nan,nan,nan,0,nan,"['gon', 'na']"
+7,I can't--I can't do this by myself.,nan,nan,nan,nan,nan,0,nan,"['ca', 'ca']"
+8,I--,nan,nan,nan,nan,nan,0,nan,[]
+9,Ses02F_impro02_F002 [030.6582-037.9405]: You're gonna have to.,nan,nan,nan,nan,nan,0,nan,"['gon', 'na']"
+10,"I mean, you're a great father.",5.6033333333333335,4.21,5.336666666666667,neutral,5.05,3 out of 3,"['mean', 'great', 'father']","['mean', 'great', 'father']"
+11,You can do it.,nan,nan,nan,nan,nan,0,nan,[]
+12,I know you can.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+13,"Ses02F_impro02_M002 [037.8258-047.7648]: But, I'm--I'm nothing--I'm nothing without you here.",nan,nan,nan,nan,nan,0,nan,"['nothing', 'nothing', 'without']"
+14,Maybe we can--we can get out of this somehow.,6.09,3.67,5.65,positive,5.136666666666667,1 out of 3,['get'],"['maybe', 'get', 'somehow']"
+15,Ses02F_impro02_F003 [046.8146-049.4112]: I don't think so.,3.3200000000000003,6.25,3.5,negative,4.3566666666666665,1 out of 1,['neg-think'],['think']
+16,"Ses02F_impro02_M003 [049.5424-063.7247]: Well, come on.",5.64,3.57,5.94,neutral,5.05,1 out of 2,['come'],"['well', 'come']"
+17,You've gotta think of something.,6.385,3.71,6.075,positive,5.39,2 out of 4,"['get', 'think']","['get', 'ta', 'think', 'something']"
+18,"A year--a year away, it's gonna tear us apart.",4.88,3.82,5.766666666666667,neutral,4.822222222222222,3 out of 8,"['year', 'year', 'tear']","['year', 'year', 'away', 'gon', 'na', 'tear', 'us', 'apart']"
+19,I don't even--I don't even wanna think about it.,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 5,['think'],"['even', 'even', 'wan', 'na', 'think']"
+20,"I mean, I don't even know if I'll be able to get in touch with you or--",4.9959999999999996,4.704,5.29,neutral,4.996666666666666,5 out of 6,"['mean', 'neg-know', 'able', 'get', 'touch']","['mean', 'even', 'know', 'able', 'get', 'touch']"
+21,"Ses02F_impro02_F004 [063.2468-075.4222]: Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile.",6.788571428571428,3.982857142857143,6.214285714285714,positive,5.661904761904762,7 out of 13,"['know', 'like', 'wireless', 'internet', 'day', 'think', 'talk']","['well', 'best', 'um', 'know', 'like', 'wireless', 'internet', 'day', 'think', 'could', 'talk', 'every', 'awhile']"
+22,M: It's not...,nan,nan,nan,nan,nan,0,nan,[]
+23,Ses02F_impro02_F005 [075.4413-078.5568]: You could send me pictures.,6.455,3.3600000000000003,6.03,positive,5.281666666666667,2 out of 3,"['send', 'picture']","['could', 'send', 'picture']"
+24,Ses02F_impro02_M004 [075.6898-078.5377]: It's not going to be the same.,3.6799999999999997,5.14,4.67,negative,4.496666666666667,1 out of 1,['neg-go'],['go']
+25,"Ses02F_impro02_M005 [079.4743-088.2594]: What if--maybe--what if, uh, we went somewhere over there?",6.32,4.86,5.33,positive,5.503333333333333,1 out of 4,['go'],"['maybe', 'uh', 'go', 'somewhere']"
+26,I don't--I don't know--I--I need to figure something out for this because--,4.573333333333333,4.7,4.89,neutral,4.721111111111111,3 out of 4,"['neg-know', 'need', 'figure']","['know', 'need', 'figure', 'something']"
+27,Ses02F_impro02_F006 [088.0123-094.8416]: Their not gonna let you.,4.05,7.29,3.9400000000000004,neutral,5.093333333333334,1 out of 3,['neg-let'],"['gon', 'na', 'let']"
+28,You have to stay home and I have to go.,6.6466666666666665,3.9266666666666667,5.9366666666666665,positive,5.503333333333334,3 out of 3,"['stay', 'home', 'go']","['stay', 'home', 'go']"
+29,"I mean, that's all--",2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+30,"Ses02F_impro02_F007 [096.6544-108.6034]: and--I mean, my daughter--I don't want to put her in danger.",4.146,5.3,4.308,neutral,4.584666666666666,5 out of 5,"['mean', 'daughter', 'neg-want', 'neg-put', 'danger']","['mean', 'daughter', 'want', 'put', 'danger']"
+31,You know?,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+32,She has to stay.,6.14,3.14,5.71,positive,4.996666666666666,1 out of 1,['stay'],['stay']
+33,Ses02F_impro02_M006 [108.3358-114.6815]: This is gonna be a--a crucial yet--she's--she's growing up.,5.720000000000001,3.37,5.205,neutral,4.765,2 out of 5,"['crucial', 'grow']","['gon', 'na', 'crucial', 'yet', 'grow']"
+34,She's gonna need you.,5.45,3.67,5.06,neutral,4.726666666666667,1 out of 3,['need'],"['gon', 'na', 'need']"
+35,"Ses02F_impro02_F008 [114.9300-126.1305]: I know, but, she needs to be safe more.",6.656666666666667,3.35,6.016666666666667,positive,5.341111111111111,3 out of 3,"['know', 'need', 'safe']","['know', 'need', 'safe']"
+36,She needs to be around kids her age--own age.,6.0600000000000005,3.95,4.8075,positive,4.939166666666668,4 out of 5,"['need', 'kid', 'age', 'age']","['need', 'around', 'kid', 'age', 'age']"
+37,She needs to be able to play on the streets and--,6.1775,3.5775,5.7325,positive,5.1625000000000005,4 out of 4,"['need', 'able', 'play', 'street']","['need', 'able', 'play', 'street']"
+38,Ses02F_impro02_M007 [126.3408-139.8386]: But she's--you're not gonna--you're not gonna be here for--for her first words.,6.55,4.45,6.3,positive,5.766666666666667,2 out of 6,"['first', 'word']","['gon', 'na', 'gon', 'na', 'first', 'word']"
+39,For her first steps.,6.505,4.19,6.1899999999999995,positive,5.628333333333333,2 out of 2,"['first', 'step']","['first', 'step']"
+40,I mean--it's something that you're supposed to be here for that--,3.8499999999999996,4.07,4.640000000000001,negative,4.1866666666666665,2 out of 3,"['mean', 'suppose']","['mean', 'something', 'suppose']"
+41,Ses02F_impro02_F009 [139.4718-143.5239]: You can just remember it for me.,6.5,3.14,6.31,positive,5.316666666666666,1 out of 1,['remember'],['remember']
+42,Ses02F_impro02_M008 [144.2502-150.5386]: I don't know--I don't know--I don't know how--I don't know how this could even be possible for you--I--if I was--,3.9719999999999995,6.1499999999999995,4.576,negative,4.899333333333334,5 out of 7,"['neg-know', 'neg-know', 'neg-know', 'neg-know', 'possible']","['know', 'know', 'know', 'know', 'could', 'even', 'possible']"
+43,"Ses02F_impro02_F010 [148.5507-156.3682]: Well, I need--I need you to be able to do this for me 'cause I can't do anything about it.",5.846666666666667,3.5733333333333333,5.43,neutral,4.95,3 out of 6,"['need', 'need', 'able']","['well', 'need', 'need', 'able', 'ca', 'anything']"
+44,"Ses02F_impro02_F011 [158.5369-166.7660]: I mean, it's just as hard for me, but--I know that we can do it, you know",5.105,3.9475,5.1725,neutral,4.741666666666667,4 out of 4,"['mean', 'hard', 'know', 'know']","['mean', 'hard', 'know', 'know']"
+45,"Ses02F_impro02_M009 [167.2160-177.6416]: I mean, you just get to--go off and do your thing.",5.0975,4.1925,5.140000000000001,neutral,4.81,4 out of 4,"['mean', 'get', 'go', 'thing']","['mean', 'get', 'go', 'thing']"
+46,"I mean, yeah, we're both--I don't know--it's bad for both of us, but--",2.95,5.476666666666667,3.9833333333333334,negative,4.136666666666667,3 out of 5,"['mean', 'neg-know', 'bad']","['mean', 'yeah', 'know', 'bad', 'us']"
+47,Ses02F_impro02_M010 [177.9283-185.5164]: ...it would be so much better if we can--if we could stay together somehow.,6.025,3.475,5.825,positive,5.108333333333333,2 out of 7,"['would', 'stay']","['would', 'much', 'better', 'could', 'stay', 'together', 'somehow']"
+48,You know--we could--we could do this together.,6.82,3.24,5.78,positive,5.28,1 out of 4,['know'],"['know', 'could', 'could', 'together']"
+49,Ses02F_impro02_F012 [184.8857-191.1740]: I don't want you in danger.,3.33,5.275,4.125,negative,4.243333333333333,2 out of 2,"['neg-want', 'danger']","['want', 'danger']"
+50,And I don't want her in danger.,3.33,5.275,4.125,negative,4.243333333333333,2 out of 2,"['neg-want', 'danger']","['want', 'danger']"
+51,Ses02F_impro02_M011 [190.0061-194.4042]: I don't want you in danger.,3.33,5.275,4.125,negative,4.243333333333333,2 out of 2,"['neg-want', 'danger']","['want', 'danger']"
+52,Where are you going?,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+53,You're going over to war.,4.275,5.5649999999999995,4.3,neutral,4.713333333333334,2 out of 2,"['go', 'war']","['go', 'war']"
+54,Ses02F_impro02_F013 [193.9264-207.0400]: I have no choice.,3.6399999999999997,6.48,3.4400000000000004,negative,4.5200000000000005,1 out of 1,['neg-choice'],['choice']
+55,There's nothing I can do.,nan,nan,nan,nan,nan,0,nan,['nothing']
+56,M: Well--I mean--,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 2,['mean'],"['well', 'mean']"
+57,Ses02F_impro02_M012 [208.8905-210.8151]: All right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']

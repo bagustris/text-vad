@@ -1,0 +1,100 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01M_impro03_M000 [002.9200-005.5600]: The craziest thing just happened to me.,5.525,3.43,5.470000000000001,neutral,4.808333333333334,2 out of 3,"['thing', 'happen']","['craziest', 'thing', 'happen']"
+2,Ses01M_impro03_F000 [005.0200-006.8500]: What?,nan,nan,nan,nan,nan,0,nan,[]
+3,Ses01M_impro03_M001 [006.3100-011.5700]: This girl; she just offered me fifty thousand dollars to marry her.,6.413333333333333,4.461666666666667,5.558333333333334,positive,5.477777777777778,6 out of 6,"['girl', 'offer', 'fifty', 'thousand', 'dollar', 'marry']","['girl', 'offer', 'fifty', 'thousand', 'dollar', 'marry']"
+4,Ses01M_impro03_F001 [010.7900-012.0800]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+5,Ses01M_impro03_M002 [011.7000-012.9800]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+6,Ses01M_impro03_F002 [012.3700-013.7468]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+7,"Ses01M_impro03_M003 [013.2600-016.8700]: Well, she's not a citizen so she wants to get a visa.",5.35,5.165,5.135,neutral,5.216666666666667,4 out of 5,"['neg-citizen', 'want', 'get', 'visa']","['well', 'citizen', 'want', 'get', 'visa']"
+8,Ses01M_impro03_F003 [016.1900-017.7425]: Is she on the run?,6.41,5.24,5.44,positive,5.696666666666666,1 out of 1,['run'],['run']
+9,"Ses01M_impro03_M004 [017.2800-026.5400]: No, no, no, no, no, no she just... she's not a citizen but she wants her visa, yeah.",5.1033333333333335,5.663333333333333,4.963333333333333,neutral,5.243333333333333,3 out of 4,"['neg-citizen', 'want', 'visa']","['citizen', 'want', 'visa', 'yeah']"
+10,She's going to pay me fifty thousand dollars to marry her and stay married to her for two years.,6.349,4.246,5.654,positive,5.416333333333334,10 out of 10,"['go', 'pay', 'fifty', 'thousand', 'dollar', 'marry', 'stay', 'marry', 'two', 'year']","['go', 'pay', 'fifty', 'thousand', 'dollar', 'marry', 'stay', 'marry', 'two', 'year']"
+11,"Ses01M_impro03_F004 [019.6000-022.1975]: Oh, she just needs to marry you.",6.27,4.595,5.365,positive,5.409999999999999,2 out of 3,"['need', 'marry']","['oh', 'need', 'marry']"
+12,Ses01M_impro03_F005 [026.0000-033.2100]: That's incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+13,That's awesome.,7.86,6.05,7.11,positive,7.006666666666667,1 out of 1,['awesome'],['awesome']
+14,Where's she from?,nan,nan,nan,nan,nan,0,nan,[]
+15,Maybe you can get a dual citizenship.,6.156666666666666,4.546666666666667,5.583333333333333,positive,5.428888888888888,3 out of 4,"['get', 'dual', 'citizenship']","['maybe', 'get', 'dual', 'citizenship']"
+16,Ses01M_impro03_M005 [026.6000-030.7900]: That's like twenty five thousand dollar a year for doing nothing.,6.445,4.003333333333334,5.658333333333333,positive,5.36888888888889,6 out of 7,"['like', 'twenty', 'five', 'thousand', 'dollar', 'year']","['like', 'twenty', 'five', 'thousand', 'dollar', 'year', 'nothing']"
+17,Isn't that awesome?,2.1399999999999997,3.95,2.8899999999999997,negative,2.9933333333333336,1 out of 1,['neg-awesome'],['awesome']
+18,"Ses01M_impro03_M006 [032.0500-039.5125]: She's actually from England, I think.",6.68,3.75,6.5,positive,5.6433333333333335,1 out of 3,['think'],"['actually', 'england', 'think']"
+19,Well she- she spoke English but she had an accent.,6.195,4.57,5.625,positive,5.463333333333334,2 out of 4,"['speak', 'accent']","['well', 'speak', 'english', 'accent']"
+20,I didn't even ask.,4.05,6.52,3.71,neutral,4.760000000000001,1 out of 2,['neg-ask'],"['even', 'ask']"
+21,Ses01M_impro03_F006 [035.5000-039.2350]: That's so cool.,6.82,3.43,6.44,positive,5.5633333333333335,1 out of 1,['cool'],['cool']
+22,Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+23,Ses01M_impro03_F007 [039.4500-043.7800]: [LAUGHTER] Why did she pick you?,6.98,4.505,6.48,positive,5.988333333333333,2 out of 2,"['laughter', 'pick']","['laughter', 'pick']"
+24,Where were you?,nan,nan,nan,nan,nan,0,nan,[]
+25,Ses01M_impro03_M007 [039.5775-047.6600]: Fifty thousand dollars.,6.19,4.173333333333334,5.656666666666667,positive,5.34,3 out of 3,"['fifty', 'thousand', 'dollar']","['fifty', 'thousand', 'dollar']"
+26,Fifty thousand dollars.,6.19,4.173333333333334,5.656666666666667,positive,5.34,3 out of 3,"['fifty', 'thousand', 'dollar']","['fifty', 'thousand', 'dollar']"
+27,I was just out...,nan,nan,nan,nan,nan,0,nan,[]
+28,"I just... she's - well, she's a friend of friend but like...",7.006666666666667,4.326666666666667,6.3,positive,5.877777777777777,3 out of 4,"['friend', 'friend', 'like']","['well', 'friend', 'friend', 'like']"
+29,Ses01M_impro03_F008 [047.3200-054.5200]: You were at a party?,7.18,6.08,5.92,positive,6.3933333333333335,1 out of 1,['party'],['party']
+30,And she's like hey.,7.44,4.4,6.28,positive,6.04,1 out of 2,['like'],"['like', 'hey']"
+31,You seem unattached she's like.,5.8933333333333335,3.8333333333333335,5.283333333333333,neutral,5.003333333333333,3 out of 3,"['seem', 'unattached', 'like']","['seem', 'unattached', 'like']"
+32,Ses01M_impro03_M008 [048.0800-063.1475]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+33,Can you believe that?,7.05,3.33,6.56,positive,5.646666666666666,1 out of 1,['believe'],['believe']
+34,"Yeah, she's like hey, I'm like sure I'll do it, I don't care.",5.970000000000001,4.9025,5.705,neutral,5.525833333333334,4 out of 6,"['like', 'like', 'sure', 'neg-care']","['yeah', 'like', 'hey', 'like', 'sure', 'care']"
+35,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+36,"I'm like fifty thousand dollars, I'd totally do it for fifty thousand dollars.",6.368571428571428,4.2057142857142855,5.7457142857142856,positive,5.44,7 out of 8,"['like', 'fifty', 'thousand', 'dollar', 'fifty', 'thousand', 'dollar']","['like', 'fifty', 'thousand', 'dollar', 'totally', 'fifty', 'thousand', 'dollar']"
+37,But the only thing is that's kind of like illegal.,5.825,4.1425,6.0075,neutral,5.325,4 out of 4,"['thing', 'kind', 'like', 'illegal']","['thing', 'kind', 'like', 'illegal']"
+38,"So like I could go to jail probably for a long if I get caught, but...",5.48,4.28,5.328,neutral,5.029333333333334,5 out of 8,"['like', 'go', 'jail', 'get', 'catch']","['like', 'could', 'go', 'jail', 'probably', 'long', 'get', 'catch']"
+39,Ses01M_impro03_F009 [055.9325-059.7100]: That's unbelievable... Yeah.,5.57,5.4,5.37,neutral,5.446666666666666,1 out of 2,['unbelievable'],"['unbelievable', 'yeah']"
+40,Ses01M_impro03_F010 [061.1325-072.1900]: Well I've known people who have done this before.,5.976666666666667,3.56,5.843333333333334,neutral,5.126666666666667,3 out of 4,"['know', 'people', 'do']","['well', 'know', 'people', 'do']"
+41,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+42,You just- it's really fun actually 'cause you have like a fake engagement party and all your friends come over and like...,6.51625,4.925,6.06625,positive,5.835833333333333,8 out of 10,"['fun', 'like', 'fake', 'engagement', 'party', 'friend', 'come', 'like']","['really', 'fun', 'actually', 'like', 'fake', 'engagement', 'party', 'friend', 'come', 'like']"
+43,Ses01M_impro03_M009 [063.6350-064.9500]: Have you?,nan,nan,nan,nan,nan,0,nan,[]
+44,Ses01M_impro03_M010 [070.9500-073.6300]: It's like I'm really going to get married.,6.735,4.6125,5.7325,positive,5.6933333333333325,4 out of 5,"['like', 'go', 'get', 'marry']","['like', 'really', 'go', 'get', 'marry']"
+45,We'll have like the whole thing.,6.283333333333333,3.77,5.976666666666667,positive,5.343333333333334,3 out of 3,"['like', 'whole', 'thing']","['like', 'whole', 'thing']"
+46,"Ses01M_impro03_M011 [073.6700-075.9600]: Oh, good.",7.89,3.66,6.41,positive,5.986666666666667,1 out of 2,['good'],"['oh', 'good']"
+47,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+48,Ses01M_impro03_F011 [072.4875-080.9000]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+49,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+50,"And then yeah, and then you know like you could like you could do like like sock her for a lot of money",6.872857142857143,4.398571428571429,6.051428571428572,positive,5.774285714285715,7 out of 11,"['know', 'like', 'like', 'like', 'like', 'sock', 'money']","['yeah', 'know', 'like', 'could', 'like', 'could', 'like', 'like', 'sock', 'lot', 'money']"
+51,Ses01M_impro03_M012 [080.7600-082.4800]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+52,What do you think I should-,6.68,3.75,6.5,positive,5.6433333333333335,1 out of 1,['think'],['think']
+53,"Ses01M_impro03_F012 [080.9300-088.4500]: Like make her rent the apartment that you two have to live together in, you know.",6.39,3.914285714285714,5.8342857142857145,positive,5.37952380952381,7 out of 8,"['like', 'make', 'rent', 'apartment', 'two', 'live', 'know']","['like', 'make', 'rent', 'apartment', 'two', 'live', 'together', 'know']"
+54,"And you won't pay any rent or you pay like, a hundred bucks a month or something.",5.972857142857143,4.598571428571429,5.244285714285715,neutral,5.2719047619047625,7 out of 9,"['neg-pay', 'neg-rent', 'pay', 'like', 'hundred', 'buck', 'month']","['wo', 'pay', 'rent', 'pay', 'like', 'hundred', 'buck', 'month', 'something']"
+55,Ses01M_impro03_M013 [084.5075-086.6600]: Oh good idea.,7.47,4.16,6.26,positive,5.963333333333334,2 out of 3,"['good', 'idea']","['oh', 'good', 'idea']"
+56,Ses01M_impro03_M014 [087.4200-090.9600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+57,Make her like open the bank account and stuff too.,6.153333333333333,3.995,5.556666666666667,positive,5.235,6 out of 6,"['make', 'like', 'open', 'bank', 'account', 'stuff']","['make', 'like', 'open', 'bank', 'account', 'stuff']"
+58,Ses01M_impro03_F013 [090.1100-091.8400]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+59,Ses01M_impro03_M015 [091.3700-093.4700]: It's a good idea.,7.47,4.16,6.26,positive,5.963333333333334,2 out of 2,"['good', 'idea']","['good', 'idea']"
+60,"Ses01M_impro03_F014 [092.8700-096.1300]: Dude, you lucked out.",5.91,3.81,5.59,neutral,5.1033333333333335,1 out of 2,['dude'],"['dude', 'lucked']"
+61,Ses01M_impro03_M016 [094.7700-098.7000]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+62,Also I get to like plan the wedding now too.,6.755,4.3125,5.8225,positive,5.63,4 out of 5,"['get', 'like', 'plan', 'wedding']","['also', 'get', 'like', 'plan', 'wedding']"
+63,That will be fun.,8.37,6.32,7.04,positive,7.243333333333333,1 out of 1,['fun'],['fun']
+64,Ses01M_impro03_F015 [097.3500-103.9875]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+65,"My colors are blush and beige what is it, do you know?",6.3774999999999995,3.4400000000000004,5.2575,positive,5.0249999999999995,4 out of 4,"['color', 'blush', 'beige', 'know']","['color', 'blush', 'beige', 'know']"
+66,"Ses01M_impro03_M017 [103.1000-114.4300]: Something blue, something new, something... no I don't know.",5.796666666666667,5.196666666666666,5.076666666666666,neutral,5.3566666666666665,3 out of 6,"['blue', 'new', 'neg-know']","['something', 'blue', 'something', 'new', 'something', 'know']"
+67,"[LAUGHTER] So yeah, wonder if she's going to pay me up front but do you think it's bad though, do you think they're going to like track the money or something?",6.410909090909091,4.6463636363636365,5.843636363636364,positive,5.633636363636364,11 out of 15,"['laughter', 'wonder', 'go', 'pay', 'think', 'bad', 'think', 'go', 'like', 'track', 'money']","['laughter', 'yeah', 'wonder', 'go', 'pay', 'front', 'think', 'bad', 'though', 'think', 'go', 'like', 'track', 'money', 'something']"
+68,Ses01M_impro03_F016 [104.6375-109.0600]: Oh I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 2,['neg-know'],"['oh', 'know']"
+69,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+70,Ses01M_impro03_F017 [113.7900-116.7000]: I don't know get it in cash.,4.866666666666666,6.56,4.91,neutral,5.445555555555555,3 out of 3,"['neg-know', 'neg-get', 'cash']","['know', 'get', 'cash']"
+71,Ses01M_impro03_M018 [115.8400-117.8900]: Just cash hardcore.,6.175,6.345,5.8100000000000005,positive,6.109999999999999,2 out of 2,"['cash', 'hardcore']","['cash', 'hardcore']"
+72,Ses01M_impro03_F018 [117.2100-118.4700]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+73,Ses01M_impro03_M019 [117.9800-121.7600]: What should we do?,nan,nan,nan,nan,nan,0,nan,[]
+74,Where should we get married?,6.59,4.595,5.66,positive,5.614999999999999,2 out of 2,"['get', 'marry']","['get', 'marry']"
+75,We should have party.,7.18,6.08,5.92,positive,6.3933333333333335,1 out of 1,['party'],['party']
+76,Ses01M_impro03_F019 [120.0300-123.6400]: How exciting.,7.95,6.95,7.21,positive,7.37,1 out of 1,['exciting'],['exciting']
+77,You should have a wedding on the beach.,7.279999999999999,5.21,5.390000000000001,positive,5.96,2 out of 2,"['wedding', 'beach']","['wedding', 'beach']"
+78,"Ses01M_impro03_M020 [121.8300-125.1400]: Yeah, like a big like- A wedding on the beach, that would be nice.",6.848571428571429,4.412857142857143,5.908571428571428,positive,5.723333333333333,7 out of 8,"['like', 'big', 'like', 'wedding', 'beach', 'would', 'nice']","['yeah', 'like', 'big', 'like', 'wedding', 'beach', 'would', 'nice']"
+79,"Ses01M_impro03_F020 [123.9600-125.7400]: Yeah, at night.",6.68,3.57,5.22,positive,5.156666666666666,1 out of 2,['night'],"['yeah', 'night']"
+80,Ses01M_impro03_M021 [125.3200-134.0075]: And then we can honeymoon.,7.53,5.91,7.33,positive,6.923333333333335,1 out of 1,['honeymoon'],['honeymoon']
+81,I want to go tropical though like Bahamas- --or like Tahiti or something.,6.8500000000000005,4.65,5.78,positive,5.760000000000001,5 out of 9,"['want', 'go', 'tropical', 'like', 'like']","['want', 'go', 'tropical', 'though', 'like', 'bahamas', 'like', 'tahiti', 'something']"
+82,I just want to like beach and like drink.,6.952,4.876,5.904,positive,5.910666666666667,5 out of 5,"['want', 'like', 'beach', 'like', 'drink']","['want', 'like', 'beach', 'like', 'drink']"
+83,"Ses01M_impro03_F021 [128.0600-131.5900]: Oh yeah, absolutely, absolutely.",nan,nan,nan,nan,nan,0,nan,"['oh', 'yeah', 'absolutely', 'absolutely']"
+84,Ses01M_impro03_F022 [132.1600-136.1500]: How exciting.,7.95,6.95,7.21,positive,7.37,1 out of 1,['exciting'],['exciting']
+85,You should make her bring all your friends too.,6.1866666666666665,4.083333333333333,6.083333333333333,positive,5.451111111111111,3 out of 3,"['make', 'bring', 'friend']","['make', 'bring', 'friend']"
+86,Ses01M_impro03_M022 [135.6600-145.4400]: I'll make her pay for that.,6.16,3.955,6.275,positive,5.463333333333334,2 out of 2,"['make', 'pay']","['make', 'pay']"
+87,I hear she's like totally wealthy.,6.83,4.44,6.366666666666667,positive,5.878888888888889,3 out of 4,"['hear', 'like', 'wealthy']","['hear', 'like', 'totally', 'wealthy']"
+88,She's like royalty- --or something like and- --whatever like removed or something but yeah.,6.41,4.126,5.816,positive,5.450666666666667,5 out of 9,"['like', 'royalty', 'like', 'like', 'remove']","['like', 'royalty', 'something', 'like', 'whatever', 'like', 'remove', 'something', 'yeah']"
+89,Ses01M_impro03_F023 [136.2900-144.0700]: [GARBAGE] She's got to be loaded.,4.466666666666667,4.02,5.826666666666667,neutral,4.771111111111111,3 out of 3,"['garbage', 'get', 'load']","['garbage', 'get', 'load']"
+90,fifty thousand dollars.,6.19,4.173333333333334,5.656666666666667,positive,5.34,3 out of 3,"['fifty', 'thousand', 'dollar']","['fifty', 'thousand', 'dollar']"
+91,That's incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+92,Ses01M_impro03_F024 [144.6100-146.4100]: Incredible.,7.59,6.35,7.74,positive,7.226666666666667,1 out of 1,['incredible'],['incredible']
+93,Ses01M_impro03_M023 [145.9700-150.5100]: I'm going to marry a blue blood.,5.855,4.9575,5.1825,neutral,5.331666666666667,4 out of 4,"['go', 'marry', 'blue', 'blood']","['go', 'marry', 'blue', 'blood']"
+94,[LAUGHTER],8.05,5.39,7.02,positive,6.82,1 out of 1,['laughter'],['laughter']
+95,"Ses01M_impro03_F025 [147.1700-150.8450]: you're a lucky, lucky, lucky man.",6.845000000000001,5.0649999999999995,5.380000000000001,positive,5.763333333333333,4 out of 4,"['lucky', 'lucky', 'lucky', 'man']","['lucky', 'lucky', 'lucky', 'man']"
+96,Ses01M_impro03_M024 [150.5800-152.0400]: Will you help me plan?,6.545,4.075,6.585,positive,5.735,2 out of 2,"['help', 'plan']","['help', 'plan']"
+97,"Ses01M_impro03_F026 [151.2600-153.9075]: Oh, totally.",nan,nan,nan,nan,nan,0,nan,"['oh', 'totally']"
+98,Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+99,Ses01M_impro03_M025 [152.1000-153.2500]: Good.,7.89,3.66,6.41,positive,5.986666666666667,1 out of 1,['good'],['good']

@@ -1,0 +1,77 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01M_impro04_F000 [009.0256-011.6950]: You seem kind of down.,6.615,3.215,6.075,positive,5.301666666666667,2 out of 2,"['seem', 'kind']","['seem', 'kind']"
+2,Ses01M_impro04_M000 [011.5885-013.5675]: I'm just mad.,2.47,5.59,4.9,negative,4.32,1 out of 1,['mad'],['mad']
+3,Ses01M_impro04_F001 [013.3720-015.2250]: How come?,5.64,3.57,5.94,neutral,5.05,1 out of 1,['come'],['come']
+4,Ses01M_impro04_M001 [015.0500-019.2300]: It's--I've been trying to find this job I can't get any job.,5.2,4.77,5.306,neutral,5.092,5 out of 6,"['try', 'find', 'job', 'neg-get', 'neg-job']","['try', 'find', 'job', 'ca', 'get', 'job']"
+5,Ses01M_impro04_M002 [019.3600-021.4936]: It's not fair.,2.8600000000000003,6.71,3.88,negative,4.483333333333333,1 out of 1,['neg-fair'],['fair']
+6,Ses01M_impro04_F002 [021.3952-023.2492]: What do you mean?,2.43,4.81,4.17,negative,3.8033333333333332,1 out of 1,['mean'],['mean']
+7,Ses01M_impro04_M003 [023.0031-031.9779]: I mean I've been looking for a job for like three years and I can't get a job.,5.1137500000000005,4.50125,5.2425,neutral,4.9525,8 out of 9,"['mean', 'look', 'job', 'like', 'three', 'year', 'neg-get', 'neg-job']","['mean', 'look', 'job', 'like', 'three', 'year', 'ca', 'get', 'job']"
+8,"I mean like, it's America, right?",5.73,4.736666666666666,5.87,neutral,5.445555555555555,3 out of 4,"['mean', 'like', 'right']","['mean', 'like', 'america', 'right']"
+9,I should be able to get a job.,6.123333333333333,3.683333333333333,5.42,positive,5.075555555555556,3 out of 3,"['able', 'get', 'job']","['able', 'get', 'job']"
+10,Ses01M_impro04_F003 [031.2560-034.4725]: There's a lot of people looking for jobs.,5.763333333333334,3.8433333333333333,5.24,neutral,4.948888888888889,3 out of 4,"['people', 'look', 'job']","['lot', 'people', 'look', 'job']"
+11,Ses01M_impro04_M004 [034.1437-046.8400]: I guess.,5.18,3.86,4.89,neutral,4.6433333333333335,1 out of 1,['guess'],['guess']
+12,But three years?,5.59,3.355,5.63,neutral,4.858333333333333,2 out of 2,"['three', 'year']","['three', 'year']"
+13,"I mean, I like--I went to college even, I mean I didn't finish but I went for like a little bit.",5.337,4.639,5.172,neutral,5.049333333333333,10 out of 11,"['mean', 'like', 'go', 'college', 'mean', 'neg-finish', 'go', 'like', 'little', 'bit']","['mean', 'like', 'go', 'college', 'even', 'mean', 'finish', 'go', 'like', 'little', 'bit']"
+14,"It's not fair, I don't know.",3.02,6.734999999999999,4.05,negative,4.601666666666667,2 out of 2,"['neg-fair', 'neg-know']","['fair', 'know']"
+15,"Ses01M_impro04_F004 [047.7500-050.5000]: I don't know, I mean, I just don't think...",2.9766666666666666,5.9399999999999995,3.9633333333333334,negative,4.293333333333333,3 out of 3,"['neg-know', 'mean', 'neg-think']","['know', 'mean', 'think']"
+16,Ses01M_impro04_M005 [049.9100-063.6600]: I mean I've been sending out my resumes and doing everything I can do but nothing is happening.,4.75,3.835,5.17,neutral,4.585,4 out of 6,"['mean', 'send', 'resume', 'happen']","['mean', 'send', 'resume', 'everything', 'nothing', 'happen']"
+17,"You know, it's like I can't and I can't keep living on loans anymore like this.",5.2700000000000005,4.533333333333333,4.983333333333333,neutral,4.928888888888889,6 out of 9,"['know', 'like', 'neg-keep', 'neg-live', 'loan', 'like']","['know', 'like', 'ca', 'ca', 'keep', 'live', 'loan', 'anymore', 'like']"
+18,I'm going to--I mean eventually I'm going to have to pay it back.,5.212,4.272,5.276,neutral,4.92,5 out of 6,"['go', 'mean', 'go', 'pay', 'back']","['go', 'mean', 'eventually', 'go', 'pay', 'back']"
+19,"I'm just kind of freaking out, I don't know.",4.8966666666666665,5.416666666666666,5.65,neutral,5.321111111111111,3 out of 3,"['kind', 'freak', 'neg-know']","['kind', 'freak', 'know']"
+20,Ses01M_impro04_F005 [063.3300-066.6300]: Did you ever think it might be your attitude that's...,5.699999999999999,4.255,6.1899999999999995,neutral,5.381666666666665,2 out of 4,"['think', 'attitude']","['ever', 'think', 'might', 'attitude']"
+21,"Ses01M_impro04_M006 [065.4900-067.9200]: What's my--like what do you mean ""my attitude""?",4.863333333333333,4.656666666666666,5.443333333333333,neutral,4.987777777777778,3 out of 3,"['like', 'mean', 'attitude']","['like', 'mean', 'attitude']"
+22,"Ses01M_impro04_F006 [067.4500-074.0400]: I don't know just sometimes you get kind of... No, I'm not saying that.",5.285,4.7975,5.1525,neutral,5.078333333333333,4 out of 5,"['neg-know', 'get', 'kind', 'neg-say']","['know', 'sometimes', 'get', 'kind', 'say']"
+23,I just--,nan,nan,nan,nan,nan,0,nan,[]
+24,Ses01M_impro04_M007 [069.7900-071.7800]: Do I have an attitude problem?,4.12,4.785,5.41,neutral,4.771666666666667,2 out of 2,"['attitude', 'problem']","['attitude', 'problem']"
+25,"Ses01M_impro04_M008 [076.3900-080.5300]: No, well maybe it's because I'm like frustrated 'cause I can't get a job, you know.",5.016,5.074,5.164,neutral,5.084666666666666,5 out of 8,"['like', 'frustrated', 'neg-get', 'neg-job', 'know']","['well', 'maybe', 'like', 'frustrated', 'ca', 'get', 'job', 'know']"
+26,Ses01M_impro04_F007 [074.2100-077.5300]: ...has anyone ever just said anything like that to you before?,6.675000000000001,4.415,6.58,positive,5.890000000000001,2 out of 5,"['say', 'like']","['anyone', 'ever', 'say', 'anything', 'like']"
+27,"Ses01M_impro04_M009 [080.5500-086.0900]: Like it's really hard to like shake that off when you go into like audition a room or whatever, you know what I mean?",5.758,4.315,5.716,neutral,5.263000000000001,10 out of 12,"['like', 'hard', 'like', 'shake', 'go', 'like', 'audition', 'room', 'know', 'mean']","['like', 'really', 'hard', 'like', 'shake', 'go', 'like', 'audition', 'room', 'whatever', 'know', 'mean']"
+28,"Ses01M_impro04_F008 [084.9900-087.2706]: Right, sure.",6.98,4.24,6.99,positive,6.07,2 out of 2,"['right', 'sure']","['right', 'sure']"
+29,"Ses01M_impro04_F009 [087.2900-091.6300]: But I mean you kind of got to, you got to fake it 'til you feel it, right?",5.514285714285714,4.22,5.7457142857142856,neutral,5.16,7 out of 7,"['mean', 'kind', 'get', 'get', 'fake', 'feel', 'right']","['mean', 'kind', 'get', 'get', 'fake', 'feel', 'right']"
+30,"Ses01M_impro04_M010 [091.0600-095.7650]: I guess I just getting really hard to fake, you know.",5.012,4.084,5.15,neutral,4.748666666666667,5 out of 6,"['guess', 'get', 'hard', 'fake', 'know']","['guess', 'get', 'really', 'hard', 'fake', 'know']"
+31,Ses01M_impro04_F010 [095.1900-103.2350]: I'm just saying that if I was looking to hire somebody in the--or kind of... No.,6.6825,4.2575,6.7,positive,5.88,4 out of 5,"['say', 'look', 'hire', 'kind']","['say', 'look', 'hire', 'somebody', 'kind']"
+32,No.,nan,nan,nan,nan,nan,0,nan,[]
+33,No.,nan,nan,nan,nan,nan,0,nan,[]
+34,Ses01M_impro04_M011 [099.1900-106.6900]: Are you hiring?,7.09,5.65,6.42,positive,6.386666666666667,1 out of 1,['hire'],['hire']
+35,"Wait, do you know of a job?",5.67,3.62,5.176666666666667,neutral,4.822222222222222,3 out of 3,"['wait', 'know', 'job']","['wait', 'know', 'job']"
+36,"Seriously, do you know, like do you know of anything though?",7.026666666666667,3.626666666666667,5.946666666666667,positive,5.533333333333334,3 out of 6,"['know', 'like', 'know']","['seriously', 'know', 'like', 'know', 'anything', 'though']"
+37,"Like, oh please, do you know of anything?",7.130000000000001,3.8200000000000003,6.03,positive,5.66,2 out of 5,"['like', 'know']","['like', 'oh', 'please', 'know', 'anything']"
+38,Ses01M_impro04_F011 [104.7300-116.8850]: No.,nan,nan,nan,nan,nan,0,nan,[]
+39,I'm just saying though that if I was a person who was hiring somebody I-- --would not hire someone who was angry or upset.,4.7,4.662857142857143,5.3185714285714285,neutral,4.893809523809524,7 out of 10,"['say', 'person', 'hire', 'would', 'neg-hire', 'angry', 'upset']","['say', 'though', 'person', 'hire', 'somebody', 'would', 'hire', 'someone', 'angry', 'upset']"
+40,Ses01M_impro04_M012 [110.4300-112.2100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+41,Ses01M_impro04_M013 [116.3900-118.5800]: I come across angry?,4.085,4.885,5.025,neutral,4.665,2 out of 3,"['come', 'angry']","['come', 'across', 'angry']"
+42,Ses01M_impro04_F012 [118.0000-119.7900]: No.,nan,nan,nan,nan,nan,0,nan,[]
+43,Ses01M_impro04_M014 [119.3100-120.5900]: What?,nan,nan,nan,nan,nan,0,nan,[]
+44,"Ses01M_impro04_F013 [120.2200-125.2400]: Well, you know a little.",6.365,3.72,5.48,positive,5.1883333333333335,2 out of 3,"['know', 'little']","['well', 'know', 'little']"
+45,If you were to listen to--,6.91,3.76,5.56,positive,5.41,1 out of 1,['listen'],['listen']
+46,Ses01M_impro04_M015 [124.0000-129.7100]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+47,You're my friend you can tell me stuff.,5.973333333333334,3.89,5.36,neutral,5.0744444444444445,3 out of 3,"['friend', 'tell', 'stuff']","['friend', 'tell', 'stuff']"
+48,"You can tell me honestly stuff, okay?",5.5649999999999995,3.69,4.885,neutral,4.713333333333333,2 out of 4,"['tell', 'stuff']","['tell', 'honestly', 'stuff', 'okay']"
+49,Please.,nan,nan,nan,nan,nan,0,nan,['please']
+50,Ses01M_impro04_F014 [128.7900-131.7400]: I just don't want you to fly off the handle.,5.263333333333334,4.363333333333333,5.296666666666667,neutral,4.974444444444445,3 out of 3,"['neg-want', 'fly', 'handle']","['want', 'fly', 'handle']"
+51,"Ses01M_impro04_M016 [131.2094-136.8600]: Okay, I'm not flying off the handle I don't think I'm flying off the handle here at all.",4.956,4.642,5.1,neutral,4.899333333333334,5 out of 6,"['neg-fly', 'handle', 'neg-think', 'fly', 'handle']","['okay', 'fly', 'handle', 'think', 'fly', 'handle']"
+52,Ses01M_impro04_F015 [135.9400-138.2200]: You kind of have a short fuse.,6.166666666666667,3.1933333333333334,5.9399999999999995,positive,5.1,3 out of 3,"['kind', 'short', 'fuse']","['kind', 'short', 'fuse']"
+53,Ses01M_impro04_M017 [137.3500-139.0600]: I have a short fuse?,5.359999999999999,3.1950000000000003,5.1,neutral,4.551666666666667,2 out of 2,"['short', 'fuse']","['short', 'fuse']"
+54,Ses01M_impro04_F016 [138.5000-139.9900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+55,Ses01M_impro04_M018 [139.4600-147.2000]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+56,"Okay no, no, no, no okay no, I need to hear this more.",5.615,4.975,5.825,neutral,5.471666666666667,2 out of 4,"['neg-need', 'hear']","['okay', 'okay', 'need', 'hear']"
+57,"Come on, bring it.",5.66,3.9299999999999997,5.83,neutral,5.14,2 out of 2,"['come', 'bring']","['come', 'bring']"
+58,"Ses01M_impro04_F017 [141.0600-145.0400]: Like this, right now we're trying have a conversation.",6.78,4.0125,6.415,positive,5.735833333333333,4 out of 4,"['like', 'right', 'try', 'conversation']","['like', 'right', 'try', 'conversation']"
+59,Ses01M_impro04_F018 [145.2100-153.0500]: We're trying to have a conversation and you seem extremely hostile.,5.04,3.82,5.2775,neutral,4.7124999999999995,4 out of 5,"['try', 'conversation', 'seem', 'hostile']","['try', 'conversation', 'seem', 'extremely', 'hostile']"
+60,You keep cutting me off.,5.11,4.25,5.13,neutral,4.829999999999999,2 out of 2,"['keep', 'cut']","['keep', 'cut']"
+61,"Ses01M_impro04_M019 [148.3800-151.8400]: Well, it's 'cause I can't get a job, okay?",4.135,6.165,4.955,neutral,5.085,2 out of 5,"['neg-get', 'neg-job']","['well', 'ca', 'get', 'job', 'okay']"
+62,M: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+63,Ses01M_impro04_M020 [159.7700-161.8600]: I'm not always right I'm just--,2.6799999999999997,5.0,2.84,negative,3.5066666666666664,1 out of 2,['neg-right'],"['always', 'right']"
+64,Ses01M_impro04_F019 [153.7500-157.7950]: I can't finish the sentence with you without you jumping in...,4.966666666666667,6.08,4.25,neutral,5.098888888888889,3 out of 5,"['neg-finish', 'neg-sentence', 'jump']","['ca', 'finish', 'sentence', 'without', 'jump']"
+65,Ses01M_impro04_F020 [157.9700-160.3500]: ...and you're always right.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['always', 'right']"
+66,Ses01M_impro04_M021 [161.9500-163.6100]: fine okay.,6.5,3.86,5.78,positive,5.38,1 out of 2,['fine'],"['fine', 'okay']"
+67,Ses01M_impro04_F021 [162.1700-164.9900]: You have an excuse for everything.,4.52,3.61,4.72,neutral,4.283333333333332,1 out of 2,['excuse'],"['excuse', 'everything']"
+68,Ses01M_impro04_M022 [164.7400-166.5275]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+69,Ses01M_impro04_F022 [166.2900-172.9400]: I'm just saying that maybe you should take in some information before you produce more of your own.,5.907500000000001,3.6199999999999997,5.9175,neutral,5.148333333333333,4 out of 5,"['say', 'take', 'information', 'produce']","['say', 'maybe', 'take', 'information', 'produce']"
+70,Ses01M_impro04_M023 [172.3400-178.6430]: I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.,5.930833333333333,4.051666666666667,5.585833333333333,neutral,5.189444444444445,12 out of 12,"['like', 'sponge', 'like', 'soak', 'information', 'like', 'three', 'year', 'die', 'job', 'like', 'put']","['like', 'sponge', 'like', 'soak', 'information', 'like', 'three', 'year', 'die', 'job', 'like', 'put']"
+71,Ses01M_impro04_F023 [178.1672-181.0057]: [BREATHING],nan,nan,nan,nan,nan,0,nan,['breathing']
+72,Ses01M_impro04_F024 [182.2975-183.8600]: That's -.,nan,nan,nan,nan,nan,0,nan,[]
+73,"Ses01M_impro04_M024 [182.8800-186.4450]: You know, and like I don't think it's that much to ask.",5.8825,4.3425,5.4625,neutral,5.229166666666667,4 out of 5,"['know', 'like', 'neg-think', 'ask']","['know', 'like', 'think', 'much', 'ask']"
+74,I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+75,"Ses01M_impro04_F025 [186.3825-189.6225]: Well, what kind of field are you looking to go into?",6.445,3.9125,6.1425,positive,5.5,4 out of 5,"['kind', 'field', 'look', 'go']","['well', 'kind', 'field', 'look', 'go']"
+76,Ses01M_impro04_M025 [189.3000-190.8275]: That's it.,nan,nan,nan,nan,nan,0,nan,[]

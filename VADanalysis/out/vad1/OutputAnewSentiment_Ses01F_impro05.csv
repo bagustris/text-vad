@@ -1,0 +1,121 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,Ses01F_impro05_F000 [004.2400-005.2300]: Hi.,nan,nan,nan,nan,nan,0,nan,['hi']
+2,Ses01F_impro05_M000 [003.6100-005.1900]: Hi.,nan,nan,nan,nan,nan,0,nan,['hi']
+3,Thanks for waiting.,6.140000000000001,3.835,6.015,positive,5.330000000000001,2 out of 2,"['thanks', 'wait']","['thanks', 'wait']"
+4,Ses01F_impro05_F001 [005.2600-007.1600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+5,This is the fourth line that I have been in.,4.82,3.24,4.89,neutral,4.316666666666666,1 out of 2,['line'],"['fourth', 'line']"
+6,Ses01F_impro05_M001 [005.2100-006.4400]: Can I help you?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+7,Ses01F_impro05_M002 [006.6000-007.7100]: Uh huh.,nan,nan,nan,nan,nan,0,nan,"['uh', 'huh']"
+8,Ses01F_impro05_F002 [007.3500-008.8500]: I need my bag.,5.25,3.55,5.34,neutral,4.713333333333334,2 out of 2,"['need', 'bag']","['need', 'bag']"
+9,Ses01F_impro05_M003 [008.3200-009.8000]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+10,"Ses01F_impro05_F003 [009.2000-013.0200]: I flew in over three hours ago, I've been in four different lines.",5.421666666666667,3.706666666666667,5.665,neutral,4.931111111111111,6 out of 7,"['fly', 'three', 'hour', 'four', 'different', 'line']","['fly', 'three', 'hour', 'ago', 'four', 'different', 'line']"
+11,Ses01F_impro05_M004 [012.2600-013.7800]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+12,Ses01F_impro05_F004 [013.0400-022.7400]: I waited the entire baggage- I waited for the whole baggage carousel four times.,5.243333333333333,3.6444444444444444,5.527777777777778,neutral,4.805185185185185,9 out of 9,"['wait', 'entire', 'baggage', 'wait', 'whole', 'baggage', 'carousel', 'four', 'time']","['wait', 'entire', 'baggage', 'wait', 'whole', 'baggage', 'carousel', 'four', 'time']"
+13,They told me to go to the next one.,5.8933333333333335,3.796666666666667,5.276666666666666,neutral,4.98888888888889,3 out of 4,"['tell', 'go', 'one']","['tell', 'go', 'next', 'one']"
+14,I waited through that for three planes and now I'm here.,5.233333333333333,3.97,5.276666666666666,neutral,4.826666666666667,3 out of 3,"['wait', 'three', 'plane']","['wait', 'three', 'plane']"
+15,Ses01F_impro05_M005 [021.8400-025.9000]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+16,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+17,I'm really sorry that you had to do that.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['really', 'sorry']"
+18,What's your last name?,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 2,['name'],"['last', 'name']"
+19,Let's start there.,6.18,3.76,5.779999999999999,positive,5.239999999999999,2 out of 2,"['let', 'start']","['let', 'start']"
+20,Ses01F_impro05_F005 [025.3500-026.7600]: Nash.,nan,nan,nan,nan,nan,0,nan,['nash']
+21,Ses01F_impro05_M006 [025.9900-027.7272]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+22,Ses01F_impro05_F006 [028.2400-029.9100]: No G.,nan,nan,nan,nan,nan,0,nan,[]
+23,Ses01F_impro05_M007 [028.2900-034.1425]: all right- okay.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 2,['right'],"['right', 'okay']"
+24,And you lost your bag?,4.32,4.43,5.005,neutral,4.585,2 out of 2,"['lose', 'bag']","['lose', 'bag']"
+25,Is that- that the issue?,3.95,4.55,5.47,negative,4.656666666666666,1 out of 1,['issue'],['issue']
+26,Ses01F_impro05_F007 [032.1900-033.5000]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+27,Ses01F_impro05_F008 [033.7800-035.9000]: Flight seven fourteen.,5.476666666666667,3.8733333333333335,5.43,neutral,4.926666666666667,3 out of 3,"['flight', 'seven', 'fourteen']","['flight', 'seven', 'fourteen']"
+28,Ses01F_impro05_M008 [034.7000-036.5200]: Uh-huh.,nan,nan,nan,nan,nan,0,nan,[]
+29,"Ses01F_impro05_F009 [036.7100-044.0300]: Am I going to be getting, like, free tickets, free mileage.",6.79,4.37,5.8428571428571425,positive,5.667619047619048,7 out of 7,"['go', 'get', 'like', 'free', 'ticket', 'free', 'mileage']","['go', 'get', 'like', 'free', 'ticket', 'free', 'mileage']"
+30,When can I expect my bag here?,5.5,4.1450000000000005,5.255,neutral,4.966666666666666,2 out of 2,"['expect', 'bag']","['expect', 'bag']"
+31,Ses01F_impro05_M009 [036.9100-042.7600]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+32,"Yeah, I don't see- I don't see any--",3.7300000000000004,6.1,4.0,negative,4.61,2 out of 3,"['neg-see', 'neg-see']","['yeah', 'see', 'see']"
+33,"Ses01F_impro05_M010 [043.8600-049.9700]: I don't see any record of it, and I-usually when I don't see a record of it, that means um-",3.6220000000000003,6.082,4.234,negative,4.646,5 out of 6,"['neg-see', 'neg-record', 'neg-see', 'neg-record', 'mean']","['see', 'record', 'see', 'record', 'mean', 'um']"
+34,Ses01F_impro05_M011 [049.9700-070.2600]: we've mistakenly lost your baggage.,4.045,4.715,5.17,neutral,4.6433333333333335,2 out of 3,"['lose', 'baggage']","['mistakenly', 'lose', 'baggage']"
+35,We're very sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+36,On behalf of Jet Blue I would like to apologize for any inconvenience.,5.7683333333333335,4.49,5.211666666666667,neutral,5.156666666666666,6 out of 7,"['jet', 'blue', 'would', 'like', 'apologize', 'inconvenience']","['behalf', 'jet', 'blue', 'would', 'like', 'apologize', 'inconvenience']"
+37,I am allowed to issue you a fifty dollar gift card which you can use any future flights you want to take with us.,5.820909090909091,4.305454545454546,5.455454545454545,neutral,5.193939393939394,11 out of 12,"['allow', 'issue', 'fifty', 'dollar', 'gift', 'card', 'use', 'future', 'flight', 'want', 'take']","['allow', 'issue', 'fifty', 'dollar', 'gift', 'card', 'use', 'future', 'flight', 'want', 'take', 'us']"
+38,"I'm very sorry, once again...",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+39,"Ses01F_impro05_F010 [069.5500-073.7600]: Oh, Are you kidding me?",7.23,4.71,4.83,positive,5.590000000000001,1 out of 2,['kid'],"['oh', 'kid']"
+40,"Ses01F_impro05_M012 [070.3800-073.1400]: for such an inconvenience and your bag, but",4.05,4.845,4.61,neutral,4.501666666666666,2 out of 2,"['inconvenience', 'bag']","['inconvenience', 'bag']"
+41,Ses01F_impro05_F011 [073.8700-075.5375]: Is this a joke?,7.88,5.73,5.79,positive,6.466666666666666,1 out of 1,['joke'],['joke']
+42,Ses01F_impro05_M013 [073.5500-074.9900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+43,"Ses01F_impro05_M014 [075.0300-076.4800]: No, no.",nan,nan,nan,nan,nan,0,nan,[]
+44,Ses01F_impro05_F012 [075.6100-080.7300]: Are there candid cameras?,6.095000000000001,3.525,5.904999999999999,positive,5.175,2 out of 2,"['candid', 'camera']","['candid', 'camera']"
+45,Is this that movie?,7.24,4.39,5.68,positive,5.77,1 out of 1,['movie'],['movie']
+46,"There's that show, right?",6.615,4.55,6.495,positive,5.886666666666667,2 out of 2,"['show', 'right']","['show', 'right']"
+47,"Airplane, airline.",5.305,4.87,4.52,neutral,4.898333333333333,2 out of 2,"['airplane', 'airline']","['airplane', 'airline']"
+48,"Ses01F_impro05_M015 [080.2200-083.2425]: No, no.",nan,nan,nan,nan,nan,0,nan,[]
+49,This is real.,7.09,4.05,5.89,positive,5.676666666666667,1 out of 1,['real'],['real']
+50,Ses01F_impro05_F013 [082.7500-086.0600]: So you'll give me money and then I'll get my bag?,6.4925,4.6325,5.827500000000001,positive,5.650833333333334,4 out of 4,"['give', 'money', 'get', 'bag']","['give', 'money', 'get', 'bag']"
+51,Ses01F_impro05_M016 [085.7200-093.9575]: No.,nan,nan,nan,nan,nan,0,nan,[]
+52,"I'm just giving you money, the bag is gone.",6.55,4.930000000000001,5.7475000000000005,positive,5.7425,4 out of 4,"['give', 'money', 'bag', 'go']","['give', 'money', 'bag', 'go']"
+53,"If it's not here, I'm really sorry there is nothing I can do because...",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 3,['sorry'],"['really', 'sorry', 'nothing']"
+54,Ses01F_impro05_M017 [094.0050-100.4000]: this is the only track record that we have and if it's not listed here then it's probably not anywhere.,5.26,4.836666666666667,4.8533333333333335,neutral,4.983333333333333,3 out of 5,"['track', 'record', 'neg-list']","['track', 'record', 'list', 'probably', 'anywhere']"
+55,"Ses01F_impro05_F014 [099.5200-102.9000]: You're kidding me, this is a joke.",7.555,5.220000000000001,5.3100000000000005,positive,6.028333333333333,2 out of 2,"['kid', 'joke']","['kid', 'joke']"
+56,"Ses01F_impro05_M018 [100.5500-103.6800]: Once again, I'm really- I'm really sorry.",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 3,['sorry'],"['really', 'really', 'sorry']"
+57,Ses01F_impro05_F015 [103.0050-118.5000]: Do you have any idea-- fifty dollars?,6.3933333333333335,4.5600000000000005,5.693333333333333,positive,5.548888888888889,3 out of 3,"['idea', 'fifty', 'dollar']","['idea', 'fifty', 'dollar']"
+58,That's supposed to replace everything that I have?,5.414999999999999,3.37,5.36,neutral,4.715,2 out of 3,"['suppose', 'replace']","['suppose', 'replace', 'everything']"
+59,Do you understand how much I have packed in there?,6.115,3.8099999999999996,6.38,positive,5.435,2 out of 3,"['understand', 'pack']","['understand', 'much', 'pack']"
+60,Not only does it have sentimental value; it can't be replaced like that.,5.1125,5.2325,5.27,neutral,5.204999999999999,4 out of 5,"['sentimental', 'value', 'neg-replace', 'neg-like']","['sentimental', 'value', 'ca', 'replace', 'like']"
+61,It was incredibly expensive.,3.36,6.1,6.21,negative,5.223333333333333,1 out of 2,['expensive'],"['incredibly', 'expensive']"
+62,Ses01F_impro05_M019 [111.2800-112.8100]: Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+63,Ses01F_impro05_M020 [118.0400-119.3700]: I know.,6.82,3.24,5.78,positive,5.28,1 out of 1,['know'],['know']
+64,Ses01F_impro05_F016 [118.5300-122.4400]: We flew in from Paris.,6.06,4.9,5.28,positive,5.413333333333334,1 out of 2,['fly'],"['fly', 'paris']"
+65,I've been shopping for three weeks.,5.529999999999999,3.8233333333333333,5.483333333333333,neutral,4.945555555555555,3 out of 3,"['shop', 'three', 'week']","['shop', 'three', 'week']"
+66,Ses01F_impro05_M021 [121.1900-129.2300]: I'm very sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+67,"But if you see the sign that's right behind me here, it spells it out really clearly that we are not held liable--",5.831666666666667,4.51,5.71,neutral,5.350555555555555,6 out of 9,"['see', 'sign', 'right', 'spell', 'neg-hold', 'neg-liable']","['see', 'sign', 'right', 'behind', 'spell', 'really', 'clearly', 'hold', 'liable']"
+68,Ses01F_impro05_F017 [127.4850-136.8500]: I don't care what you're freaking sign says.,4.3175,5.3125,5.202500000000001,neutral,4.944166666666667,4 out of 4,"['neg-care', 'freak', 'sign', 'say']","['care', 'freak', 'sign', 'say']"
+69,Somebody- Somebody needs to replace everything I've got there and give me money for my inconvenience.,5.83,4.74,5.326666666666667,neutral,5.298888888888889,6 out of 9,"['need', 'replace', 'get', 'give', 'money', 'inconvenience']","['somebody', 'somebody', 'need', 'replace', 'everything', 'get', 'give', 'money', 'inconvenience']"
+70,Ses01F_impro05_M022 [131.0200-133.2500]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+71,Calm-,6.89,1.67,7.44,positive,5.333333333333333,1 out of 1,['calm'],['calm']
+72,"Ses01F_impro05_M023 [136.1900-143.5000]: Actually, we are not necessarily liable to give you- to even give you this fifty dollars so... it's actually- it's actually really",6.718,4.768,5.444,positive,5.6433333333333335,5 out of 11,"['neg-liable', 'give', 'give', 'fifty', 'dollar']","['actually', 'necessarily', 'liable', 'give', 'even', 'give', 'fifty', 'dollar', 'actually', 'actually', 'really']"
+73,Ses01F_impro05_F018 [137.7150-140.1100]: Do you understand who my husband is?,7.045,3.95,6.215,positive,5.736666666666667,2 out of 2,"['understand', 'husband']","['understand', 'husband']"
+74,"Ses01F_impro05_F019 [140.2250-145.6000]: If you're- if you're- if you're looking for a lawsuit, baby, you've found it.",5.4775,4.41,5.065,neutral,4.984166666666667,4 out of 4,"['look', 'lawsuit', 'baby', 'find']","['look', 'lawsuit', 'baby', 'find']"
+75,"Ses01F_impro05_M024 [144.8500-151.1600]: We are actually not even allowed--  you know, like we don't have to give you this fifty dollars.",5.378333333333334,4.8566666666666665,5.2,neutral,5.145,6 out of 8,"['neg-allow', 'know', 'like', 'neg-give', 'fifty', 'dollar']","['actually', 'even', 'allow', 'know', 'like', 'give', 'fifty', 'dollar']"
+76,We don't have to do that.,nan,nan,nan,nan,nan,0,nan,[]
+77,Ses01F_impro05_F020 [149.3650-153.8000]: Oh-Oh.,nan,nan,nan,nan,nan,0,nan,[]
+78,It's a gift.,7.27,4.64,6.32,positive,6.076666666666667,1 out of 1,['gift'],['gift']
+79,You're-You're helping me out here?,6.95,4.29,6.89,positive,6.043333333333333,1 out of 1,['help'],['help']
+80,Ses01F_impro05_M025 [151.3350-152.7100]: It's a gift.,7.27,4.64,6.32,positive,6.076666666666667,1 out of 1,['gift'],['gift']
+81,"Ses01F_impro05_M026 [152.8325-158.5800]: You know, the airlines can not be held responsible for every bag of luggage that comes through here.",5.104285714285714,4.321428571428571,4.945714285714286,neutral,4.79047619047619,7 out of 8,"['know', 'airline', 'neg-hold', 'neg-responsible', 'bag', 'luggage', 'come']","['know', 'airline', 'hold', 'responsible', 'every', 'bag', 'luggage', 'come']"
+82,Ses01F_impro05_F021 [155.6000-160.3600]: You are cruising for a bruising.,4.855,4.18,4.7299999999999995,neutral,4.588333333333334,2 out of 2,"['cruise', 'bruise']","['cruise', 'bruise']"
+83,You are in so much trouble.,2.87,5.59,4.35,negative,4.2700000000000005,1 out of 2,['trouble'],"['much', 'trouble']"
+84,Ses01F_impro05_M027 [159.6600-161.3700]: With the amount of--,5.42,3.53,5.39,neutral,4.78,1 out of 1,['amount'],['amount']
+85,Ses01F_impro05_F022 [160.4100-163.7975]: Who's in charge?,4.61,4.25,5.17,neutral,4.676666666666667,1 out of 1,['charge'],['charge']
+86,Who is the president of Jet Blue?,5.9225,4.3725,5.0325,neutral,5.109166666666667,4 out of 3,"['president', 'president', 'jet', 'blue']","['president', 'jet', 'blue']"
+87,"Ses01F_impro05_M028 [163.2500-166.9900]: Um, actually, I don't know.",3.1799999999999997,6.76,4.22,negative,4.72,1 out of 3,['neg-know'],"['um', 'actually', 'know']"
+88,I don't know.,3.1799999999999997,6.76,4.22,negative,4.72,1 out of 1,['neg-know'],['know']
+89,Oh really?,nan,nan,nan,nan,nan,0,nan,"['oh', 'really']"
+90,Ses01F_impro05_F023 [163.8800-165.8000]: Because I probably know him.,6.82,3.24,5.78,positive,5.28,1 out of 2,['know'],"['probably', 'know']"
+91,Ses01F_impro05_F024 [166.3300-167.7100]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+92,Ses01F_impro05_M029 [167.1500-173.6300]: Well then maybe you can just call him and he can give you more money.,7.003333333333333,4.906666666666667,5.883333333333334,positive,5.931111111111111,3 out of 5,"['call', 'give', 'money']","['well', 'maybe', 'call', 'give', 'money']"
+93,But right now all I can do--,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+94,"Ses01F_impro05_F025 [171.0900-174.2000]: I don't want money, I want my clothes.",4.9175,4.07,4.7875,neutral,4.591666666666667,4 out of 4,"['neg-want', 'neg-money', 'want', 'clothes']","['want', 'money', 'want', 'clothes']"
+95,"Ses01F_impro05_M030 [173.7325-178.2625]: Right now all I can do is just give you this fifty dollars, I'm really sorry.",6.398,4.642,5.9,positive,5.646666666666666,5 out of 6,"['right', 'give', 'fifty', 'dollar', 'sorry']","['right', 'give', 'fifty', 'dollar', 'really', 'sorry']"
+96,Ses01F_impro05_F026 [177.6025-179.0900]: What's your name?,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 1,['name'],['name']
+97,Ses01F_impro05_M031 [178.5900-180.8700]: Oh.,nan,nan,nan,nan,nan,0,nan,['oh']
+98,My name is Sean.,5.62,3.04,5.14,neutral,4.6000000000000005,1 out of 2,['name'],"['name', 'sean']"
+99,Hi.,nan,nan,nan,nan,nan,0,nan,['hi']
+100,Ses01F_impro05_F027 [179.2200-183.8450]: Sean.,nan,nan,nan,nan,nan,0,nan,['sean']
+101,Great.,7.5,4.14,6.65,positive,6.096666666666667,1 out of 1,['great'],['great']
+102,Do you have a badge number or something?,5.415,3.95,5.9399999999999995,neutral,5.101666666666667,2 out of 3,"['badge', 'number']","['badge', 'number', 'something']"
+103,Ses01F_impro05_M032 [183.1400-189.3875]: Badge number?,5.415,3.95,5.9399999999999995,neutral,5.101666666666667,2 out of 2,"['badge', 'number']","['badge', 'number']"
+104,"Uh, no.",nan,nan,nan,nan,nan,0,nan,['uh']
+105,You can just take my employee number I guess.,5.22,4.1325,5.165,neutral,4.839166666666666,4 out of 4,"['take', 'employee', 'number', 'guess']","['take', 'employee', 'number', 'guess']"
+106,Ses01F_impro05_F028 [188.7800-190.8975]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+107,I'll do that.,nan,nan,nan,nan,nan,0,nan,[]
+108,Ses01F_impro05_M033 [190.2300-196.9000]: Why?,nan,nan,nan,nan,nan,0,nan,[]
+109,Have I done something wrong?,4.325,4.48,4.87,neutral,4.558333333333334,2 out of 3,"['do', 'wrong']","['do', 'something', 'wrong']"
+110,Have I given you bad service?,5.933333333333334,4.126666666666667,4.87,neutral,4.976666666666667,3 out of 3,"['give', 'bad', 'service']","['give', 'bad', 'service']"
+111,I feel like I have done the best I could.,6.373333333333333,4.04,6.043333333333333,positive,5.485555555555556,3 out of 5,"['feel', 'like', 'do']","['feel', 'like', 'do', 'best', 'could']"
+112,Ses01F_impro05_F029 [195.3800-199.3300]: I don't think you have done everything you could do because I don't have my bag here yet.,4.5600000000000005,5.496666666666667,4.743333333333333,neutral,4.933333333333334,3 out of 6,"['neg-think', 'do', 'neg-bag']","['think', 'do', 'everything', 'could', 'bag', 'yet']"
+113,"Ses01F_impro05_M034 [198.6600-205.1700]: If you want, you can write a letter.",6.043333333333333,4.096666666666667,5.546666666666667,positive,5.228888888888889,3 out of 3,"['want', 'write', 'letter']","['want', 'write', 'letter']"
+114,I can give you the address.,6.92,3.81,5.305,positive,5.345,2 out of 2,"['give', 'address']","['give', 'address']"
+115,Yes.,nan,nan,nan,nan,nan,0,nan,['yes']
+116,An angry--,2.53,6.2,4.11,negative,4.28,1 out of 1,['angry'],['angry']
+117,Ses01F_impro05_F030 [202.8600-206.1700]: A letter?,5.68,3.19,5.97,neutral,4.946666666666666,1 out of 1,['letter'],['letter']
+118,I'll make a personal phone call.,6.1125,3.49,5.2475000000000005,positive,4.95,4 out of 4,"['make', 'personal', 'phone', 'call']","['make', 'personal', 'phone', 'call']"
+119,Ses01F_impro05_M035 [205.6300-211.9400]: Or you can make a phone call.,6.12,3.4633333333333334,5.423333333333334,positive,5.002222222222223,3 out of 3,"['make', 'phone', 'call']","['make', 'phone', 'call']"
+120,"But I think a letter might be a little more-- in my impression, letters have more...",5.99,3.638,5.81,neutral,5.146,5 out of 6,"['think', 'letter', 'little', 'impression', 'letter']","['think', 'letter', 'might', 'little', 'impression', 'letter']"

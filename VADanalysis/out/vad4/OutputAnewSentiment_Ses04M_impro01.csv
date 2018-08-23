@@ -1,0 +1,93 @@
+Sentence ID,Sentence,Valence,Arousal,Dominance,Sentiment Label,Average VAD,# Words Found,Found Words,All Words
+1,"Ses04M_impro01_M000 [004.0400-015.3700]: Yeah, hi.",nan,nan,nan,nan,nan,0,nan,"['yeah', 'hi']"
+2,"Um, look, I -- all I'm trying to do right now is renew my license plate.",5.9366666666666665,4.13,6.333333333333334,neutral,5.466666666666666,6 out of 7,"['look', 'try', 'right', 'renew', 'license', 'plate']","['um', 'look', 'try', 'right', 'renew', 'license', 'plate']"
+3,That's all.,nan,nan,nan,nan,nan,0,nan,[]
+4,I just need to get one of those little stickers.,5.822,3.652,5.394,neutral,4.956,5 out of 5,"['need', 'get', 'one', 'little', 'sticker']","['need', 'get', 'one', 'little', 'sticker']"
+5,Ses04M_impro01_F000 [014.9200-017.1600]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+6,What's the problem?,3.52,4.81,4.94,negative,4.423333333333333,1 out of 1,['problem'],['problem']
+7,Ses04M_impro01_M001 [015.4200-023.4300]: And I've- I've- some lady -- I got in line.,5.94,3.6533333333333333,5.47,neutral,5.021111111111111,3 out of 3,"['lady', 'get', 'line']","['lady', 'get', 'line']"
+8,"I waited for about two hours um, and, I gave her this form",5.854,3.75,5.76,neutral,5.121333333333333,5 out of 6,"['wait', 'two', 'hour', 'give', 'form']","['wait', 'two', 'hour', 'um', 'give', 'form']"
+9,Ses04M_impro01_M002 [023.4594-034.4800]: that she gave to me earlier.,7.73,4.57,5.72,positive,6.006666666666667,1 out of 2,['give'],"['give', 'earlier']"
+10,"And she said oh, I gave you the wrong one by accident.",5.104,4.378,4.91,neutral,4.7973333333333334,5 out of 6,"['say', 'give', 'wrong', 'one', 'accident']","['say', 'oh', 'give', 'wrong', 'one', 'accident']"
+11,"So I was hoping I could just fill out a new one, give it to you and sort of skip this whole line business.",5.985555555555556,3.7911111111111113,5.572222222222222,neutral,5.116296296296297,9 out of 11,"['hop', 'fill', 'new', 'one', 'give', 'skip', 'whole', 'line', 'business']","['hop', 'could', 'fill', 'new', 'one', 'give', 'sort', 'skip', 'whole', 'line', 'business']"
+12,F: Uhuh.,nan,nan,nan,nan,nan,0,nan,"['f', 'uhuh']"
+13,"Ses04M_impro01_F001 [033.0700-035.8800]: Okay, um.",nan,nan,nan,nan,nan,0,nan,"['okay', 'um']"
+14,Do you have your photo ID with you?,6.04,3.7699999999999996,5.705,positive,5.171666666666666,2 out of 2,"['photo', 'id']","['photo', 'id']"
+15,"Ses04M_impro01_M003 [035.4200-036.7400]: Yes, I do.",nan,nan,nan,nan,nan,0,nan,['yes']
+16,Ses04M_impro01_F002 [036.2900-041.4400]: Okay.,nan,nan,nan,nan,nan,0,nan,['okay']
+17,This is the wrong form.,4.4399999999999995,4.57,4.93,neutral,4.6466666666666665,2 out of 2,"['wrong', 'form']","['wrong', 'form']"
+18,I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+19,"Ses04M_impro01_M004 [040.9365-046.4400]: This is -- okay, then just can I have the form that I need.",5.545,3.76,5.765,neutral,5.023333333333333,2 out of 3,"['form', 'need']","['okay', 'form', 'need']"
+20,Ses04M_impro01_F003 [044.3200-052.2700]: I don't have the form.,4.36,6.15,3.5300000000000002,neutral,4.680000000000001,1 out of 1,['neg-form'],['form']
+21,You're going to have to go get in that line over there and they will give you the right form.,6.32,4.292857142857143,5.792857142857143,positive,5.468571428571429,7 out of 7,"['go', 'go', 'get', 'line', 'give', 'right', 'form']","['go', 'go', 'get', 'line', 'give', 'right', 'form']"
+22,"And after you fill it out, you can bring it back to me.",5.333333333333333,3.41,5.906666666666666,neutral,4.883333333333333,3 out of 3,"['fill', 'bring', 'back']","['fill', 'bring', 'back']"
+23,Ses04M_impro01_M005 [050.6500-052.2800]: Don't you -- you don't have-,nan,nan,nan,nan,nan,0,nan,[]
+24,Ses04M_impro01_M006 [052.3200-055.2000]: are you telling me you don't have a stack of them behind the desk?,5.166666666666666,4.326666666666666,4.933333333333334,neutral,4.808888888888888,3 out of 4,"['tell', 'neg-stack', 'desk']","['tell', 'stack', 'behind', 'desk']"
+25,Ses04M_impro01_F004 [052.3400-054.3500]: I don't have any of,nan,nan,nan,nan,nan,0,nan,[]
+26,Ses04M_impro01_F005 [054.3500-059.6392]: I don't have any of them over here.,nan,nan,nan,nan,nan,0,nan,[]
+27,You're gonna have to go get in that line over there.,5.743333333333333,3.9233333333333333,5.29,neutral,4.985555555555556,3 out of 5,"['go', 'get', 'line']","['gon', 'na', 'go', 'get', 'line']"
+28,And they will give you a copy of the form.,6.196666666666666,3.856666666666667,5.62,positive,5.224444444444444,3 out of 3,"['give', 'copy', 'form']","['give', 'copy', 'form']"
+29,"Ses04M_impro01_M007 [059.3288-064.1200]: But you're -- it's the same -- I mean, you can -- like I can't go behind your desk--",4.7775,4.2,5.21,neutral,4.729166666666667,4 out of 6,"['mean', 'like', 'neg-go', 'desk']","['mean', 'like', 'ca', 'go', 'behind', 'desk']"
+30,"Ses04M_impro01_F006 [063.9300-066.3900]: Nope, I don't.",nan,nan,nan,nan,nan,0,nan,['nope']
+31,I don't have-,nan,nan,nan,nan,nan,0,nan,[]
+32,Ses04M_impro01_M008 [064.1403-072.1900]: or I can't go behind there- you can go behind this person's desk and just grab the form.,5.456666666666667,4.085,5.578333333333333,neutral,5.04,6 out of 9,"['neg-go', 'go', 'person', 'desk', 'grab', 'form']","['ca', 'go', 'behind', 'go', 'behind', 'person', 'desk', 'grab', 'form']"
+33,So if you could just do that; that would help me out a lot.,6.43,4.05,6.415,positive,5.631666666666667,2 out of 4,"['would', 'help']","['could', 'would', 'help', 'lot']"
+34,"Ses04M_impro01_F007 [067.7500-069.3600]: No, I can't.",nan,nan,nan,nan,nan,0,nan,['ca']
+35,That's-,nan,nan,nan,nan,nan,0,nan,[]
+36,Ses04M_impro01_F008 [071.5900-075.9500]: I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+37,You have to do things the way you have to do things here.,5.67,3.2533333333333334,5.216666666666667,neutral,4.713333333333334,3 out of 3,"['thing', 'way', 'thing']","['thing', 'way', 'thing']"
+38,We have rules.,4.5,3.67,3.61,neutral,3.9266666666666663,1 out of 1,['rule'],['rule']
+39,"Ses04M_impro01_M009 [075.6600-078.7000]: Look, can you please just-- --make this -- look, I look--",5.985,3.7375,5.965,neutral,5.229166666666667,4 out of 5,"['look', 'make', 'look', 'look']","['look', 'please', 'make', 'look', 'look']"
+40,"Ses04M_impro01_F009 [075.9700-080.4800]: Go get in that-- Sir-- Sir, there are people in line behind you.",5.638333333333334,4.033333333333333,5.248333333333333,neutral,4.973333333333334,6 out of 7,"['go', 'get', 'sir', 'sir', 'people', 'line']","['go', 'get', 'sir', 'sir', 'people', 'line', 'behind']"
+41,you need,5.45,3.67,5.06,neutral,4.726666666666667,1 out of 1,['need'],['need']
+42,Ses04M_impro01_M010 [078.7000-085.9800]: look-- It's  been- it's been two hours.,5.766666666666667,3.4899999999999998,5.726666666666667,neutral,4.9944444444444445,3 out of 3,"['look', 'two', 'hour']","['look', 'two', 'hour']"
+43,Can you please just make this easier on me and just go and get the form?,6.035,4.0125,5.9175,positive,5.321666666666666,4 out of 6,"['make', 'go', 'get', 'form']","['please', 'make', 'easier', 'go', 'get', 'form']"
+44,It's not- it's really not,nan,nan,nan,nan,nan,0,nan,['really']
+45,Ses04M_impro01_F010 [084.2800-087.6200]: I'm sorry.,4.81,4.62,5.65,neutral,5.026666666666666,1 out of 1,['sorry'],['sorry']
+46,"I'm sorry you're having a hard time,",4.92,4.176666666666667,4.99,neutral,4.695555555555556,3 out of 3,"['sorry', 'hard', 'time']","['sorry', 'hard', 'time']"
+47,Ses04M_impro01_F011 [087.6200-090.4800]: but you're gonna have to go get in  that line to,5.743333333333333,3.9233333333333333,5.29,neutral,4.985555555555556,3 out of 5,"['go', 'get', 'line']","['gon', 'na', 'go', 'get', 'line']"
+48,Ses04M_impro01_M011 [088.6400-090.0900]: What if I pay you money?,6.665,5.550000000000001,6.325,positive,6.18,2 out of 2,"['pay', 'money']","['pay', 'money']"
+49,Ses04M_impro01_M012 [090.0900-093.7900]: Can I pay you money?,6.665,5.550000000000001,6.325,positive,6.18,2 out of 2,"['pay', 'money']","['pay', 'money']"
+50,"Can I give you, like, twenty bucks and you'll go back there and get the form?",6.3412500000000005,4.03875,5.65,positive,5.343333333333334,8 out of 8,"['give', 'like', 'twenty', 'buck', 'go', 'back', 'get', 'form']","['give', 'like', 'twenty', 'buck', 'go', 'back', 'get', 'form']"
+51,Ses04M_impro01_F012 [092.6100-095.8700]: twenty bucks?,6.375,4.1850000000000005,5.265,positive,5.2749999999999995,2 out of 2,"['twenty', 'buck']","['twenty', 'buck']"
+52,Please.,nan,nan,nan,nan,nan,0,nan,['please']
+53,Go get in that line over there.,5.743333333333333,3.9233333333333333,5.29,neutral,4.985555555555556,3 out of 3,"['go', 'get', 'line']","['go', 'get', 'line']"
+54,M: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+55,Ses04M_impro01_M013 [095.3800-099.6000]: Come on.,5.64,3.57,5.94,neutral,5.05,1 out of 1,['come'],['come']
+56,Will you please?,nan,nan,nan,nan,nan,0,nan,['please']
+57,"I just --I look, I  cannot-- --just if I --",5.95,3.76,5.88,neutral,5.196666666666666,1 out of 1,['look'],['look']
+58,"Ses04M_impro01_F013 [098.7000-104.7200]: Look, I'm having a really bad day.",5.183333333333334,4.08,5.01,neutral,4.757777777777778,3 out of 4,"['look', 'bad', 'day']","['look', 'really', 'bad', 'day']"
+59,"I'm off in twenty minutes and I just really don't need this right now, okay.",4.745,4.6899999999999995,4.2725,neutral,4.569166666666667,4 out of 6,"['twenty', 'minute', 'neg-need', 'neg-right']","['twenty', 'minute', 'really', 'need', 'right', 'okay']"
+60,"Ses04M_impro01_M014 [102.0200-106.5800]: I don't care, well- You're having a bad -- I just waited in line for two hours.",4.386666666666667,4.293333333333333,4.75,neutral,4.476666666666667,6 out of 7,"['neg-care', 'bad', 'wait', 'line', 'two', 'hour']","['care', 'well', 'bad', 'wait', 'line', 'two', 'hour']"
+61,"Ses04M_impro01_F014 [105.0400-108.7800]: And you're gonna have to go wait again, because that's the line you need.",5.285,3.8475,5.1475,neutral,4.760000000000001,4 out of 6,"['go', 'wait', 'line', 'need']","['gon', 'na', 'go', 'wait', 'line', 'need']"
+62,Ses04M_impro01_M015 [108.3100-114.8900]: Well I just -- I can't do that right -- can you please just grab the form?,4.586666666666667,4.45,4.863333333333333,neutral,4.633333333333334,3 out of 6,"['neg-right', 'grab', 'form']","['well', 'ca', 'right', 'please', 'grab', 'form']"
+63,All you have to do is grab the form.,5.54,4.175,5.875,neutral,5.196666666666666,2 out of 2,"['grab', 'form']","['grab', 'form']"
+64,I'm not gonna ask anything else of you.,4.05,6.52,3.71,neutral,4.760000000000001,1 out of 5,['neg-ask'],"['gon', 'na', 'ask', 'anything', 'else']"
+65,"F: Sir, you can either go--",5.885,4.595000000000001,5.220000000000001,neutral,5.233333333333333,2 out of 4,"['sir', 'go']","['f', 'sir', 'either', 'go']"
+66,Ses04M_impro01_F015 [114.6600-123.9600]: I can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+67,It's against our rules.,4.5,3.67,3.61,neutral,3.9266666666666663,1 out of 1,['rule'],['rule']
+68,You can go get in that line over there or you can just go ahead and leave and come back another day.,5.62375,3.86125,5.4275,neutral,4.970833333333333,8 out of 10,"['go', 'get', 'line', 'go', 'leave', 'come', 'back', 'day']","['go', 'get', 'line', 'go', 'ahead', 'leave', 'come', 'back', 'another', 'day']"
+69,Maybe there will be a shorter line.,4.82,3.24,4.89,neutral,4.316666666666666,1 out of 3,['line'],"['maybe', 'shorter', 'line']"
+70,Ses04M_impro01_M016 [114.9100-117.9200]: That's all I- I just- That's all i want you to-,6.0,5.29,5.39,neutral,5.56,1 out of 1,['want'],['want']
+71,"Ses04M_impro01_M017 [117.9400-121.9900]: Rules, you just have to grab a piece of paper behind from somebody's desk",5.23,3.542,5.072,neutral,4.614666666666667,5 out of 7,"['rule', 'grab', 'piece', 'paper', 'desk']","['rule', 'grab', 'piece', 'paper', 'behind', 'somebody', 'desk']"
+72,Ses04M_impro01_M018 [122.0334-123.8100]: It's not rocket science.,3.94,4.855,3.8449999999999998,negative,4.213333333333334,2 out of 2,"['neg-rocket', 'neg-science']","['rocket', 'science']"
+73,"Ses04M_impro01_M019 [123.8500-126.7200]: Come -- just, please, just grab the form.",5.573333333333333,3.973333333333333,5.8966666666666665,neutral,5.147777777777778,3 out of 4,"['come', 'grab', 'form']","['come', 'please', 'grab', 'form']"
+74,It's right over there.,7.32,5.0,7.16,positive,6.493333333333333,1 out of 1,['right'],['right']
+75,Ses04M_impro01_F016 [126.6700-128.1400]: I can't do that.,nan,nan,nan,nan,nan,0,nan,['ca']
+76,Ses04M_impro01_M020 [126.7600-127.9900]: I know it's right over there.,7.07,4.12,6.470000000000001,positive,5.886666666666668,2 out of 2,"['know', 'right']","['know', 'right']"
+77,Ses04M_impro01_M021 [128.0000-130.4100]: Why are you being such a bitch?,2.55,5.95,3.65,negative,4.05,1 out of 1,['bitch'],['bitch']
+78,"Ses04M_impro01_F017 [130.3700-133.0200]: I'm sorry, but I can't do that.",4.81,4.62,5.65,neutral,5.026666666666666,1 out of 2,['sorry'],"['sorry', 'ca']"
+79,"Ses04M_impro01_M022 [135.0000-138.9300]: Please, will you please -- will you please just grab the form?",5.54,4.175,5.875,neutral,5.196666666666666,2 out of 5,"['grab', 'form']","['please', 'please', 'please', 'grab', 'form']"
+80,Ses04M_impro01_F018 [133.0200-137.4300]: So go get in the other line or leave.,5.4775,4.0625,5.335,neutral,4.958333333333333,4 out of 4,"['go', 'get', 'line', 'leave']","['go', 'get', 'line', 'leave']"
+81,Or I will have you escorted out by security.,5.88,4.755000000000001,5.8149999999999995,neutral,5.483333333333334,2 out of 2,"['escort', 'security']","['escort', 'security']"
+82,Ses04M_impro01_F019 [138.0500-142.4822]: Would you like to be kicked out of the D.M.V.?,5.966666666666667,4.4366666666666665,5.773333333333333,neutral,5.392222222222222,3 out of 3,"['would', 'like', 'kick']","['would', 'like', 'kick']"
+83,You don't think that'll be a little embarrassing?,4.253333333333334,5.466666666666667,4.183333333333334,neutral,4.634444444444445,3 out of 3,"['neg-think', 'little', 'embarrassing']","['think', 'little', 'embarrassing']"
+84,"Ses04M_impro01_M023 [142.8703-145.5476]: Fine, which line is it?",5.66,3.55,5.335,neutral,4.848333333333334,2 out of 2,"['fine', 'line']","['fine', 'line']"
+85,Ses04M_impro01_F020 [145.0600-147.0600]: The one you just came from.,5.865,3.12,5.75,neutral,4.911666666666666,2 out of 2,"['one', 'come']","['one', 'come']"
+86,"Ses04M_impro01_M024 [146.5100-150.5300]: Okay, fine.",6.5,3.86,5.78,positive,5.38,1 out of 2,['fine'],"['okay', 'fine']"
+87,I'll go over there.,6.32,4.86,5.33,positive,5.503333333333333,1 out of 1,['go'],['go']
+88,"Thanks, a lot.",7.73,4.05,6.72,positive,6.166666666666667,1 out of 2,['thanks'],"['thanks', 'lot']"
+89,You've been really helpful.,7.43,3.88,6.79,positive,6.033333333333332,1 out of 2,['helpful'],"['really', 'helpful']"
+90,Ses04M_impro01_F021 [150.0875-154.0900]: Yeah.,nan,nan,nan,nan,nan,0,nan,['yeah']
+91,Thank you.,7.77,3.33,6.89,positive,5.996666666666666,1 out of 1,['thank'],['thank']
+92,Have a pleasant day.,6.800000000000001,3.265,6.145,positive,5.403333333333333,2 out of 2,"['pleasant', 'day']","['pleasant', 'day']"
