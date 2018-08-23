@@ -49,7 +49,7 @@ def analyzefile(input_file, output_dir, mode):
     :param mode: determines how sentiment values for a sentence are computed (median or mean)
     :return:
     """
-    output_file = os.path.join(output_dir, "OutputAnewSentiment_" + os.path.basename(input_file).rstrip('.txt') + ".csv")
+    output_file = os.path.join(output_dir, os.path.basename(input_file).rstrip('.txt') + ".csv") #"OutputAnewSentiment_" + 
     # make buffer for list of utterance
     utterances = []
     # read file into string
