@@ -56,7 +56,7 @@ def analyzefile(input_file, output_dir, mode):
     # otherwise, split into sentences
 #    from line in myfile.readlines()
     sentences = tokenize.sent_tokenize(fulltext)
-    print(sentences)
+#    print(sentences)
     i = 1 # to store sentence index
     # check each word in sentence for sentiment and write to output_file
     with open(output_file, 'w', newline='') as csvfile:

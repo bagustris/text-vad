@@ -14,7 +14,7 @@ Parameters:
         specifies directory to create output files
     --mode [mode]
         takes either "median" or "mean"; determines which is used to calculate sentence sentiment values
-bug: should process each line, but currently not, with stop words
+NOTE: Input file should one utterance per line, as it is intended.
 """
 # add parameter to exclude duplicates? also mean or median analysis
 
