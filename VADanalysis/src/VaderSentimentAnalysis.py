@@ -18,7 +18,7 @@ import time
 import argparse
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk import tokenize
-
+import nltk
 
 # performs sentiment analysis on inputFile using the NLTK, outputting results to a new CSV file in outputDir
 def analyzefile(input_file, output_dir):
@@ -29,31 +29,39 @@ def analyzefile(input_file, output_dir):
     :param output_dir: path of directory to create new output file
     :return:
     """
-    output_file = os.path.join(output_dir, "Output Vader Sentiment " + os.path.basename(input_file).rstrip('.txt') + ".csv")
+    output_file = os.path.join(output_dir, "Output_Vader_Sentiment_" + os.path.basename(input_file).rstrip('.txt') + ".csv")
 
     # read file into string
     with open(input_file, 'r') as myfile:
-        fulltext = myfile.read()
+        fulltext = myfile.readlines()
     # end method if file is empty
-    if len(fulltext) < 1:
-        print('Empty file.')
-        return
-
-    sentences = tokenize.sent_tokenize(fulltext)  # split text into sentences
+    #if len(fulltext) < 1:
+    #    print('Empty file.')
+    #    return
+    
+    #sentences = tokenize.word_tokenize(fulltext)  # split text into sentences
     sid = SentimentIntensityAnalyzer()  # create sentiment analyzer
     i = 1  # to store sentence index
 
     # check each word in sentence for sentiment and write to output_file
-    with open(output_file, 'w', newline='') as csvfile:
+    with open(output_file, 'w', newline="") as csvfile:
         fieldnames = ['Sentence ID', 'Sentence', 'Sentiment', 'Sentiment Label']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, 
+                                fieldnames=fieldnames, 
+                                delimiter=';',
+                                lineterminator='\n',
+                                #quoting=csv.QUOTE_NONE
+                                )
         writer.writeheader()
 
-        # analyze each sentence for sentiment
-        for s in sentences:
-            ss = sid.polarity_scores(s)  # get sentiment scores
+        # analyze each sentence/line for sentiment
 
+        for line in fulltext:
+            s = nltk.word_tokenize(line.lower())
+            ss = sid.polarity_scores(str(line))  # get sentiment scores
+            print(s)
             # determine sentiment label (0 = negative, >0 = positive, <0 = negative)
+            # score is determined from compound (normalized from (-1, 1))
             label = 'neutral'
             sentiment = ss['compound']
             if sentiment > 0:
@@ -111,14 +119,12 @@ def main(input_file, input_dir, output_dir):
 
 if __name__ == '__main__':
     # get arguments from command line
-    parser = argparse.ArgumentParser(description='Sentiment analysis with ANEW.')
-    parser.add_argument('--file', type=str, dest='input_file', default='',
-                        help='a string to hold the path of one file to process')
-    parser.add_argument('--dir', type=str, dest='input_dir', default='',
-                        help='a string to hold the path of a directory of files to process')
-    parser.add_argument('--out', type=str, dest='output_dir', default='',
-                        help='a string to hold the path of the output directory')
-    args = parser.parse_args()
-
-    # run main
-    sys.exit(main(args.input_file, args.input_dir, args.output_dir))
+    # get arguments below:
+    input_file = '../data/emobank_text.txt'
+    input_dir = ''#only for input directory
+    output_dir = '../out/'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    # run main with arguments above
+    sys.exit(main(input_file, input_dir, output_dir))
