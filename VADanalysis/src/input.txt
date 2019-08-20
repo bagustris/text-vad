@@ -1,10 +1,11 @@
-I am very happy today.
-Are you angry to me...?
-Oh my dear, you looks so beautiful.
-Oh my god, how pity you are.
-Let's take a rest, I am so tired.
-Excuse me.
-Do you have your forms?
-Yeah.
-Let me see them.
-Is there a problem?
+"I am very happy today. I got a gift from my grandma."
+"Are you angry to me...?"
+"Oh my dear, you looks so beautiful."
+"Oh my god, how pity you are."
+"Let's take a rest, I am so tired."
+"Excuse me."
+"Do you have your forms?"
+"Yeah. That's good."
+"Let me see them. I want to know them."
+"Is there a problem? "
+...

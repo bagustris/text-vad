@@ -38,7 +38,9 @@ lmtzr = WordNetLemmatizer()
 stops = set(stopwords.words("english"))
 #anew = "../lib/vad-nrc.csv"
 anew = "../lib/EnglishShortened.csv"
-
+avg_V = 5.06    # average V from ANEW dict
+avg_A = 4.21
+avg_D = 5.18
 
 # performs sentiment analysis on inputFile using the ANEW database, outputting results to a new CSV file in outputDir
 def analyzefile(input_file, output_dir, mode):
@@ -148,29 +150,54 @@ def analyzefile(input_file, output_dir, mode):
                         sentiment = statistics.median(v_list)
                         arousal = statistics.median(a_list)
                         dominance = statistics.median(d_list)
-                    else:
+                    elif mode == 'mean':
                         sentiment = statistics.mean(v_list)
                         arousal = statistics.mean(a_list)
                         dominance = statistics.mean(d_list)
-                         # set sentiment label
-                        label = 'neutral'
-                        if sentiment > 6:
-                            label = 'positive'
-                        elif sentiment < 4:
-                            label = 'negative'
+                    elif mode == 'mika':
+                        # calculate valence
+                        if statistics.mean(v_list) < avg_V:
+                            sentiment = max(v_list) - avg_V
+                        elif max(v_list) < avg_V:
+                            sentiment = avg_V - min(v_list)
+                        else:
+                            sentiment = max(v_list) - min(v_list)
+                        # calculate arousal
+                        if statistics.mean(a_list) < avg_A:
+                            arousal = max(a_list) - avg_A
+                        elif max(a_list) < avg_A:
+                            arousal = avg_A - min(a_list)
+                        else:
+                            arousal = max(a_list) - min(a_list)
+                        # calculate dominance
+                        if statistics.mean(d_list) < avg_D:
+                            dominance = max(d_list) - avg_D
+                        elif max(d_list) < avg_D:
+                            dominance = avg_D - min(a_list)
+                        else:
+                            dominance = max(d_list) - min(d_list)
+                    else:
+                        raise Exception('Unknown mode')
+                        
+                     # set sentiment label
+                    label = 'neutral'
+                    if sentiment > 6:
+                        label = 'positive'
+                    elif sentiment < 4:
+                        label = 'negative'
 
-                        writer.writerow({'Sentence ID': i,
-                                         'Sentence': s,
-                                         'Valence': sentiment,
-                                         'Arousal': arousal,
-                                         'Dominance': dominance,
-                                         'Average VAD': np.mean([sentiment, arousal, dominance]),
-                                         'Sentiment Label': label,
-                                         '# Words Found': ("%d out of %d" % (len(found_words), len(all_words))),
-                                         'Found Words': found_words,
-                                         'All Words': all_words
-                                         })
-                        i += 1
+                    writer.writerow({'Sentence ID': i,
+                                     'Sentence': s,
+                                     'Valence': sentiment,
+                                     'Arousal': arousal,
+                                     'Dominance': dominance,
+                                     'Average VAD': np.mean([sentiment, arousal, dominance]),
+                                     'Sentiment Label': label,
+                                     '# Words Found': ("%d out of %d" % (len(found_words), len(all_words))),
+                                     'Found Words': found_words,
+                                     'All Words': all_words
+                                     })
+                    i += 1
 
 
 def main(input_file, input_dir, output_dir, mode):
@@ -212,12 +239,15 @@ def main(input_file, input_dir, output_dir, mode):
 
 if __name__ == '__main__':
     # get arguments below:
-    input_file = '../data/iemocap_text_10036.txt'
+    #input_file = '../data/iemocap_text_10036.txt'
+    input_file = '../data/emobank_text.txt'
+    #input_file = './input.txt'
     input_dir = ''#only for input directory
-    output_dir = '../out/anew_median'
+    mode = 'mika'
+    output_dir = '../out/anew_' + mode
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    mode = 'median'
+
     
     # run main with arguments above
     sys.exit(main(input_file, input_dir, output_dir, mode))

@@ -21,8 +21,8 @@ from nltk import sent_tokenize, word_tokenize, pos_tag
 lemmatizer = WordNetLemmatizer()
 
 # change input_file here
-#input_file = '../data/iemocap_text_10036.txt'
-input_file = '../data/emobank_text.txt'
+input_file = '../data/iemocap_text_10036.txt'
+#input_file = '../data/emobank_text.txt'
 
 def penn_to_wn(tag):
     """

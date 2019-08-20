@@ -105,4 +105,13 @@ def main(input_file):
     score = [swn_polarity(text) for text in fulltext]
 
 if __name__ == '__main__':
-    main(input_file)
+     input_file = '../data/emobank_text.txt'
+    #input_file = './input.txt'
+    #input_dir = ''#only for input directory
+    output_dir = '../out/senti_median'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    mode = 'median'
+    
+    # run main with arguments above
+    sys.exit(main(input_file, input_dir, output_dir, mode))

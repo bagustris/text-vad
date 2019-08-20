@@ -24,7 +24,7 @@ def CCC_numpy(y_true, y_pred):
     return ccc
 
 label_path = '/media/bagus/data01/dataset/IEMOCAP_full_release/data_collected_full_10036.pickle'
-pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/iemocap_text_10036.csv'
+pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/anew_median/iemocap_text_10036.csv'
 
 with open(label_path, 'rb') as handle:
     data = pickle.load(handle)
@@ -34,9 +34,10 @@ a_true = np.array([a['a'] for a in data]).reshape(10036,1)
 d_true = np.array([d['d'] for d in data]).reshape(10036,1)
 
 # read prediction score
-output = pd.read_csv(pred_path, sep=',')
+output = pd.read_csv(pred_path, sep=';')
 
 v_pred = np.array(output['Valence']).reshape(10036,1)
+#v_pred = np.array(output)
 a_pred = np.array(output['Arousal']).reshape(10036,1)
 d_pred = np.array(output['Dominance']).reshape(10036,1)
 

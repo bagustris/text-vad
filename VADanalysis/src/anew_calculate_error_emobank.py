@@ -26,7 +26,7 @@ def CCC_numpy(y_true, y_pred):
     return ccc
 
 label_path = '/media/bagus/data01/s3/course/minor/dimensional_emotion/emobank.csv'
-pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/emobank_te.csv'
+pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/anew_mika/emobank_te.csv'
 
 data = pd.read_csv(label_path, sep=',')
 v_true = np.array(data['V']).reshape(10062,1)
@@ -34,16 +34,16 @@ a_true = np.array(data['A']).reshape(10062,1)
 d_true = np.array(data['D']).reshape(10062,1)
 
 # read prediction score
-output = pd.read_csv(pred_path, sep=',')
+output = pd.read_csv(pred_path, sep=';')
 
 v_pred = np.array(output['Valence']).reshape(10062,1)
 a_pred = np.array(output['Arousal']).reshape(10062,1)
 d_pred = np.array(output['Dominance']).reshape(10062,1)
 
-# scale both true and pred score in range (-1, 1)
+## scale both true and pred score in range (-1, 1)
 scaler = MinMaxScaler(feature_range=(-1,1))
 
-# for label
+## for label
 scaler.fit(v_true)
 v_true = scaler.transform(v_true)
 
@@ -53,7 +53,7 @@ a_true = scaler.transform(a_true)
 scaler.fit(d_true)
 d_true = scaler.transform(d_true)
 
-# for prediction, also change nan to 0
+## for prediction, also change nan to 0
 scaler.fit(v_pred)
 v_pred = scaler.transform(v_pred)
 v_pred = np.nan_to_num(v_pred)
@@ -65,10 +65,6 @@ a_pred = np.nan_to_num(a_pred)
 scaler.fit(d_pred)
 d_pred = scaler.transform(d_pred)
 d_pred = np.nan_to_num(d_pred)
-
-#for i in [v_true, a_true, d_true, v_pred, a_pred, d_pred]:
-#    scaler.fit(i)
-#    scaler.transform(i)
 
 # calculate error
 v_mae = mean_absolute_error(v_true, v_pred)
