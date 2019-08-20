@@ -16,7 +16,7 @@ You also need to download nltk stopword, punkt and wordnet as follow
     $ python3.6 sentiwordnet_analysis3.py
     $ python3.6 sentiwordnet_analysis3
     
-Specify input text file (input also can be directory of text file), mode and output directory on that python files. Avalilable mode are: 'mean', 'median', and 'mika' (Mika et al., 2016).
+Specify input text file (input also can be directory of text file), mode and output directory on that python files. Available mode are: 'mean', 'median', and 'mika' (Mika et al., 2016).
 
 Working directory is `./src`, input file is targetted in `data`, and output file will be located in `out` directory. Example of file `input.txt` is included in `src` directory.
 
