@@ -24,7 +24,7 @@ def CCC_numpy(y_true, y_pred):
     return ccc
 
 label_path = '/media/bagus/data01/dataset/IEMOCAP_full_release/data_collected_full_10036.pickle'
-pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/anew_median/iemocap_text_10036.csv'
+pred_path = '/media/bagus/data01/github/text-vad/VADanalysis/out/anew_mean/iemocap_text_10036.csv'
 
 with open(label_path, 'rb') as handle:
     data = pickle.load(handle)

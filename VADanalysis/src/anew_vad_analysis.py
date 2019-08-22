@@ -239,11 +239,11 @@ def main(input_file, input_dir, output_dir, mode):
 
 if __name__ == '__main__':
     # get arguments below:
-    #input_file = '../data/iemocap_text_10036.txt'
-    input_file = '../data/emobank_text.txt'
+    input_file = '../data/iemocap_text_10036.txt'
+    #input_file = '../data/emobank_text.txt'
     #input_file = './input.txt'
     input_dir = ''#only for input directory
-    mode = 'mika'
+    mode = 'mean'
     output_dir = '../out/anew_' + mode
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

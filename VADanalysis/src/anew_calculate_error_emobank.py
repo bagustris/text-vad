@@ -40,7 +40,7 @@ v_pred = np.array(output['Valence']).reshape(10062,1)
 a_pred = np.array(output['Arousal']).reshape(10062,1)
 d_pred = np.array(output['Dominance']).reshape(10062,1)
 
-## scale both true and pred score in range (-1, 1)
+## scale true and pred score in range (-1, 1)
 scaler = MinMaxScaler(feature_range=(-1,1))
 
 ## for label
