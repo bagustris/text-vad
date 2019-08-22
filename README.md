@@ -14,7 +14,7 @@ You also need to download nltk stopword, punkt and wordnet as follow
 ### Example Usage
     $ python3.6 anew_vad_analysis.py
     $ python3.6 sentiwordnet_analysis3.py
-    $ python3.6 sentiwordnet_analysis3
+    $ python3.6 vader_analysis.py
     
 Specify input text file (input also can be directory of text file), mode and output directory on that python files. Available mode are: 'mean', 'median', and 'mika' (Mika et al., 2016).
 
@@ -72,27 +72,47 @@ VADER is a simple rule-based model for sentiment analysis for general sentiment 
 
 We implemented VADER in Python using NLTK’s VADER library. Identically to our implementation of ANEW, we tokenized texts into sentences; for each sentence, we used NLTK’s SentimentIntensityAnalyzer to obtain polarity scores for that sentence. Scores are normalized on a scale from 1 to -1, where positive values have a positive valence, 0 is neutral, and negative values have a negative valence. Sentence without word found in VADER library is also categorized as neutral.
 
+### Result
+Best concordance correlation score (CCC) for valence prediction by three approaches:
+
+Database : IEMOCAP
+
+|   Method  |   Valence |   Arousal |   Dominance   |
+|-----------|-----------|-----------|---------------|
+|ANEW       | 0.1632    | 0.1953    | 0.1537        |
+|SWN        | 0.0882    | -         | -             |
+|VADER      | 0.212     | -         | -             |
+
+
+Database : EMOBANK
+
+|   Method  |   Valence |   Arousal |   Dominance   |
+|-----------|-----------|-----------|---------------|
+|ANEW       | 0.3804    | 0.1372    | 0.1555        |
+|SWN        | 0.2120    |  -        | -             |
+|VADER      | 0.3877    |  -        | -             |
+
+
+*) ANEW and SWN scores are taken from the highest score among 'mean', 'median', and Mika method. See the accompanied paper for detail.
+
 ### References
-Bird, S. (2006, July). NLTK: the natural language toolkit. In Proceedings of the COLING/ACL
+- Bird, S. (2006, July). NLTK: the natural language toolkit. In Proceedings of the COLING/ACL
 on Interactive presentation sessions (pp. 69-72). Association for Computational
 Linguistics.
 
-Bradley, M. M., & Lang, P. J. (1999). Affective norms for English words (ANEW): Instruction
+- Bradley, M. M., & Lang, P. J. (1999). Affective norms for English words (ANEW): Instruction
 manual and affective ratings (pp. 1-45). Technical report C-1, the center for research in
 psychophysiology, University of Florida.
 
-Hutto, C. J., & Gilbert, E. (2014, May). Vader: A parsimonious rule-based model for sentiment
+- Hutto, C. J., & Gilbert, E. (2014, May). Vader: A parsimonious rule-based model for sentiment
 analysis of social media text. In Eighth international AAAI conference on weblogs and
 social media.
 
-Warriner, A. B., Kuperman, V., & Brysbaert, M. (2013). Norms of valence, arousal, and
+- Warriner, A. B., Kuperman, V., & Brysbaert, M. (2013). Norms of valence, arousal, and
 dominance for 13,915 English lemmas. Behavior research methods, 45(4), 1191-1207.
 
-Mäntylä, M., Adams, B., Destefanis, G., Graziotin, D., & Ortu, M. (2016). Mining Valence, Arousal, and Dominance - Possibilities for Detecting Burnout and Productivity? https://doi.org/10.1145/2901739.2901752
+- Mäntylä, M., Adams, B., Destefanis, G., Graziotin, D., & Ortu, M. (2016). Mining Valence, Arousal, and Dominance - Possibilities for Detecting Burnout and Productivity? https://doi.org/10.1145/2901739.2901752
 
-https://github.com/dwzhou/SentimentAnalysis
+- https://github.com/dwzhou/SentimentAnalysis
 
-### Contributor
-@bagustris
-
-#### Please cite this work if you use the code inside this repository (an accompany paper may added later).
+#### Please cite this work if you use the code inside this repository (report paper is attached, minor_research3.pdf)
