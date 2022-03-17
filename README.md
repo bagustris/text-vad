@@ -115,4 +115,10 @@ dominance for 13,915 English lemmas. Behavior research methods, 45(4), 1191-1207
 
 - https://github.com/dwzhou/SentimentAnalysis
 
-#### Please cite this work if you use the code inside this repository (report paper is attached, minor_research3.pdf)
+### Citation
+```
+B.T. Atmaja, K. Shirai, M. Akagi, Deep Learning-based Categorical and
+Dimensional Emotion Recognition for Written
+and Spoken Text, International Seminar on Science and Technology, Surabaya - Indonesia, 
+2019.
+```
